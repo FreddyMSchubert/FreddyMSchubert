@@ -5,6 +5,11 @@
   <a href="https://frederickschubert.de">✨ frederickschubert.de ✨</a>
 </div>
 
+- 🌏 Karlsruhe, Germany
+- 👨‍💻 Pronouns: he/him
+- 🚀 Currently beginning my programming journey
+- 🎮 Professional Nintendo Fanboy
+
 
 <!---
 FreddyMSchubert/FreddyMSchubert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
