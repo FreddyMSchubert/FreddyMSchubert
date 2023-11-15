@@ -9,3 +9,5 @@
 - 👨‍💻 Pronouns: he/him
 - 🚀 Currently beginning my programming journey
 - 🎮 Professional Nintendo Fanboy
+
+Right now I am primarily focused on progressing through the <a href="https://github.com/FreddyMSchubert/42_cursus">42 cursus</a>.
