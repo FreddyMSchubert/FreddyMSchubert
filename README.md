@@ -5,9 +5,9 @@
   <a href="https://frederickschubert.de">✨ frederickschubert.de ✨</a>
 </div>
 
-- 🌏 Karlsruhe, Germany
+- 🌏 Heilbronn, Germany
 - 👨‍💻 Pronouns: he/him
-- 🚀 Currently beginning my programming journey
+- 🚀 Currently finetuning my programming skills
 - 🎮 Professional Nintendo Fanboy
 
 Right now I am primarily focused on progressing through the <a href="https://github.com/FreddyMSchubert/42_cursus">42 cursus</a>.
