@@ -1,19 +1,12 @@
-<h1 align="center">
-  👋  Hi there, I'm Freddy! 👋
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&background=1A1B27&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hiya%2C+I'm+Freddy!+%F0%9F%96%96" alt="Typing SVG" /></a>
+</div>
+<br>
 <div align="center">
   <a href="https://frederickschubert.de">✨ frederickschubert.de ✨</a>
-</div>
-
-<div align="center">
+  
   Right now I am primarily focused on progressing through the <a href="https://github.com/FreddyMSchubert/42_cursus">42 cursus</a>.
 </div>
-
-<hr>
-
-📫 How to reach me:
-
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](www.linkedin.com/in/frederick-m-schubert)
 
 <hr>
 
@@ -24,3 +17,10 @@
 4. 🔒 Closed issue [#29](https://github.com/FreddyMSchubert/42_cub3d/issues/29) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 5. ❗ Opened issue [#29](https://github.com/FreddyMSchubert/42_cub3d/issues/29) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 <!--END_SECTION:activity-->
+
+<hr>
+
+<table>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FreddyMSchubert&show_icons=true&theme=tokyonight" alt="abhisheknaiidu" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FreddyMSchubert&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</table>
