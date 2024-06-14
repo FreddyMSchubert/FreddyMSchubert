@@ -20,11 +20,11 @@
 
 <hr>
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FreddyMSchubert&show_icons=true&theme=tokyonight" alt="General Stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=FreddyMSchubert&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FreddyMSchubert&show_icons=true&theme=tokyonight" alt="General Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://streak-stats.demolab.com?user=FreddyMSchubert&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
+  </a>
+</div>
