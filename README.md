@@ -14,3 +14,7 @@
 📫 How to reach me:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](www.linkedin.com/in/frederick-m-schubert)
+
+<hr>
+
+<!--START_SECTION:activity-->
