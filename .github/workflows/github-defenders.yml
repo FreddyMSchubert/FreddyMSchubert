@@ -1,0 +1,22 @@
+name: Update GitHub Defenders
+on:
+  # run automatically at 0 o'clock
+  schedule:
+    - cron: '0 0 * * * '
+
+  # when pushing to the main branch
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Update GitHub Defenders Action
+        uses: FreddyMSchubert/github_invaders@main
