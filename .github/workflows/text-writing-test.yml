@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Write Text Action
-        uses: FreddyMSchubert/github_invaders/.github/actions/text-writing-test@main
+        uses: FreddyMSchubert/github_invaders@main
         with:
           file-path: 'README.md'
