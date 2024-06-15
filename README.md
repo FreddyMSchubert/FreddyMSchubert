@@ -28,3 +28,9 @@
     <img height=200 align="center" src="https://streak-stats.demolab.com?user=FreddyMSchubert&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
   </a>
 </div>
+
+<hr>
+
+#### Testing section, please move along
+
+<!--START_SECTION:github_invaders-->

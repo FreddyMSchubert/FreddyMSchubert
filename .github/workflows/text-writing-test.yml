@@ -1,0 +1,14 @@
+name: Update File
+on:
+  push:
+    branches:
+      - main
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Write Text Action
+        uses: FreddyMSchubert/github_invaders/.github/actions/text-writing-test@main
+        with:
+          file-path: 'README.md'
