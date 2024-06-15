@@ -20,3 +20,6 @@ jobs:
           fetch-depth: 0
       - name: Update GitHub Defenders Action
         uses: FreddyMSchubert/github_invaders@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-url: 'https://github.com/FreddyMSchubert/FreddyMSchubert'
