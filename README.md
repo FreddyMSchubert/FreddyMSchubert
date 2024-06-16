@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&background=1A1B27&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hiya%2C+I'm+Freddy!+%F0%9F%96%96" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&background=1A1B27&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hiya%2C+I'm+Freddy!+%F0%9F%96%96" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
-  <a href="https://frederickschubert.de">✨ frederickschubert.de ✨</a>
-  
-  Right now I am primarily focused on progressing through the <a href="https://github.com/FreddyMSchubert/42_cursus">42 cursus</a>.
+	<a href="https://frederickschubert.de">✨ frederickschubert.de ✨</a>
+
+	Right now I am primarily focused on progressing through the <a href="https://github.com/FreddyMSchubert/42_cursus">42 cursus</a>.
 </div>
 
 <hr>
@@ -21,12 +21,12 @@
 <hr>
 
 <div align="center">
-  <a href="https://frederickschubert.de/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FreddyMSchubert&show_icons=true&theme=tokyonight" alt="General Stats" />
-  </a>
-  <a href="https://frederickschubert.de/">
-    <img height=200 align="center" src="https://streak-stats.demolab.com?user=FreddyMSchubert&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
-  </a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FreddyMSchubert&show_icons=true&theme=tokyonight" alt="General Stats" />
+	</a>
+	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+		<img height=200 align="center" src="https://streak-stats.demolab.com?user=FreddyMSchubert&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
+	</a>
 </div>
 
 <hr>
