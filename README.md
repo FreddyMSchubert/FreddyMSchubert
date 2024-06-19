@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-	<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)" target="_blank">
+	<a href="https://github.com/FreddyMSchubert/42_cursus" target="_blank">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_cursus&theme=tokyonight" alt="General Stats" />
 	</a>
 </div>
