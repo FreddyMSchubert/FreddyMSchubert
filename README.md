@@ -9,6 +9,14 @@
 
 <hr>
 
+<div align="center">
+
+### Currently working on...
+
+![current_repo](https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_cub3d&theme=tokyonight)
+
+<br>
+
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#34](https://github.com/FreddyMSchubert/42_cub3d/issues/34) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 2. 🗣 Commented on [#34](https://github.com/FreddyMSchubert/42_cub3d/issues/34#issuecomment-2179531225) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
@@ -16,6 +24,8 @@
 4. 🔒 Closed issue [#37](https://github.com/FreddyMSchubert/42_cub3d/issues/37) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 5. 🗣 Commented on [#37](https://github.com/FreddyMSchubert/42_cub3d/issues/37#issuecomment-2179008792) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 <!--END_SECTION:activity-->
+
+</div>
 
 <hr>
 
