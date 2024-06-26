@@ -18,11 +18,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#43](https://github.com/FreddyMSchubert/42_cub3d/issues/43) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
-2. 🗣 Commented on [#43](https://github.com/FreddyMSchubert/42_cub3d/issues/43#issuecomment-2191319298) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
-3. ❗ Opened issue [#43](https://github.com/FreddyMSchubert/42_cub3d/issues/43) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
-4. 🗣 Commented on [#42](https://github.com/FreddyMSchubert/42_cub3d/issues/42#issuecomment-2189333661) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
-5. ❗ Opened issue [#42](https://github.com/FreddyMSchubert/42_cub3d/issues/42) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+1. 🗣 Commented on [#45](https://github.com/FreddyMSchubert/42_cub3d/issues/45#issuecomment-2191453582) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+2. ❗ Opened issue [#45](https://github.com/FreddyMSchubert/42_cub3d/issues/45) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+3. 🔒 Closed issue [#43](https://github.com/FreddyMSchubert/42_cub3d/issues/43) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+4. 🗣 Commented on [#43](https://github.com/FreddyMSchubert/42_cub3d/issues/43#issuecomment-2191319298) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+5. ❗ Opened issue [#43](https://github.com/FreddyMSchubert/42_cub3d/issues/43) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 <!--END_SECTION:activity-->
 
 </div>
