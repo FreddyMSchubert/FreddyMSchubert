@@ -44,12 +44,6 @@
 	</a>
 </div>
 
-<div align="center">
-	<a href="https://github.com/FreddyMSchubert/42_cursus" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_cursus&theme=tokyonight" alt="General Stats" />
-	</a>
-</div>
-
 <hr>
 
 #### Testing section, please move along
