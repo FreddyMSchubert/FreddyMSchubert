@@ -25,6 +25,14 @@
 5. 🗣 Commented on [#62](https://github.com/FreddyMSchubert/42_cub3d/issues/62#issuecomment-2211738907) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 <!--END_SECTION:activity-->
 
+<br>
+
+<div align="center">
+	<a href="https://github.com/FreddyMSchubert/42_cursus" target="_blank">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_cursus&theme=tokyonight" alt="General Stats" />
+	</a>
+</div>
+
 </div>
 
 <hr>
