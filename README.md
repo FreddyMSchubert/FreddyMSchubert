@@ -18,7 +18,7 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#64](https://github.com/FreddyMSchubert/42_cub3d/issues/64) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+1. 🗣 Commented on [#7](https://github.com/NoelSabia/Cub3Dmyass/issues/7#issuecomment-2345968119) in [NoelSabia/Cub3Dmyass](https://github.com/NoelSabia/Cub3Dmyass)
 2. 🗣 Commented on [#42](https://github.com/FreddyMSchubert/42_cub3d/issues/42#issuecomment-2221095200) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 3. 🔒 Closed issue [#63](https://github.com/FreddyMSchubert/42_cub3d/issues/63) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 4. 🗣 Commented on [#63](https://github.com/FreddyMSchubert/42_cub3d/issues/63#issuecomment-2221094437) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
