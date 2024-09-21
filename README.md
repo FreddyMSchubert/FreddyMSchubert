@@ -18,9 +18,9 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/NoelSabia/Cub3Dmyass/issues/7#issuecomment-2345968119) in [NoelSabia/Cub3Dmyass](https://github.com/NoelSabia/Cub3Dmyass)
-2. 🗣 Commented on [#42](https://github.com/FreddyMSchubert/42_cub3d/issues/42#issuecomment-2221095200) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
-3. 🔒 Closed issue [#63](https://github.com/FreddyMSchubert/42_cub3d/issues/63) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+1. 🎉 Merged PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
+2. 💪 Opened PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
+3. 🗣 Commented on [#7](https://github.com/NoelSabia/Cub3Dmyass/issues/7#issuecomment-2345968119) in [NoelSabia/Cub3Dmyass](https://github.com/NoelSabia/Cub3Dmyass)
 4. 🗣 Commented on [#63](https://github.com/FreddyMSchubert/42_cub3d/issues/63#issuecomment-2221094437) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 5. 🗣 Commented on [#65](https://github.com/FreddyMSchubert/42_cub3d/pull/65#issuecomment-2211739013) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
 <!--END_SECTION:activity-->
