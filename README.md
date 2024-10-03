@@ -13,7 +13,7 @@
 
 ### Currently working on...
 
-[![current_repo](https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_cpp&theme=tokyonight)](https://github.com/FreddyMSchubert/42_cpp)
+[![current_repo](https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=Crafty_Concoctions&theme=tokyonight)](https://github.com/FreddyMSchubert/Crafty_Concoctions)
 
 <br>
 
