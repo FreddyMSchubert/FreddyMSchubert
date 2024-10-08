@@ -27,11 +27,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/FreddyMSchubert/42_webserv/issues/1) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-2. 🎉 Merged PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
-3. 💪 Opened PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
-4. 🗣 Commented on [#7](https://github.com/NoelSabia/Cub3Dmyass/issues/7#issuecomment-2345968119) in [NoelSabia/Cub3Dmyass](https://github.com/NoelSabia/Cub3Dmyass)
-5. 🗣 Commented on [#65](https://github.com/FreddyMSchubert/42_cub3d/pull/65#issuecomment-2211739013) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+1. ❗ Opened issue [#1](https://github.com/FreddyMSchubert/Crafty_Concoctions/issues/1) in [FreddyMSchubert/Crafty_Concoctions](https://github.com/FreddyMSchubert/Crafty_Concoctions)
+2. 🔒 Closed issue [#1](https://github.com/FreddyMSchubert/42_webserv/issues/1) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+3. 🎉 Merged PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
+4. 💪 Opened PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
+5. 🗣 Commented on [#7](https://github.com/NoelSabia/Cub3Dmyass/issues/7#issuecomment-2345968119) in [NoelSabia/Cub3Dmyass](https://github.com/NoelSabia/Cub3Dmyass)
 <!--END_SECTION:activity-->
 
 <br>
