@@ -27,11 +27,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/FreddyMSchubert/42_webserv/issues/2#issuecomment-2399168472) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-2. ❗ Opened issue [#1](https://github.com/FreddyMSchubert/Crafty_Concoctions/issues/1) in [FreddyMSchubert/Crafty_Concoctions](https://github.com/FreddyMSchubert/Crafty_Concoctions)
-3. 🔒 Closed issue [#1](https://github.com/FreddyMSchubert/42_webserv/issues/1) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-4. 🎉 Merged PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
-5. 💪 Opened PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
+1. ❗ Opened issue [#3](https://github.com/FreddyMSchubert/42_webserv/issues/3) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+2. 🗣 Commented on [#2](https://github.com/FreddyMSchubert/42_webserv/issues/2#issuecomment-2399168472) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+3. ❗ Opened issue [#1](https://github.com/FreddyMSchubert/Crafty_Concoctions/issues/1) in [FreddyMSchubert/Crafty_Concoctions](https://github.com/FreddyMSchubert/Crafty_Concoctions)
+4. 🔒 Closed issue [#1](https://github.com/FreddyMSchubert/42_webserv/issues/1) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+5. 🎉 Merged PR [#1](https://github.com/FreddyMSchubert/Tetrix/pull/1) in [FreddyMSchubert/Tetrix](https://github.com/FreddyMSchubert/Tetrix)
 <!--END_SECTION:activity-->
 
 <br>
