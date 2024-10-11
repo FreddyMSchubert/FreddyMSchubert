@@ -27,11 +27,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/FreddyMSchubert/42_webserv/pull/4#issuecomment-2401934697) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-2. 🎉 Merged PR [#4](https://github.com/FreddyMSchubert/42_webserv/pull/4) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-3. 🔒 Closed issue [#3](https://github.com/FreddyMSchubert/42_webserv/issues/3) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-4. 💪 Opened PR [#4](https://github.com/FreddyMSchubert/42_webserv/pull/4) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-5. 🗣 Commented on [#2](https://github.com/FreddyMSchubert/Crafty_Concoctions/pull/2#issuecomment-2401780034) in [FreddyMSchubert/Crafty_Concoctions](https://github.com/FreddyMSchubert/Crafty_Concoctions)
+1. ❗ Opened issue [#5](https://github.com/FreddyMSchubert/42_webserv/issues/5) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+2. 🗣 Commented on [#4](https://github.com/FreddyMSchubert/42_webserv/pull/4#issuecomment-2401934697) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+3. 🎉 Merged PR [#4](https://github.com/FreddyMSchubert/42_webserv/pull/4) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+4. 🔒 Closed issue [#3](https://github.com/FreddyMSchubert/42_webserv/issues/3) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+5. 💪 Opened PR [#4](https://github.com/FreddyMSchubert/42_webserv/pull/4) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
 <!--END_SECTION:activity-->
 
 <br>
