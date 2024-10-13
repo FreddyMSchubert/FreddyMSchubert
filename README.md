@@ -27,11 +27,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/FreddyMSchubert/Crafty_Concoctions/issues/3) in [FreddyMSchubert/Crafty_Concoctions](https://github.com/FreddyMSchubert/Crafty_Concoctions)
-2. 🔒 Closed issue [#8](https://github.com/FreddyMSchubert/42_webserv/issues/8) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-3. 🎉 Merged PR [#9](https://github.com/FreddyMSchubert/42_webserv/pull/9) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-4. 💪 Opened PR [#9](https://github.com/FreddyMSchubert/42_webserv/pull/9) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-5. ❗ Opened issue [#8](https://github.com/FreddyMSchubert/42_webserv/issues/8) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+1. 🔒 Closed issue [#42](https://github.com/FreddyMSchubert/42_cub3d/issues/42) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+2. ❗ Opened issue [#3](https://github.com/FreddyMSchubert/Crafty_Concoctions/issues/3) in [FreddyMSchubert/Crafty_Concoctions](https://github.com/FreddyMSchubert/Crafty_Concoctions)
+3. 🔒 Closed issue [#8](https://github.com/FreddyMSchubert/42_webserv/issues/8) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+4. 🎉 Merged PR [#9](https://github.com/FreddyMSchubert/42_webserv/pull/9) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+5. 💪 Opened PR [#9](https://github.com/FreddyMSchubert/42_webserv/pull/9) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
 <!--END_SECTION:activity-->
 
 <br>
