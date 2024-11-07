@@ -27,11 +27,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com/FreddyMSchubert/42_webserv/pull/35) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-2. 🗣 Commented on [#35](https://github.com/FreddyMSchubert/42_webserv/pull/35#issuecomment-2453490032) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-3. 🚀 Published release [Submission](https://github.com/FreddyMSchubert/Crafty_Concoctions/releases/tag/v1.0.0) in [FreddyMSchubert/Crafty_Concoctions](https://github.com/FreddyMSchubert/Crafty_Concoctions)
-4. 🗣 Commented on [#63](https://github.com/42core-team/connection/issues/63#issuecomment-2443784059) in [42core-team/connection](https://github.com/42core-team/connection)
-5. ❗ Opened issue [#66](https://github.com/42core-team/connection/issues/66) in [42core-team/connection](https://github.com/42core-team/connection)
+1. 🗣 Commented on [#24](https://github.com/FreddyMSchubert/42_webserv/issues/24#issuecomment-2461846632) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+2. ❌ Closed PR [#35](https://github.com/FreddyMSchubert/42_webserv/pull/35) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+3. 🗣 Commented on [#35](https://github.com/FreddyMSchubert/42_webserv/pull/35#issuecomment-2453490032) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+4. 🚀 Published release [Submission](https://github.com/FreddyMSchubert/Crafty_Concoctions/releases/tag/v1.0.0) in [FreddyMSchubert/Crafty_Concoctions](https://github.com/FreddyMSchubert/Crafty_Concoctions)
+5. 🗣 Commented on [#63](https://github.com/42core-team/connection/issues/63#issuecomment-2443784059) in [42core-team/connection](https://github.com/42core-team/connection)
 <!--END_SECTION:activity-->
 
 <br>
