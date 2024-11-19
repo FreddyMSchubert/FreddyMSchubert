@@ -19,8 +19,8 @@
 	<a href="https://github.com/FreddyMSchubert/42_webserv" target="_blank">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_webserv&theme=tokyonight" />
 	</a>
-	<a href="https://github.com/FreddyMSchubert/Crafty_Concoctions" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=Crafty_Concoctions&theme=tokyonight">
+	<a href="https://github.com/42core-team/connection" target="_blank">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=42core-team&repo=connection&theme=tokyonight">
 	</a>
 </div>
 
