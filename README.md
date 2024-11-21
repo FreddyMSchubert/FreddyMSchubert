@@ -27,11 +27,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#118](https://github.com/42core-team/core/issues/118) in [42core-team/core](https://github.com/42core-team/core)
-2. 🗣 Commented on [#73](https://github.com/42core-team/connection/issues/73#issuecomment-2490319292) in [42core-team/connection](https://github.com/42core-team/connection)
-3. 🔒 Closed issue [#73](https://github.com/42core-team/connection/issues/73) in [42core-team/connection](https://github.com/42core-team/connection)
-4. 🎉 Merged PR [#74](https://github.com/42core-team/connection/pull/74) in [42core-team/connection](https://github.com/42core-team/connection)
-5. 💪 Opened PR [#74](https://github.com/42core-team/connection/pull/74) in [42core-team/connection](https://github.com/42core-team/connection)
+1. ❗ Opened issue [#26](https://github.com/42core-team/visualizer/issues/26) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
+2. ❗ Opened issue [#118](https://github.com/42core-team/core/issues/118) in [42core-team/core](https://github.com/42core-team/core)
+3. 🗣 Commented on [#73](https://github.com/42core-team/connection/issues/73#issuecomment-2490319292) in [42core-team/connection](https://github.com/42core-team/connection)
+4. 🔒 Closed issue [#73](https://github.com/42core-team/connection/issues/73) in [42core-team/connection](https://github.com/42core-team/connection)
+5. 🎉 Merged PR [#74](https://github.com/42core-team/connection/pull/74) in [42core-team/connection](https://github.com/42core-team/connection)
 <!--END_SECTION:activity-->
 
 <br>
