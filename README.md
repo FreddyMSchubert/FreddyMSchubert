@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#119](https://github.com/42core-team/core/pull/119) in [42core-team/core](https://github.com/42core-team/core)
-2. 🔒 Closed issue [#25](https://github.com/42core-team/visualizer/issues/25) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
-3. 🎉 Merged PR [#28](https://github.com/42core-team/visualizer/pull/28) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
-4. 💪 Opened PR [#28](https://github.com/42core-team/visualizer/pull/28) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
-5. 🔒 Closed issue [#26](https://github.com/42core-team/visualizer/issues/26) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
+1. 🗣 Commented on [#67](https://github.com/42core-team/connection/issues/67#issuecomment-2492440028) in [42core-team/connection](https://github.com/42core-team/connection)
+2. 💪 Opened PR [#119](https://github.com/42core-team/core/pull/119) in [42core-team/core](https://github.com/42core-team/core)
+3. 🔒 Closed issue [#25](https://github.com/42core-team/visualizer/issues/25) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
+4. 🎉 Merged PR [#28](https://github.com/42core-team/visualizer/pull/28) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
+5. 💪 Opened PR [#28](https://github.com/42core-team/visualizer/pull/28) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
 <!--END_SECTION:activity-->
 
 <hr>
