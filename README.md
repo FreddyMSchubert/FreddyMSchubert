@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/FreddyMSchubert/42_webserv/issues/44) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-2. 🗣 Commented on [#24](https://github.com/FreddyMSchubert/42_webserv/issues/24#issuecomment-2535836443) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-3. 🔒 Closed issue [#24](https://github.com/FreddyMSchubert/42_webserv/issues/24) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-4. 🗣 Commented on [#41](https://github.com/FreddyMSchubert/42_webserv/issues/41#issuecomment-2535454626) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-5. 🔒 Closed issue [#41](https://github.com/FreddyMSchubert/42_webserv/issues/41) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+1. 🗣 Commented on [#48](https://github.com/FreddyMSchubert/42_webserv/issues/48#issuecomment-2543145470) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+2. ❗ Opened issue [#44](https://github.com/FreddyMSchubert/42_webserv/issues/44) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+3. 🗣 Commented on [#24](https://github.com/FreddyMSchubert/42_webserv/issues/24#issuecomment-2535836443) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+4. 🔒 Closed issue [#24](https://github.com/FreddyMSchubert/42_webserv/issues/24) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+5. 🗣 Commented on [#41](https://github.com/FreddyMSchubert/42_webserv/issues/41#issuecomment-2535454626) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
 <!--END_SECTION:activity-->
 
 <hr>
