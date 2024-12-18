@@ -19,7 +19,7 @@
 	<a href="https://github.com/FreddyMSchubert/42_webserv" target="_blank">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_webserv&theme=tokyonight" />
 	</a>
-	<a href="https://github.com/42core-team/AdventOfCode2024" target="_blank">
+	<a href="https://github.com/FreddyMSchubert/AdventOfCode2024" target="_blank">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=AdventOfCode2024&theme=tokyonight">
 	</a>
 </div>
