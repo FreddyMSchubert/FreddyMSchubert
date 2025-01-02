@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/42core-team/connection/issues/88#issuecomment-2567369975) in [42core-team/connection](https://github.com/42core-team/connection)
-2. 🗣 Commented on [#84](https://github.com/42core-team/connection/issues/84#issuecomment-2566606610) in [42core-team/connection](https://github.com/42core-team/connection)
-3. 🗣 Commented on [#53](https://github.com/FreddyMSchubert/42_webserv/issues/53#issuecomment-2557576906) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-4. ❗ Opened issue [#53](https://github.com/FreddyMSchubert/42_webserv/issues/53) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
-5. 🔒 Closed issue [#44](https://github.com/FreddyMSchubert/42_webserv/issues/44) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
+1. 🗣 Commented on [#84](https://github.com/42core-team/connection/issues/84#issuecomment-2567912662) in [42core-team/connection](https://github.com/42core-team/connection)
+2. 🔒 Closed issue [#84](https://github.com/42core-team/connection/issues/84) in [42core-team/connection](https://github.com/42core-team/connection)
+3. 🗣 Commented on [#88](https://github.com/42core-team/connection/issues/88#issuecomment-2567369975) in [42core-team/connection](https://github.com/42core-team/connection)
+4. 🗣 Commented on [#84](https://github.com/42core-team/connection/issues/84#issuecomment-2566606610) in [42core-team/connection](https://github.com/42core-team/connection)
+5. 🗣 Commented on [#53](https://github.com/FreddyMSchubert/42_webserv/issues/53#issuecomment-2557576906) in [FreddyMSchubert/42_webserv](https://github.com/FreddyMSchubert/42_webserv)
 <!--END_SECTION:activity-->
 
 <hr>
