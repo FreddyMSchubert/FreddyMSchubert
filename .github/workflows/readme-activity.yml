@@ -1,7 +1,7 @@
 name: Update README activity section
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/60 * * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -17,5 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "🤖 Updated README with the recent activity"
-          MAX_LINES: 15
+          MAX_LINES: 10
           EMPTY_COMMIT_MSG: "💤 Commit to keep activity workflow running"
