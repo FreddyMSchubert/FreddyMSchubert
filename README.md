@@ -16,11 +16,8 @@
 <!-- [![current_repo](https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=Crafty_Concoctions&theme=tokyonight)](https://github.com/FreddyMSchubert/Crafty_Concoctions) -->
 
 <div align="center">
-	<a href="https://github.com/FreddyMSchubert/42_webserv" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_webserv&theme=tokyonight" />
-	</a>
-	<a href="https://github.com/FreddyMSchubert/AdventOfCode2024" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=AdventOfCode2024&theme=tokyonight">
+	<a href="https://github.com/FreddyMSchubert/ft_irc" target="_blank">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=ft_irc&theme=tokyonight" />
 	</a>
 </div>
 
