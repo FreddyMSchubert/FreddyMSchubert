@@ -32,11 +32,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/FreddyMSchubert/42_irc/issues/19) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
-2. ❗ Opened issue [#18](https://github.com/FreddyMSchubert/42_irc/issues/18) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
-3. 🗣 Commented on [#15](https://github.com/FreddyMSchubert/42_irc/issues/15#issuecomment-2590025963) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
-4. 🗣 Commented on [#11](https://github.com/FreddyMSchubert/42_irc/issues/11#issuecomment-2589976195) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
-5. 🗣 Commented on [#17](https://github.com/FreddyMSchubert/42_irc/issues/17#issuecomment-2589969158) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
+1. 🗣 Commented on [#13](https://github.com/FreddyMSchubert/42_irc/issues/13#issuecomment-2592159002) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
+2. 🗣 Commented on [#17](https://github.com/FreddyMSchubert/42_irc/issues/17#issuecomment-2592142401) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
+3. 🔒 Closed issue [#17](https://github.com/FreddyMSchubert/42_irc/issues/17) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
+4. 🗣 Commented on [#11](https://github.com/FreddyMSchubert/42_irc/issues/11#issuecomment-2592125339) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
+5. 🔒 Closed issue [#11](https://github.com/FreddyMSchubert/42_irc/issues/11) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
 <!--END_SECTION:activity-->
 
 <hr>
