@@ -32,11 +32,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/FreddyMSchubert/42_irc/issues/15#issuecomment-2595248532) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
-2. 🔒 Closed issue [#15](https://github.com/FreddyMSchubert/42_irc/issues/15) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
-3. 🗣 Commented on [#14](https://github.com/42core-team/sandbox/issues/14#issuecomment-2594982206) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
-4. 🗣 Commented on [#142](https://github.com/42core-team/core/issues/142#issuecomment-2594980730) in [42core-team/core](https://github.com/42core-team/core)
-5. 🔒 Closed issue [#142](https://github.com/42core-team/core/issues/142) in [42core-team/core](https://github.com/42core-team/core)
+1. ❗ Opened issue [#7](https://github.com/42core-team/public-wiki/issues/7) in [42core-team/public-wiki](https://github.com/42core-team/public-wiki)
+2. 🚀 Published release [its done yo](https://github.com/42core-team/public-wiki/releases/tag/0.0.8.0) in [42core-team/public-wiki](https://github.com/42core-team/public-wiki)
+3. 🗣 Commented on [#15](https://github.com/FreddyMSchubert/42_irc/issues/15#issuecomment-2595248532) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
+4. 🔒 Closed issue [#15](https://github.com/FreddyMSchubert/42_irc/issues/15) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
+5. 🗣 Commented on [#14](https://github.com/42core-team/sandbox/issues/14#issuecomment-2594982206) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
 <!--END_SECTION:activity-->
 
 <hr>
