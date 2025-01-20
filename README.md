@@ -16,8 +16,11 @@
 <!-- [![current_repo](https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=Crafty_Concoctions&theme=tokyonight)](https://github.com/FreddyMSchubert/Crafty_Concoctions) -->
 
 <div align="center">
-	<a href="https://github.com/FreddyMSchubert/ft_irc" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=ft_irc&theme=tokyonight" />
+	<a href="https://github.com/FreddyMSchubert/42_inception" target="_blank">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=42_inception&theme=tokyonight" />
+	</a>
+	<a href="https://github.com/42core-team/core" target="_blank">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=42core-team&repo=core&theme=tokyonight" />
 	</a>
 </div>
 
