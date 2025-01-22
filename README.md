@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/42core-team/core/issues/148#issuecomment-2606805016) in [42core-team/core](https://github.com/42core-team/core)
-2. 🗣 Commented on [#95](https://github.com/42core-team/connection/issues/95#issuecomment-2606759722) in [42core-team/connection](https://github.com/42core-team/connection)
-3. 🔒 Closed issue [#95](https://github.com/42core-team/connection/issues/95) in [42core-team/connection](https://github.com/42core-team/connection)
-4. 🗣 Commented on [#146](https://github.com/42core-team/core/issues/146#issuecomment-2606757687) in [42core-team/core](https://github.com/42core-team/core)
-5. 🗣 Commented on [#143](https://github.com/42core-team/core/issues/143#issuecomment-2606447603) in [42core-team/core](https://github.com/42core-team/core)
+1. 🗣 Commented on [#7](https://github.com/42core-team/public-wiki/issues/7#issuecomment-2606858734) in [42core-team/public-wiki](https://github.com/42core-team/public-wiki)
+2. 🔓 Reopened issue [#7](https://github.com/42core-team/public-wiki/issues/7) in [42core-team/public-wiki](https://github.com/42core-team/public-wiki)
+3. 🗣 Commented on [#148](https://github.com/42core-team/core/issues/148#issuecomment-2606805016) in [42core-team/core](https://github.com/42core-team/core)
+4. 🗣 Commented on [#95](https://github.com/42core-team/connection/issues/95#issuecomment-2606759722) in [42core-team/connection](https://github.com/42core-team/connection)
+5. 🔒 Closed issue [#95](https://github.com/42core-team/connection/issues/95) in [42core-team/connection](https://github.com/42core-team/connection)
 <!--END_SECTION:activity-->
 
 <hr>
