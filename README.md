@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/42core-team/core/issues/143#issuecomment-2604796638) in [42core-team/core](https://github.com/42core-team/core)
-2. ❗ Opened issue [#143](https://github.com/42core-team/core/issues/143) in [42core-team/core](https://github.com/42core-team/core)
-3. ❗ Opened issue [#94](https://github.com/42core-team/connection/issues/94) in [42core-team/connection](https://github.com/42core-team/connection)
-4. 🔒 Closed issue [#22](https://github.com/FreddyMSchubert/42_irc/issues/22) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
-5. 🎉 Merged PR [#24](https://github.com/FreddyMSchubert/42_irc/pull/24) in [FreddyMSchubert/42_irc](https://github.com/FreddyMSchubert/42_irc)
+1. 🗣 Commented on [#94](https://github.com/42core-team/connection/issues/94#issuecomment-2605673825) in [42core-team/connection](https://github.com/42core-team/connection)
+2. 🔒 Closed issue [#94](https://github.com/42core-team/connection/issues/94) in [42core-team/connection](https://github.com/42core-team/connection)
+3. 🗣 Commented on [#143](https://github.com/42core-team/core/issues/143#issuecomment-2604796638) in [42core-team/core](https://github.com/42core-team/core)
+4. ❗ Opened issue [#143](https://github.com/42core-team/core/issues/143) in [42core-team/core](https://github.com/42core-team/core)
+5. ❗ Opened issue [#94](https://github.com/42core-team/connection/issues/94) in [42core-team/connection](https://github.com/42core-team/connection)
 <!--END_SECTION:activity-->
 
 <hr>
