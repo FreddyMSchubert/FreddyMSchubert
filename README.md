@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#101](https://github.com/42core-team/connection/issues/101) in [42core-team/connection](https://github.com/42core-team/connection)
-2. ❗ Opened issue [#38](https://github.com/42core-team/visualizer/issues/38) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
-3. 🗣 Commented on [#18](https://github.com/42core-team/sandbox/pull/18#issuecomment-2633540141) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
-4. 🎉 Merged PR [#100](https://github.com/42core-team/connection/pull/100) in [42core-team/connection](https://github.com/42core-team/connection)
-5. 🔒 Closed issue [#97](https://github.com/42core-team/connection/issues/97) in [42core-team/connection](https://github.com/42core-team/connection)
+1. ❗ Opened issue [#2](https://github.com/FreddyMSchubert/json/issues/2) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
+2. 🔒 Closed issue [#1](https://github.com/FreddyMSchubert/json/issues/1) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
+3. ❗ Opened issue [#101](https://github.com/42core-team/connection/issues/101) in [42core-team/connection](https://github.com/42core-team/connection)
+4. ❗ Opened issue [#38](https://github.com/42core-team/visualizer/issues/38) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
+5. 🗣 Commented on [#18](https://github.com/42core-team/sandbox/pull/18#issuecomment-2633540141) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
 <!--END_SECTION:activity-->
 
 <hr>
