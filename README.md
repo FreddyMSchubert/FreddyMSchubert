@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/FreddyMSchubert/json/issues/2) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
-2. 🔒 Closed issue [#1](https://github.com/FreddyMSchubert/json/issues/1) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
-3. ❗ Opened issue [#101](https://github.com/42core-team/connection/issues/101) in [42core-team/connection](https://github.com/42core-team/connection)
-4. ❗ Opened issue [#38](https://github.com/42core-team/visualizer/issues/38) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
-5. 🗣 Commented on [#18](https://github.com/42core-team/sandbox/pull/18#issuecomment-2633540141) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
+1. ❗ Opened issue [#3](https://github.com/FreddyMSchubert/json/issues/3) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
+2. 🗣 Commented on [#2](https://github.com/FreddyMSchubert/json/issues/2#issuecomment-2657003051) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
+3. 🔒 Closed issue [#2](https://github.com/FreddyMSchubert/json/issues/2) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
+4. ❗ Opened issue [#2](https://github.com/FreddyMSchubert/json/issues/2) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
+5. 🔒 Closed issue [#1](https://github.com/FreddyMSchubert/json/issues/1) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
 <!--END_SECTION:activity-->
 
 <hr>
