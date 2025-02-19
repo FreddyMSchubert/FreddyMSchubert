@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/Reptudn/42_transcendence/issues/3) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-2. 🎉 Merged PR [#4](https://github.com/Reptudn/42_transcendence/pull/4) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-3. 💪 Opened PR [#4](https://github.com/Reptudn/42_transcendence/pull/4) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-4. ❗ Opened issue [#3](https://github.com/Reptudn/42_transcendence/issues/3) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-5. ❗ Opened issue [#3](https://github.com/FreddyMSchubert/json/issues/3) in [FreddyMSchubert/json](https://github.com/FreddyMSchubert/json)
+1. ❗ Opened issue [#6](https://github.com/Reptudn/42_transcendence/issues/6) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+2. ❗ Opened issue [#5](https://github.com/Reptudn/42_transcendence/issues/5) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+3. 🔒 Closed issue [#3](https://github.com/Reptudn/42_transcendence/issues/3) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+4. 🎉 Merged PR [#4](https://github.com/Reptudn/42_transcendence/pull/4) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+5. 💪 Opened PR [#4](https://github.com/Reptudn/42_transcendence/pull/4) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
 <!--END_SECTION:activity-->
 
 <hr>
