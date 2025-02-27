@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/Reptudn/42_transcendence/issues/12) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-2. 🎉 Merged PR [#13](https://github.com/Reptudn/42_transcendence/pull/13) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-3. 💪 Opened PR [#13](https://github.com/Reptudn/42_transcendence/pull/13) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-4. ❗ Opened issue [#12](https://github.com/Reptudn/42_transcendence/issues/12) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-5. ❗ Opened issue [#11](https://github.com/Reptudn/42_transcendence/issues/11) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+1. ❗ Opened issue [#14](https://github.com/Reptudn/42_transcendence/issues/14) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+2. 🔒 Closed issue [#12](https://github.com/Reptudn/42_transcendence/issues/12) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+3. 🎉 Merged PR [#13](https://github.com/Reptudn/42_transcendence/pull/13) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+4. 💪 Opened PR [#13](https://github.com/Reptudn/42_transcendence/pull/13) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+5. ❗ Opened issue [#12](https://github.com/Reptudn/42_transcendence/issues/12) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
 <!--END_SECTION:activity-->
 
 <hr>
