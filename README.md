@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/42core-team/even_COREnier/issues/8) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-2. 🎉 Merged PR [#11](https://github.com/42core-team/even_COREnier/pull/11) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-3. 💪 Opened PR [#11](https://github.com/42core-team/even_COREnier/pull/11) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-4. 🗣 Commented on [#7](https://github.com/42core-team/even_COREnier/issues/7#issuecomment-2737817571) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-5. 🔒 Closed issue [#7](https://github.com/42core-team/even_COREnier/issues/7) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+1. ❗ Opened issue [#12](https://github.com/42core-team/even_COREnier/issues/12) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+2. 🔒 Closed issue [#8](https://github.com/42core-team/even_COREnier/issues/8) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+3. 🎉 Merged PR [#11](https://github.com/42core-team/even_COREnier/pull/11) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+4. 💪 Opened PR [#11](https://github.com/42core-team/even_COREnier/pull/11) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+5. 🗣 Commented on [#7](https://github.com/42core-team/even_COREnier/issues/7#issuecomment-2737817571) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
 <!--END_SECTION:activity-->
 
 <hr>
