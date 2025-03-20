@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/42core-team/even_COREnier/issues/15) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-2. ❗ Opened issue [#14](https://github.com/42core-team/even_COREnier/issues/14) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-3. ❗ Opened issue [#13](https://github.com/42core-team/even_COREnier/issues/13) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-4. ❗ Opened issue [#12](https://github.com/42core-team/even_COREnier/issues/12) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-5. 🔒 Closed issue [#8](https://github.com/42core-team/even_COREnier/issues/8) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+1. 🗣 Commented on [#5](https://github.com/42core-team/even_COREnier/issues/5#issuecomment-2739939616) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+2. 🔒 Closed issue [#5](https://github.com/42core-team/even_COREnier/issues/5) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+3. 🗣 Commented on [#15](https://github.com/42core-team/even_COREnier/issues/15#issuecomment-2739937790) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+4. 🔒 Closed issue [#15](https://github.com/42core-team/even_COREnier/issues/15) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+5. ❗ Opened issue [#15](https://github.com/42core-team/even_COREnier/issues/15) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
 <!--END_SECTION:activity-->
 
 <hr>
