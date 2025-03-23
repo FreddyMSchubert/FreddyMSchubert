@@ -55,7 +55,7 @@
 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyMSchubert&layout=donut&theme=tokyonight&card_width=320">
 	</a>
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-		<img height=200 align="center" src="https://streak-stats.demolab.com?user=FreddyMSchubert&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
+		<img height=200 align="center" src="https://streak-stats.demolab.com?user=FreddyMSchubert&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200" alt="GitHub Streak" />
 	</a>
 </div>
 
