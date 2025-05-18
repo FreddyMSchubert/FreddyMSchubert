@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#111](https://github.com/42core-team/connection/issues/111) in [42core-team/connection](https://github.com/42core-team/connection)
-2. 🔒 Closed issue [#38](https://github.com/Reptudn/42_transcendence/issues/38) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-3. ❗ Opened issue [#40](https://github.com/Reptudn/42_transcendence/issues/40) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-4. 🗣 Commented on [#37](https://github.com/Reptudn/42_transcendence/issues/37#issuecomment-2886832603) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-5. 🔒 Closed issue [#37](https://github.com/Reptudn/42_transcendence/issues/37) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+1. 🗣 Commented on [#111](https://github.com/42core-team/connection/issues/111#issuecomment-2888941106) in [42core-team/connection](https://github.com/42core-team/connection)
+2. ❗ Opened issue [#111](https://github.com/42core-team/connection/issues/111) in [42core-team/connection](https://github.com/42core-team/connection)
+3. 🔒 Closed issue [#38](https://github.com/Reptudn/42_transcendence/issues/38) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+4. ❗ Opened issue [#40](https://github.com/Reptudn/42_transcendence/issues/40) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+5. 🗣 Commented on [#37](https://github.com/Reptudn/42_transcendence/issues/37#issuecomment-2886832603) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
 <!--END_SECTION:activity-->
 
 <hr>
