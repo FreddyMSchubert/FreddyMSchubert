@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/42core-team/even_COREnier/issues/20) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-2. ❗ Opened issue [#24](https://github.com/42core-team/sandbox/issues/24) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
-3. ❗ Opened issue [#23](https://github.com/42core-team/sandbox/issues/23) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
-4. 🔒 Closed issue [#14](https://github.com/42core-team/sandbox/issues/14) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
-5. 🔒 Closed issue [#41](https://github.com/42core-team/visualizer/issues/41) in [42core-team/visualizer](https://github.com/42core-team/visualizer)
+1. 🎉 Merged PR [#21](https://github.com/42core-team/even_COREnier/pull/21) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+2. 💪 Opened PR [#21](https://github.com/42core-team/even_COREnier/pull/21) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+3. ❗ Opened issue [#20](https://github.com/42core-team/even_COREnier/issues/20) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+4. ❗ Opened issue [#24](https://github.com/42core-team/sandbox/issues/24) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
+5. ❗ Opened issue [#23](https://github.com/42core-team/sandbox/issues/23) in [42core-team/sandbox](https://github.com/42core-team/sandbox)
 <!--END_SECTION:activity-->
 
 <hr>
