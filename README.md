@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/42core-team/my-core-bot/issues/25) in [42core-team/my-core-bot](https://github.com/42core-team/my-core-bot)
-2. ❗ Opened issue [#120](https://github.com/42core-team/connection/issues/120) in [42core-team/connection](https://github.com/42core-team/connection)
-3. 🗣 Commented on [#44](https://github.com/Reptudn/42_transcendence/issues/44#issuecomment-2966704247) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-4. 🗣 Commented on [#52](https://github.com/Reptudn/42_transcendence/issues/52#issuecomment-2966698923) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-5. 🔒 Closed issue [#24](https://github.com/42core-team/even_COREnier/issues/24) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+1. 🗣 Commented on [#9](https://github.com/42core-team/even_COREnier/issues/9#issuecomment-2971947194) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+2. ❗ Opened issue [#27](https://github.com/42core-team/even_COREnier/issues/27) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+3. ❗ Opened issue [#25](https://github.com/42core-team/my-core-bot/issues/25) in [42core-team/my-core-bot](https://github.com/42core-team/my-core-bot)
+4. ❗ Opened issue [#120](https://github.com/42core-team/connection/issues/120) in [42core-team/connection](https://github.com/42core-team/connection)
+5. 🗣 Commented on [#44](https://github.com/Reptudn/42_transcendence/issues/44#issuecomment-2966704247) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
 <!--END_SECTION:activity-->
 
 <hr>
