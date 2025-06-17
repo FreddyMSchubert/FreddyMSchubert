@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/42core-team/even_COREnier/issues/28#issuecomment-2977466346) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-2. 🗣 Commented on [#60](https://github.com/Reptudn/42_transcendence/issues/60#issuecomment-2975291737) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-3. 🗣 Commented on [#51](https://github.com/Reptudn/42_transcendence/pull/51#issuecomment-2975211919) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-4. ❗ Opened issue [#32](https://github.com/42core-team/even_COREnier/issues/32) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-5. ❗ Opened issue [#31](https://github.com/42core-team/even_COREnier/issues/31) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+1. 🗣 Commented on [#64](https://github.com/Reptudn/42_transcendence/issues/64#issuecomment-2977772052) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+2. 🗣 Commented on [#52](https://github.com/Reptudn/42_transcendence/issues/52#issuecomment-2977770028) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+3. 🗣 Commented on [#28](https://github.com/42core-team/even_COREnier/issues/28#issuecomment-2977466346) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+4. 🗣 Commented on [#60](https://github.com/Reptudn/42_transcendence/issues/60#issuecomment-2975291737) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+5. 🗣 Commented on [#51](https://github.com/Reptudn/42_transcendence/pull/51#issuecomment-2975211919) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
 <!--END_SECTION:activity-->
 
 <hr>
