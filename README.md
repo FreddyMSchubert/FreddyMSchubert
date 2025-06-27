@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/42core-team/3d-visualizer/issues/23#issuecomment-3009206779) in [42core-team/3d-visualizer](https://github.com/42core-team/3d-visualizer)
-2. 🗣 Commented on [#22](https://github.com/42core-team/3d-visualizer/issues/22#issuecomment-3009027255) in [42core-team/3d-visualizer](https://github.com/42core-team/3d-visualizer)
-3. 🔒 Closed issue [#35](https://github.com/42core-team/even_COREnier/issues/35) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-4. 🎉 Merged PR [#36](https://github.com/42core-team/even_COREnier/pull/36) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-5. ❗ Opened issue [#121](https://github.com/42core-team/connection/issues/121) in [42core-team/connection](https://github.com/42core-team/connection)
+1. 🔒 Closed issue [#31](https://github.com/42core-team/even_COREnier/issues/31) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+2. 🎉 Merged PR [#37](https://github.com/42core-team/even_COREnier/pull/37) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+3. 💪 Opened PR [#37](https://github.com/42core-team/even_COREnier/pull/37) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+4. 🗣 Commented on [#23](https://github.com/42core-team/3d-visualizer/issues/23#issuecomment-3009206779) in [42core-team/3d-visualizer](https://github.com/42core-team/3d-visualizer)
+5. 🗣 Commented on [#22](https://github.com/42core-team/3d-visualizer/issues/22#issuecomment-3009027255) in [42core-team/3d-visualizer](https://github.com/42core-team/3d-visualizer)
 <!--END_SECTION:activity-->
 
 <hr>
