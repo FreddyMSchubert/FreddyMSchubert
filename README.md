@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/FreddyMSchubert/42_cub3d/pull/66) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
-2. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3019467519) in [42core-team/connection](https://github.com/42core-team/connection)
-3. 🔒 Closed issue [#45](https://github.com/42core-team/even_COREnier/issues/45) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-4. 🎉 Merged PR [#46](https://github.com/42core-team/even_COREnier/pull/46) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-5. 🗣 Commented on [#45](https://github.com/42core-team/even_COREnier/issues/45#issuecomment-3018997255) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+1. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3020550229) in [42core-team/connection](https://github.com/42core-team/connection)
+2. 🎉 Merged PR [#66](https://github.com/FreddyMSchubert/42_cub3d/pull/66) in [FreddyMSchubert/42_cub3d](https://github.com/FreddyMSchubert/42_cub3d)
+3. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3019467519) in [42core-team/connection](https://github.com/42core-team/connection)
+4. 🔒 Closed issue [#45](https://github.com/42core-team/even_COREnier/issues/45) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+5. 🎉 Merged PR [#46](https://github.com/42core-team/even_COREnier/pull/46) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
 <!--END_SECTION:activity-->
 
 <hr>
