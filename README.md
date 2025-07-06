@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3035637603) in [42core-team/connection](https://github.com/42core-team/connection)
-2. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3026922249) in [42core-team/connection](https://github.com/42core-team/connection)
-3. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3026798456) in [42core-team/connection](https://github.com/42core-team/connection)
-4. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3026738588) in [42core-team/connection](https://github.com/42core-team/connection)
-5. 🗣 Commented on [#121](https://github.com/42core-team/connection/issues/121#issuecomment-3020598851) in [42core-team/connection](https://github.com/42core-team/connection)
+1. ❗ Opened issue [#48](https://github.com/42core-team/even_COREnier/issues/48) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+2. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3035637603) in [42core-team/connection](https://github.com/42core-team/connection)
+3. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3026922249) in [42core-team/connection](https://github.com/42core-team/connection)
+4. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3026798456) in [42core-team/connection](https://github.com/42core-team/connection)
+5. 🗣 Commented on [#124](https://github.com/42core-team/connection/issues/124#issuecomment-3026738588) in [42core-team/connection](https://github.com/42core-team/connection)
 <!--END_SECTION:activity-->
 
 <hr>
