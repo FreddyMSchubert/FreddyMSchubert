@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/42core-team/connection/issues/119#issuecomment-3052626472) in [42core-team/connection](https://github.com/42core-team/connection)
-2. 🔒 Closed issue [#119](https://github.com/42core-team/connection/issues/119) in [42core-team/connection](https://github.com/42core-team/connection)
-3. 🔒 Closed issue [#121](https://github.com/42core-team/connection/issues/121) in [42core-team/connection](https://github.com/42core-team/connection)
-4. 🗣 Commented on [#125](https://github.com/42core-team/connection/issues/125#issuecomment-3052621434) in [42core-team/connection](https://github.com/42core-team/connection)
-5. 🔒 Closed issue [#125](https://github.com/42core-team/connection/issues/125) in [42core-team/connection](https://github.com/42core-team/connection)
+1. 🗣 Commented on [#78](https://github.com/Reptudn/42_transcendence/pull/78#issuecomment-3056057473) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+2. 💪 Opened PR [#78](https://github.com/Reptudn/42_transcendence/pull/78) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+3. 🗣 Commented on [#119](https://github.com/42core-team/connection/issues/119#issuecomment-3052626472) in [42core-team/connection](https://github.com/42core-team/connection)
+4. 🔒 Closed issue [#119](https://github.com/42core-team/connection/issues/119) in [42core-team/connection](https://github.com/42core-team/connection)
+5. 🔒 Closed issue [#121](https://github.com/42core-team/connection/issues/121) in [42core-team/connection](https://github.com/42core-team/connection)
 <!--END_SECTION:activity-->
 
 <hr>
