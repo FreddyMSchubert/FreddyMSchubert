@@ -35,11 +35,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/42core-team/even_COREnier/pull/51) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-2. 💪 Opened PR [#51](https://github.com/42core-team/even_COREnier/pull/51) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
-3. 🗣 Commented on [#78](https://github.com/Reptudn/42_transcendence/pull/78#issuecomment-3056057473) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-4. 💪 Opened PR [#78](https://github.com/Reptudn/42_transcendence/pull/78) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
-5. 🗣 Commented on [#119](https://github.com/42core-team/connection/issues/119#issuecomment-3052626472) in [42core-team/connection](https://github.com/42core-team/connection)
+1. 🗣 Commented on [#68](https://github.com/Reptudn/42_transcendence/issues/68#issuecomment-3062797967) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+2. 🎉 Merged PR [#51](https://github.com/42core-team/even_COREnier/pull/51) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+3. 💪 Opened PR [#51](https://github.com/42core-team/even_COREnier/pull/51) in [42core-team/even_COREnier](https://github.com/42core-team/even_COREnier)
+4. 🗣 Commented on [#78](https://github.com/Reptudn/42_transcendence/pull/78#issuecomment-3056057473) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
+5. 💪 Opened PR [#78](https://github.com/Reptudn/42_transcendence/pull/78) in [Reptudn/42_transcendence](https://github.com/Reptudn/42_transcendence)
 <!--END_SECTION:activity-->
 
 <hr>
