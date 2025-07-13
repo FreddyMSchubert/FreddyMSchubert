@@ -35,6 +35,7 @@
 <br>
 
 <!--START_SECTION:activity-->
+
 1. ❗ Opened issue [#128](https://github.com/42core-team/connection/issues/128) in [42core-team/connection](https://github.com/42core-team/connection)
 2. 🗣 Commented on [#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066706186) in [42core-team/connection](https://github.com/42core-team/connection)
 3. 🗣 Commented on [#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066705473) in [42core-team/connection](https://github.com/42core-team/connection)
@@ -45,6 +46,7 @@
 > testings going on here right now... move along :D
 
 <!-- ACTIVITY:START -->
+
 1. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “fix unused missing key”
 2. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “fix activity yaml missing indent”
 3. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “un-handlebar activity display logic”
@@ -71,6 +73,8 @@
 24. 💬 FreddyMSchubert commented on Issue [#127](https://github.com/42core-team/connection/pull/127): “@kurz-m I get a 404 trying to access the cppcheck file, can you try to upload it again please?” ([view comment](https://github.com/42core-team/connection/pull/127#issuecomment-3066706186))
 25. 💬 FreddyMSchubert commented on Issue [#127](https://github.com/42core-team/connection/pull/127): “Also made a bunch of stuff const as suggested here: https://github.com/42core-team/connection/commit/603a79302bbe5f257fddee2b95a8f6ba0574b2ef” ([view comment](https://github.com/42core-team/connection/pull/127#issuecomment-3066705473))
 <!-- ACTIVITY:END -->
+
+Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/github-activity-timeline)? I made it.
 
 <hr>
 
