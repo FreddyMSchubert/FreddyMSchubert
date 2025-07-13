@@ -37,16 +37,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🐛 Today: Opened issue [42core-team/connection#128](https://github.com/42core-team/connection/issues/128)</li>
-<li>💬 Today: Commented on issue [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066706186)</li>
-<li>💬 Today: Commented on issue [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066705473)</li>
-<li>💬 Today: Commented on issue [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066061811)</li>
-<li>💬 Yesterday: Commented on issue [42core-team/connection#123](https://github.com/42core-team/connection/issues/123#issuecomment-3065898436)</li>
-<li>✅ Yesterday: Closed issue [42core-team/connection#123](https://github.com/42core-team/connection/issues/123)</li>
-<li>✅ Yesterday: Closed issue [42core-team/even_COREnier#52](https://github.com/42core-team/even_COREnier/issues/52)</li>
-<li>🎯 Yesterday: Merged PR [42core-team/even_COREnier#55](https://github.com/42core-team/even_COREnier/pull/55)</li>
-<li>🆕 Yesterday: Opened PR [42core-team/even_COREnier#55](https://github.com/42core-team/even_COREnier/pull/55) opened: “make resources drop their money on death, not incr…”</li>
-<li>💬 Yesterday: Commented on issue [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3065657292)</li>
+<li>🐛 Today: Opened issue <a href="https://github.com/42core-team/connection/issues/128">42core-team/connection#128</a></li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066706186">42core-team/connection#127</a></li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066705473">42core-team/connection#127</a></li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066061811">42core-team/connection#127</a></li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/123#issuecomment-3065898436">42core-team/connection#123</a></li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/123">42core-team/connection#123</a></li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/52">42core-team/even_COREnier#52</a></li>
+<li>🎯 Yesterday: Merged PR <a href="https://github.com/42core-team/even_COREnier/pull/55">42core-team/even_COREnier#55</a></li>
+<li>🆕 Yesterday: Opened PR <a href="https://github.com/42core-team/even_COREnier/pull/55">42core-team/even_COREnier#55</a>: “make resources drop their money on death, not incr…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3065657292">42core-team/connection#127</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
