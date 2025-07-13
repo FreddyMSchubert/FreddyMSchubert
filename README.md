@@ -36,16 +36,16 @@
 
 <div align="left">
 <!-- ACTIVITY:START -->
-1. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
-2. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/github-activity-timeline@main](undefined)
-3. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
-4. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
-5. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
-6. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
-7. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
-8. 🚀 Today FreddyMSchubert pushed 2 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
-9. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
-10. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+1. 🐛 Today: Opened [42core-team/connection#128](https://github.com/42core-team/connection/issues/128)
+2. 💬 Today: FreddyMSchubert commented on [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066706186)
+3. 💬 Today: FreddyMSchubert commented on [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066705473)
+4. 💬 Today: FreddyMSchubert commented on [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066061811)
+5. 💬 Yesterday: FreddyMSchubert commented on [42core-team/connection#123](https://github.com/42core-team/connection/issues/123#issuecomment-3065898436)
+6. ✅ Yesterday: Closed [42core-team/connection#123](https://github.com/42core-team/connection/issues/123) by FreddyMSchubert
+7. ✅ Yesterday: Closed [42core-team/even_COREnier#52](https://github.com/42core-team/even_COREnier/issues/52) by FreddyMSchubert
+8. 🎯 Yesterday: Merged PR [42core-team/even_COREnier#55](https://github.com/42core-team/even_COREnier/pull/55)
+9. 🆕 Yesterday: PR [42core-team/even_COREnier#55](https://github.com/42core-team/even_COREnier/pull/55) opened: “make resources drop their money on death, not incr…”
+10. 💬 Yesterday: FreddyMSchubert commented on [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3065657292)
 <!-- ACTIVITY:END -->
 </div>
 
