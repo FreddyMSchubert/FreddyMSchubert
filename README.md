@@ -37,16 +37,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✍️ Today: FreddyMSchubert commented on review: “This is done mainly for consistency to be fair. Ev…” (<a href="https://github.com/42core-team/connection/pull/127#discussion_r2203357587">view</a>)</li>
-<li>✍️ Today: FreddyMSchubert commented on review: “No the t_objs never change size and will never be …” (<a href="https://github.com/42core-team/connection/pull/127#discussion_r2203355873">view</a>)</li>
-<li>✍️ Today: FreddyMSchubert commented on review: “my bad youre right i got confused 🫠…” (<a href="https://github.com/42core-team/connection/pull/127#discussion_r2203341171">view</a>)</li>
+<li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203357587">42core-team/connection#127</a>: “This is done mainly for consistency to be fair. Ev…”</li>
+<li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203355873">42core-team/connection#127</a>: “No the t_objs never change size and will never be …”</li>
+<li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203341171">42core-team/connection#127</a>: “my bad youre right i got confused 🫠…”</li>
 <li>🐛 Today: Opened issue <a href="https://github.com/42core-team/connection/issues/128">42core-team/connection#128</a>: “allocation failure handling – currently we dont pr…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066706186">42core-team/connection#127</a>: “@kurz-m I get a 404 trying to access the cppcheck …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066705473">42core-team/connection#127</a>: “Also made a bunch of stuff const as suggested here…”</li>
-<li>✍️ Today: FreddyMSchubert commented on review: “Been thinking about this. But segfault handling & …” (<a href="https://github.com/42core-team/connection/pull/127#discussion_r2203220639">view</a>)</li>
-<li>✍️ Today: FreddyMSchubert commented on review: “see above 👍…” (<a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219917">view</a>)</li>
-<li>✍️ Today: FreddyMSchubert commented on review: “https://github.com/42core-team/connection/commit/6…” (<a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219853">view</a>)</li>
-<li>✍️ Today: FreddyMSchubert commented on review: “https://github.com/42core-team/connection/commit/b…” (<a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219477">view</a>)</li>
+<li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203220639">42core-team/connection#127</a>: “Been thinking about this. But segfault handling & …”</li>
+<li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219917">42core-team/connection#127</a>: “see above 👍…”</li>
+<li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219853">42core-team/connection#127</a>: “https://github.com/42core-team/connection/commit/6…”</li>
+<li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219477">42core-team/connection#127</a>: “https://github.com/42core-team/connection/commit/b…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
