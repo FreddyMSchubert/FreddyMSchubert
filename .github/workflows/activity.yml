@@ -10,6 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Install Action dependencies 🔧
+        run: npm ci
+
       - name: Run the Activity Widget Action
         uses: FreddyMSchubert/github-activity-timeline@main
         with:
