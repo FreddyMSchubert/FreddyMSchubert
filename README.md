@@ -42,6 +42,11 @@
 5. 🗣 Commented on [#123](https://github.com/42core-team/connection/issues/123#issuecomment-3065898436) in [42core-team/connection](https://github.com/42core-team/connection)
 <!--END_SECTION:activity-->
 
+> testings going on here right now... move along :D
+
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
 <hr>
 
 <div align="center">

@@ -1,0 +1,23 @@
+name: 🛠️ Test Activity Widget
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run the Activity Widget Action
+        uses: FreddyMSchubert/github-activity-timeline@main
+        with:
+          github_token:   ${{ secrets.GITHUB_TOKEN }}
+          username:       "FreddyMSchubert"
+          max_items:      "5"
+          event_templates: >
+            {
+              "issues_opened":"{{index}}. 🐛 Issue #{{payload.issue.number}}: {{payload.issue.title}}",
+              "pr_merged":"{{index}}. 🎯 PR #{{number}} merged!"
+            }
