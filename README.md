@@ -46,32 +46,16 @@
 > testings going on here right now... move along :D
 
 <!-- ACTIVITY:START -->
-
-1. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “fix unused missing key”
-2. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “fix activity yaml missing indent”
-3. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “un-handlebar activity display logic”
-4. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “fix event_templates being invalid json”
-5. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “git push add no commit message handling”
-6. 🚀 FreddyMSchubert pushed 2 commit(s) to [main](undefined): “Merge branch 'main' of personal:FreddyMSchubert/FreddyMSchubert”
-7. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “add missing commit & push section to workflow”
-8. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “add way more events to be displayed in readme”
-9. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “event filter logic rework: first filter events, then apply max display count limitation”
-10. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “fix incorrect readme resolving”
-11. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “fix inconsistent github_token env var”
-12. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “working-directory removal fix”
-13. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “fix incorrect ci call”
-14. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “action update to checkout npm dependencies”
-15. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “add missing npm dependency install step to activity workflow”
-16. 🎸 FreddyMSchubert made [FreddyMSchubert/github-activity-timeline](https://github.com/FreddyMSchubert/github-activity-timeline) public
-17. 🗣 FreddyMSchubert commented on PR [#127](https://github.com/42core-team/connection/pull/127) review ([view comment](https://github.com/42core-team/connection/pull/127#discussion_r2203357587))
-18. 🗣 FreddyMSchubert commented on PR [#127](https://github.com/42core-team/connection/pull/127) review ([view comment](https://github.com/42core-team/connection/pull/127#discussion_r2203355873))
-19. 🚀 FreddyMSchubert pushed 1 commit(s) to [spring-cleaning](undefined): “Update con_lib.c tickActions.c -> tick_actions.c”
-20. 🗣 FreddyMSchubert commented on PR [#127](https://github.com/42core-team/connection/pull/127) review ([view comment](https://github.com/42core-team/connection/pull/127#discussion_r2203341171))
-21. 🚀 FreddyMSchubert pushed 1 commit(s) to [main](undefined): “add own activity widget test-wise”
-22. 🐛 Issue [#128](https://github.com/42core-team/connection/issues/128) opened by FreddyMSchubert: “allocation failure handling”
-23. 🚀 FreddyMSchubert pushed 1 commit(s) to [spring-cleaning](undefined): “variables with same name fix in con_lib.c”
-24. 💬 FreddyMSchubert commented on Issue [#127](https://github.com/42core-team/connection/pull/127): “@kurz-m I get a 404 trying to access the cppcheck file, can you try to upload it again please?” ([view comment](https://github.com/42core-team/connection/pull/127#issuecomment-3066706186))
-25. 💬 FreddyMSchubert commented on Issue [#127](https://github.com/42core-team/connection/pull/127): “Also made a bunch of stuff const as suggested here: https://github.com/42core-team/connection/commit/603a79302bbe5f257fddee2b95a8f6ba0574b2ef” ([view comment](https://github.com/42core-team/connection/pull/127#issuecomment-3066705473))
+1. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+2. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/github-activity-timeline@main](undefined)
+3. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+4. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+5. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+6. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+7. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+8. 🚀 Today FreddyMSchubert pushed 2 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+9. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
+10. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
 <!-- ACTIVITY:END -->
 
 Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/github-activity-timeline)? I made it.
