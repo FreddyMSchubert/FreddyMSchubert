@@ -2,7 +2,7 @@ name: 🛠️ Test Activity Widget
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' 
+    - cron: "0 * * * *"
 
 jobs:
   update-readme:
@@ -13,11 +13,22 @@ jobs:
       - name: Run the Activity Widget Action
         uses: FreddyMSchubert/github-activity-timeline@main
         with:
-          github_token:   ${{ secrets.GITHUB_TOKEN }}
-          username:       "FreddyMSchubert"
-          max_items:      "5"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: "FreddyMSchubert"
+          max_items: "5"
           event_templates: >
             {
-              "issues_opened":"{{index}}. 🐛 Issue #{{payload.issue.number}}: {{payload.issue.title}}",
-              "pr_merged":"{{index}}. 🎯 PR #{{number}} merged!"
+              "issues_opened":               "{{index}}. 🐛 Issue #{{payload.issue.number}} opened: {{payload.issue.title}}",
+              "issues_closed":               "{{index}}. ✅ Issue #{{payload.issue.number}} closed by {{actor}}",
+              "issue_commented":             "{{index}}. 💬 Commented on issue #{{payload.issue.number}}: “{{payload.comment.body}}”",
+              "pr_opened":                   "{{index}}. 🆕 PR #{{payload.pull_request.number}} opened: {{payload.pull_request.title}}",
+              "pr_merged":                   "{{index}}. 🎯 PR #{{number}} merged!",
+              "pr_closed":                   "{{index}}. ❌ PR #{{number}} closed without merge",
+              "pr_review_approved":          "{{index}}. 👍 Approved PR #{{payload.pull_request.number}}",
+              "pr_review_changes_requested": "{{index}}. 🚩 Changes requested on PR #{{payload.pull_request.number}}",
+              "pr_review_comment":           "{{index}}. 🗣 Commented on PR #{{number}} review: {{url}}",
+              "push":                        "{{index}}. 🚀 Pushed {{payload.size}} commits to {{payload.ref}}",
+              "release":                     "{{index}}. 📡 Released {{payload.release.tag_name}}",
+              "fork":                        "{{index}}. 🍴 Forked {{payload.forkee.full_name}}",
+              "public":                      "{{index}}. 🎸 Made {{repo}} public"
             }
