@@ -15,22 +15,22 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: "FreddyMSchubert"
-          max_items: "5"
+          max_items: "25"
           event_templates: >
             {
-              "issues_opened":               "{{index}}. 🐛 Issue #{{payload.issue.number}} opened: {{payload.issue.title}}",
-              "issues_closed":               "{{index}}. ✅ Issue #{{payload.issue.number}} closed by {{actor}}",
-              "issue_commented":             "{{index}}. 💬 Commented on issue #{{payload.issue.number}}: “{{payload.comment.body}}”",
-              "pr_opened":                   "{{index}}. 🆕 PR #{{payload.pull_request.number}} opened: {{payload.pull_request.title}}",
-              "pr_merged":                   "{{index}}. 🎯 PR #{{number}} merged!",
-              "pr_closed":                   "{{index}}. ❌ PR #{{number}} closed without merge",
-              "pr_review_approved":          "{{index}}. 👍 Approved PR #{{payload.pull_request.number}}",
-              "pr_review_changes_requested": "{{index}}. 🚩 Changes requested on PR #{{payload.pull_request.number}}",
-              "pr_review_comment":           "{{index}}. 🗣 Commented on PR #{{number}} review: {{url}}",
-              "push":                        "{{index}}. 🚀 Pushed {{payload.size}} commits to {{payload.ref}}",
-              "release":                     "{{index}}. 📡 Released {{payload.release.tag_name}}",
-              "fork":                        "{{index}}. 🍴 Forked {{payload.forkee.full_name}}",
-              "public":                      "{{index}}. 🎸 Made {{repo}} public"
+              "issues_opened":               "{{index}}. 🐛 Issue [#{{payload.issue.number}}]({{payload.issue.html_url}}) opened by {{actor}}: “{{payload.issue.title}}”",
+              "issues_closed":               "{{index}}. ✅ Issue [#{{payload.issue.number}}]({{payload.issue.html_url}}) closed by {{actor}}",
+              "issue_commented":             "{{index}}. 💬 {{actor}} commented on Issue [#{{payload.issue.number}}]({{payload.issue.html_url}}): “{{payload.comment.body}}” ([view comment]({{payload.comment.html_url}}))",
+              "pr_opened":                   "{{index}}. 🆕 PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}}) opened by {{actor}}: “{{payload.pull_request.title}}”",
+              "pr_merged":                   "{{index}}. 🎯 PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}}) merged by {{actor}}",
+              "pr_closed":                   "{{index}}. ❌ PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}}) closed (no merge) by {{actor}}",
+              "pr_review_approved":          "{{index}}. 👍 {{actor}} approved PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}})",
+              "pr_review_changes_requested": "{{index}}. 🚩 {{actor}} requested changes on PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}})",
+              "pr_review_comment":           "{{index}}. 🗣 {{actor}} commented on PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}}) review: ([view comment]({{payload.comment.html_url}}))",
+              "push":                        "{{index}}. 🚀 {{actor}} pushed {{payload.commits.length}} commit(s) to [{{payload.ref.replace('refs/heads/','')}}]({{payload.compare}}): “{{payload.head_commit.message}}”",
+              "release":                     "{{index}}. 📡 New release [{{payload.release.tag_name}}]({{payload.release.html_url}}) by {{actor}}: {{payload.release.name || 'no title'}}",
+              "fork":                        "{{index}}. 🍴 {{actor}} forked [{{payload.repository.full_name}}]({{payload.repository.html_url}}) to [{{payload.forkee.full_name}}]({{payload.forkee.html_url}})",
+              "public":                      "{{index}}. 🎸 {{actor}} made [{{repo}}]({{repository.html_url}}) public"
             }
 
       - name: Commit updated README 📖
