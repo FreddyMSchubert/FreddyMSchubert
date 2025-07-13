@@ -27,7 +27,7 @@ jobs:
               "pr_review_approved":          "{{index}}. 👍 {{actor}} approved PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}})",
               "pr_review_changes_requested": "{{index}}. 🚩 {{actor}} requested changes on PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}})",
               "pr_review_comment":           "{{index}}. 🗣 {{actor}} commented on PR [#{{payload.pull_request.number}}]({{payload.pull_request.html_url}}) review: ([view comment]({{payload.comment.html_url}}))",
-              "push": "{{index}}. 🚀 {{actor}} pushed {{payload.commits.length}} commit(s) to [{{payload.ref.replace('refs/heads/','')}}]({{payload.compare}}): “{{#if payload.commits.length}}{{payload.commits.[payload.commits.length-1].message}}{{else}}<no commit message available>{{/if}}”"
+              "push": "{{index}}. 🚀 {{actor}} pushed {{payload.commits.length}} commit(s) to [{{payload.ref.replace('refs/heads/','')}}]({{payload.compare}}): “{{#if payload.commits.length}}{{payload.commits.[payload.commits.length-1].message}}{{else}}<no commit message available>{{/if}}”",
               "release":                     "{{index}}. 📡 New release [{{payload.release.tag_name}}]({{payload.release.html_url}}) by {{actor}}: {{payload.release.name || 'no title'}}",
               "fork":                        "{{index}}. 🍴 {{actor}} forked [{{payload.repository.full_name}}]({{payload.repository.html_url}}) to [{{payload.forkee.full_name}}]({{payload.forkee.html_url}})",
               "public":                      "{{index}}. 🎸 {{actor}} made [{{repo}}]({{repository.html_url}}) public"
