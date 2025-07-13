@@ -34,6 +34,7 @@
 
 <br>
 
+<div align="left">
 <!-- ACTIVITY:START -->
 1. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
 2. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/github-activity-timeline@main](undefined)
@@ -46,6 +47,7 @@
 9. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
 10. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
 <!-- ACTIVITY:END -->
+</div>
 
 Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/github-activity-timeline)? Try it yourself - I made it.
 
