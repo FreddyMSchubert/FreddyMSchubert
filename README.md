@@ -34,17 +34,6 @@
 
 <br>
 
-<!--START_SECTION:activity-->
-
-1. ❗ Opened issue [#128](https://github.com/42core-team/connection/issues/128) in [42core-team/connection](https://github.com/42core-team/connection)
-2. 🗣 Commented on [#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066706186) in [42core-team/connection](https://github.com/42core-team/connection)
-3. 🗣 Commented on [#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066705473) in [42core-team/connection](https://github.com/42core-team/connection)
-4. 🗣 Commented on [#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066061811) in [42core-team/connection](https://github.com/42core-team/connection)
-5. 🗣 Commented on [#123](https://github.com/42core-team/connection/issues/123#issuecomment-3065898436) in [42core-team/connection](https://github.com/42core-team/connection)
-<!--END_SECTION:activity-->
-
-> testings going on here right now... move along :D
-
 <!-- ACTIVITY:START -->
 1. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
 2. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/github-activity-timeline@main](undefined)
@@ -58,7 +47,7 @@
 10. 🚀 Today FreddyMSchubert pushed 1 commit(s) to [FreddyMSchubert/FreddyMSchubert@main](undefined)
 <!-- ACTIVITY:END -->
 
-Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/github-activity-timeline)? I made it.
+Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/github-activity-timeline)? Try it yourself - I made it.
 
 <hr>
 
