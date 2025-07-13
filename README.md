@@ -35,6 +35,7 @@
 <br>
 
 <div align="left">
+<ol>
 <!-- ACTIVITY:START -->
 1. 🐛 Today: Opened issue [42core-team/connection#128](https://github.com/42core-team/connection/issues/128)
 2. 💬 Today: Commented on issue [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3066706186)
@@ -47,6 +48,7 @@
 9. 🆕 Yesterday: Opened PR [42core-team/even_COREnier#55](https://github.com/42core-team/even_COREnier/pull/55) opened: “make resources drop their money on death, not incr…”
 10. 💬 Yesterday: Commented on issue [42core-team/connection#127](https://github.com/42core-team/connection/pull/127#issuecomment-3065657292)
 <!-- ACTIVITY:END -->
+</ol>
 </div>
 
 Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/github-activity-timeline)? Try it yourself - I made it.
