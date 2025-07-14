@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Today: Opened PR <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2">FreddyMSchubert/github-activity-timeline#2</a>: “time formatting util implementation – ill test thi…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/1">FreddyMSchubert/github-activity-timeline#1</a>: “Provide an easy time-formatting Util – Displaying …”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203357587">42core-team/connection#127</a>: “This is done mainly for consistency to be fair. Ev…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203355873">42core-team/connection#127</a>: “No the t_objs never change size and will never be …”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203341171">42core-team/connection#127</a>: “my bad youre right i got confused 🫠”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/connection/issues/128">42core-team/connection#128</a>: “allocation failure handling – currently we dont pr…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066706186">42core-team/connection#127</a>: “@kurz-m I get a 404 trying to access the cppcheck …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066705473">42core-team/connection#127</a>: “Also made a bunch of stuff const as suggested here…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203220639">42core-team/connection#127</a>: “Been thinking about this. But segfault handling & …”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219917">42core-team/connection#127</a>: “see above 👍”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219853">42core-team/connection#127</a>: “https://github.com/42core-team/connection/commit/6…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203357587">42core-team/connection#127</a>: “This is done mainly for consistency to be fair. Ev…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203355873">42core-team/connection#127</a>: “No the t_objs never change size and will never be …”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203341171">42core-team/connection#127</a>: “my bad youre right i got confused 🫠”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/128">42core-team/connection#128</a>: “allocation failure handling – currently we dont pr…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066706186">42core-team/connection#127</a>: “@kurz-m I get a 404 trying to access the cppcheck …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066705473">42core-team/connection#127</a>: “Also made a bunch of stuff const as suggested here…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203220639">42core-team/connection#127</a>: “Been thinking about this. But segfault handling & …”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219917">42core-team/connection#127</a>: “see above 👍”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
