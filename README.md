@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🐛 Today: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/1">FreddyMSchubert/github-activity-timeline#1</a>: “Provide an easy time-formatting Util – Displaying …”</li>
 <li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203357587">42core-team/connection#127</a>: “This is done mainly for consistency to be fair. Ev…”</li>
 <li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203355873">42core-team/connection#127</a>: “No the t_objs never change size and will never be …”</li>
 <li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203341171">42core-team/connection#127</a>: “my bad youre right i got confused 🫠”</li>
@@ -47,7 +48,6 @@
 <li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203220639">42core-team/connection#127</a>: “Been thinking about this. But segfault handling & …”</li>
 <li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219917">42core-team/connection#127</a>: “see above 👍”</li>
 <li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219853">42core-team/connection#127</a>: “https://github.com/42core-team/connection/commit/6…”</li>
-<li>✍️ Today: Commented on review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219477">42core-team/connection#127</a>: “https://github.com/42core-team/connection/commit/b…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
