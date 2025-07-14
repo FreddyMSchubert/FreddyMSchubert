@@ -11,12 +11,13 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Run the Activity Widget Action
-        uses: FreddyMSchubert/github-activity-timeline@1-time-formatting-util
+        uses: FreddyMSchubert/github-activity-timeline@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: "FreddyMSchubert"
           max_items: "10"
           time_zone: "Europe/Berlin"
+          date_format: "DD.MM.YYYY"
           event_templates: >
             {
               "issues_opened": "<li>⚠️ {{human_date}}: Opened issue <a href=\\\"{{payload.issue.html_url}}\\\">{{repo}}#{{payload.issue.number}}</a>: “{{(() => { const ctx = payload.issue.title + ' – ' + (payload.issue.body || ''); return ctx.length > 50 ? ctx.slice(0,50) + '…' : ctx; })()}}”</li>",
