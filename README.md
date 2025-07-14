@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/connection/issues/124">42core-team/connection#124</a>: “Spring cleaning – This library is a bit all over t…”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/connection/pull/127">42core-team/connection#127</a></li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3068560883">42core-team/connection#127</a>: “@PaulicStudios 
 I don't think that's a good call.…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2204296325">42core-team/connection#127</a>: “They weren't renamed yet, library is still using f…”</li>
@@ -47,8 +49,6 @@ I don't think that's a good call.…”</li>
 <li>🚀 Today: Opened PR <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2">FreddyMSchubert/github-activity-timeline#2</a>: “time formatting util implementation – ill test thi…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/1">FreddyMSchubert/github-activity-timeline#1</a>: “Provide an easy time-formatting Util – Displaying …”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203357587">42core-team/connection#127</a>: “This is done mainly for consistency to be fair. Ev…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203355873">42core-team/connection#127</a>: “No the t_objs never change size and will never be …”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203341171">42core-team/connection#127</a>: “my bad youre right i got confused 🫠”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
