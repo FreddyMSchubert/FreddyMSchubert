@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2#discussion_r2204089325">FreddyMSchubert/github-activity-timeline#2</a>: “I think its pretty clear.”</li>
 <li>🚀 Today: Opened PR <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2">FreddyMSchubert/github-activity-timeline#2</a>: “time formatting util implementation – ill test thi…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/1">FreddyMSchubert/github-activity-timeline#1</a>: “Provide an easy time-formatting Util – Displaying …”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203357587">42core-team/connection#127</a>: “This is done mainly for consistency to be fair. Ev…”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066706186">42core-team/connection#127</a>: “@kurz-m I get a 404 trying to access the cppcheck …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3066705473">42core-team/connection#127</a>: “Also made a bunch of stuff const as suggested here…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203220639">42core-team/connection#127</a>: “Been thinking about this. But segfault handling & …”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2203219917">42core-team/connection#127</a>: “see above 👍”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
