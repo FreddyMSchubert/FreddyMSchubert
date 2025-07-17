@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a></li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a>: “Spring cleaning – ”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/71#issuecomment-3078401571">Reptudn/42_transcendence#71</a>: “Internal server error bei seiten die es nicht gibt…”</li>
 <li>👍 2 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/80">Reptudn/42_transcendence#80</a></li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/connection/issues/124">42core-team/connection#124</a>: “Spring cleaning – This library is a bit all over t…”</li>
@@ -47,8 +49,6 @@ I don't think that's a good call.…”</li>
 <li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2204296325">42core-team/connection#127</a>: “They weren't renamed yet, library is still using f…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/1">FreddyMSchubert/github-activity-timeline#1</a>: “Provide an easy time-formatting Util – Displaying …”</li>
 <li>🌕 3 days ago: Merged PR <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2">FreddyMSchubert/github-activity-timeline#2</a></li>
-<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2#discussion_r2204089325">FreddyMSchubert/github-activity-timeline#2</a>: “I think its pretty clear.”</li>
-<li>🚀 3 days ago: Opened PR <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2">FreddyMSchubert/github-activity-timeline#2</a>: “time formatting util implementation – ill test thi…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
