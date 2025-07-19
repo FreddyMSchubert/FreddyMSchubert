@@ -38,17 +38,17 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🌕 3 days ago: Merged PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a></li>
-<li>🚀 3 days ago: Opened PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a>: “Spring cleaning – ”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/71#issuecomment-3078401571">Reptudn/42_transcendence#71</a>: “Internal server error bei seiten die es nicht gibt…”</li>
-<li>👍 4 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/80">Reptudn/42_transcendence#80</a></li>
-<li>✅ 5 days ago: Closed issue <a href="https://github.com/42core-team/connection/issues/124">42core-team/connection#124</a>: “Spring cleaning – This library is a bit all over t…”</li>
-<li>🌕 5 days ago: Merged PR <a href="https://github.com/42core-team/connection/pull/127">42core-team/connection#127</a></li>
-<li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3068560883">42core-team/connection#127</a>: “@PaulicStudios 
+<li>🌕 4 days ago: Merged PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a></li>
+<li>🚀 4 days ago: Opened PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a>: “Spring cleaning – ”</li>
+<li>💬 4 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/71#issuecomment-3078401571">Reptudn/42_transcendence#71</a>: “Internal server error bei seiten die es nicht gibt…”</li>
+<li>👍 5 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/80">Reptudn/42_transcendence#80</a></li>
+<li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/connection/issues/124">42core-team/connection#124</a>: “Spring cleaning – This library is a bit all over t…”</li>
+<li>🌕 6 days ago: Merged PR <a href="https://github.com/42core-team/connection/pull/127">42core-team/connection#127</a></li>
+<li>💬 6 days ago: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3068560883">42core-team/connection#127</a>: “@PaulicStudios 
 I don't think that's a good call.…”</li>
-<li>✍️ 5 days ago: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2204296325">42core-team/connection#127</a>: “They weren't renamed yet, library is still using f…”</li>
-<li>✅ 5 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/1">FreddyMSchubert/github-activity-timeline#1</a>: “Provide an easy time-formatting Util – Displaying …”</li>
-<li>🌕 5 days ago: Merged PR <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2">FreddyMSchubert/github-activity-timeline#2</a></li>
+<li>✍️ 6 days ago: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2204296325">42core-team/connection#127</a>: “They weren't renamed yet, library is still using f…”</li>
+<li>✅ 6 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/1">FreddyMSchubert/github-activity-timeline#1</a>: “Provide an easy time-formatting Util – Displaying …”</li>
+<li>🌕 6 days ago: Merged PR <a href="https://github.com/FreddyMSchubert/github-activity-timeline/pull/2">FreddyMSchubert/github-activity-timeline#2</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
