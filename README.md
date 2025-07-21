@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3095507644">Reptudn/42_transcendence#81</a>: “Oh yeah that's alright you don't have to do any DB…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/82#discussion_r2218287376">Reptudn/42_transcendence#82</a>: “Why does the path construction assume 1-based inde…”</li>
-<li>🚀 Today: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/82">Reptudn/42_transcendence#82</a>: “Better Backgrounds – - add a few more backgrounds …”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218226918">Reptudn/42_transcendence#81</a>: “Hell yeah dude these are the kinda changes I wanna…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218225570">Reptudn/42_transcendence#81</a>: “Still confused about the powerups. Can this be edi…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218224211">Reptudn/42_transcendence#81</a>: “😂”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218222066">Reptudn/42_transcendence#81</a>: “What? Furthermore, why does this file have functio…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218217832">Reptudn/42_transcendence#81</a>: “None of this should need to be done”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218217217">Reptudn/42_transcendence#81</a>: “Why is this still how it works? I thought we agree…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218214154">Reptudn/42_transcendence#81</a>: “I don't think that's necessary. Also please remove…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3095507644">Reptudn/42_transcendence#81</a>: “Oh yeah that's alright you don't have to do any DB…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/82#discussion_r2218287376">Reptudn/42_transcendence#82</a>: “Why does the path construction assume 1-based inde…”</li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/82">Reptudn/42_transcendence#82</a>: “Better Backgrounds – - add a few more backgrounds …”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218226918">Reptudn/42_transcendence#81</a>: “Hell yeah dude these are the kinda changes I wanna…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218225570">Reptudn/42_transcendence#81</a>: “Still confused about the powerups. Can this be edi…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218224211">Reptudn/42_transcendence#81</a>: “😂”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218222066">Reptudn/42_transcendence#81</a>: “What? Furthermore, why does this file have functio…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218217832">Reptudn/42_transcendence#81</a>: “None of this should need to be done”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218217217">Reptudn/42_transcendence#81</a>: “Why is this still how it works? I thought we agree…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218214154">Reptudn/42_transcendence#81</a>: “I don't think that's necessary. Also please remove…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
