@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3095219312">Reptudn/42_transcendence#81</a>: “You can end up on a game screen with updating game…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3095214371">Reptudn/42_transcendence#81</a>: “What is the enable powerups functionality for? Doe…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3094557562">Reptudn/42_transcendence#81</a>: “Awesome! I'll have a look in a second.
 We need som…”</li>
 <li>🌕 5 days ago: Merged PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a></li>
@@ -48,8 +50,6 @@ We need som…”</li>
 <li>🌕 7 days ago: Merged PR <a href="https://github.com/42core-team/connection/pull/127">42core-team/connection#127</a></li>
 <li>💬 7 days ago: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3068560883">42core-team/connection#127</a>: “@PaulicStudios 
 I don't think that's a good call.…”</li>
-<li>✍️ 7 days ago: Commented on PR review <a href="https://github.com/42core-team/connection/pull/127#discussion_r2204296325">42core-team/connection#127</a>: “They weren't renamed yet, library is still using f…”</li>
-<li>✅ 7 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/1">FreddyMSchubert/github-activity-timeline#1</a>: “Provide an easy time-formatting Util – Displaying …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
