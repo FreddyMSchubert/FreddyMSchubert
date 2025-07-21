@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/82#discussion_r2218287376">Reptudn/42_transcendence#82</a>: “Why does the path construction assume 1-based inde…”</li>
+<li>🚀 Today: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/82">Reptudn/42_transcendence#82</a>: “Better Backgrounds – - add a few more backgrounds…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218226918">Reptudn/42_transcendence#81</a>: “Hell yeah dude these are the kinda changes I wanna…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218225570">Reptudn/42_transcendence#81</a>: “Still confused about the powerups. Can this be edi…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218224211">Reptudn/42_transcendence#81</a>: “😂”</li>
@@ -49,8 +51,6 @@ Furthermore, why does this file have functi…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218211792">Reptudn/42_transcendence#81</a>: “What does this do and how do I get to it?
 
 `{"st…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218210294">Reptudn/42_transcendence#81</a>: “Does this work yet? How can I try it? I can't see …”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218208890">Reptudn/42_transcendence#81</a>: “Why do it like this? Can't this just be loaded by …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
