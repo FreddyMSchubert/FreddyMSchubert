@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2219693346">Reptudn/42_transcendence#81</a>: “Where else but ts would we be? Exactly we're in ts…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/83">Reptudn/42_transcendence#83</a>: “This issue is an issue – ”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/83#issuecomment-3097447266">Reptudn/42_transcendence#83</a>: “Like I am to your mother's marriage.”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3095507644">Reptudn/42_transcendence#81</a>: “Oh yeah that's alright you don't have to do any DB…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/82#discussion_r2218287376">Reptudn/42_transcendence#82</a>: “Why does the path construction assume 1-based inde…”</li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/82">Reptudn/42_transcendence#82</a>: “Better Backgrounds – - add a few more backgrounds …”</li>
@@ -45,9 +48,6 @@
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218225570">Reptudn/42_transcendence#81</a>: “Still confused about the powerups. Can this be edi…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218224211">Reptudn/42_transcendence#81</a>: “😂”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218222066">Reptudn/42_transcendence#81</a>: “What? Furthermore, why does this file have functio…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218217832">Reptudn/42_transcendence#81</a>: “None of this should need to be done”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218217217">Reptudn/42_transcendence#81</a>: “Why is this still how it works? I thought we agree…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218214154">Reptudn/42_transcendence#81</a>: “I don't think that's necessary. Also please remove…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
