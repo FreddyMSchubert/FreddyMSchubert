@@ -38,18 +38,19 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3095219312">Reptudn/42_transcendence#81</a>: “You can end up on a game screen with updating game…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3095214371">Reptudn/42_transcendence#81</a>: “What is the enable powerups functionality for? Doe…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3094557562">Reptudn/42_transcendence#81</a>: “Awesome! I'll have a look in a second.
-We need som…”</li>
-<li>🌕 5 days ago: Merged PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a></li>
-<li>🚀 5 days ago: Opened PR <a href="https://github.com/42core-team/sandbox/pull/28">42core-team/sandbox#28</a>: “Spring cleaning – ”</li>
-<li>💬 5 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/71#issuecomment-3078401571">Reptudn/42_transcendence#71</a>: “Internal server error bei seiten die es nicht gibt…”</li>
-<li>👍 6 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/80">Reptudn/42_transcendence#80</a></li>
-<li>✅ 7 days ago: Closed issue <a href="https://github.com/42core-team/connection/issues/124">42core-team/connection#124</a>: “Spring cleaning – This library is a bit all over t…”</li>
-<li>🌕 7 days ago: Merged PR <a href="https://github.com/42core-team/connection/pull/127">42core-team/connection#127</a></li>
-<li>💬 7 days ago: Commented on issue <a href="https://github.com/42core-team/connection/pull/127#issuecomment-3068560883">42core-team/connection#127</a>: “@PaulicStudios 
-I don't think that's a good call.…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218226918">Reptudn/42_transcendence#81</a>: “Hell yeah dude these are the kinda changes I wanna…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218225570">Reptudn/42_transcendence#81</a>: “Still confused about the powerups. Can this be edi…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218224211">Reptudn/42_transcendence#81</a>: “😂”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218222066">Reptudn/42_transcendence#81</a>: “What?
+Furthermore, why does this file have functi…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218217832">Reptudn/42_transcendence#81</a>: “None of this should need to be done”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218217217">Reptudn/42_transcendence#81</a>: “Why is this still how it works? I thought we agree…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218214154">Reptudn/42_transcendence#81</a>: “I don't think that's necessary. Also please remove…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218211792">Reptudn/42_transcendence#81</a>: “What does this do and how do I get to it?
+
+`{"st…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218210294">Reptudn/42_transcendence#81</a>: “Does this work yet? How can I try it? I can't see …”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218208890">Reptudn/42_transcendence#81</a>: “Why do it like this? Can't this just be loaded by …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
