@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👍 Yesterday: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/81">Reptudn/42_transcendence#81</a></li>
+<li>👍 Yesterday: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/81">Reptudn/42_transcendence#81</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220332661">Reptudn/42_transcendence#81</a>: “Love it way better”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220310356">Reptudn/42_transcendence#81</a>: “I don't think there's any UX benefit here. If you …”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220295090">Reptudn/42_transcendence#81</a>: “😭 Why is it like this. We expose ejs files in the…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220276772">Reptudn/42_transcendence#81</a>: “Please delete it if it doesn't do anything.”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/82#issuecomment-3098717670">Reptudn/42_transcendence#82</a>: “@Reptudn ”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2219693346">Reptudn/42_transcendence#81</a>: “Where else but ts would we be? Exactly we're in ts…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/83">Reptudn/42_transcendence#83</a>: “This issue is an issue – ”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/83#issuecomment-3097447266">Reptudn/42_transcendence#83</a>: “Like I am to your mother's marriage.”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/81#issuecomment-3095507644">Reptudn/42_transcendence#81</a>: “Oh yeah that's alright you don't have to do any DB…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/82#discussion_r2218287376">Reptudn/42_transcendence#82</a>: “Why does the path construction assume 1-based inde…”</li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/82">Reptudn/42_transcendence#82</a>: “Better Backgrounds – - add a few more backgrounds …”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218226918">Reptudn/42_transcendence#81</a>: “Hell yeah dude these are the kinda changes I wanna…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218225570">Reptudn/42_transcendence#81</a>: “Still confused about the powerups. Can this be edi…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218224211">Reptudn/42_transcendence#81</a>: “😂”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2218222066">Reptudn/42_transcendence#81</a>: “What? Furthermore, why does this file have functio…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
