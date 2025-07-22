@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/84#issuecomment-3100845007">Reptudn/42_transcendence#84</a>: “NO this is not the solution this is making it wors…”</li>
 <li>👍 Yesterday: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/81">Reptudn/42_transcendence#81</a></li>
 <li>👍 Yesterday: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/81">Reptudn/42_transcendence#81</a></li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220332661">Reptudn/42_transcendence#81</a>: “Love it way better”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/82#issuecomment-3098717670">Reptudn/42_transcendence#82</a>: “@Reptudn ”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2219693346">Reptudn/42_transcendence#81</a>: “Where else but ts would we be? Exactly we're in ts…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/83">Reptudn/42_transcendence#83</a>: “This issue is an issue – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/83#issuecomment-3097447266">Reptudn/42_transcendence#83</a>: “Like I am to your mother's marriage.”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
