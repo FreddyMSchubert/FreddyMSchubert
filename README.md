@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3110121077">Reptudn/42_transcendence#89</a>: “AIs are broken because playerNbr and playerId are …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/89">Reptudn/42_transcendence#89</a>: “DEATH – killing players must work”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/85#issuecomment-3102285767">Reptudn/42_transcendence#85</a>: “I'm gonna be quick with games ending so you can ge…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/84#issuecomment-3102197191">Reptudn/42_transcendence#84</a>: “@Reptudn Yes, which has big overlaps with backend …”</li>
@@ -47,7 +48,6 @@
 <li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220332661">Reptudn/42_transcendence#81</a>: “Love it way better”</li>
 <li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220310356">Reptudn/42_transcendence#81</a>: “I don't think there's any UX benefit here. If you …”</li>
 <li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220295090">Reptudn/42_transcendence#81</a>: “😭 Why is it like this. We expose ejs files in the…”</li>
-<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/81#discussion_r2220276772">Reptudn/42_transcendence#81</a>: “Please delete it if it doesn't do anything.”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
