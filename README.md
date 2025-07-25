@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/90">Reptudn/42_transcendence#90</a>: “Popup reorder – Makes no sense to have the Popups …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/70#issuecomment-3116498393">Reptudn/42_transcendence#70</a>: “Yeah those may be seperate issues eventually but t…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/70">Reptudn/42_transcendence#70</a>: “Advanced user profiles – - dashboard - user stats …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/40#issuecomment-3116497096">Reptudn/42_transcendence#40</a>: “I guess the issue isn't really necessary. But we s…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/40">Reptudn/42_transcendence#40</a>: “biomejs linting cleanups – ”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/85#issuecomment-3116460537">Reptudn/42_transcendence#85</a>: “@Reptudn Please make it possible to pick AI diffic…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/129#issuecomment-3116397374">42core-team/connection#129</a>: “This is a prerequisite for python bindings for con…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/40#issuecomment-3116394701">Reptudn/42_transcendence#40</a>: “Whenever I'm editing a file I don't leave without …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/50#issuecomment-3116391846">Reptudn/42_transcendence#50</a>: “I think somebody better aware of the project struc…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3114622456">Reptudn/42_transcendence#89</a>: “AI thing is fixed. TODO for this issue do be done:…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/90">Reptudn/42_transcendence#90</a>: “Popup reorder – Makes no sense to have the Popups …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/70#issuecomment-3116498393">Reptudn/42_transcendence#70</a>: “Yeah those may be seperate issues eventually but t…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/70">Reptudn/42_transcendence#70</a>: “Advanced user profiles – - dashboard - user stats …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/40#issuecomment-3116497096">Reptudn/42_transcendence#40</a>: “I guess the issue isn't really necessary. But we s…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/40">Reptudn/42_transcendence#40</a>: “biomejs linting cleanups – ”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/85#issuecomment-3116460537">Reptudn/42_transcendence#85</a>: “@Reptudn Please make it possible to pick AI diffic…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/129#issuecomment-3116397374">42core-team/connection#129</a>: “This is a prerequisite for python bindings for con…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/40#issuecomment-3116394701">Reptudn/42_transcendence#40</a>: “Whenever I'm editing a file I don't leave without …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/50#issuecomment-3116391846">Reptudn/42_transcendence#50</a>: “I think somebody better aware of the project struc…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3114622456">Reptudn/42_transcendence#89</a>: “AI thing is fixed. TODO for this issue do be done:…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
