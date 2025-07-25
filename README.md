@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/90">Reptudn/42_transcendence#90</a>: “Popup reorder – Makes no sense to have the Popups …”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/70#issuecomment-3116498393">Reptudn/42_transcendence#70</a>: “Yeah those may be seperate issues eventually but t…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/70">Reptudn/42_transcendence#70</a>: “Advanced user profiles – - dashboard - user stats …”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/40#issuecomment-3116497096">Reptudn/42_transcendence#40</a>: “I guess the issue isn't really necessary. But we s…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/40">Reptudn/42_transcendence#40</a>: “biomejs linting cleanups – ”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/85#issuecomment-3116460537">Reptudn/42_transcendence#85</a>: “@Reptudn Please make it possible to pick AI diffic…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/129#issuecomment-3116397374">42core-team/connection#129</a>: “This is a prerequisite for python bindings for con…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/40#issuecomment-3116394701">Reptudn/42_transcendence#40</a>: “Whenever I'm editing a file I don't leave without …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/50#issuecomment-3116391846">Reptudn/42_transcendence#50</a>: “I think somebody better aware of the project struc…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3114622456">Reptudn/42_transcendence#89</a>: “AI thing is fixed. TODO for this issue do be done:…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/129">42core-team/connection#129</a>: “rework conn lib to compile sharedly – ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3110121077">Reptudn/42_transcendence#89</a>: “AIs are broken because playerNbr and playerId are …”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/89">Reptudn/42_transcendence#89</a>: “DEATH – killing players must work”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/85#issuecomment-3102285767">Reptudn/42_transcendence#85</a>: “I'm gonna be quick with games ending so you can ge…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/84#issuecomment-3102197191">Reptudn/42_transcendence#84</a>: “@Reptudn Yes, which has big overlaps with backend …”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/84#issuecomment-3100845007">Reptudn/42_transcendence#84</a>: “NO this is not the solution this is making it wors…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
