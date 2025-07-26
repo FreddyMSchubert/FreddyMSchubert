@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117589897">Reptudn/42_transcendence#91</a>: “Can we please readd AI / Local Player names custom…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117525575">Reptudn/42_transcendence#91</a>: “Can we retry before we create the game? This happe…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117513928">Reptudn/42_transcendence#91</a>: “How? Game setup and lobby feel like they're differ…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117506831">Reptudn/42_transcendence#91</a>: “Please rename them to make that clear.”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117454743">Reptudn/42_transcendence#91</a>: “<img width="296" height="60" alt="Image" src="http…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117432182">Reptudn/42_transcendence#91</a>: “<img width="379" height="263" alt="Image" src="htt…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117417271">Reptudn/42_transcendence#91</a>: “<img width="523" height="181" alt="Image" src="htt…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117409692">Reptudn/42_transcendence#91</a>: “SSE still has issues which makes it occur often th…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
