@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/90">Reptudn/42_transcendence#90</a>: “Popup reorder – Makes no sense to have the Popups …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/70#issuecomment-3116498393">Reptudn/42_transcendence#70</a>: “Yeah those may be seperate issues eventually but t…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/70">Reptudn/42_transcendence#70</a>: “Advanced user profiles – - dashboard - user stats …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/40#issuecomment-3116497096">Reptudn/42_transcendence#40</a>: “I guess the issue isn't really necessary. But we s…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/40">Reptudn/42_transcendence#40</a>: “biomejs linting cleanups – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/85#issuecomment-3116460537">Reptudn/42_transcendence#85</a>: “@Reptudn Please make it possible to pick AI diffic…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/129#issuecomment-3116397374">42core-team/connection#129</a>: “This is a prerequisite for python bindings for con…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/40#issuecomment-3116394701">Reptudn/42_transcendence#40</a>: “Whenever I'm editing a file I don't leave without …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/50#issuecomment-3116391846">Reptudn/42_transcendence#50</a>: “I think somebody better aware of the project struc…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3114622456">Reptudn/42_transcendence#89</a>: “AI thing is fixed. TODO for this issue do be done:…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117525575">Reptudn/42_transcendence#91</a>: “Can we retry before we create the game? This happe…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117513928">Reptudn/42_transcendence#91</a>: “How? Game setup and lobby feel like they're differ…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117506831">Reptudn/42_transcendence#91</a>: “Please rename them to make that clear.”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117504888">Reptudn/42_transcendence#91</a>: “You're right. I'll push that fix on the death bran…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117493964">Reptudn/42_transcendence#91</a>: “What's the difference between game_setup and the l…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117486004">Reptudn/42_transcendence#91</a>: “> Players can't always be removed by the owner, as…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117454743">Reptudn/42_transcendence#91</a>: “<img width="296" height="60" alt="Image" src="http…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117432182">Reptudn/42_transcendence#91</a>: “<img width="379" height="263" alt="Image" src="htt…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117417271">Reptudn/42_transcendence#91</a>: “<img width="523" height="181" alt="Image" src="htt…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117409692">Reptudn/42_transcendence#91</a>: “SSE still has issues which makes it occur often th…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
