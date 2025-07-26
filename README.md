@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3117713402">Reptudn/42_transcendence#89</a>: “- [ ] clear ball coloring indicating ownership (la…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117631683">Reptudn/42_transcendence#91</a>: “Can we please readd player id randomization? Curre…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117589897">Reptudn/42_transcendence#91</a>: “Can we please readd AI / Local Player names custom…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117525575">Reptudn/42_transcendence#91</a>: “Can we retry before we create the game? This happe…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117513928">Reptudn/42_transcendence#91</a>: “How? Game setup and lobby feel like they're differ…”</li>
@@ -46,8 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117493964">Reptudn/42_transcendence#91</a>: “What's the difference between game_setup and the l…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117486004">Reptudn/42_transcendence#91</a>: “> Players can't always be removed by the owner, as…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117454743">Reptudn/42_transcendence#91</a>: “<img width="296" height="60" alt="Image" src="http…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117432182">Reptudn/42_transcendence#91</a>: “<img width="379" height="263" alt="Image" src="htt…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117417271">Reptudn/42_transcendence#91</a>: “<img width="523" height="181" alt="Image" src="htt…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
