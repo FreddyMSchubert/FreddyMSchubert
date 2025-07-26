@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/92">Reptudn/42_transcendence#92</a>: “Profile widget – We have lists of other peoples pr…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3118684223">Reptudn/42_transcendence#91</a>: “No playerId are mirrored in the game and the map. …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3117990878">Reptudn/42_transcendence#89</a>: “<img width="585" height="139" alt="Image" src="htt…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3117713402">Reptudn/42_transcendence#89</a>: “- [ ] clear ball coloring indicating ownership (la…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117631683">Reptudn/42_transcendence#91</a>: “Can we please readd player id randomization? Curre…”</li>
@@ -46,8 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117513928">Reptudn/42_transcendence#91</a>: “How? Game setup and lobby feel like they're differ…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117506831">Reptudn/42_transcendence#91</a>: “Please rename them to make that clear.”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117504888">Reptudn/42_transcendence#91</a>: “You're right. I'll push that fix on the death bran…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117493964">Reptudn/42_transcendence#91</a>: “What's the difference between game_setup and the l…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117486004">Reptudn/42_transcendence#91</a>: “> Players can't always be removed by the owner, as…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
