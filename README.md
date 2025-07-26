@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3119188860">Reptudn/42_transcendence#91</a>: “Why can't one lower game difficulty below 2?”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/92#issuecomment-3118840645">Reptudn/42_transcendence#92</a>: “I think besides the design the titles are the most…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/92">Reptudn/42_transcendence#92</a>: “Profile widget – We have lists of other peoples pr…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3118684223">Reptudn/42_transcendence#91</a>: “No playerId are mirrored in the game and the map. …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3117990878">Reptudn/42_transcendence#89</a>: “<img width="585" height="139" alt="Image" src="htt…”</li>
@@ -46,8 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117589897">Reptudn/42_transcendence#91</a>: “Can we please readd AI / Local Player names custom…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117525575">Reptudn/42_transcendence#91</a>: “Can we retry before we create the game? This happe…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117513928">Reptudn/42_transcendence#91</a>: “How? Game setup and lobby feel like they're differ…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117506831">Reptudn/42_transcendence#91</a>: “Please rename them to make that clear.”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117504888">Reptudn/42_transcendence#91</a>: “You're right. I'll push that fix on the death bran…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
