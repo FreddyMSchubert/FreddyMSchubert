@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/94">Reptudn/42_transcendence#94</a>: “Powerups – It's time to get crazy.  - [ ] Phasing …”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231747441">Reptudn/42_transcendence#93</a>: “oh. fair point. 😂”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231744803">Reptudn/42_transcendence#93</a>: “s... same as above”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231744552">Reptudn/42_transcendence#93</a>: “same as above”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231742211">Reptudn/42_transcendence#93</a>: “No the max player count is just inclusive. It's se…”</li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/93">Reptudn/42_transcendence#93</a>: “89 death – - Clear communication of lives to game …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3119188860">Reptudn/42_transcendence#91</a>: “Why can't one lower game difficulty below 2?”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/92#issuecomment-3118840645">Reptudn/42_transcendence#92</a>: “I think besides the design the titles are the most…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/92">Reptudn/42_transcendence#92</a>: “Profile widget – We have lists of other peoples pr…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3118684223">Reptudn/42_transcendence#91</a>: “No playerId are mirrored in the game and the map. …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3117990878">Reptudn/42_transcendence#89</a>: “<img width="585" height="139" alt="Image" src="htt…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3117713402">Reptudn/42_transcendence#89</a>: “- [ ] clear ball coloring indicating ownership (la…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117631683">Reptudn/42_transcendence#91</a>: “Can we please readd player id randomization? Curre…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117589897">Reptudn/42_transcendence#91</a>: “Can we please readd AI / Local Player names custom…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117525575">Reptudn/42_transcendence#91</a>: “Can we retry before we create the game? This happe…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117513928">Reptudn/42_transcendence#91</a>: “How? Game setup and lobby feel like they're differ…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
