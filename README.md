@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3117990878">Reptudn/42_transcendence#89</a>: “<img width="585" height="139" alt="Image" src="htt…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/89#issuecomment-3117713402">Reptudn/42_transcendence#89</a>: “- [ ] clear ball coloring indicating ownership (la…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117631683">Reptudn/42_transcendence#91</a>: “Can we please readd player id randomization? Curre…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117589897">Reptudn/42_transcendence#91</a>: “Can we please readd AI / Local Player names custom…”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117504888">Reptudn/42_transcendence#91</a>: “You're right. I'll push that fix on the death bran…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117493964">Reptudn/42_transcendence#91</a>: “What's the difference between game_setup and the l…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117486004">Reptudn/42_transcendence#91</a>: “> Players can't always be removed by the owner, as…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3117454743">Reptudn/42_transcendence#91</a>: “<img width="296" height="60" alt="Image" src="http…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
