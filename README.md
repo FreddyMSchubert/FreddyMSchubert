@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3122175686">Reptudn/42_transcendence#93</a>: “Another anazing Copilot moment. Please just remove…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3122164479">Reptudn/42_transcendence#93</a>: “Yeah making physics is hard. Feel free to try to i…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/94">Reptudn/42_transcendence#94</a>: “Powerups – It's time to get crazy.  - [ ] Phasing …”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231747441">Reptudn/42_transcendence#93</a>: “oh. fair point. 😂”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231744803">Reptudn/42_transcendence#93</a>: “s... same as above”</li>
@@ -46,8 +48,6 @@
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/93">Reptudn/42_transcendence#93</a>: “89 death – - Clear communication of lives to game …”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3119188860">Reptudn/42_transcendence#91</a>: “Why can't one lower game difficulty below 2?”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/92#issuecomment-3118840645">Reptudn/42_transcendence#92</a>: “I think besides the design the titles are the most…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/92">Reptudn/42_transcendence#92</a>: “Profile widget – We have lists of other peoples pr…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3118684223">Reptudn/42_transcendence#91</a>: “No playerId are mirrored in the game and the map. …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
