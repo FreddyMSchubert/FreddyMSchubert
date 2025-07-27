@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/57">42core-team/even_COREnier#57</a>: “force square grid – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/56#issuecomment-3124001365">42core-team/even_COREnier#56</a>: “@PaulicStudios  And who owns the code? Should I pu…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3123980940">Reptudn/42_transcendence#93</a>: “I don't understand what we'd gain from resetting t…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3122175686">Reptudn/42_transcendence#93</a>: “Another anazing Copilot moment. Please just remove…”</li>
@@ -47,7 +48,6 @@
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231744803">Reptudn/42_transcendence#93</a>: “s... same as above”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231744552">Reptudn/42_transcendence#93</a>: “same as above”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231742211">Reptudn/42_transcendence#93</a>: “No the max player count is just inclusive. It's se…”</li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/93">Reptudn/42_transcendence#93</a>: “89 death – - Clear communication of lives to game …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
