@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/56#issuecomment-3124001365">42core-team/even_COREnier#56</a>: “@PaulicStudios  And who owns the code? Should I pu…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3123980940">Reptudn/42_transcendence#93</a>: “I don't understand what we'd gain from resetting t…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3122175686">Reptudn/42_transcendence#93</a>: “Another anazing Copilot moment. Please just remove…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3122164479">Reptudn/42_transcendence#93</a>: “Yeah making physics is hard. Feel free to try to i…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/94">Reptudn/42_transcendence#94</a>: “Powerups – It's time to get crazy.  - [ ] Phasing …”</li>
@@ -46,8 +48,6 @@
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231744552">Reptudn/42_transcendence#93</a>: “same as above”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/93#discussion_r2231742211">Reptudn/42_transcendence#93</a>: “No the max player count is just inclusive. It's se…”</li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/93">Reptudn/42_transcendence#93</a>: “89 death – - Clear communication of lives to game …”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3119188860">Reptudn/42_transcendence#91</a>: “Why can't one lower game difficulty below 2?”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/92#issuecomment-3118840645">Reptudn/42_transcendence#92</a>: “I think besides the design the titles are the most…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
