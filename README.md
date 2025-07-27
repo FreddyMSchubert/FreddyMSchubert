@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/60">42core-team/even_COREnier#60</a>: “stop saving unnecessary nulls in object array – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/59">42core-team/even_COREnier#59</a>: “rename balance to diamonds consistently everywhere…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/58">42core-team/even_COREnier#58</a>: “speed rename – rename config speed to baseMoveCool…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/pull/130#issuecomment-3124514718">42core-team/connection#130</a>: “Super gut danke dir! Zwei Sachen:  <img width="387…”</li>
@@ -47,7 +48,6 @@
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3123980940">Reptudn/42_transcendence#93</a>: “I don't understand what we'd gain from resetting t…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3122175686">Reptudn/42_transcendence#93</a>: “Another anazing Copilot moment. Please just remove…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3122164479">Reptudn/42_transcendence#93</a>: “Yeah making physics is hard. Feel free to try to i…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/94">Reptudn/42_transcendence#94</a>: “Powerups – It's time to get crazy.  - [ ] Phasing …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
