@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/61">42core-team/even_COREnier#61</a>: “transfer gems to core even if built in – to make t…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/1">42core-team/debug-visualizer#1</a>: “move cooldown tracking & displaying – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/60">42core-team/even_COREnier#60</a>: “stop saving unnecessary nulls in object array – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/59">42core-team/even_COREnier#59</a>: “rename balance to diamonds consistently everywhere…”</li>
@@ -47,7 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/57">42core-team/even_COREnier#57</a>: “force square grid – ”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/56#issuecomment-3124001365">42core-team/even_COREnier#56</a>: “@PaulicStudios  And who owns the code? Should I pu…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3123980940">Reptudn/42_transcendence#93</a>: “I don't understand what we'd gain from resetting t…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3122175686">Reptudn/42_transcendence#93</a>: “Another anazing Copilot moment. Please just remove…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
