@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/66">42core-team/even_COREnier#66</a>: “game config sending directly – right now we parse …”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/47">42core-team/even_COREnier#47</a>: “Change from fixed timing to event based polling – …”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/even_COREnier/pull/65">42core-team/even_COREnier#65</a></li>
+<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/even_COREnier/pull/65">42core-team/even_COREnier#65</a>: “nice dynamic-timed polling. game runs way quicker …”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/64">42core-team/even_COREnier#64</a>: “action parameter naming unification – theres liter…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/63">42core-team/even_COREnier#63</a>: “fix small map sizes buffer overflow – buffer overf…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/62">42core-team/even_COREnier#62</a>: “server config – less args in server input, plus to…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/61">42core-team/even_COREnier#61</a>: “transfer gems to core even if built in – to make t…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/1">42core-team/debug-visualizer#1</a>: “move cooldown tracking & displaying – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/60">42core-team/even_COREnier#60</a>: “stop saving unnecessary nulls in object array – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/59">42core-team/even_COREnier#59</a>: “rename balance to diamonds consistently everywhere…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/58">42core-team/even_COREnier#58</a>: “speed rename – rename config speed to baseMoveCool…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/pull/130#issuecomment-3124514718">42core-team/connection#130</a>: “Super gut danke dir! Zwei Sachen:  <img width="387…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/1">42core-team/debug-visualizer#1</a>: “move cooldown tracking & displaying – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/57">42core-team/even_COREnier#57</a>: “force square grid – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/56#issuecomment-3124001365">42core-team/even_COREnier#56</a>: “@PaulicStudios  And who owns the code? Should I pu…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
