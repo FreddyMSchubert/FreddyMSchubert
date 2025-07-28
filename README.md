@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/57">42core-team/even_COREnier#57</a>: “force square grid – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/62">42core-team/even_COREnier#62</a>: “server config – less args in server input, plus to…”</li>
 <li>🌕 Today: Merged PR <a href="https://github.com/42core-team/even_COREnier/pull/68">42core-team/even_COREnier#68</a></li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/68#issuecomment-3126243650">42core-team/even_COREnier#68</a>: “Whew no comments from copilot thats a first.”</li>
@@ -47,7 +48,6 @@
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/66">42core-team/even_COREnier#66</a>: “game config sending directly – right now we parse …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/56#issuecomment-3125972394">42core-team/even_COREnier#56</a>: “@PaulicStudios 🥹”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/67">42core-team/even_COREnier#67</a>: “remove http functionality – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/67">42core-team/even_COREnier#67</a>: “remove http functionality – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
