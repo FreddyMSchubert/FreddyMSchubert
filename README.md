@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3127079178">Reptudn/42_transcendence#91</a>: “![Image](https://github.com/user-attachments/asset…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127074033">Reptudn/42_transcendence#95</a>: “oh and npm install --production for no unnecessary…”</li>
-<li>👎 Today: Requested changes on PR <a href="https://github.com/Reptudn/42_transcendence/pull/95">Reptudn/42_transcendence#95</a></li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127067860">Reptudn/42_transcendence#95</a>: “Cool. Please consider these refinement suggestions…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3127036106">Reptudn/42_transcendence#93</a>: “<img width="372" height="61" alt="Screenshot 2025-…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3126774521">42core-team/even_COREnier#59</a>: “gems would probably be a better name since its sho…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/57">42core-team/even_COREnier#57</a>: “force square grid – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/62">42core-team/even_COREnier#62</a>: “server config – less args in server input, plus to…”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/even_COREnier/pull/68">42core-team/even_COREnier#68</a></li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/68#issuecomment-3126243650">42core-team/even_COREnier#68</a>: “Whew no comments from copilot thats a first.”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3127079178">Reptudn/42_transcendence#91</a>: “![Image](https://github.com/user-attachments/asset…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127074033">Reptudn/42_transcendence#95</a>: “oh and npm install --production for no unnecessary…”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="https://github.com/Reptudn/42_transcendence/pull/95">Reptudn/42_transcendence#95</a></li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127067860">Reptudn/42_transcendence#95</a>: “Cool. Please consider these refinement suggestions…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3127036106">Reptudn/42_transcendence#93</a>: “<img width="372" height="61" alt="Screenshot 2025-…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3126774521">42core-team/even_COREnier#59</a>: “gems would probably be a better name since its sho…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/57">42core-team/even_COREnier#57</a>: “force square grid – ”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/62">42core-team/even_COREnier#62</a>: “server config – less args in server input, plus to…”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/even_COREnier/pull/68">42core-team/even_COREnier#68</a></li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/68#issuecomment-3126243650">42core-team/even_COREnier#68</a>: “Whew no comments from copilot thats a first.”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
