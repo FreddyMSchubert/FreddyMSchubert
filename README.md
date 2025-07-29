@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/64">42core-team/even_COREnier#64</a>: “action parameter naming unification – theres liter…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/63#issuecomment-3127587674">42core-team/even_COREnier#63</a>: “issue was broken core positions weren't on playing…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/63">42core-team/even_COREnier#63</a>: “fix small map sizes buffer overflow – buffer overf…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3127555771">42core-team/even_COREnier#59</a>: “and resources are ore veins”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127067860">Reptudn/42_transcendence#95</a>: “Cool. Please consider these refinement suggestions…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3127036106">Reptudn/42_transcendence#93</a>: “<img width="372" height="61" alt="Screenshot 2025-…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3126774521">42core-team/even_COREnier#59</a>: “gems would probably be a better name since its sho…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/57">42core-team/even_COREnier#57</a>: “force square grid – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
