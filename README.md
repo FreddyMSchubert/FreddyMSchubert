@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/72">42core-team/even_COREnier#72</a>: “resource income random variation not working, mone…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/71#issuecomment-3132774390">42core-team/even_COREnier#71</a>: “😂 yeah i know im sorry. sandbox was just still on…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/3">42core-team/debug-visualizer#3</a>: “pipeline for dockerimage – ”</li>
 <li>🌕 Today: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/7">42core-team/debug-visualizer#7</a></li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3128023931">42core-team/even_COREnier#59</a>: “nevermind this would take ages not worth it”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/59">42core-team/even_COREnier#59</a>: “rename balance to diamonds consistently everywhere…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3128011907">42core-team/even_COREnier#59</a>: “no ore deposits were not underground”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/58#issuecomment-3128000386">42core-team/even_COREnier#58</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
