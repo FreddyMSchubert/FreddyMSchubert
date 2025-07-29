@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/58#issuecomment-3128000386">42core-team/even_COREnier#58</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/58">42core-team/even_COREnier#58</a>: “speed rename – rename config speed to baseMoveCool…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127963531">Reptudn/42_transcendence#95</a>: “Isn't fixing that easy as moving the fastify line …”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/69">42core-team/even_COREnier#69</a>: “varied initial resource gem counts – make it depen…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/60">42core-team/even_COREnier#60</a>: “stop saving unnecessary nulls in object array – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/69">42core-team/even_COREnier#69</a>: “varied initial resource gem counts – make it depen…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/64">42core-team/even_COREnier#64</a>: “action parameter naming unification – theres liter…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/63#issuecomment-3127587674">42core-team/even_COREnier#63</a>: “issue was broken core positions weren't on playing…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/63">42core-team/even_COREnier#63</a>: “fix small map sizes buffer overflow – buffer overf…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3127555771">42core-team/even_COREnier#59</a>: “and resources are ore veins”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/91#issuecomment-3127079178">Reptudn/42_transcendence#91</a>: “![Image](https://github.com/user-attachments/asset…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127074033">Reptudn/42_transcendence#95</a>: “oh and npm install --production for no unnecessary…”</li>
-<li>👎 Yesterday: Requested changes on PR <a href="https://github.com/Reptudn/42_transcendence/pull/95">Reptudn/42_transcendence#95</a></li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127067860">Reptudn/42_transcendence#95</a>: “Cool. Please consider these refinement suggestions…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
