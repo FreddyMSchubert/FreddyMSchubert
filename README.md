@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/60">42core-team/even_COREnier#60</a>: “stop saving unnecessary nulls in object array – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/69">42core-team/even_COREnier#69</a>: “varied initial resource gem counts – make it depen…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/64">42core-team/even_COREnier#64</a>: “action parameter naming unification – theres liter…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/63#issuecomment-3127587674">42core-team/even_COREnier#63</a>: “issue was broken core positions weren't on playing…”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127074033">Reptudn/42_transcendence#95</a>: “oh and npm install --production for no unnecessary…”</li>
 <li>👎 Yesterday: Requested changes on PR <a href="https://github.com/Reptudn/42_transcendence/pull/95">Reptudn/42_transcendence#95</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127067860">Reptudn/42_transcendence#95</a>: “Cool. Please consider these refinement suggestions…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/93#issuecomment-3127036106">Reptudn/42_transcendence#93</a>: “<img width="372" height="61" alt="Screenshot 2025-…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
