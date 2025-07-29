@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3128023931">42core-team/even_COREnier#59</a>: “nevermind this would take ages not worth it”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/59">42core-team/even_COREnier#59</a>: “rename balance to diamonds consistently everywhere…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3128011907">42core-team/even_COREnier#59</a>: “no ore deposits were not underground”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/58#issuecomment-3128000386">42core-team/even_COREnier#58</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/58">42core-team/even_COREnier#58</a>: “speed rename – rename config speed to baseMoveCool…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/95#issuecomment-3127963531">Reptudn/42_transcendence#95</a>: “Isn't fixing that easy as moving the fastify line …”</li>
@@ -45,9 +48,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/60">42core-team/even_COREnier#60</a>: “stop saving unnecessary nulls in object array – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/69">42core-team/even_COREnier#69</a>: “varied initial resource gem counts – make it depen…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/64">42core-team/even_COREnier#64</a>: “action parameter naming unification – theres liter…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/63#issuecomment-3127587674">42core-team/even_COREnier#63</a>: “issue was broken core positions weren't on playing…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/63">42core-team/even_COREnier#63</a>: “fix small map sizes buffer overflow – buffer overf…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3127555771">42core-team/even_COREnier#59</a>: “and resources are ore veins”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
