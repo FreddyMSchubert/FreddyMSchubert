@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/7#issuecomment-3133770431">42core-team/debug-visualizer#7</a>: “In the 1 man CORE gameplay team we don't do pull r…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/2">42core-team/debug-visualizer#2</a>: “no capitalization in paths – folders in assets/uni…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/4">42core-team/debug-visualizer#4</a>: “ability to drag and drop replay file into browser …”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/5">42core-team/debug-visualizer#5</a>: “ability to give a replay id into the url path – In…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/5#issuecomment-3133708858">42core-team/debug-visualizer#5</a>: “I'm gonna assume that works and close this. Reopen…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/4#issuecomment-3133640863">42core-team/debug-visualizer#4</a>: “I think the complexity of making it possible to go…”</li>
@@ -45,9 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/5#issuecomment-3133609195">42core-team/debug-visualizer#5</a>: “path is now specifiable with something like http:/…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/my-core-bot/pull/28#issuecomment-3133564799">42core-team/my-core-bot#28</a>: “why is copilot hating on my temporary testing code…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/72">42core-team/even_COREnier#72</a>: “resource income random variation not working, mone…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/71#issuecomment-3132774390">42core-team/even_COREnier#71</a>: “😂 yeah i know im sorry. sandbox was just still on…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/3">42core-team/debug-visualizer#3</a>: “pipeline for dockerimage – ”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/7">42core-team/debug-visualizer#7</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
