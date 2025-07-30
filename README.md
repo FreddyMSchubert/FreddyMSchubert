@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/74">42core-team/even_COREnier#74</a>: “move cooldown seems fully broken, idk why – lookin…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/73">42core-team/even_COREnier#73</a>: “replay place feature broken – place is just 0 for …”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/9">42core-team/debug-visualizer#9</a>: “differently sized replay files – adding one after …”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/73">42core-team/even_COREnier#73</a>: “replay place feature broken – place is just 0 for …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/7#issuecomment-3133770431">42core-team/debug-visualizer#7</a>: “In the 1 man CORE gameplay team we don't do pull r…”</li>
@@ -46,8 +48,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/5">42core-team/debug-visualizer#5</a>: “ability to give a replay id into the url path – In…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/5#issuecomment-3133708858">42core-team/debug-visualizer#5</a>: “I'm gonna assume that works and close this. Reopen…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/4#issuecomment-3133640863">42core-team/debug-visualizer#4</a>: “I think the complexity of making it possible to go…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/5#issuecomment-3133619210">42core-team/debug-visualizer#5</a>: “i noticed, that is a terrible example. this also w…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/5#issuecomment-3133609195">42core-team/debug-visualizer#5</a>: “path is now specifiable with something like http:/…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
