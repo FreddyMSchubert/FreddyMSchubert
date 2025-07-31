@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/77">42core-team/even_COREnier#77</a>: “world generator seed in replay – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/57">Reptudn/42_transcendence#57</a>: “update README – show how far we are and whet we ac…”</li>
 <li>🌕 Today: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/105">Reptudn/42_transcendence#105</a></li>
 <li>👍 Today: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/105">Reptudn/42_transcendence#105</a></li>
@@ -47,7 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/74">42core-team/even_COREnier#74</a>: “move cooldown seems fully broken, idk why – lookin…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/73">42core-team/even_COREnier#73</a>: “replay place feature broken – place is just 0 for …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/9">42core-team/debug-visualizer#9</a>: “differently sized replay files – adding one after …”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/73">42core-team/even_COREnier#73</a>: “replay place feature broken – place is just 0 for …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
