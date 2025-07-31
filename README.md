@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/99#issuecomment-3135938373">Reptudn/42_transcendence#99</a>: “I think the lobby just needs to be able to handle …”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/74">42core-team/even_COREnier#74</a>: “move cooldown seems fully broken, idk why – lookin…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/72">42core-team/even_COREnier#72</a>: “resource income random variation not working, mone…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/74">42core-team/even_COREnier#74</a>: “move cooldown seems fully broken, idk why – lookin…”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/7#issuecomment-3133770431">42core-team/debug-visualizer#7</a>: “In the 1 man CORE gameplay team we don't do pull r…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/2">42core-team/debug-visualizer#2</a>: “no capitalization in paths – folders in assets/uni…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/4">42core-team/debug-visualizer#4</a>: “ability to drag and drop replay file into browser …”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/5">42core-team/debug-visualizer#5</a>: “ability to give a replay id into the url path – In…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
