@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/57">Reptudn/42_transcendence#57</a>: “update README – show how far we are and whet we ac…”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/105">Reptudn/42_transcendence#105</a></li>
+<li>👍 Today: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/105">Reptudn/42_transcendence#105</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/99#issuecomment-3135938373">Reptudn/42_transcendence#99</a>: “I think the lobby just needs to be able to handle …”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/74">42core-team/even_COREnier#74</a>: “move cooldown seems fully broken, idk why – lookin…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/72">42core-team/even_COREnier#72</a>: “resource income random variation not working, mone…”</li>
@@ -45,9 +48,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/73">42core-team/even_COREnier#73</a>: “replay place feature broken – place is just 0 for …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/9">42core-team/debug-visualizer#9</a>: “differently sized replay files – adding one after …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/73">42core-team/even_COREnier#73</a>: “replay place feature broken – place is just 0 for …”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/7#issuecomment-3133770431">42core-team/debug-visualizer#7</a>: “In the 1 man CORE gameplay team we don't do pull r…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/2">42core-team/debug-visualizer#2</a>: “no capitalization in paths – folders in assets/uni…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/4">42core-team/debug-visualizer#4</a>: “ability to drag and drop replay file into browser …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
