@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/78">42core-team/even_COREnier#78</a>: “only send obj diff to clients – like in replay”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/connection/issues/131">42core-team/connection#131</a>: “core_get_myTeamId – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/75">42core-team/even_COREnier#75</a>: “mined resources should drop money on floor – inste…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/77">42core-team/even_COREnier#77</a>: “world generator seed in replay – ”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/99#issuecomment-3135938373">Reptudn/42_transcendence#99</a>: “I think the lobby just needs to be able to handle …”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/74">42core-team/even_COREnier#74</a>: “move cooldown seems fully broken, idk why – lookin…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/72">42core-team/even_COREnier#72</a>: “resource income random variation not working, mone…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/74">42core-team/even_COREnier#74</a>: “move cooldown seems fully broken, idk why – lookin…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
