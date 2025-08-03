@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/11">42core-team/debug-visualizer#11</a>: “tooltip updating live while game is running every …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/78#issuecomment-3148218242">42core-team/even_COREnier#78</a>: “30ms sounds like it's very little, but a game may …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/78#issuecomment-3148209161">42core-team/even_COREnier#78</a>: “Currently a tick takes 30ms. 1 ms is data transfer…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/10">42core-team/debug-visualizer#10</a>: “incompatible debug visualizer version alert – ”</li>
@@ -47,7 +48,6 @@
 <li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/even_COREnier/pull/80">42core-team/even_COREnier#80</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3146748925">42core-team/even_COREnier#80</a>: “Two questions: 1. Why start off the processes from…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/even_COREnier/pull/80#discussion_r2249416041">42core-team/even_COREnier#80</a>: “Yeah again we have a better setup for this”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/even_COREnier/pull/80#discussion_r2249414857">42core-team/even_COREnier#80</a>: “@PaulicStudios Does Copilot have a point? The team…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
