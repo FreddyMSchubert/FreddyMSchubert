@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/even_COREnier/pull/80#discussion_r2249933619">42core-team/even_COREnier#80</a>: “ok. no idea how you can maliciously escape the rab…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/81">42core-team/even_COREnier#81</a>: “sanitize teamnames – they could break json etc whi…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3148350252">42core-team/even_COREnier#80</a>: “Haven't we already swallowed that bullet though? T…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/even_COREnier/pull/80#discussion_r2249930306">42core-team/even_COREnier#80</a>: “Yes but the teams provide the team names sooo....”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/11">42core-team/debug-visualizer#11</a>: “tooltip updating live while game is running every …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/78#issuecomment-3148218242">42core-team/even_COREnier#78</a>: “30ms sounds like it's very little, but a game may …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/78#issuecomment-3148209161">42core-team/even_COREnier#78</a>: “Currently a tick takes 30ms. 1 ms is data transfer…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/10">42core-team/debug-visualizer#10</a>: “incompatible debug visualizer version alert – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/107#issuecomment-3146786333">Reptudn/42_transcendence#107</a>: “wow thanks lovely”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/79#issuecomment-3146752286">42core-team/even_COREnier#79</a>: “Is this a duplicate issue? https://github.com/42co…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/107#issuecomment-3146751674">Reptudn/42_transcendence#107</a>: “How does the edit profile button relate to friends…”</li>
-<li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/even_COREnier/pull/80">42core-team/even_COREnier#80</a></li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3146748925">42core-team/even_COREnier#80</a>: “Two questions: 1. Why start off the processes from…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/even_COREnier/pull/80#discussion_r2249416041">42core-team/even_COREnier#80</a>: “Yeah again we have a better setup for this”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
