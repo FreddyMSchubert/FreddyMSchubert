@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/132#issuecomment-3148424097">42core-team/connection#132</a>: “The bots as started by the server get the team ids…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3148422291">42core-team/even_COREnier#80</a>: “Yes the server config should also be tweakable lik…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3148404907">42core-team/even_COREnier#80</a>: “Ok but then seriously. We need timeout tweakabilit…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/132#issuecomment-3148402906">42core-team/connection#132</a>: “s... s... server config? 🥺🥺🥺”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/81#issuecomment-3148402335">42core-team/even_COREnier#81</a>: “Good call. Will do. 👍”</li>
@@ -46,8 +48,6 @@
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3148350252">42core-team/even_COREnier#80</a>: “Haven't we already swallowed that bullet though? T…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/even_COREnier/pull/80#discussion_r2249930306">42core-team/even_COREnier#80</a>: “Yes but the teams provide the team names sooo....”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/11">42core-team/debug-visualizer#11</a>: “tooltip updating live while game is running every …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/78#issuecomment-3148218242">42core-team/even_COREnier#78</a>: “30ms sounds like it's very little, but a game may …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/78#issuecomment-3148209161">42core-team/even_COREnier#78</a>: “Currently a tick takes 30ms. 1 ms is data transfer…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
