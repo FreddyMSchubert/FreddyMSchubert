@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/107#issuecomment-3146786333">Reptudn/42_transcendence#107</a>: “wow thanks lovely”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/79#issuecomment-3146752286">42core-team/even_COREnier#79</a>: “Is this a duplicate issue? https://github.com/42co…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/107#issuecomment-3146751674">Reptudn/42_transcendence#107</a>: “How does the edit profile button relate to friends…”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/even_COREnier/pull/80">42core-team/even_COREnier#80</a></li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3146748925">42core-team/even_COREnier#80</a>: “Two questions: 1. Why start off the processes from…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/even_COREnier/pull/80#discussion_r2249416041">42core-team/even_COREnier#80</a>: “Yeah again we have a better setup for this”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/even_COREnier/pull/80#discussion_r2249414857">42core-team/even_COREnier#80</a>: “@PaulicStudios Does Copilot have a point? The team…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/78">42core-team/even_COREnier#78</a>: “only send obj diff to clients – like in replay”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/connection/issues/131">42core-team/connection#131</a>: “core_get_myTeamId – ”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/75">42core-team/even_COREnier#75</a>: “mined resources should drop money on floor – inste…”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/77">42core-team/even_COREnier#77</a>: “world generator seed in replay – ”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/57">Reptudn/42_transcendence#57</a>: “update README – show how far we are and whet we ac…”</li>
-<li>🌕 3 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/105">Reptudn/42_transcendence#105</a></li>
-<li>👍 3 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/105">Reptudn/42_transcendence#105</a></li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/99#issuecomment-3135938373">Reptudn/42_transcendence#99</a>: “I think the lobby just needs to be able to handle …”</li>
-<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/74">42core-team/even_COREnier#74</a>: “move cooldown seems fully broken, idk why – lookin…”</li>
-<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/72">42core-team/even_COREnier#72</a>: “resource income random variation not working, mone…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
