@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/109#issuecomment-3149701603">Reptudn/42_transcendence#109</a>: “powerups gotta be done first. also some are stupid…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/issues/79#issuecomment-3148623969">42core-team/website_relaunch#79</a>: “<img width="270" height="129" alt="Image" src="htt…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/81">42core-team/even_COREnier#81</a>: “sanitize teamnames – they could break json etc whi…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/11">42core-team/debug-visualizer#11</a>: “tooltip updating live while game is running every …”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3148422291">42core-team/even_COREnier#80</a>: “Yes the server config should also be tweakable lik…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/pull/80#issuecomment-3148404907">42core-team/even_COREnier#80</a>: “Ok but then seriously. We need timeout tweakabilit…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/132#issuecomment-3148402906">42core-team/connection#132</a>: “s... s... server config? 🥺🥺🥺”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/81#issuecomment-3148402335">42core-team/even_COREnier#81</a>: “Good call. Will do. 👍”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
