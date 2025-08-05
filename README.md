@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/112#issuecomment-3152160182">Reptudn/42_transcendence#112</a>: “Very likely same cause as https://github.com/Reptu…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/101#issuecomment-3152157097">Reptudn/42_transcendence#101</a>: “Yeah it's anyone who has an inconsistent player id…”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
+<li>👍 Yesterday: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/133">42core-team/connection#133</a>: “non-enum unit types – so making code changes is no…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/131">42core-team/connection#131</a>: “core_get_myTeamId – ”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/56#issuecomment-3151022947">42core-team/even_COREnier#56</a>: “@PaulicStudios 🥹”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/109#issuecomment-3149701603">Reptudn/42_transcendence#109</a>: “powerups gotta be done first. also some are stupid…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/issues/79#issuecomment-3148623969">42core-team/website_relaunch#79</a>: “<img width="270" height="129" alt="Image" src="htt…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/81">42core-team/even_COREnier#81</a>: “sanitize teamnames – they could break json etc whi…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/11">42core-team/debug-visualizer#11</a>: “tooltip updating live while game is running every …”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/83">42core-team/even_COREnier#83</a>: “game id replay – ”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/83">42core-team/even_COREnier#83</a>: “game id replay – ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/connection/issues/132#issuecomment-3148424097">42core-team/connection#132</a>: “The bots as started by the server get the team ids…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
