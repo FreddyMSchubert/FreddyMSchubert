@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/85">42core-team/even_COREnier#85</a>: “send errors back to clients – when an action fails…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/84">42core-team/even_COREnier#84</a>: “clients can disconnect without placed in replay – …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/112#issuecomment-3152160182">Reptudn/42_transcendence#112</a>: “Very likely same cause as https://github.com/Reptu…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/101#issuecomment-3152157097">Reptudn/42_transcendence#101</a>: “Yeah it's anyone who has an inconsistent player id…”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
-<li>👍 Yesterday: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/133">42core-team/connection#133</a>: “non-enum unit types – so making code changes is no…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/131">42core-team/connection#131</a>: “core_get_myTeamId – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/56#issuecomment-3151022947">42core-team/even_COREnier#56</a>: “@PaulicStudios 🥹”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/109#issuecomment-3149701603">Reptudn/42_transcendence#109</a>: “powerups gotta be done first. also some are stupid…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/85">42core-team/even_COREnier#85</a>: “send errors back to clients – when an action fails…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/84">42core-team/even_COREnier#84</a>: “clients can disconnect without placed in replay – …”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/112#issuecomment-3152160182">Reptudn/42_transcendence#112</a>: “Very likely same cause as https://github.com/Reptu…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/101#issuecomment-3152157097">Reptudn/42_transcendence#101</a>: “Yeah it's anyone who has an inconsistent player id…”</li>
+<li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
+<li>👍 2 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/connection/issues/133">42core-team/connection#133</a>: “non-enum unit types – so making code changes is no…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/connection/issues/131">42core-team/connection#131</a>: “core_get_myTeamId – ”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/56#issuecomment-3151022947">42core-team/even_COREnier#56</a>: “@PaulicStudios 🥹”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/109#issuecomment-3149701603">Reptudn/42_transcendence#109</a>: “powerups gotta be done first. also some are stupid…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
