@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3157674783">42core-team/connection#135</a>: “<img width="929" height="57" alt="Image" src="http…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/connection/issues/135">42core-team/connection#135</a>: “functions clearer – - [x] specify what happens if …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3157587997">42core-team/connection#135</a>: “<img width="407" height="99" alt="Image" src="http…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/88#issuecomment-3157335269">42core-team/even_COREnier#88</a>: “Ah but yeah you gotta provide a seed I don't want …”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/88">42core-team/even_COREnier#88</a>: “dev branches not working as seed is not specified …”</li>
@@ -46,8 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/84">42core-team/even_COREnier#84</a>: “clients can disconnect without placed in replay – …”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/112#issuecomment-3152160182">Reptudn/42_transcendence#112</a>: “Very likely same cause as https://github.com/Reptu…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/101#issuecomment-3152157097">Reptudn/42_transcendence#101</a>: “Yeah it's anyone who has an inconsistent player id…”</li>
-<li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
-<li>👍 2 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
