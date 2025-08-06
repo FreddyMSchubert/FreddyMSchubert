@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3157587997">42core-team/connection#135</a>: “<img width="407" height="99" alt="Image" src="http…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/88#issuecomment-3157335269">42core-team/even_COREnier#88</a>: “Ah but yeah you gotta provide a seed I don't want …”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/88">42core-team/even_COREnier#88</a>: “dev branches not working as seed is not specified …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/88#issuecomment-3157323898">42core-team/even_COREnier#88</a>: “Just put a 1. Seed 1 is hardcoded to pick smth ran…”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/101#issuecomment-3152157097">Reptudn/42_transcendence#101</a>: “Yeah it's anyone who has an inconsistent player id…”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
 <li>👍 2 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/111">Reptudn/42_transcendence#111</a></li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/connection/issues/133">42core-team/connection#133</a>: “non-enum unit types – so making code changes is no…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
