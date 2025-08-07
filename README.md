@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/15#issuecomment-3161413883">42core-team/debug-visualizer#15</a>: “Yeah should be good. Will test tomorrow then merge…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3161411498">42core-team/connection#135</a>: “Das obere steht da schon. Das untere nein dafür gi…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/15#issuecomment-3161280776">42core-team/debug-visualizer#15</a>: “setup renderer doesnt get called again when a new …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3161166062">42core-team/even_COREnier#59</a>: “Nevermind its so worth it if I name the moneys 'Co…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/14">42core-team/debug-visualizer#14</a>: “fix fireworks accumulating when in different tab –…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/84">42core-team/even_COREnier#84</a>: “clients can disconnect without placed in replay – …”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/13">42core-team/debug-visualizer#13</a>: “dont refresh svg when game is paused – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/133#issuecomment-3160928918">42core-team/connection#133</a>: “NO  we use the string names of the units instead i…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/132#issuecomment-3157848640">42core-team/connection#132</a>: “Lemme rephrase, you know what repo gets started wi…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/85">42core-team/even_COREnier#85</a>: “send errors back to clients – when an action fails…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/15#issuecomment-3161413883">42core-team/debug-visualizer#15</a>: “Yeah should be good. Will test tomorrow then merge…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3161411498">42core-team/connection#135</a>: “Das obere steht da schon. Das untere nein dafür gi…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/15#issuecomment-3161280776">42core-team/debug-visualizer#15</a>: “setup renderer doesnt get called again when a new …”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3161166062">42core-team/even_COREnier#59</a>: “Nevermind its so worth it if I name the moneys 'Co…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/14">42core-team/debug-visualizer#14</a>: “fix fireworks accumulating when in different tab –…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/84">42core-team/even_COREnier#84</a>: “clients can disconnect without placed in replay – …”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/13">42core-team/debug-visualizer#13</a>: “dont refresh svg when game is paused – ”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/connection/issues/133#issuecomment-3160928918">42core-team/connection#133</a>: “NO  we use the string names of the units instead i…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/connection/issues/132#issuecomment-3157848640">42core-team/connection#132</a>: “Lemme rephrase, you know what repo gets started wi…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/85">42core-team/even_COREnier#85</a>: “send errors back to clients – when an action fails…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
