@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/15#issuecomment-3161413883">42core-team/debug-visualizer#15</a>: “Yeah should be good. Will test tomorrow then merge…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3161411498">42core-team/connection#135</a>: “Das obere steht da schon. Das untere nein dafür gi…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/15#issuecomment-3161280776">42core-team/debug-visualizer#15</a>: “setup renderer doesnt get called again when a new …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3161166062">42core-team/even_COREnier#59</a>: “Nevermind its so worth it if I name the moneys 'Co…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/14">42core-team/debug-visualizer#14</a>: “fix fireworks accumulating when in different tab –…”</li>
@@ -46,8 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/133#issuecomment-3160928918">42core-team/connection#133</a>: “NO  we use the string names of the units instead i…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/132#issuecomment-3157848640">42core-team/connection#132</a>: “Lemme rephrase, you know what repo gets started wi…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/85">42core-team/even_COREnier#85</a>: “send errors back to clients – when an action fails…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3157674783">42core-team/connection#135</a>: “<img width="929" height="57" alt="Image" src="http…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/135">42core-team/connection#135</a>: “functions clearer – - [x] specify what happens if …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
