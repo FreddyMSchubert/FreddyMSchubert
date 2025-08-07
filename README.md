@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/15#issuecomment-3161280776">42core-team/debug-visualizer#15</a>: “setup renderer doesnt get called again when a new …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3161166062">42core-team/even_COREnier#59</a>: “Nevermind its so worth it if I name the moneys 'Co…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/14">42core-team/debug-visualizer#14</a>: “fix fireworks accumulating when in different tab –…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/84">42core-team/even_COREnier#84</a>: “clients can disconnect without placed in replay – …”</li>
@@ -47,7 +48,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/85">42core-team/even_COREnier#85</a>: “send errors back to clients – when an action fails…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3157674783">42core-team/connection#135</a>: “<img width="929" height="57" alt="Image" src="http…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/135">42core-team/connection#135</a>: “functions clearer – - [x] specify what happens if …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3157587997">42core-team/connection#135</a>: “<img width="407" height="99" alt="Image" src="http…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
