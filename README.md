@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/137">42core-team/connection#137</a>: “rename move cooldown to action cooldown – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/136">42core-team/connection#136</a>: “move cooldown correct representation on client – r…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/15">42core-team/debug-visualizer#15</a></li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/15#issuecomment-3161413883">42core-team/debug-visualizer#15</a>: “Yeah should be good. Will test tomorrow then merge…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/connection/issues/135#issuecomment-3161411498">42core-team/connection#135</a>: “Das obere steht da schon. Das untere nein dafür gi…”</li>
@@ -46,8 +48,6 @@
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/14">42core-team/debug-visualizer#14</a>: “fix fireworks accumulating when in different tab –…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/84">42core-team/even_COREnier#84</a>: “clients can disconnect without placed in replay – …”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/13">42core-team/debug-visualizer#13</a>: “dont refresh svg when game is paused – ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/connection/issues/133#issuecomment-3160928918">42core-team/connection#133</a>: “NO  we use the string names of the units instead i…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/connection/issues/132#issuecomment-3157848640">42core-team/connection#132</a>: “Lemme rephrase, you know what repo gets started wi…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
