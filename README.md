@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/93">42core-team/even_COREnier#93</a>: “idea: bomb chain reactions – dont make spawned bon…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/137">42core-team/connection#137</a>: “rename move cooldown to action cooldown – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/136">42core-team/connection#136</a>: “move cooldown correct representation on client – r…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/15">42core-team/debug-visualizer#15</a></li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/59#issuecomment-3161166062">42core-team/even_COREnier#59</a>: “Nevermind its so worth it if I name the moneys 'Co…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/14">42core-team/debug-visualizer#14</a>: “fix fireworks accumulating when in different tab –…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/84">42core-team/even_COREnier#84</a>: “clients can disconnect without placed in replay – …”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/13">42core-team/debug-visualizer#13</a>: “dont refresh svg when game is paused – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
