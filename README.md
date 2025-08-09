@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/23#issuecomment-3172003890">42core-team/sandbox#23</a>: “eh not really necessary @Peu77 says he can do it w…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/sandbox/issues/23">42core-team/sandbox#23</a>: “make battle should take the other bots name as arg…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/92#issuecomment-3171882063">42core-team/even_COREnier#92</a>: “done wheeeee”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/92">42core-team/even_COREnier#92</a>: “units without movecooldown can move multiple times…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/94#issuecomment-3170734975">42core-team/even_COREnier#94</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/138#issuecomment-3170725713">42core-team/connection#138</a>: “cant reproduce seems to work. all good”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/connection/issues/138">42core-team/connection#138</a>: “unit balance not correctly parsed – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/connection/issues/136">42core-team/connection#136</a>: “move cooldown correct representation on client – r…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/23#issuecomment-3172003890">42core-team/sandbox#23</a>: “eh not really necessary @Peu77 says he can do it w…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/sandbox/issues/23">42core-team/sandbox#23</a>: “make battle should take the other bots name as arg…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/92#issuecomment-3171882063">42core-team/even_COREnier#92</a>: “done wheeeee”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/92">42core-team/even_COREnier#92</a>: “units without movecooldown can move multiple times…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/94#issuecomment-3170734975">42core-team/even_COREnier#94</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/138#issuecomment-3170725713">42core-team/connection#138</a>: “cant reproduce seems to work. all good”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/138">42core-team/connection#138</a>: “unit balance not correctly parsed – ”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/136">42core-team/connection#136</a>: “move cooldown correct representation on client – r…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
