@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/92#issuecomment-3171882063">42core-team/even_COREnier#92</a>: “done wheeeee”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/92">42core-team/even_COREnier#92</a>: “units without movecooldown can move multiple times…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/94#issuecomment-3170734975">42core-team/even_COREnier#94</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/138#issuecomment-3170725713">42core-team/connection#138</a>: “cant reproduce seems to work. all good”</li>
@@ -46,8 +48,6 @@
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/137#issuecomment-3170710501">42core-team/connection#137</a>: “can wait until after rush”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/pyConn/issues/1">42core-team/pyConn#1</a>: “rework conn lib to compile sharedly – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/9">42core-team/debug-visualizer#9</a>: “differently sized replay files – adding one after …”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/16">42core-team/debug-visualizer#16</a>: “check if names are correctly updated if new replay…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
