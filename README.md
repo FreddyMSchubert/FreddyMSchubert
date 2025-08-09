@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/94#issuecomment-3170734975">42core-team/even_COREnier#94</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/138#issuecomment-3170725713">42core-team/connection#138</a>: “cant reproduce seems to work. all good”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/connection/issues/138">42core-team/connection#138</a>: “unit balance not correctly parsed – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/connection/issues/136">42core-team/connection#136</a>: “move cooldown correct representation on client – r…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/137#issuecomment-3170710501">42core-team/connection#137</a>: “can wait until after rush”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/pyConn/issues/1">42core-team/pyConn#1</a>: “rework conn lib to compile sharedly – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/9">42core-team/debug-visualizer#9</a>: “differently sized replay files – adding one after …”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/16">42core-team/debug-visualizer#16</a>: “check if names are correctly updated if new replay…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/10">42core-team/debug-visualizer#10</a>: “incompatible replay version alert – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/13">42core-team/debug-visualizer#13</a>: “dont refresh svg when game is paused – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/17">42core-team/debug-visualizer#17</a>: “cores look the same – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/14">42core-team/debug-visualizer#14</a>: “fix fireworks accumulating when in different tab –…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/18">42core-team/debug-visualizer#18</a>: “change browser tab title and favicon – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
