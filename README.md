@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/119#issuecomment-3172635622">Reptudn/42_transcendence#119</a>: “I think every player name has a color (RGBY) no ma…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/89#issuecomment-3172565685">42core-team/even_COREnier#89</a>: “cant reproduce seems fine”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/89">42core-team/even_COREnier#89</a>: “not all units listed in tean results when game end…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/23#issuecomment-3172003890">42core-team/sandbox#23</a>: “eh not really necessary @Peu77 says he can do it w…”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/94#issuecomment-3170734975">42core-team/even_COREnier#94</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/138#issuecomment-3170725713">42core-team/connection#138</a>: “cant reproduce seems to work. all good”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/138">42core-team/connection#138</a>: “unit balance not correctly parsed – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
