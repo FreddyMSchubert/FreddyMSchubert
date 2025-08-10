@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/89#issuecomment-3172565685">42core-team/even_COREnier#89</a>: “cant reproduce seems fine”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/89">42core-team/even_COREnier#89</a>: “not all units listed in tean results when game end…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/23#issuecomment-3172003890">42core-team/sandbox#23</a>: “eh not really necessary @Peu77 says he can do it w…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/sandbox/issues/23">42core-team/sandbox#23</a>: “make battle should take the other bots name as arg…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/92#issuecomment-3171882063">42core-team/even_COREnier#92</a>: “done wheeeee”</li>
@@ -46,8 +48,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/138#issuecomment-3170725713">42core-team/connection#138</a>: “cant reproduce seems to work. all good”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/138">42core-team/connection#138</a>: “unit balance not correctly parsed – ”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/136">42core-team/connection#136</a>: “move cooldown correct representation on client – r…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
