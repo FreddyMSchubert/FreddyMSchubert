@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309444">Reptudn/42_transcendence#120</a>: “no but this is just blatantly wrong from copilot t…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309012">Reptudn/42_transcendence#120</a>: “Yeah i think it was wrong it must be compared to t…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265307156">Reptudn/42_transcendence#120</a>: “Huh? no. That's why there's a wrapping ! block. Th…”</li>
+<li>🚀 Today: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/120">Reptudn/42_transcendence#120</a>: “fix minor player management issues - #101 & #112 –…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/119#issuecomment-3172635622">Reptudn/42_transcendence#119</a>: “I think every player name has a color (RGBY) no ma…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/89#issuecomment-3172565685">42core-team/even_COREnier#89</a>: “cant reproduce seems fine”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/89">42core-team/even_COREnier#89</a>: “not all units listed in tean results when game end…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/23#issuecomment-3172003890">42core-team/sandbox#23</a>: “eh not really necessary @Peu77 says he can do it w…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/sandbox/issues/23">42core-team/sandbox#23</a>: “make battle should take the other bots name as arg…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/92#issuecomment-3171882063">42core-team/even_COREnier#92</a>: “done wheeeee”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/92">42core-team/even_COREnier#92</a>: “units without movecooldown can move multiple times…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/94#issuecomment-3170734975">42core-team/even_COREnier#94</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/94">42core-team/even_COREnier#94</a>: “attackaction dont encode dmg – its unnecessary”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/138#issuecomment-3170725713">42core-team/connection#138</a>: “cant reproduce seems to work. all good”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
