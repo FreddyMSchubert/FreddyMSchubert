@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/19#issuecomment-3174026474">42core-team/debug-visualizer#19</a>: “This should have fixed it, would be very surprised…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/19">42core-team/debug-visualizer#19</a>: “when a replay from s3 is being fetched it first di…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/18#issuecomment-3173982964">42core-team/debug-visualizer#18</a>: “<img width="188" height="451" alt="Image" src="htt…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309444">Reptudn/42_transcendence#120</a>: “no but this is just blatantly wrong from copilot t…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309012">Reptudn/42_transcendence#120</a>: “Yeah i think it was wrong it must be compared to t…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265307156">Reptudn/42_transcendence#120</a>: “Huh? no. That's why there's a wrapping ! block. Th…”</li>
@@ -45,9 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/119#issuecomment-3172635622">Reptudn/42_transcendence#119</a>: “I think every player name has a color (RGBY) no ma…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/89#issuecomment-3172565685">42core-team/even_COREnier#89</a>: “cant reproduce seems fine”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/89">42core-team/even_COREnier#89</a>: “not all units listed in tean results when game end…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/23#issuecomment-3172003890">42core-team/sandbox#23</a>: “eh not really necessary @Peu77 says he can do it w…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/sandbox/issues/23">42core-team/sandbox#23</a>: “make battle should take the other bots name as arg…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/92#issuecomment-3171882063">42core-team/even_COREnier#92</a>: “done wheeeee”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
