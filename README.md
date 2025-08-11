@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/95">42core-team/even_COREnier#95</a>: “wrong game end reason reporting – ``` AddressSanit…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/139">42core-team/connection#139</a>: “print functions signature changes – right now its …”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/connection/pull/130">42core-team/connection#130</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/19#issuecomment-3174026474">42core-team/debug-visualizer#19</a>: “This should have fixed it, would be very surprised…”</li>
@@ -47,7 +48,6 @@
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309012">Reptudn/42_transcendence#120</a>: “Yeah i think it was wrong it must be compared to t…”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265307156">Reptudn/42_transcendence#120</a>: “Huh? no. That's why there's a wrapping ! block. Th…”</li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/120">Reptudn/42_transcendence#120</a>: “fix minor player management issues - #101 & #112 –…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/119#issuecomment-3172635622">Reptudn/42_transcendence#119</a>: “I think every player name has a color (RGBY) no ma…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
