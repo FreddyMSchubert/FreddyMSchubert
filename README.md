@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/connection/issues/139">42core-team/connection#139</a>: “print functions signature changes – right now its …”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/connection/pull/130">42core-team/connection#130</a></li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/19#issuecomment-3174026474">42core-team/debug-visualizer#19</a>: “This should have fixed it, would be very surprised…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/19">42core-team/debug-visualizer#19</a>: “when a replay from s3 is being fetched it first di…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/18#issuecomment-3173982964">42core-team/debug-visualizer#18</a>: “<img width="188" height="451" alt="Image" src="htt…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309444">Reptudn/42_transcendence#120</a>: “no but this is just blatantly wrong from copilot t…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309012">Reptudn/42_transcendence#120</a>: “Yeah i think it was wrong it must be compared to t…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265307156">Reptudn/42_transcendence#120</a>: “Huh? no. That's why there's a wrapping ! block. Th…”</li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/120">Reptudn/42_transcendence#120</a>: “fix minor player management issues - #101 & #112 –…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/119#issuecomment-3172635622">Reptudn/42_transcendence#119</a>: “I think every player name has a color (RGBY) no ma…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/139">42core-team/connection#139</a>: “print functions signature changes – right now its …”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/connection/pull/130">42core-team/connection#130</a></li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/19#issuecomment-3174026474">42core-team/debug-visualizer#19</a>: “This should have fixed it, would be very surprised…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/19">42core-team/debug-visualizer#19</a>: “when a replay from s3 is being fetched it first di…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/18#issuecomment-3173982964">42core-team/debug-visualizer#18</a>: “<img width="188" height="451" alt="Image" src="htt…”</li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309444">Reptudn/42_transcendence#120</a>: “no but this is just blatantly wrong from copilot t…”</li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309012">Reptudn/42_transcendence#120</a>: “Yeah i think it was wrong it must be compared to t…”</li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265307156">Reptudn/42_transcendence#120</a>: “Huh? no. That's why there's a wrapping ! block. Th…”</li>
+<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/120">Reptudn/42_transcendence#120</a>: “fix minor player management issues - #101 & #112 –…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/119#issuecomment-3172635622">Reptudn/42_transcendence#119</a>: “I think every player name has a color (RGBY) no ma…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
