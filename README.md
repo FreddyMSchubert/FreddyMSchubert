@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/139#issuecomment-3177621475">42core-team/connection#139</a>: “+ count getter for noth get and print”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267566690">Reptudn/42_transcendence#122</a>: “Everything he said is correct except the part wher…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267561882">Reptudn/42_transcendence#122</a>: “I think its fine they're all clearly defined in th…”</li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/122">Reptudn/42_transcendence#122</a>: “109 achievements – managed to get it to work. here…”</li>
@@ -47,7 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/95">42core-team/even_COREnier#95</a>: “wrong game end reason reporting – ``` AddressSanit…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/139">42core-team/connection#139</a>: “print functions signature changes – right now its …”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/connection/pull/130">42core-team/connection#130</a></li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/19#issuecomment-3174026474">42core-team/debug-visualizer#19</a>: “This should have fixed it, would be very surprised…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
