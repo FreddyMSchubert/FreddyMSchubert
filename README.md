@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/139#issuecomment-3177621475">42core-team/connection#139</a>: “+ count getter for noth get and print”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267566690">Reptudn/42_transcendence#122</a>: “Everything he said is correct except the part wher…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267561882">Reptudn/42_transcendence#122</a>: “I think its fine they're all clearly defined in th…”</li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/122">Reptudn/42_transcendence#122</a>: “109 achievements – managed to get it to work. here…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/101#issuecomment-3175967037">Reptudn/42_transcendence#101</a>: “I think this is fixed now on PR #120. Please let m…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/101">Reptudn/42_transcendence#101</a>: “paddles of ai disappear in frontend sometimes but …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/120#issuecomment-3175961102">Reptudn/42_transcendence#120</a>: “Reverted it. Please merge @Reptudn ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/95">42core-team/even_COREnier#95</a>: “wrong game end reason reporting – ``` AddressSanit…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/139">42core-team/connection#139</a>: “print functions signature changes – right now its …”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/connection/pull/130">42core-team/connection#130</a></li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/139#issuecomment-3177621475">42core-team/connection#139</a>: “+ count getter for noth get and print”</li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267566690">Reptudn/42_transcendence#122</a>: “Everything he said is correct except the part wher…”</li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267561882">Reptudn/42_transcendence#122</a>: “I think its fine they're all clearly defined in th…”</li>
+<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/122">Reptudn/42_transcendence#122</a>: “109 achievements – managed to get it to work. here…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/101#issuecomment-3175967037">Reptudn/42_transcendence#101</a>: “I think this is fixed now on PR #120. Please let m…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/101">Reptudn/42_transcendence#101</a>: “paddles of ai disappear in frontend sometimes but …”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/120#issuecomment-3175961102">Reptudn/42_transcendence#120</a>: “Reverted it. Please merge @Reptudn ”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/95">42core-team/even_COREnier#95</a>: “wrong game end reason reporting – ``` AddressSanit…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/connection/issues/139">42core-team/connection#139</a>: “print functions signature changes – right now its …”</li>
+<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/connection/pull/130">42core-team/connection#130</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
