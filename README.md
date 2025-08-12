@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267566690">Reptudn/42_transcendence#122</a>: “Everything he said is correct except the part wher…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267561882">Reptudn/42_transcendence#122</a>: “I think its fine they're all clearly defined in th…”</li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/122">Reptudn/42_transcendence#122</a>: “109 achievements – managed to get it to work. here…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/101#issuecomment-3175967037">Reptudn/42_transcendence#101</a>: “I think this is fixed now on PR #120. Please let m…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/101">Reptudn/42_transcendence#101</a>: “paddles of ai disappear in frontend sometimes but …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/pull/120#issuecomment-3175961102">Reptudn/42_transcendence#120</a>: “Reverted it. Please merge @Reptudn ”</li>
@@ -45,9 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/connection/issues/139">42core-team/connection#139</a>: “print functions signature changes – right now its …”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/connection/pull/130">42core-team/connection#130</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/19#issuecomment-3174026474">42core-team/debug-visualizer#19</a>: “This should have fixed it, would be very surprised…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/19">42core-team/debug-visualizer#19</a>: “when a replay from s3 is being fetched it first di…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/18#issuecomment-3173982964">42core-team/debug-visualizer#18</a>: “<img width="188" height="451" alt="Image" src="htt…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/120#discussion_r2265309444">Reptudn/42_transcendence#120</a>: “no but this is just blatantly wrong from copilot t…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
