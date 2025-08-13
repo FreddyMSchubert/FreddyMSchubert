@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3183580857">Reptudn/42_transcendence#134</a>: “please send an image or steps to reproduce or some…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/133#issuecomment-3183301656">Reptudn/42_transcendence#133</a>: “why me you are the one doing the websockets”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/95#issuecomment-3181106180">42core-team/even_COREnier#95</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/95">42core-team/even_COREnier#95</a>: “wrong game end reason reporting – ``` AddressSanit…”</li>
@@ -47,7 +48,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/98">42core-team/even_COREnier#98</a>: “always output a replay file – ”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/139#issuecomment-3177621475">42core-team/connection#139</a>: “+ count getter for noth get and print”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267566690">Reptudn/42_transcendence#122</a>: “Everything he said is correct except the part wher…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/122#discussion_r2267561882">Reptudn/42_transcendence#122</a>: “I think its fine they're all clearly defined in th…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
