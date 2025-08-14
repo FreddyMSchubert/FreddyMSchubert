@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186024612">Reptudn/42_transcendence#134</a>: “Ive tried reproducing it and it doesn't happen for…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186009357">Reptudn/42_transcendence#134</a>: “@Reptudn No but please honestly what theres nothin…”</li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/139">Reptudn/42_transcendence#139</a>: “Powerups – added some basic powerups, they work ni…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3183580857">Reptudn/42_transcendence#134</a>: “please send an image or steps to reproduce or some…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/133#issuecomment-3183301656">Reptudn/42_transcendence#133</a>: “why me you are the one doing the websockets”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/95#issuecomment-3181106180">42core-team/even_COREnier#95</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/95">42core-team/even_COREnier#95</a>: “wrong game end reason reporting – ``` AddressSanit…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/96#issuecomment-3181105535">42core-team/even_COREnier#96</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/96">42core-team/even_COREnier#96</a>: “connection timeout – ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/98#issuecomment-3181104611">42core-team/even_COREnier#98</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186024612">Reptudn/42_transcendence#134</a>: “Ive tried reproducing it and it doesn't happen for…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186009357">Reptudn/42_transcendence#134</a>: “@Reptudn No but please honestly what theres nothin…”</li>
+<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/139">Reptudn/42_transcendence#139</a>: “Powerups – added some basic powerups, they work ni…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3183580857">Reptudn/42_transcendence#134</a>: “please send an image or steps to reproduce or some…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/133#issuecomment-3183301656">Reptudn/42_transcendence#133</a>: “why me you are the one doing the websockets”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/95#issuecomment-3181106180">42core-team/even_COREnier#95</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/95">42core-team/even_COREnier#95</a>: “wrong game end reason reporting – ``` AddressSanit…”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/96#issuecomment-3181105535">42core-team/even_COREnier#96</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/even_COREnier/issues/96">42core-team/even_COREnier#96</a>: “connection timeout – ”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/98#issuecomment-3181104611">42core-team/even_COREnier#98</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
