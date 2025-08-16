@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/167">Reptudn/42_transcendence#167</a>: “speed powerup balancing – boy oh boy do you not ev…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/166">Reptudn/42_transcendence#166</a>: “limit powerups to 3 at once at most – or limit pow…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/165">Reptudn/42_transcendence#165</a>: “powerup achievements not unlock when spectator – ”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/24#issuecomment-3191286362">42core-team/sandbox#24</a>: “done works”</li>
@@ -47,7 +48,6 @@
 <li>👍 2 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/142">Reptudn/42_transcendence#142</a></li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/141">Reptudn/42_transcendence#141</a>: “game improvements – Engine collision improvements …”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186024612">Reptudn/42_transcendence#134</a>: “Ive tried reproducing it and it doesn't happen for…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186009357">Reptudn/42_transcendence#134</a>: “@Reptudn No but please honestly what theres nothin…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
