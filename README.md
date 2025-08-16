@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/24#issuecomment-3191286362">42core-team/sandbox#24</a>: “done works”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/sandbox/issues/24">42core-team/sandbox#24</a>: “Visualizer Integration – Visualizer needs to be a …”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/132">Reptudn/42_transcendence#132</a>: “Better ais – 🤖 Ais according to subject”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/142">Reptudn/42_transcendence#142</a></li>
 <li>👍 2 days ago: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/142">Reptudn/42_transcendence#142</a></li>
@@ -46,8 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186009357">Reptudn/42_transcendence#134</a>: “@Reptudn No but please honestly what theres nothin…”</li>
 <li>🚀 3 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/139">Reptudn/42_transcendence#139</a>: “Powerups – added some basic powerups, they work ni…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3183580857">Reptudn/42_transcendence#134</a>: “please send an image or steps to reproduce or some…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/133#issuecomment-3183301656">Reptudn/42_transcendence#133</a>: “why me you are the one doing the websockets”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/even_COREnier/issues/95#issuecomment-3181106180">42core-team/even_COREnier#95</a>: “https://github.com/42core-team/even_COREnier/commi…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
