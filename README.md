@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/165">Reptudn/42_transcendence#165</a>: “powerup achievements not unlock when spectator – ”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/sandbox/issues/24#issuecomment-3191286362">42core-team/sandbox#24</a>: “done works”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/sandbox/issues/24">42core-team/sandbox#24</a>: “Visualizer Integration – Visualizer needs to be a …”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/132">Reptudn/42_transcendence#132</a>: “Better ais – 🤖 Ais according to subject”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186024612">Reptudn/42_transcendence#134</a>: “Ive tried reproducing it and it doesn't happen for…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3186009357">Reptudn/42_transcendence#134</a>: “@Reptudn No but please honestly what theres nothin…”</li>
 <li>🚀 3 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/139">Reptudn/42_transcendence#139</a>: “Powerups – added some basic powerups, they work ni…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/134#issuecomment-3183580857">Reptudn/42_transcendence#134</a>: “please send an image or steps to reproduce or some…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
