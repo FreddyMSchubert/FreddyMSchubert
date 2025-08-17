@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/168">Reptudn/42_transcendence#168</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/168#discussion_r2280338369">Reptudn/42_transcendence#168</a>: “Base speed is 3, and it must be reset to 3 after s…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/151">Reptudn/42_transcendence#151</a>: “popups not over main page content – ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/167">Reptudn/42_transcendence#167</a>: “speed powerup balancing – boy oh boy do you not ev…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/165#issuecomment-3193518164">Reptudn/42_transcendence#165</a>: “handled in #168”</li>
@@ -46,8 +48,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/166">Reptudn/42_transcendence#166</a>: “limit powerups to 3 at once at most – or limit pow…”</li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/168">Reptudn/42_transcendence#168</a>: “Game refinements – ”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/167">Reptudn/42_transcendence#167</a>: “speed powerup balancing – boy oh boy do you not ev…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/166">Reptudn/42_transcendence#166</a>: “limit powerups to 3 at once at most – or limit pow…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/165">Reptudn/42_transcendence#165</a>: “powerup achievements not unlock when spectator – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
