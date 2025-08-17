@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/my-core-bot/issues/29#issuecomment-3194353783">42core-team/my-core-bot#29</a>: “please no that would make everything so messy. the…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/23">42core-team/debug-visualizer#23</a>: “full screen functionality – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/20">42core-team/debug-visualizer#20</a>: “nothing loads at all if fireworks cant load becaus…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/21">42core-team/debug-visualizer#21</a>: “update unit metrics mid-tick – the updates to the …”</li>
@@ -47,7 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/23">42core-team/debug-visualizer#23</a>: “full screen functionality – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/22">42core-team/debug-visualizer#22</a>: “dark mode – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/21">42core-team/debug-visualizer#21</a>: “update unit metrics mid-tick – the updates to the …”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/99">42core-team/even_COREnier#99</a>: “randomized grid size – just slightly. between, say…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
