@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/139#issuecomment-3194160766">42core-team/connection#139</a>: “And for getters also, rename every function with '…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/23">42core-team/debug-visualizer#23</a>: “full screen functionality – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/22">42core-team/debug-visualizer#22</a>: “dark mode – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/21">42core-team/debug-visualizer#21</a>: “update unit metrics mid-tick – the updates to the …”</li>
@@ -47,7 +48,6 @@
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/168">Reptudn/42_transcendence#168</a></li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/168#discussion_r2280338369">Reptudn/42_transcendence#168</a>: “Base speed is 3, and it must be reset to 3 after s…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/151">Reptudn/42_transcendence#151</a>: “popups not over main page content – ”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/167">Reptudn/42_transcendence#167</a>: “speed powerup balancing – boy oh boy do you not ev…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
