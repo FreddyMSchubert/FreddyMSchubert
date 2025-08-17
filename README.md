@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/20">42core-team/debug-visualizer#20</a>: “nothing loads at all if fireworks cant load becaus…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/21">42core-team/debug-visualizer#21</a>: “update unit metrics mid-tick – the updates to the …”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/24">42core-team/debug-visualizer#24</a></li>
+<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/debug-visualizer/pull/24">42core-team/debug-visualizer#24</a>: “Animation system – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/connection/issues/139#issuecomment-3194160766">42core-team/connection#139</a>: “And for getters also, rename every function with '…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/23">42core-team/debug-visualizer#23</a>: “full screen functionality – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/22">42core-team/debug-visualizer#22</a>: “dark mode – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/21">42core-team/debug-visualizer#21</a>: “update unit metrics mid-tick – the updates to the …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/99">42core-team/even_COREnier#99</a>: “randomized grid size – just slightly. between, say…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/20#issuecomment-3193705211">42core-team/debug-visualizer#20</a>: “@4n4k1n Is this a pressing issue? Does visualizer …”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/20">42core-team/debug-visualizer#20</a>: “nothing loads at all if fireworks cant load becaus…”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/168">Reptudn/42_transcendence#168</a></li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/168#discussion_r2280338369">Reptudn/42_transcendence#168</a>: “Base speed is 3, and it must be reset to 3 after s…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/151">Reptudn/42_transcendence#151</a>: “popups not over main page content – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
