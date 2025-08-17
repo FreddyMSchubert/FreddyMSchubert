@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/23">42core-team/debug-visualizer#23</a>: “full screen functionality – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/22">42core-team/debug-visualizer#22</a>: “dark mode – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/21">42core-team/debug-visualizer#21</a>: “update unit metrics mid-tick – the updates to the …”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/99">42core-team/even_COREnier#99</a>: “randomized grid size – just slightly. between, say…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/20#issuecomment-3193705211">42core-team/debug-visualizer#20</a>: “@4n4k1n Is this a pressing issue? Does visualizer …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/20">42core-team/debug-visualizer#20</a>: “nothing loads at all if fireworks cant load becaus…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/168">Reptudn/42_transcendence#168</a></li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/168#discussion_r2280338369">Reptudn/42_transcendence#168</a>: “Base speed is 3, and it must be reset to 3 after s…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/151">Reptudn/42_transcendence#151</a>: “popups not over main page content – ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/167">Reptudn/42_transcendence#167</a>: “speed powerup balancing – boy oh boy do you not ev…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/165#issuecomment-3193518164">Reptudn/42_transcendence#165</a>: “handled in #168”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/165">Reptudn/42_transcendence#165</a>: “powerup achievements not unlock when spectator – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/166#issuecomment-3193518067">Reptudn/42_transcendence#166</a>: “handled in #168”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/166">Reptudn/42_transcendence#166</a>: “limit powerups to 3 at once at most – or limit pow…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
