@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/175#issuecomment-3196773306">Reptudn/42_transcendence#175</a>: “Please: It must be configurable which disappear an…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/29#issuecomment-3196760068">42core-team/debug-visualizer#29</a>: “I love the idea! I think adding support for multip…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/173#issuecomment-3195535186">Reptudn/42_transcendence#173</a>: “what?”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/174#issuecomment-3195533670">Reptudn/42_transcendence#174</a>: “why does the whole page have to reload? in general…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/28">42core-team/debug-visualizer#28</a></li>
@@ -46,8 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/100">42core-team/even_COREnier#100</a>: “minMoneyCount and minResourceCount to ensure base …”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/27">42core-team/debug-visualizer#27</a></li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/26">42core-team/debug-visualizer#26</a></li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/debug-visualizer/pull/26">42core-team/debug-visualizer#26</a>: “Dev while rush – now that we use main for building…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/my-core-bot/issues/29#issuecomment-3194353783">42core-team/my-core-bot#29</a>: “please no that would make everything so messy. the…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
