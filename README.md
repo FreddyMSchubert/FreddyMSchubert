@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/173#issuecomment-3195535186">Reptudn/42_transcendence#173</a>: “what?”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/174#issuecomment-3195533670">Reptudn/42_transcendence#174</a>: “why does the whole page have to reload? in general…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/28">42core-team/debug-visualizer#28</a></li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/debug-visualizer/pull/28">42core-team/debug-visualizer#28</a>: “fix broken replay folder naming – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/101">42core-team/even_COREnier#101</a>: “Game results reported wrong for clients – Might be…”</li>
@@ -46,8 +48,6 @@
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/26">42core-team/debug-visualizer#26</a></li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/debug-visualizer/pull/26">42core-team/debug-visualizer#26</a>: “Dev while rush – now that we use main for building…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/my-core-bot/issues/29#issuecomment-3194353783">42core-team/my-core-bot#29</a>: “please no that would make everything so messy. the…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/23">42core-team/debug-visualizer#23</a>: “full screen functionality – ”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/20">42core-team/debug-visualizer#20</a>: “nothing loads at all if fireworks cant load becaus…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
