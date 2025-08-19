@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/32">42core-team/debug-visualizer#32</a>: “info button – We need some info about the visualiz…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3201879729">42core-team/debug-visualizer#22</a>: “kinda already right at it on the branch. i don't t…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/31#issuecomment-3198538579">42core-team/debug-visualizer#31</a>: “Now all the cash-breaking-handled files like css a…”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/debug-visualizer/pull/31#discussion_r2283457706">42core-team/debug-visualizer#31</a>: “No, that was just an unused import I added once ac…”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/debug-visualizer/pull/31#discussion_r2283456105">42core-team/debug-visualizer#31</a>: “Wasn't used before, unused import. This is fine.”</li>
@@ -46,8 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/29#issuecomment-3198195906">42core-team/debug-visualizer#29</a>: “Now works as described on dev. If you use a URL li…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/29">42core-team/debug-visualizer#29</a>: “replay showcase feature – I would like to have a s…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/175#issuecomment-3196773306">Reptudn/42_transcendence#175</a>: “Please: It must be configurable which disappear an…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/29#issuecomment-3196760068">42core-team/debug-visualizer#29</a>: “I love the idea! I think adding support for multip…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/173#issuecomment-3195535186">Reptudn/42_transcendence#173</a>: “what?”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
