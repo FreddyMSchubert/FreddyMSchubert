@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/debug-visualizer/pull/31#discussion_r2283457706">42core-team/debug-visualizer#31</a>: “No, that was just an unused import I added once ac…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/debug-visualizer/pull/31#discussion_r2283456105">42core-team/debug-visualizer#31</a>: “Wasn't used before, unused import. This is fine.”</li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/debug-visualizer/pull/31">42core-team/debug-visualizer#31</a>: “building and cache breaking with vite – Removed ht…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/30">42core-team/debug-visualizer#30</a>: “bundling & cache breaking – Better build setup usi…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/29#issuecomment-3198195906">42core-team/debug-visualizer#29</a>: “Now works as described on dev. If you use a URL li…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/29">42core-team/debug-visualizer#29</a>: “replay showcase feature – I would like to have a s…”</li>
@@ -45,9 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/29#issuecomment-3196760068">42core-team/debug-visualizer#29</a>: “I love the idea! I think adding support for multip…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/173#issuecomment-3195535186">Reptudn/42_transcendence#173</a>: “what?”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/174#issuecomment-3195533670">Reptudn/42_transcendence#174</a>: “why does the whole page have to reload? in general…”</li>
-<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/28">42core-team/debug-visualizer#28</a></li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/debug-visualizer/pull/28">42core-team/debug-visualizer#28</a>: “fix broken replay folder naming – ”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/even_COREnier/issues/101">42core-team/even_COREnier#101</a>: “Game results reported wrong for clients – Might be…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
