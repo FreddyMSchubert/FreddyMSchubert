@@ -20,8 +20,8 @@
 	<a href="https://github.com/Reptudn/42_transcendence" target="_blank">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reptudn&repo=42_transcendence&theme=tokyonight" />
 	</a>
-	<a href="https://github.com/42core-team/even_COREnier" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=42core-team&repo=even_COREnier&theme=tokyonight" />
+	<a href="https://github.com/42core-team/monorepo" target="_blank">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=42core-team&repo=monorepo&theme=tokyonight" />
 	</a>
 </div>
 
