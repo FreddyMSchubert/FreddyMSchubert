@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3202151063">42core-team/debug-visualizer#22</a>: “i might just mark the rendering state dirty and fo…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3202146881">42core-team/debug-visualizer#22</a>: “<img width="1678" height="963" alt="Image" src="ht…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3201984406">42core-team/debug-visualizer#22</a>: “ah my bad alright”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/32">42core-team/debug-visualizer#32</a>: “info button – We need some info about the visualiz…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3201879729">42core-team/debug-visualizer#22</a>: “kinda already right at it on the branch. i don't t…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/pull/31#issuecomment-3198538579">42core-team/debug-visualizer#31</a>: “Now all the cash-breaking-handled files like css a…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/debug-visualizer/pull/31#discussion_r2283457706">42core-team/debug-visualizer#31</a>: “No, that was just an unused import I added once ac…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/debug-visualizer/pull/31#discussion_r2283456105">42core-team/debug-visualizer#31</a>: “Wasn't used before, unused import. This is fine.”</li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/debug-visualizer/pull/31">42core-team/debug-visualizer#31</a>: “building and cache breaking with vite – Removed ht…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/30">42core-team/debug-visualizer#30</a>: “bundling & cache breaking – Better build setup usi…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/22">42core-team/debug-visualizer#22</a>: “dark mode – ”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/33">42core-team/debug-visualizer#33</a></li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/36">42core-team/debug-visualizer#36</a>: “requests spam for the svg assets – idk why they ar…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/35#issuecomment-3207933538">42core-team/debug-visualizer#35</a>: “put it on the new info page”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/35">42core-team/debug-visualizer#35</a>: “gridlines toggle – ”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3202151063">42core-team/debug-visualizer#22</a>: “i might just mark the rendering state dirty and fo…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3202146881">42core-team/debug-visualizer#22</a>: “<img width="1678" height="963" alt="Image" src="ht…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3201984406">42core-team/debug-visualizer#22</a>: “ah my bad alright”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/32">42core-team/debug-visualizer#32</a>: “info button – We need some info about the visualiz…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3201879729">42core-team/debug-visualizer#22</a>: “kinda already right at it on the branch. i don't t…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
