@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3202151063">42core-team/debug-visualizer#22</a>: “i might just mark the rendering state dirty and fo…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3202146881">42core-team/debug-visualizer#22</a>: “<img width="1678" height="963" alt="Image" src="ht…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3201984406">42core-team/debug-visualizer#22</a>: “ah my bad alright”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/32">42core-team/debug-visualizer#32</a>: “info button – We need some info about the visualiz…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3201879729">42core-team/debug-visualizer#22</a>: “kinda already right at it on the branch. i don't t…”</li>
@@ -46,8 +48,6 @@
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/debug-visualizer/pull/31#discussion_r2283456105">42core-team/debug-visualizer#31</a>: “Wasn't used before, unused import. This is fine.”</li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/debug-visualizer/pull/31">42core-team/debug-visualizer#31</a>: “building and cache breaking with vite – Removed ht…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/30">42core-team/debug-visualizer#30</a>: “bundling & cache breaking – Better build setup usi…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/29#issuecomment-3198195906">42core-team/debug-visualizer#29</a>: “Now works as described on dev. If you use a URL li…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/29">42core-team/debug-visualizer#29</a>: “replay showcase feature – I would like to have a s…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
