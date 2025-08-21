@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/23">42core-team/monorepo#23</a>: “fix XSS by sanitizing teamnames – replayLoader.ts:…”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/25">42core-team/monorepo#25</a></li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/27#issuecomment-3209998568">42core-team/monorepo#27</a>: “everything is broken due to new folder structure. …”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/26#issuecomment-3209994622">42core-team/monorepo#26</a>: “no submodule with bots, no game to run. thats to b…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/26#issuecomment-3209990700">42core-team/monorepo#26</a>: “yeah ok super easy fix. must specify a branch. ill…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/25#discussion_r2290534388">42core-team/monorepo#25</a>: “sad but ok”</li>
 <li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/25">42core-team/monorepo#25</a>: “xss requests fixes – how about now? I think I foun…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/22">42core-team/monorepo#22</a>: “integrate my-core-bot as submodule – Instead of du…”</li>
 <li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/24">42core-team/monorepo#24</a></li>
 <li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/24">42core-team/monorepo#24</a>: “22 integrate my core bot as submodule – this is gr…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/my-core-bot/issues/25#issuecomment-3209529045">42core-team/my-core-bot#25</a>: “Eh I think it was fine to be honest. A link would …”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/my-core-bot/issues/25">42core-team/my-core-bot#25</a>: “add conn lib submodule just for looking at it duri…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/my-core-bot/issues/29#issuecomment-3209521584">42core-team/my-core-bot#29</a>: “Alright this issue is also void then. https://gith…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/my-core-bot/issues/29">42core-team/my-core-bot#29</a>: “make bot part from user norminette conform – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/23">42core-team/monorepo#23</a>: “fix XSS by sanitizing teamnames – replayLoader.ts:…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
