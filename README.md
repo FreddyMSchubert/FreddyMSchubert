@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/10">42core-team/monorepo#10</a>: “zod-like thing for good config validation – Right …”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/9">42core-team/monorepo#9</a>: “randomized grid size – just slightly. between, say…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/8">42core-team/monorepo#8</a>: “minMoneyCount and minResourceCount to ensure base …”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/7">42core-team/monorepo#7</a>: “Game results reported wrong for clients – Might be…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/6">42core-team/monorepo#6</a>: “Repetition detection – like in chess. if same move…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/5">42core-team/monorepo#5</a>: “DistancedResources map not always seed-determinist…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/4">42core-team/monorepo#4</a>: “gridlines toggle – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/3">42core-team/monorepo#3</a>: “[idea] - customizable color scheme – almost all co…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/2">42core-team/monorepo#2</a>: “info button – We need some info about the visualiz…”</li>
-<li>💥 Yesterday: Closed PR <a href="https://github.com/42core-team/debug-visualizer/pull/34">42core-team/debug-visualizer#34</a> without merge</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/120#issuecomment-3208165635">42core-team/connection#120</a>: “eh”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/120">42core-team/connection#120</a>: “add comments up top to tell people that editing st…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/21">42core-team/monorepo#21</a>: “allocation failure handling – currently we dont pr…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/20#issuecomment-3208163621">42core-team/monorepo#20</a>: “so this is fixed, right? it worked as i suggested?…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/20">42core-team/monorepo#20</a>: “get the team names from the website when run on th…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/19">42core-team/monorepo#19</a>: “non-hardcoded unit types – so making code changes …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/133#issuecomment-3208158725">42core-team/connection#133</a>: “NOOO  That is also stupid. We will not use an enum…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/18#issuecomment-3208147305">42core-team/monorepo#18</a>: “This can actually be marked as a bug because its s…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/18">42core-team/monorepo#18</a>: “rename move cooldown to action cooldown – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/17">42core-team/monorepo#17</a>: “print functions signature changes – right now its …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
