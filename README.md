@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/my-core-bot/issues/25#issuecomment-3209529045">42core-team/my-core-bot#25</a>: “Eh I think it was fine to be honest. A link would …”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/my-core-bot/issues/25">42core-team/my-core-bot#25</a>: “add conn lib submodule just for looking at it duri…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/my-core-bot/issues/29#issuecomment-3209521584">42core-team/my-core-bot#29</a>: “Alright this issue is also void then. https://gith…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/my-core-bot/issues/29">42core-team/my-core-bot#29</a>: “make bot part from user norminette conform – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/23">42core-team/monorepo#23</a>: “fix XSS by sanitizing teamnames – replayLoader.ts:…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/22#issuecomment-3208283662">42core-team/monorepo#22</a>: “Then, move my-core-bot issues over to this repo al…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/22">42core-team/monorepo#22</a>: “integrate my-core-bot as submodule – Instead of du…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/120#issuecomment-3208165635">42core-team/connection#120</a>: “eh”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/120">42core-team/connection#120</a>: “add comments up top to tell people that editing st…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/21">42core-team/monorepo#21</a>: “allocation failure handling – currently we dont pr…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/20#issuecomment-3208163621">42core-team/monorepo#20</a>: “so this is fixed, right? it worked as i suggested?…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/20">42core-team/monorepo#20</a>: “get the team names from the website when run on th…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/19">42core-team/monorepo#19</a>: “non-hardcoded unit types – so making code changes …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/133#issuecomment-3208158725">42core-team/connection#133</a>: “NOOO  That is also stupid. We will not use an enum…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
