@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/28">42core-team/monorepo#28</a>: “no-ui mode – for demo mode, as an extension of htt…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/26#issuecomment-3210149754">42core-team/monorepo#26</a>: “Alright should be fixed please try again. It's rea…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/26">42core-team/monorepo#26</a>: “error during make update – ``` flo ~/repos/monorep…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/23">42core-team/monorepo#23</a>: “fix XSS by sanitizing teamnames – replayLoader.ts:…”</li>
 <li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/25">42core-team/monorepo#25</a></li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/27#issuecomment-3209998568">42core-team/monorepo#27</a>: “everything is broken due to new folder structure. …”</li>
@@ -45,9 +48,6 @@
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/26#issuecomment-3209990700">42core-team/monorepo#26</a>: “yeah ok super easy fix. must specify a branch. ill…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/25#discussion_r2290534388">42core-team/monorepo#25</a>: “sad but ok”</li>
 <li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/25">42core-team/monorepo#25</a>: “xss requests fixes – how about now? I think I foun…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/22">42core-team/monorepo#22</a>: “integrate my-core-bot as submodule – Instead of du…”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/24">42core-team/monorepo#24</a></li>
-<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/24">42core-team/monorepo#24</a>: “22 integrate my core bot as submodule – this is gr…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
