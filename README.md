@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/36">42core-team/debug-visualizer#36</a>: “requests spam for the svg assets – idk why they ar…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/37">42core-team/debug-visualizer#37</a>: “[idea] - customizable color scheme – almost all co…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/debug-visualizer/issues/22">42core-team/debug-visualizer#22</a>: “dark mode – ”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/debug-visualizer/pull/33">42core-team/debug-visualizer#33</a></li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/36">42core-team/debug-visualizer#36</a>: “requests spam for the svg assets – idk why they ar…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/35#issuecomment-3207933538">42core-team/debug-visualizer#35</a>: “put it on the new info page”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/debug-visualizer/issues/35">42core-team/debug-visualizer#35</a>: “gridlines toggle – ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3202151063">42core-team/debug-visualizer#22</a>: “i might just mark the rendering state dirty and fo…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3202146881">42core-team/debug-visualizer#22</a>: “<img width="1678" height="963" alt="Image" src="ht…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/debug-visualizer/issues/22#issuecomment-3201984406">42core-team/debug-visualizer#22</a>: “ah my bad alright”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/10">42core-team/monorepo#10</a>: “zod-like thing for good config validation – Right …”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/9">42core-team/monorepo#9</a>: “randomized grid size – just slightly. between, say…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/8">42core-team/monorepo#8</a>: “minMoneyCount and minResourceCount to ensure base …”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/7">42core-team/monorepo#7</a>: “Game results reported wrong for clients – Might be…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/6">42core-team/monorepo#6</a>: “Repetition detection – like in chess. if same move…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/5">42core-team/monorepo#5</a>: “DistancedResources map not always seed-determinist…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/4">42core-team/monorepo#4</a>: “gridlines toggle – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/3">42core-team/monorepo#3</a>: “[idea] - customizable color scheme – almost all co…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/2">42core-team/monorepo#2</a>: “info button – We need some info about the visualiz…”</li>
+<li>💥 Yesterday: Closed PR <a href="https://github.com/42core-team/debug-visualizer/pull/34">42core-team/debug-visualizer#34</a> without merge</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
