@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/22#issuecomment-3208283662">42core-team/monorepo#22</a>: “Then, move my-core-bot issues over to this repo al…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/22">42core-team/monorepo#22</a>: “integrate my-core-bot as submodule – Instead of du…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/120#issuecomment-3208165635">42core-team/connection#120</a>: “eh”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/connection/issues/120">42core-team/connection#120</a>: “add comments up top to tell people that editing st…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/21">42core-team/monorepo#21</a>: “allocation failure handling – currently we dont pr…”</li>
@@ -46,8 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/19">42core-team/monorepo#19</a>: “non-hardcoded unit types – so making code changes …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/connection/issues/133#issuecomment-3208158725">42core-team/connection#133</a>: “NOOO  That is also stupid. We will not use an enum…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/18#issuecomment-3208147305">42core-team/monorepo#18</a>: “This can actually be marked as a bug because its s…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/18">42core-team/monorepo#18</a>: “rename move cooldown to action cooldown – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/17">42core-team/monorepo#17</a>: “print functions signature changes – right now its …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
