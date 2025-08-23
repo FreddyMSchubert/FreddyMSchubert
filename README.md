@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/40">42core-team/monorepo#40</a>: “basic pathfinding for users for an easy head start…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/14">42core-team/monorepo#14</a>: “rename balance to diamonds consistently everywhere…”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/39">42core-team/monorepo#39</a></li>
-<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/39">42core-team/monorepo#39</a>: “[server|visualizer|client_lib|my-core-bot] renamin…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/38">42core-team/monorepo#38</a>: “json parse error, then no timeout – ``` .[2025-08-…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/37">42core-team/monorepo#37</a>: “make money collectable by attacking it – so if som…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/14#issuecomment-3216679617">42core-team/monorepo#14</a>: “Eh actually that's barely pronouncable and barely …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/9#issuecomment-3216676433">42core-team/monorepo#9</a>: “actually no this is not a good idea. it's fine not…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/9">42core-team/monorepo#9</a>: “randomized grid size – just slightly. between, say…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/36">42core-team/monorepo#36</a>: “action cooldown not showing – its always light blu…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/40">42core-team/monorepo#40</a>: “basic pathfinding for users for an easy head start…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/14">42core-team/monorepo#14</a>: “rename balance to diamonds consistently everywhere…”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/39">42core-team/monorepo#39</a></li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/39">42core-team/monorepo#39</a>: “[server|visualizer|client_lib|my-core-bot] renamin…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/38">42core-team/monorepo#38</a>: “json parse error, then no timeout – ``` .[2025-08-…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/37">42core-team/monorepo#37</a>: “make money collectable by attacking it – so if som…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/14#issuecomment-3216679617">42core-team/monorepo#14</a>: “Eh actually that's barely pronouncable and barely …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/9#issuecomment-3216676433">42core-team/monorepo#9</a>: “actually no this is not a good idea. it's fine not…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/9">42core-team/monorepo#9</a>: “randomized grid size – just slightly. between, say…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/36">42core-team/monorepo#36</a>: “action cooldown not showing – its always light blu…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
