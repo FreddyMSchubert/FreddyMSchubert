@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/8#issuecomment-3216564162">42core-team/monorepo#8</a>: “Decided to approach this differently for better co…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/28">42core-team/monorepo#28</a>: “no-ui mode – for demo mode, as an extension of htt…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/26#issuecomment-3210149754">42core-team/monorepo#26</a>: “Alright should be fixed please try again. It's rea…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/26">42core-team/monorepo#26</a>: “error during make update – ``` flo ~/repos/monorep…”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/26#issuecomment-3209994622">42core-team/monorepo#26</a>: “no submodule with bots, no game to run. thats to b…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/26#issuecomment-3209990700">42core-team/monorepo#26</a>: “yeah ok super easy fix. must specify a branch. ill…”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/25#discussion_r2290534388">42core-team/monorepo#25</a>: “sad but ok”</li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/25">42core-team/monorepo#25</a>: “xss requests fixes – how about now? I think I foun…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
