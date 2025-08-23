@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/40">42core-team/monorepo#40</a>: “basic pathfinding for users for an easy head start…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/14">42core-team/monorepo#14</a>: “rename balance to diamonds consistently everywhere…”</li>
 <li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/39">42core-team/monorepo#39</a></li>
 <li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/39">42core-team/monorepo#39</a>: “[server|visualizer|client_lib|my-core-bot] renamin…”</li>
@@ -47,7 +48,6 @@
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/9#issuecomment-3216676433">42core-team/monorepo#9</a>: “actually no this is not a good idea. it's fine not…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/9">42core-team/monorepo#9</a>: “randomized grid size – just slightly. between, say…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/36">42core-team/monorepo#36</a>: “action cooldown not showing – its always light blu…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/8">42core-team/monorepo#8</a>: “minMoneyCount and minResourceCount to ensure base …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
