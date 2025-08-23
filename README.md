@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/37">42core-team/monorepo#37</a>: “make money collectable by attacking it – so if som…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/14#issuecomment-3216679617">42core-team/monorepo#14</a>: “Eh actually that's barely pronouncable and barely …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/9#issuecomment-3216676433">42core-team/monorepo#9</a>: “actually no this is not a good idea. it's fine not…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/9">42core-team/monorepo#9</a>: “randomized grid size – just slightly. between, say…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/36">42core-team/monorepo#36</a>: “action cooldown not showing – its always light blu…”</li>
@@ -46,8 +48,6 @@
 <li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/35#discussion_r2295698187">42core-team/monorepo#35</a>: “Fair point I fixed it.”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/35#issuecomment-3216670478">42core-team/monorepo#35</a>: “https://github.com/42core-team/monorepo/issues/8 D…”</li>
 <li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/35">42core-team/monorepo#35</a>: “8 minmoneycount and minresourcecount to ensure bas…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/8#issuecomment-3216564162">42core-team/monorepo#8</a>: “Decided to approach this differently for better co…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/28">42core-team/monorepo#28</a>: “no-ui mode – for demo mode, as an extension of htt…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
