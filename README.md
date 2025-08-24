@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/178">Reptudn/42_transcendence#178</a>: “tournament issues – - [ ] game doesn't get played …”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/182">Reptudn/42_transcendence#182</a></li>
+<li>👍 Today: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/182">Reptudn/42_transcendence#182</a></li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/180#issuecomment-3218095226">Reptudn/42_transcendence#180</a>: “fixed”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/180">Reptudn/42_transcendence#180</a>: “powerups not cleared between tournament games – ”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/181">Reptudn/42_transcendence#181</a></li>
+<li>🚀 Today: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/181">Reptudn/42_transcendence#181</a>: “yeehaw very epic changes. powerups reset and many …”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/180">Reptudn/42_transcendence#180</a>: “powerups not cleared between tournament games – ”</li>
 <li>🌕 Today: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/177">Reptudn/42_transcendence#177</a></li>
 <li>👍 Today: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/177">Reptudn/42_transcendence#177</a></li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/177#discussion_r2296570866">Reptudn/42_transcendence#177</a>: “Yeah I think this is very cool seems very solid to…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/Reptudn/42_transcendence/pull/177#discussion_r2296568228">Reptudn/42_transcendence#177</a>: “what? no”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/40">42core-team/monorepo#40</a>: “basic pathfinding for users for an easy head start…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/14">42core-team/monorepo#14</a>: “rename balance to diamonds consistently everywhere…”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/39">42core-team/monorepo#39</a></li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/39">42core-team/monorepo#39</a>: “[server|visualizer|client_lib|my-core-bot] renamin…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/38">42core-team/monorepo#38</a>: “json parse error, then no timeout – ``` .[2025-08-…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
