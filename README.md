@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/40#issuecomment-3218181759">42core-team/monorepo#40</a>: “https://github.com/42core-team/my-core-bot/commit/…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/40">42core-team/monorepo#40</a>: “basic pathfinding for users for an easy head start…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/169#issuecomment-3218180464">Reptudn/42_transcendence#169</a>: “done”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/169">Reptudn/42_transcendence#169</a>: “new script handling on navigation – Script handler…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/170#issuecomment-3218180359">Reptudn/42_transcendence#170</a>: “reptudn says it passt schon”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/170">Reptudn/42_transcendence#170</a>: “move the end game func in the game loop down that …”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/178">Reptudn/42_transcendence#178</a>: “tournament issues – - [ ] game doesn't get played …”</li>
 <li>🌕 Today: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/182">Reptudn/42_transcendence#182</a></li>
 <li>👍 Today: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/182">Reptudn/42_transcendence#182</a></li>
 <li>💬 Today: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/180#issuecomment-3218095226">Reptudn/42_transcendence#180</a>: “fixed”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/180">Reptudn/42_transcendence#180</a>: “powerups not cleared between tournament games – ”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/181">Reptudn/42_transcendence#181</a></li>
-<li>🚀 Today: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/181">Reptudn/42_transcendence#181</a>: “yeehaw very epic changes. powerups reset and many …”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/Reptudn/42_transcendence/issues/180">Reptudn/42_transcendence#180</a>: “powerups not cleared between tournament games – ”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/177">Reptudn/42_transcendence#177</a></li>
-<li>👍 Today: Approved PR <a href="https://github.com/Reptudn/42_transcendence/pull/177">Reptudn/42_transcendence#177</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
