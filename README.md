@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a></li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a>: “number improvements – ”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a></li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a>: “classic map ball spawn location tweaks – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3218225936">42core-team/monorepo#16</a>: “@EllenMusik 👀 Hast du noch Bock auf Core Game?”</li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/184">Reptudn/42_transcendence#184</a>: “Add new coordinate to classic.json – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/40#issuecomment-3218181759">42core-team/monorepo#40</a>: “https://github.com/42core-team/my-core-bot/commit/…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/40">42core-team/monorepo#40</a>: “basic pathfinding for users for an easy head start…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/169#issuecomment-3218180464">Reptudn/42_transcendence#169</a>: “done”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/169">Reptudn/42_transcendence#169</a>: “new script handling on navigation – Script handler…”</li>
+<li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a></li>
+<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a>: “number improvements – ”</li>
+<li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a></li>
+<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a>: “classic map ball spawn location tweaks – ”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3218225936">42core-team/monorepo#16</a>: “@EllenMusik 👀 Hast du noch Bock auf Core Game?”</li>
+<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/184">Reptudn/42_transcendence#184</a>: “Add new coordinate to classic.json – ”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/40#issuecomment-3218181759">42core-team/monorepo#40</a>: “https://github.com/42core-team/my-core-bot/commit/…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/40">42core-team/monorepo#40</a>: “basic pathfinding for users for an easy head start…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/169#issuecomment-3218180464">Reptudn/42_transcendence#169</a>: “done”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/169">Reptudn/42_transcendence#169</a>: “new script handling on navigation – Script handler…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
