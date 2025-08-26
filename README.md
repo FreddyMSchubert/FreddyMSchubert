@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/192">Reptudn/42_transcendence#192</a>: “Fix admin not getting some achievements, fix more …”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a></li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a>: “number improvements – ”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a></li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/40#issuecomment-3218181759">42core-team/monorepo#40</a>: “https://github.com/42core-team/my-core-bot/commit/…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/40">42core-team/monorepo#40</a>: “basic pathfinding for users for an easy head start…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/Reptudn/42_transcendence/issues/169#issuecomment-3218180464">Reptudn/42_transcendence#169</a>: “done”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/Reptudn/42_transcendence/issues/169">Reptudn/42_transcendence#169</a>: “new script handling on navigation – Script handler…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
