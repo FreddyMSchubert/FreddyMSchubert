@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💥 Yesterday: Closed PR <a href="https://github.com/42core-team/website_relaunch/pull/138">42core-team/website_relaunch#138</a> without merge</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/138#issuecomment-3221488060">42core-team/website_relaunch#138</a>: “@copilot use pnpm and use as much of the preexisti…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/137">42core-team/website_relaunch#137</a>: “open visualizer in new page fix – so previously th…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/136">42core-team/website_relaunch#136</a>: “visualizer iframe fix – bottom border should never…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/192">Reptudn/42_transcendence#192</a></li>
@@ -46,8 +48,6 @@
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a>: “number improvements – ”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a></li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a>: “classic map ball spawn location tweaks – ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3218225936">42core-team/monorepo#16</a>: “@EllenMusik 👀 Hast du noch Bock auf Core Game?”</li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/184">Reptudn/42_transcendence#184</a>: “Add new coordinate to classic.json – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
