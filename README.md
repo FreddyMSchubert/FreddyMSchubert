@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👍 Today: Approved PR <a href="https://github.com/42core-team/monorepo/pull/45">42core-team/monorepo#45</a></li>
 <li>💥 Yesterday: Closed PR <a href="https://github.com/42core-team/website_relaunch/pull/138">42core-team/website_relaunch#138</a> without merge</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/138#issuecomment-3221488060">42core-team/website_relaunch#138</a>: “@copilot use pnpm and use as much of the preexisti…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/137">42core-team/website_relaunch#137</a>: “open visualizer in new page fix – so previously th…”</li>
@@ -47,7 +48,6 @@
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a></li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a>: “number improvements – ”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a></li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/186">Reptudn/42_transcendence#186</a>: “classic map ball spawn location tweaks – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
