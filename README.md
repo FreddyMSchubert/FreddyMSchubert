@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227206065">42core-team/monorepo#16</a>: “Doesn't seem so 😂”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3227195935">42core-team/monorepo#6</a>: “Surprisingly tricky.  What if there are only two u…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3226728234">42core-team/monorepo#38</a>: “Seems to be a client sending the data the cpp json…”</li>
@@ -46,8 +48,6 @@
 <li>💥 2 days ago: Closed PR <a href="https://github.com/42core-team/website_relaunch/pull/138">42core-team/website_relaunch#138</a> without merge</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/138#issuecomment-3221488060">42core-team/website_relaunch#138</a>: “@copilot use pnpm and use as much of the preexisti…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/137">42core-team/website_relaunch#137</a>: “open visualizer in new page fix – so previously th…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/136">42core-team/website_relaunch#136</a>: “visualizer iframe fix – bottom border should never…”</li>
-<li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/192">Reptudn/42_transcendence#192</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
