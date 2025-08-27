@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/16">42core-team/monorepo#16</a>: “game stats – team-specific stats (for visualizer) …”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a></li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303418223">42core-team/monorepo#47</a>: “No. Damage also occurred if the resulting object d…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303415441">42core-team/monorepo#47</a>: “Good catch thanks”</li>
+<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a>: “16 game stats – Stored in misc section so it's sen…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227385388">42core-team/monorepo#16</a>: “Given displaying detailed team-based stats in the …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227206065">42core-team/monorepo#16</a>: “Doesn't seem so 😂”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3227195935">42core-team/monorepo#6</a>: “Surprisingly tricky.  What if there are only two u…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3226728234">42core-team/monorepo#38</a>: “Seems to be a client sending the data the cpp json…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/37">42core-team/monorepo#37</a>: “make gem piles collectable by attacking them – so …”</li>
-<li>👍 Yesterday: Approved PR <a href="https://github.com/42core-team/monorepo/pull/45">42core-team/monorepo#45</a></li>
-<li>💥 2 days ago: Closed PR <a href="https://github.com/42core-team/website_relaunch/pull/138">42core-team/website_relaunch#138</a> without merge</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/138#issuecomment-3221488060">42core-team/website_relaunch#138</a>: “@copilot use pnpm and use as much of the preexisti…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
