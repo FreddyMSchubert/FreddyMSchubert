@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3226728234">42core-team/monorepo#38</a>: “Seems to be a client sending the data the cpp json…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/37">42core-team/monorepo#37</a>: “make gem piles collectable by attacking them – so …”</li>
 <li>👍 Yesterday: Approved PR <a href="https://github.com/42core-team/monorepo/pull/45">42core-team/monorepo#45</a></li>
@@ -47,7 +48,6 @@
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/136">42core-team/website_relaunch#136</a>: “visualizer iframe fix – bottom border should never…”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/192">Reptudn/42_transcendence#192</a></li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/Reptudn/42_transcendence/pull/192">Reptudn/42_transcendence#192</a>: “Fix admin not getting some achievements, fix more …”</li>
-<li>🌕 3 days ago: Merged PR <a href="https://github.com/Reptudn/42_transcendence/pull/187">Reptudn/42_transcendence#187</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
