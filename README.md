@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/16">42core-team/monorepo#16</a>: “game stats – team-specific stats (for visualizer) …”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a></li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303418223">42core-team/monorepo#47</a>: “No. Damage also occurred if the resulting object d…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303415441">42core-team/monorepo#47</a>: “Good catch thanks”</li>
-<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a>: “16 game stats – Stored in misc section so it's sen…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227385388">42core-team/monorepo#16</a>: “Given displaying detailed team-based stats in the …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227206065">42core-team/monorepo#16</a>: “Doesn't seem so 😂”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3227195935">42core-team/monorepo#6</a>: “Surprisingly tricky.  What if there are only two u…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/16">42core-team/monorepo#16</a>: “game stats – team-specific stats (for visualizer) …”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303418223">42core-team/monorepo#47</a>: “No. Damage also occurred if the resulting object d…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303415441">42core-team/monorepo#47</a>: “Good catch thanks”</li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a>: “16 game stats – Stored in misc section so it's sen…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227385388">42core-team/monorepo#16</a>: “Given displaying detailed team-based stats in the …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227206065">42core-team/monorepo#16</a>: “Doesn't seem so 😂”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3227195935">42core-team/monorepo#6</a>: “Surprisingly tricky.  What if there are only two u…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/46">42core-team/monorepo#46</a>: “sparse world generator deposit gems count mirrorin…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
