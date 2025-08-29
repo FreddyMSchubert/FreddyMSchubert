@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3235970151">42core-team/monorepo#10</a>: “If we use [JSON Schema](https://json-schema.org/) …”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/48">42core-team/monorepo#48</a>: “additional url parameter setting overrides – curre…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/184">42core-team/website_relaunch#184</a>: “Clear Event End in List View – Not clear whether R…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/15#issuecomment-3234029237">42core-team/monorepo#15</a>: “@cuhlig42 Can you please have a look?”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/16">42core-team/monorepo#16</a>: “game stats – team-specific stats (for visualizer) …”</li>
-<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a></li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303418223">42core-team/monorepo#47</a>: “No. Damage also occurred if the resulting object d…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303415441">42core-team/monorepo#47</a>: “Good catch thanks”</li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a>: “16 game stats – Stored in misc section so it's sen…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227385388">42core-team/monorepo#16</a>: “Given displaying detailed team-based stats in the …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3235970151">42core-team/monorepo#10</a>: “If we use [JSON Schema](https://json-schema.org/) …”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/48">42core-team/monorepo#48</a>: “additional url parameter setting overrides – curre…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/184">42core-team/website_relaunch#184</a>: “Clear Event End in List View – Not clear whether R…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/15#issuecomment-3234029237">42core-team/monorepo#15</a>: “@cuhlig42 Can you please have a look?”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/16">42core-team/monorepo#16</a>: “game stats – team-specific stats (for visualizer) …”</li>
+<li>🌕 3 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a></li>
+<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303418223">42core-team/monorepo#47</a>: “No. Damage also occurred if the resulting object d…”</li>
+<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303415441">42core-team/monorepo#47</a>: “Good catch thanks”</li>
+<li>🚀 3 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a>: “16 game stats – Stored in misc section so it's sen…”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/16#issuecomment-3227385388">42core-team/monorepo#16</a>: “Given displaying detailed team-based stats in the …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
