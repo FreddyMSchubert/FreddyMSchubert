@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3237663400">42core-team/monorepo#10</a>: “[This validator](https://github.com/pboettch/json-…”</li>
 <li>👍 Yesterday: Approved PR <a href="https://github.com/42core-team/monorepo/pull/55">42core-team/monorepo#55</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/55#issuecomment-3237299208">42core-team/monorepo#55</a>: “Good point it has served its purpose. Let's delete…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3237243188">42core-team/monorepo#10</a>: “As i understand, JSON Schema is a universal format…”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/15#issuecomment-3234029237">42core-team/monorepo#15</a>: “@cuhlig42 Can you please have a look?”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/16">42core-team/monorepo#16</a>: “game stats – team-specific stats (for visualizer) …”</li>
 <li>🌕 3 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a></li>
-<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/47#discussion_r2303418223">42core-team/monorepo#47</a>: “No. Damage also occurred if the resulting object d…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
