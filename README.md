@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/11#issuecomment-3239523060">42core-team/monorepo#11</a>: “ill repurpose this to properly implement bombs. th…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3239521597">42core-team/monorepo#7</a>: “<img width="1452" height="292" alt="Image" src="ht…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3239519897">42core-team/monorepo#6</a>: “Would be cool but unrealistic. This would take too…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/6">42core-team/monorepo#6</a>: “Repetition detection – like in chess. if same move…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/10">42core-team/monorepo#10</a>: “JSON Schema config validation – Right now things i…”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/59">42core-team/monorepo#59</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/59#issuecomment-3239348907">42core-team/monorepo#59</a>: “@PaulicStudios Please leave a review”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/58">42core-team/monorepo#58</a>: “increase max possible selectable speed – to maybe …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/191">42core-team/website_relaunch#191</a>: “fix fireworks visualizer url parameters – the url …”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/59#discussion_r2311957005">42core-team/monorepo#59</a>: “Huh? What? No by not copying the id to a second ob…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/59#discussion_r2311956597">42core-team/monorepo#59</a>: “Yeah but it's not signed. Bad bot. Think harder ne…”</li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/59">42core-team/monorepo#59</a>: “config validation & cmake server build setup – - […”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/58">42core-team/monorepo#58</a>: “increase max possible selectable speed – to maybe …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3239177593">42core-team/monorepo#10</a>: “@PaulicStudios I have amazing news: The config sch…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/15#issuecomment-3239159770">42core-team/monorepo#15</a>: “Copyright (c) 2025 The Core Game Contributors as i…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3239018569">42core-team/monorepo#38</a>: “Hasn't happened in a while. Idk. Will reopen if it…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
