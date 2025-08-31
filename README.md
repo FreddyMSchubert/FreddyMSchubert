@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3239177593">42core-team/monorepo#10</a>: “@PaulicStudios I have amazing news: The config sch…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/15#issuecomment-3239159770">42core-team/monorepo#15</a>: “Copyright (c) 2025 The Core Game Contributors as i…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3239018569">42core-team/monorepo#38</a>: “Hasn't happened in a while. Idk. Will reopen if it…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/38">42core-team/monorepo#38</a>: “json parse error, then no timeout – ``` .[2025-08-…”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3237243188">42core-team/monorepo#10</a>: “As i understand, JSON Schema is a universal format…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3235970151">42core-team/monorepo#10</a>: “If we use [JSON Schema](https://json-schema.org/) …”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/48">42core-team/monorepo#48</a>: “additional url parameter setting overrides – curre…”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/184">42core-team/website_relaunch#184</a>: “Clear Event End in List View – Not clear whether R…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
