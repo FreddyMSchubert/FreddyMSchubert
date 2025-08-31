@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/60">42core-team/monorepo#60</a>: “seed generation fix – the program can currently wh…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/11#issuecomment-3239523060">42core-team/monorepo#11</a>: “ill repurpose this to properly implement bombs. th…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3239521597">42core-team/monorepo#7</a>: “<img width="1452" height="292" alt="Image" src="ht…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3239519897">42core-team/monorepo#6</a>: “Would be cool but unrealistic. This would take too…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/6">42core-team/monorepo#6</a>: “Repetition detection – like in chess. if same move…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/10">42core-team/monorepo#10</a>: “JSON Schema config validation – Right now things i…”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/59">42core-team/monorepo#59</a></li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/59#issuecomment-3239348907">42core-team/monorepo#59</a>: “@PaulicStudios Please leave a review”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/58">42core-team/monorepo#58</a>: “increase max possible selectable speed – to maybe …”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/191">42core-team/website_relaunch#191</a>: “fix fireworks visualizer url parameters – the url …”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/60">42core-team/monorepo#60</a>: “seed generation fix – the program can currently wh…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/11#issuecomment-3239523060">42core-team/monorepo#11</a>: “ill repurpose this to properly implement bombs. th…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3239521597">42core-team/monorepo#7</a>: “<img width="1452" height="292" alt="Image" src="ht…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3239519897">42core-team/monorepo#6</a>: “Would be cool but unrealistic. This would take too…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/6">42core-team/monorepo#6</a>: “Repetition detection – like in chess. if same move…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/10">42core-team/monorepo#10</a>: “JSON Schema config validation – Right now things i…”</li>
+<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/59">42core-team/monorepo#59</a></li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/59#issuecomment-3239348907">42core-team/monorepo#59</a>: “@PaulicStudios Please leave a review”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/58">42core-team/monorepo#58</a>: “increase max possible selectable speed – to maybe …”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/191">42core-team/website_relaunch#191</a>: “fix fireworks visualizer url parameters – the url …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
