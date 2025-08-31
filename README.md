@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/60">42core-team/monorepo#60</a>: “seed generation fix – the program can currently wh…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/11#issuecomment-3239523060">42core-team/monorepo#11</a>: “ill repurpose this to properly implement bombs. th…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3239521597">42core-team/monorepo#7</a>: “<img width="1452" height="292" alt="Image" src="ht…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3239519897">42core-team/monorepo#6</a>: “Would be cool but unrealistic. This would take too…”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/59#issuecomment-3239348907">42core-team/monorepo#59</a>: “@PaulicStudios Please leave a review”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/58">42core-team/monorepo#58</a>: “increase max possible selectable speed – to maybe …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/191">42core-team/website_relaunch#191</a>: “fix fireworks visualizer url parameters – the url …”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/59#discussion_r2311957005">42core-team/monorepo#59</a>: “Huh? What? No by not copying the id to a second ob…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
