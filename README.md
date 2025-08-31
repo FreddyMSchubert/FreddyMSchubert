@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3239018569">42core-team/monorepo#38</a>: “Hasn't happened in a while. Idk. Will reopen if it…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/38">42core-team/monorepo#38</a>: “json parse error, then no timeout – ``` .[2025-08-…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/10#issuecomment-3237663400">42core-team/monorepo#10</a>: “[This validator](https://github.com/pboettch/json-…”</li>
 <li>👍 2 days ago: Approved PR <a href="https://github.com/42core-team/monorepo/pull/55">42core-team/monorepo#55</a></li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/55#issuecomment-3237299208">42core-team/monorepo#55</a>: “Good point it has served its purpose. Let's delete…”</li>
@@ -46,8 +48,6 @@
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/48">42core-team/monorepo#48</a>: “additional url parameter setting overrides – curre…”</li>
 <li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/184">42core-team/website_relaunch#184</a>: “Clear Event End in List View – Not clear whether R…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/15#issuecomment-3234029237">42core-team/monorepo#15</a>: “@cuhlig42 Can you please have a look?”</li>
-<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/16">42core-team/monorepo#16</a>: “game stats – team-specific stats (for visualizer) …”</li>
-<li>🌕 4 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/47">42core-team/monorepo#47</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
