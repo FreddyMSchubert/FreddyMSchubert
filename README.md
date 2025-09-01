@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240392490">42core-team/monorepo#67</a>: “Ok visualizer läuft jetzt, top. Namen werden tatsä…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/70">42core-team/monorepo#70</a>: “no team names displaying in my-core-bot – but only…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240369259">42core-team/monorepo#67</a>: “What? If you click on the clearly clickable link i…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240362696">42core-team/monorepo#67</a>: “Why isn't the visualizer image up-to-date? Because…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240360388">42core-team/monorepo#67</a>: “I - no? I couldn't connect to the visualizer? I gu…”</li>
@@ -46,8 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/66#issuecomment-3240322580">42core-team/monorepo#66</a>: “https://github.com/42core-team/monorepo/commit/cc1…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/66">42core-team/monorepo#66</a>: “visualizer has no default replay file anymore – Cu…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/my-core-bot/pull/31">42core-team/my-core-bot#31</a></li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/my-core-bot/pull/31">42core-team/my-core-bot#31</a>: “Bomb refinements – ”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/my-core-bot/pull/30">42core-team/my-core-bot#30</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
