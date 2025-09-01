@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3239966270">42core-team/monorepo#38</a>: “I was able to reproduce it! I think its because vi…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/63#issuecomment-3239962741">42core-team/monorepo#63</a>: “no nevermind this isnt a good idea”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/63">42core-team/monorepo#63</a>: “JSON Validation for Replays & Communication betwee…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/63">42core-team/monorepo#63</a>: “JSON Validation for Replays & Communication betwee…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/62">42core-team/monorepo#62</a>: “unitSpawnBlockedTicksAfterGameBegin – It's incredi…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/60">42core-team/monorepo#60</a>: “seed generation fix – the program can currently wh…”</li>
@@ -45,9 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3239521597">42core-team/monorepo#7</a>: “<img width="1452" height="292" alt="Image" src="ht…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/6#issuecomment-3239519897">42core-team/monorepo#6</a>: “Would be cool but unrealistic. This would take too…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/6">42core-team/monorepo#6</a>: “Repetition detection – like in chess. if same move…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/10">42core-team/monorepo#10</a>: “JSON Schema config validation – Right now things i…”</li>
-<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/59">42core-team/monorepo#59</a></li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/59#issuecomment-3239348907">42core-team/monorepo#59</a>: “@PaulicStudios Please leave a review”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
