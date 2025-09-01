@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/68">42core-team/monorepo#68</a>: “mid-tick metrics update & accurate object hovering…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/66#issuecomment-3240100434">42core-team/monorepo#66</a>: “No I guess that was removed because of the .gitign…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/64">42core-team/monorepo#64</a>: “bomb destruction iwthout explosion – it must be po…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/38">42core-team/monorepo#38</a>: “json parse error, then no timeout – ``` .[2025-08-…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3239966270">42core-team/monorepo#38</a>: “I was able to reproduce it! I think its because vi…”</li>
@@ -46,8 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/63">42core-team/monorepo#63</a>: “JSON Validation for Replays & Communication betwee…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/62">42core-team/monorepo#62</a>: “unitSpawnBlockedTicksAfterGameBegin – It's incredi…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/60">42core-team/monorepo#60</a>: “seed generation fix – the program can currently wh…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/11#issuecomment-3239523060">42core-team/monorepo#11</a>: “ill repurpose this to properly implement bombs. th…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3239521597">42core-team/monorepo#7</a>: “<img width="1452" height="292" alt="Image" src="ht…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
