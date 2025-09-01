@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240369259">42core-team/monorepo#67</a>: “What? If you click on the clearly clickable link i…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240362696">42core-team/monorepo#67</a>: “Why isn't the visualizer image up-to-date? Because…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240360388">42core-team/monorepo#67</a>: “I - no? I couldn't connect to the visualizer? I gu…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240347597">42core-team/monorepo#67</a>: “ok so with that commit it now runs. but i hardcode…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/60">42core-team/monorepo#60</a>: “seed generation fix – the program can currently wh…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/66#issuecomment-3240322580">42core-team/monorepo#66</a>: “https://github.com/42core-team/monorepo/commit/cc1…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/66">42core-team/monorepo#66</a>: “visualizer has no default replay file anymore – Cu…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/my-core-bot/pull/31">42core-team/my-core-bot#31</a></li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/my-core-bot/pull/31">42core-team/my-core-bot#31</a>: “Bomb refinements – ”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/my-core-bot/pull/30">42core-team/my-core-bot#30</a></li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/my-core-bot/pull/30">42core-team/my-core-bot#30</a>: “Config validation – ”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/11">42core-team/monorepo#11</a>: “bombs refinements – dont make spawned bonbs start …”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/69">42core-team/monorepo#69</a></li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/69#discussion_r2312571979">42core-team/monorepo#69</a>: “I think it's fine as they are arbitrarily picked.”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
