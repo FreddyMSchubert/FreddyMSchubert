@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/68">42core-team/monorepo#68</a>: “mid-tick metrics update & accurate object hovering…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/66#issuecomment-3240100434">42core-team/monorepo#66</a>: “No I guess that was removed because of the .gitign…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/64">42core-team/monorepo#64</a>: “bomb destruction iwthout explosion – it must be po…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/38">42core-team/monorepo#38</a>: “json parse error, then no timeout – ``` .[2025-08-…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/38#issuecomment-3239966270">42core-team/monorepo#38</a>: “I was able to reproduce it! I think its because vi…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/63#issuecomment-3239962741">42core-team/monorepo#63</a>: “no nevermind this isnt a good idea”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/63">42core-team/monorepo#63</a>: “JSON Validation for Replays & Communication betwee…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/63">42core-team/monorepo#63</a>: “JSON Validation for Replays & Communication betwee…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/62">42core-team/monorepo#62</a>: “unitSpawnBlockedTicksAfterGameBegin – It's incredi…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/60">42core-team/monorepo#60</a>: “seed generation fix – the program can currently wh…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/60">42core-team/monorepo#60</a>: “seed generation fix – the program can currently wh…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/66#issuecomment-3240322580">42core-team/monorepo#66</a>: “https://github.com/42core-team/monorepo/commit/cc1…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/66">42core-team/monorepo#66</a>: “visualizer has no default replay file anymore – Cu…”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/my-core-bot/pull/31">42core-team/my-core-bot#31</a></li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/my-core-bot/pull/31">42core-team/my-core-bot#31</a>: “Bomb refinements – ”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/my-core-bot/pull/30">42core-team/my-core-bot#30</a></li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/my-core-bot/pull/30">42core-team/my-core-bot#30</a>: “Config validation – ”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/11">42core-team/monorepo#11</a>: “bombs refinements – dont make spawned bonbs start …”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/69">42core-team/monorepo#69</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/69#discussion_r2312571979">42core-team/monorepo#69</a>: “I think it's fine as they are arbitrarily picked.”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
