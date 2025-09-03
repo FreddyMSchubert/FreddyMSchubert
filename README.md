@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/74">42core-team/monorepo#74</a>: “modal content restructuring & various ui improveme…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/73">42core-team/monorepo#73</a>: “theme color range validation – shouldn't be possib…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/73">42core-team/monorepo#73</a>: “theme color range validation – shouldn't be possib…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/31">42core-team/monorepo#31</a>: “theme color persistent – forgot to make the theme …”</li>
@@ -47,7 +48,6 @@
 <li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/70">42core-team/monorepo#70</a>: “no team names displaying in my-core-bot – but only…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240369259">42core-team/monorepo#67</a>: “What? If you click on the clearly clickable link i…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240362696">42core-team/monorepo#67</a>: “Why isn't the visualizer image up-to-date? Because…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240360388">42core-team/monorepo#67</a>: “I - no? I couldn't connect to the visualizer? I gu…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
