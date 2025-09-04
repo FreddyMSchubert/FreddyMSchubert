@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/79">42core-team/monorepo#79</a>: “Integrate Wiki – The Wiki always changes when game…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/13#issuecomment-3251801728">42core-team/monorepo#13</a>: “@PaulicStudios Isn't this a website issue technica…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/62#issuecomment-3251799426">42core-team/monorepo#62</a>: “Actually, this is not a solution. They'll just sav…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/62">42core-team/monorepo#62</a>: “unitSpawnBlockedTicksAfterGameBegin – It's incredi…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/78">42core-team/monorepo#78</a>: “hardcoded world generator config – just kinda does…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/64">42core-team/monorepo#64</a>: “bomb destruction iwthout explosion – it must be po…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/78">42core-team/monorepo#78</a>: “hardcoded world generator config – just kinda does…”</li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/74">42core-team/monorepo#74</a>: “modal content restructuring & various ui improveme…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/73">42core-team/monorepo#73</a>: “theme color range validation – shouldn't be possib…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/73">42core-team/monorepo#73</a>: “theme color range validation – shouldn't be possib…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/80#issuecomment-3253221927">42core-team/monorepo#80</a>: “@copilot Ran it, exact same thing happened - your …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3253183234">42core-team/monorepo#7</a>: “Gave copilot a try -> https://github.com/42core-te…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/79">42core-team/monorepo#79</a>: “Integrate Wiki – The Wiki always changes when game…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/13#issuecomment-3251801728">42core-team/monorepo#13</a>: “@PaulicStudios Isn't this a website issue technica…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/62#issuecomment-3251799426">42core-team/monorepo#62</a>: “Actually, this is not a solution. They'll just sav…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/62">42core-team/monorepo#62</a>: “unitSpawnBlockedTicksAfterGameBegin – It's incredi…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/78">42core-team/monorepo#78</a>: “hardcoded world generator config – just kinda does…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/64">42core-team/monorepo#64</a>: “bomb destruction iwthout explosion – it must be po…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/78">42core-team/monorepo#78</a>: “hardcoded world generator config – just kinda does…”</li>
+<li>🚀 3 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/74">42core-team/monorepo#74</a>: “modal content restructuring & various ui improveme…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
