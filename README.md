@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/13#issuecomment-3251801728">42core-team/monorepo#13</a>: “@PaulicStudios Isn't this a website issue technica…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/62#issuecomment-3251799426">42core-team/monorepo#62</a>: “Actually, this is not a solution. They'll just sav…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/62">42core-team/monorepo#62</a>: “unitSpawnBlockedTicksAfterGameBegin – It's incredi…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/78">42core-team/monorepo#78</a>: “hardcoded world generator config – just kinda does…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/64">42core-team/monorepo#64</a>: “bomb destruction iwthout explosion – it must be po…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/78">42core-team/monorepo#78</a>: “hardcoded world generator config – just kinda does…”</li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/74">42core-team/monorepo#74</a>: “modal content restructuring & various ui improveme…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/73">42core-team/monorepo#73</a>: “theme color range validation – shouldn't be possib…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/73">42core-team/monorepo#73</a>: “theme color range validation – shouldn't be possib…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/31">42core-team/monorepo#31</a>: “theme color persistent – forgot to make the theme …”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/44">42core-team/monorepo#44</a>: “Recolor highlight color based on chosen theme colo…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/68">42core-team/monorepo#68</a>: “mid-tick metrics update & accurate object hovering…”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240392490">42core-team/monorepo#67</a>: “Ok visualizer läuft jetzt, top. Namen werden tatsä…”</li>
-<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/70">42core-team/monorepo#70</a>: “no team names displaying in my-core-bot – but only…”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240369259">42core-team/monorepo#67</a>: “What? If you click on the clearly clickable link i…”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/67#issuecomment-3240362696">42core-team/monorepo#67</a>: “Why isn't the visualizer image up-to-date? Because…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
