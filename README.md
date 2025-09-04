@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/79">42core-team/monorepo#79</a>: “Integrate Wiki – The Wiki always changes when game…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/13#issuecomment-3251801728">42core-team/monorepo#13</a>: “@PaulicStudios Isn't this a website issue technica…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/62#issuecomment-3251799426">42core-team/monorepo#62</a>: “Actually, this is not a solution. They'll just sav…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/62">42core-team/monorepo#62</a>: “unitSpawnBlockedTicksAfterGameBegin – It's incredi…”</li>
@@ -47,7 +48,6 @@
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/74">42core-team/monorepo#74</a>: “modal content restructuring & various ui improveme…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/73">42core-team/monorepo#73</a>: “theme color range validation – shouldn't be possib…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/73">42core-team/monorepo#73</a>: “theme color range validation – shouldn't be possib…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/31">42core-team/monorepo#31</a>: “theme color persistent – forgot to make the theme …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
