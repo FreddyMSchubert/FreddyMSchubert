@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257665890">42core-team/monorepo#84</a>: “Added the wiki tag because it is also mad inconsis…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253976287">42core-team/monorepo#81</a>: “<img width="360" height="403" alt="Image" src="htt…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253290512">42core-team/monorepo#81</a>: “Would probably be best to mirror the ones of whate…”</li>
@@ -45,9 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/80#issuecomment-3253277104">42core-team/monorepo#80</a>: “nvm the issue was fixed by a human brain before yo…”</li>
 <li>💥 Yesterday: Closed PR <a href="https://github.com/42core-team/monorepo/pull/80">42core-team/monorepo#80</a> without merge</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/80#issuecomment-3253221927">42core-team/monorepo#80</a>: “@copilot Ran it, exact same thing happened - your …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3253183234">42core-team/monorepo#7</a>: “Gave copilot a try -> https://github.com/42core-te…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/79">42core-team/monorepo#79</a>: “Integrate Wiki – The Wiki always changes when game…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
