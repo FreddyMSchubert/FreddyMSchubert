@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253976287">42core-team/monorepo#81</a>: “<img width="360" height="403" alt="Image" src="htt…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253290512">42core-team/monorepo#81</a>: “Would probably be best to mirror the ones of whate…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/7">42core-team/monorepo#7</a>: “Game results reported wrong for clients – Might be…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/80#issuecomment-3253277104">42core-team/monorepo#80</a>: “nvm the issue was fixed by a human brain before yo…”</li>
@@ -46,8 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/80#issuecomment-3253221927">42core-team/monorepo#80</a>: “@copilot Ran it, exact same thing happened - your …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/7#issuecomment-3253183234">42core-team/monorepo#7</a>: “Gave copilot a try -> https://github.com/42core-te…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/79">42core-team/monorepo#79</a>: “Integrate Wiki – The Wiki always changes when game…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/13#issuecomment-3251801728">42core-team/monorepo#13</a>: “@PaulicStudios Isn't this a website issue technica…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/62#issuecomment-3251799426">42core-team/monorepo#62</a>: “Actually, this is not a solution. They'll just sav…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
