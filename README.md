@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3257732088">42core-team/monorepo#79</a>: “Ok I've put some love into the wiki. It's now upda…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257677654">42core-team/monorepo#84</a>: “remove can_build from client lib entirely that has…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257665890">42core-team/monorepo#84</a>: “Added the wiki tag because it is also mad inconsis…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253976287">42core-team/monorepo#81</a>: “<img width="360" height="403" alt="Image" src="htt…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253290512">42core-team/monorepo#81</a>: “Would probably be best to mirror the ones of whate…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/7">42core-team/monorepo#7</a>: “Game results reported wrong for clients – Might be…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/80#issuecomment-3253277104">42core-team/monorepo#80</a>: “nvm the issue was fixed by a human brain before yo…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3257732088">42core-team/monorepo#79</a>: “Ok I've put some love into the wiki. It's now upda…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257677654">42core-team/monorepo#84</a>: “remove can_build from client lib entirely that has…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257665890">42core-team/monorepo#84</a>: “Added the wiki tag because it is also mad inconsis…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253976287">42core-team/monorepo#81</a>: “<img width="360" height="403" alt="Image" src="htt…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253290512">42core-team/monorepo#81</a>: “Would probably be best to mirror the ones of whate…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/7">42core-team/monorepo#7</a>: “Game results reported wrong for clients – Might be…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/80#issuecomment-3253277104">42core-team/monorepo#80</a>: “nvm the issue was fixed by a human brain before yo…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
