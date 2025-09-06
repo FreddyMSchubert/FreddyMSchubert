@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261513283">42core-team/website_relaunch#215</a>: “By the way, do you know whether I can execute js t…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261512411">42core-team/website_relaunch#215</a>: “@PaulicStudios I'd love to link to specific sectio…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3261442495">42core-team/monorepo#79</a>: “Let's gooo 🔥🔥🔥”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3257732088">42core-team/monorepo#79</a>: “Ok I've put some love into the wiki. It's now upda…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257677654">42core-team/monorepo#84</a>: “remove can_build from client lib entirely that has…”</li>
@@ -45,9 +48,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253976287">42core-team/monorepo#81</a>: “<img width="360" height="403" alt="Image" src="htt…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/81#issuecomment-3253290512">42core-team/monorepo#81</a>: “Would probably be best to mirror the ones of whate…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/7">42core-team/monorepo#7</a>: “Game results reported wrong for clients – Might be…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
