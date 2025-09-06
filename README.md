@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261513283">42core-team/website_relaunch#215</a>: “By the way, do you know whether I can execute js t…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261512411">42core-team/website_relaunch#215</a>: “@PaulicStudios I'd love to link to specific sectio…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3261442495">42core-team/monorepo#79</a>: “Let's gooo 🔥🔥🔥”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3257732088">42core-team/monorepo#79</a>: “Ok I've put some love into the wiki. It's now upda…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257677654">42core-team/monorepo#84</a>: “remove can_build from client lib entirely that has…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257665890">42core-team/monorepo#84</a>: “Added the wiki tag because it is also mad inconsis…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261513283">42core-team/website_relaunch#215</a>: “By the way, do you know whether I can execute js t…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261512411">42core-team/website_relaunch#215</a>: “@PaulicStudios I'd love to link to specific sectio…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3261442495">42core-team/monorepo#79</a>: “Let's gooo 🔥🔥🔥”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3257732088">42core-team/monorepo#79</a>: “Ok I've put some love into the wiki. It's now upda…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257677654">42core-team/monorepo#84</a>: “remove can_build from client lib entirely that has…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257665890">42core-team/monorepo#84</a>: “Added the wiki tag because it is also mad inconsis…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
