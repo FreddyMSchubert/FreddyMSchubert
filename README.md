@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/85#issuecomment-3263252314">42core-team/monorepo#85</a>: “Ye cause its old. It'll happen from time to time s…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261513283">42core-team/website_relaunch#215</a>: “By the way, do you know whether I can execute js t…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261512411">42core-team/website_relaunch#215</a>: “@PaulicStudios I'd love to link to specific sectio…”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257665890">42core-team/monorepo#84</a>: “Added the wiki tag because it is also mad inconsis…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/81">42core-team/monorepo#81</a>: “mirror unit sprites of one team for further visual…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
