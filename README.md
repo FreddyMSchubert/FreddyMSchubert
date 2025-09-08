@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/86">42core-team/monorepo#86</a>: “ignore comments from config json, then comment the…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/85">42core-team/monorepo#85</a>: “no icons are beeing display in default replay file…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/85#issuecomment-3263252314">42core-team/monorepo#85</a>: “Ye cause its old. It'll happen from time to time s…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
@@ -47,7 +48,6 @@
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3257732088">42core-team/monorepo#79</a>: “Ok I've put some love into the wiki. It's now upda…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257677654">42core-team/monorepo#84</a>: “remove can_build from client lib entirely that has…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3257665890">42core-team/monorepo#84</a>: “Added the wiki tag because it is also mad inconsis…”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
