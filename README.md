@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3265957505">42core-team/monorepo#84</a>: “this issue should make it possible to view the con…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3265774398">42core-team/monorepo#87</a>: “totally just gotta document it well.”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265754916">42core-team/monorepo#88</a>: “and wait what does it have to do with the monorepo…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265727863">42core-team/monorepo#88</a>: “Can we move the wiki build pipeline into the monor…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265724154">42core-team/monorepo#88</a>: “That can be arranged. Cloning the website repo and…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/88">42core-team/monorepo#88</a>: “auto-deploy wiki – The wiki should not only be dep…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3265407557">42core-team/monorepo#87</a>: “This is kinda tricky not to make confusing. I thin…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/86">42core-team/monorepo#86</a>: “ignore comments from config json, then comment the…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/86">42core-team/monorepo#86</a>: “ignore comments from config json, then comment the…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/85">42core-team/monorepo#85</a>: “no icons are beeing display in default replay file…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/85#issuecomment-3263252314">42core-team/monorepo#85</a>: “Ye cause its old. It'll happen from time to time s…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/83">42core-team/monorepo#83</a>: “full deposit / balance / money / resource rename –…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261513283">42core-team/website_relaunch#215</a>: “By the way, do you know whether I can execute js t…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/215#issuecomment-3261512411">42core-team/website_relaunch#215</a>: “@PaulicStudios I'd love to link to specific sectio…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/79#issuecomment-3261442495">42core-team/monorepo#79</a>: “Let's gooo 🔥🔥🔥”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
