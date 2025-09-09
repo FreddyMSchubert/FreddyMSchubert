@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/84">42core-team/monorepo#84</a>: “improve config parsing – many fields missing right…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3268068720">42core-team/monorepo#87</a>: “Oh and please we also need to remember to change t…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3268043207">42core-team/monorepo#87</a>: “I don't think that's a good idea. Keeping scripts …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3267856025">42core-team/monorepo#87</a>: “Okay I implemented it as described earlier so you …”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/87">42core-team/monorepo#87</a>: “url param for making the visualizer autoplay but n…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3265957505">42core-team/monorepo#84</a>: “this issue should make it possible to view the con…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3265774398">42core-team/monorepo#87</a>: “totally just gotta document it well.”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265754916">42core-team/monorepo#88</a>: “and wait what does it have to do with the monorepo…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265727863">42core-team/monorepo#88</a>: “Can we move the wiki build pipeline into the monor…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265724154">42core-team/monorepo#88</a>: “That can be arranged. Cloning the website repo and…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/88">42core-team/monorepo#88</a>: “auto-deploy wiki – The wiki should not only be dep…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3265407557">42core-team/monorepo#87</a>: “This is kinda tricky not to make confusing. I thin…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/86">42core-team/monorepo#86</a>: “ignore comments from config json, then comment the…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/86">42core-team/monorepo#86</a>: “ignore comments from config json, then comment the…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/85">42core-team/monorepo#85</a>: “no icons are beeing display in default replay file…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
