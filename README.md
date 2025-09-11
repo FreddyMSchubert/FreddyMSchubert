@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👎 Today: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
+<li>👎 Today: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/91#discussion_r2338450980">42core-team/monorepo#91</a>: “I do appear to be getting a whiff of... Somebody e…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/91#discussion_r2338449401">42core-team/monorepo#91</a>: “Please ignore your executable so nobody accidental…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/91#discussion_r2338448686">42core-team/monorepo#91</a>: “I think that's the wrong folder and it should be "…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/89#issuecomment-3272494904">42core-team/monorepo#89</a>: “Done - my-core-bot is now fully integrated into th…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/89">42core-team/monorepo#89</a>: “move my-core-repo into monorepo – The server will …”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3265957505">42core-team/monorepo#84</a>: “this issue should make it possible to view the con…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3265774398">42core-team/monorepo#87</a>: “totally just gotta document it well.”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265754916">42core-team/monorepo#88</a>: “and wait what does it have to do with the monorepo…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265727863">42core-team/monorepo#88</a>: “Can we move the wiki build pipeline into the monor…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265724154">42core-team/monorepo#88</a>: “That can be arranged. Cloning the website repo and…”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/88">42core-team/monorepo#88</a>: “auto-deploy wiki – The wiki should not only be dep…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3265407557">42core-team/monorepo#87</a>: “This is kinda tricky not to make confusing. I thin…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/86">42core-team/monorepo#86</a>: “ignore comments from config json, then comment the…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
