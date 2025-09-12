@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/90#issuecomment-3285023195">42core-team/monorepo#90</a>: “I got this specific issue fixed locally, off-by-on…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/90#issuecomment-3285021453">42core-team/monorepo#90</a>: “Solution: This is all a little too wonky with the …”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/95">42core-team/monorepo#95</a>: “hold space for double / triple speed – some parts …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/91#issuecomment-3284563512">42core-team/monorepo#91</a>: “Please do the gitignore change, then let's merged …”</li>
 <li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/96">42core-team/monorepo#96</a>: “core spawn timeout – lol i had to label it with ba…”</li>
@@ -46,8 +48,6 @@
 <li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
 <li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/91#discussion_r2338450980">42core-team/monorepo#91</a>: “I do appear to be getting a whiff of... Somebody e…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/91#discussion_r2338449401">42core-team/monorepo#91</a>: “Please ignore your executable so nobody accidental…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/91#discussion_r2338448686">42core-team/monorepo#91</a>: “I think that's the wrong folder and it should be "…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
