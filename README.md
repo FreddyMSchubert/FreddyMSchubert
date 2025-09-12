@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/94">42core-team/monorepo#94</a>: “[server] core spawn timeout – ”</li>
 <li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
 <li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/91#discussion_r2338450980">42core-team/monorepo#91</a>: “I do appear to be getting a whiff of... Somebody e…”</li>
@@ -47,7 +48,6 @@
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/89">42core-team/monorepo#89</a>: “move my-core-repo into monorepo – The server will …”</li>
 <li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3265957505">42core-team/monorepo#84</a>: “this issue should make it possible to view the con…”</li>
 <li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3265774398">42core-team/monorepo#87</a>: “totally just gotta document it well.”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3265754916">42core-team/monorepo#88</a>: “and wait what does it have to do with the monorepo…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
