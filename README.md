@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/92">42core-team/monorepo#92</a>: “switch to shared library – Switch to a shared libr…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/94">42core-team/monorepo#94</a>: “[server] core spawn timeout – ”</li>
 <li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
 <li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/89#issuecomment-3272494904">42core-team/monorepo#89</a>: “Done - my-core-bot is now fully integrated into th…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/89">42core-team/monorepo#89</a>: “move my-core-repo into monorepo – The server will …”</li>
 <li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/84#issuecomment-3265957505">42core-team/monorepo#84</a>: “this issue should make it possible to view the con…”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/87#issuecomment-3265774398">42core-team/monorepo#87</a>: “totally just gotta document it well.”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
