@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/245">42core-team/website_relaunch#245</a>: “trigger frontend build without cache for wiki – ”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/90#issuecomment-3285023195">42core-team/monorepo#90</a>: “I got this specific issue fixed locally, off-by-on…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/90#issuecomment-3285021453">42core-team/monorepo#90</a>: “Solution: This is all a little too wonky with the …”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/95">42core-team/monorepo#95</a>: “hold space for double / triple speed – some parts …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/91#issuecomment-3284563512">42core-team/monorepo#91</a>: “Please do the gitignore change, then let's merged …”</li>
-<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/96">42core-team/monorepo#96</a>: “core spawn timeout – lol i had to label it with ba…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/92">42core-team/monorepo#92</a>: “switch to shared library – Switch to a shared libr…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/94">42core-team/monorepo#94</a>: “[server] core spawn timeout – ”</li>
-<li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
-<li>👎 Yesterday: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/245">42core-team/website_relaunch#245</a>: “trigger frontend build without cache for wiki – ”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/90#issuecomment-3285023195">42core-team/monorepo#90</a>: “I got this specific issue fixed locally, off-by-on…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/90#issuecomment-3285021453">42core-team/monorepo#90</a>: “Solution: This is all a little too wonky with the …”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/95">42core-team/monorepo#95</a>: “hold space for double / triple speed – some parts …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/91#issuecomment-3284563512">42core-team/monorepo#91</a>: “Please do the gitignore change, then let's merged …”</li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/96">42core-team/monorepo#96</a>: “core spawn timeout – lol i had to label it with ba…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/92">42core-team/monorepo#92</a>: “switch to shared library – Switch to a shared libr…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/94">42core-team/monorepo#94</a>: “[server] core spawn timeout – ”</li>
+<li>👎 2 days ago: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
+<li>👎 2 days ago: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
