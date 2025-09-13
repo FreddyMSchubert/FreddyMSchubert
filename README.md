@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/246#issuecomment-3286324726">42core-team/website_relaunch#246</a>: “Can't add you as reviewer because you opened the P…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/website_relaunch/pull/246#discussion_r2345034228">42core-team/website_relaunch#246</a>: “I've kept it but renamed it to FALLBACK_WIKI_VERSI…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/website_relaunch/pull/246#discussion_r2345029921">42core-team/website_relaunch#246</a>: “Good call wasn't sure. Removed it.”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/96#discussion_r2345013016">42core-team/monorepo#96</a>: “🥶 Oh no some poor GitHub user always gets tagged …”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/96#discussion_r2345011328">42core-team/monorepo#96</a>: “/// @brief Ticks it takes after a unit was spawned…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/96#discussion_r2345008250">42core-team/monorepo#96</a>: “Good call I added it.”</li>
@@ -45,9 +48,6 @@
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/96#discussion_r2344984548">42core-team/monorepo#96</a>: “It annoyed me. Copied it from somewhere without th…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/issues/245#issuecomment-3286235442">42core-team/website_relaunch#245</a>: “Thank you. Can I now trigger this from the monorep…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/245">42core-team/website_relaunch#245</a>: “trigger frontend build without cache for wiki – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/90#issuecomment-3285023195">42core-team/monorepo#90</a>: “I got this specific issue fixed locally, off-by-on…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/90#issuecomment-3285021453">42core-team/monorepo#90</a>: “Solution: This is all a little too wonky with the …”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/95">42core-team/monorepo#95</a>: “hold space for double / triple speed – some parts …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
