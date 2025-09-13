@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3286797979">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/is…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/246#issuecomment-3286324726">42core-team/website_relaunch#246</a>: “Can't add you as reviewer because you opened the P…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/website_relaunch/pull/246#discussion_r2345034228">42core-team/website_relaunch#246</a>: “I've kept it but renamed it to FALLBACK_WIKI_VERSI…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/website_relaunch/pull/246#discussion_r2345029921">42core-team/website_relaunch#246</a>: “Good call wasn't sure. Removed it.”</li>
@@ -47,7 +48,6 @@
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/96#discussion_r2344985601">42core-team/monorepo#96</a>: “Yes that works”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/96#discussion_r2344984548">42core-team/monorepo#96</a>: “It annoyed me. Copied it from somewhere without th…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/issues/245#issuecomment-3286235442">42core-team/website_relaunch#245</a>: “Thank you. Can I now trigger this from the monorep…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website_relaunch/issues/245">42core-team/website_relaunch#245</a>: “trigger frontend build without cache for wiki – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
