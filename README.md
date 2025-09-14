@@ -38,6 +38,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/99">42core-team/monorepo#99</a></li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/99">42core-team/monorepo#99</a>: “[server] fix off-by-one when assigning places base…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/90">42core-team/monorepo#90</a>: “weird duplicate loser team saving in replay – <img…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/91#issuecomment-3288074311">42core-team/monorepo#91</a>: “cool please merge”</li>
 <li>👍 Yesterday: Approved PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3288056387">42core-team/monorepo#98</a>: “This is at least the 3rd issue about this and the …”</li>
@@ -45,9 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3286797979">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/is…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/246#issuecomment-3286324726">42core-team/website_relaunch#246</a>: “Can't add you as reviewer because you opened the P…”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/website_relaunch/pull/246#discussion_r2345034228">42core-team/website_relaunch#246</a>: “I've kept it but renamed it to FALLBACK_WIKI_VERSI…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/website_relaunch/pull/246#discussion_r2345029921">42core-team/website_relaunch#246</a>: “Good call wasn't sure. Removed it.”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/96#discussion_r2345013016">42core-team/monorepo#96</a>: “🥶 Oh no some poor GitHub user always gets tagged …”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/96#discussion_r2345011328">42core-team/monorepo#96</a>: “/// @brief Ticks it takes after a unit was spawned…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
