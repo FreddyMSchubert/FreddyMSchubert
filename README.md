@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3289851190">42core-team/monorepo#88</a>: “https://github.com/42core-team/monorepo/blob/dev/.…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/88">42core-team/monorepo#88</a>: “auto-deploy wiki – The wiki should not only be dep…”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/99">42core-team/monorepo#99</a></li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/99">42core-team/monorepo#99</a>: “[server] fix off-by-one when assigning places base…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/90">42core-team/monorepo#90</a>: “weird duplicate loser team saving in replay – <img…”</li>
@@ -46,8 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3288056387">42core-team/monorepo#98</a>: “This is at least the 3rd issue about this and the …”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/97#issuecomment-3287713189">42core-team/monorepo#97</a>: “Sure! Not before the event, but this is kind of th…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3286797979">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/is…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/246#issuecomment-3286324726">42core-team/website_relaunch#246</a>: “Can't add you as reviewer because you opened the P…”</li>
-<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/website_relaunch/pull/246#discussion_r2345034228">42core-team/website_relaunch#246</a>: “I've kept it but renamed it to FALLBACK_WIKI_VERSI…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
