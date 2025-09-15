@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/101">42core-team/monorepo#101</a>: “Missing files in the gitignore – Should these file…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3290510395">42core-team/monorepo#88</a>: “@PaulicStudios https://github.com/42core-team/mono…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3290476923">42core-team/monorepo#101</a>: “Ok @PaulicStudios I've cleaned up the gitignores a…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3290470506">42core-team/monorepo#101</a>: “did you create file to keep folder in git? that's …”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/100#issuecomment-3289934814">42core-team/monorepo#100</a>: “I think the option in you second comment is fine (…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3289888139">42core-team/monorepo#88</a>: “@PaulicStudios It now properly deploys the version…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3289882486">42core-team/monorepo#88</a>: “aaaah makes sense now I get how you did it. ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/100#issuecomment-3289877516">42core-team/monorepo#100</a>: “I don't think not being able to rollback is an iss…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
