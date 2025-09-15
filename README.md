@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/101">42core-team/monorepo#101</a>: “Missing files in the gitignore – Should these file…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3289949915">42core-team/monorepo#101</a>: “i dont know what the file devpod does but no we wa…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/100#issuecomment-3289934814">42core-team/monorepo#100</a>: “I think the option in you second comment is fine (…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3289888139">42core-team/monorepo#88</a>: “@PaulicStudios It now properly deploys the version…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3289882486">42core-team/monorepo#88</a>: “aaaah makes sense now I get how you did it. ”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/100#issuecomment-3289877516">42core-team/monorepo#100</a>: “I don't think not being able to rollback is an iss…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3289858214">42core-team/monorepo#88</a>: “Nevermind it works on dev but not on prod. I creat…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3289851190">42core-team/monorepo#88</a>: “https://github.com/42core-team/monorepo/blob/dev/.…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/88">42core-team/monorepo#88</a>: “auto-deploy wiki – The wiki should not only be dep…”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/99">42core-team/monorepo#99</a></li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/99">42core-team/monorepo#99</a>: “[server] fix off-by-one when assigning places base…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/90">42core-team/monorepo#90</a>: “weird duplicate loser team saving in replay – <img…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/91#issuecomment-3288074311">42core-team/monorepo#91</a>: “cool please merge”</li>
-<li>👍 2 days ago: Approved PR <a href="https://github.com/42core-team/monorepo/pull/91">42core-team/monorepo#91</a></li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3288056387">42core-team/monorepo#98</a>: “This is at least the 3rd issue about this and the …”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/97#issuecomment-3287713189">42core-team/monorepo#97</a>: “Sure! Not before the event, but this is kind of th…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3286797979">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/is…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
