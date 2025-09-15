@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290916792">42core-team/monorepo#102</a>: “I’m worried about that because that would mean if …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290901573">42core-team/monorepo#102</a>: “To put it a little easier to understand: If you ge…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/102">42core-team/monorepo#102</a>: “bomb explosion handling refinement – If you spam 2…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/101">42core-team/monorepo#101</a>: “Missing files in the gitignore – Should these file…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3290510395">42core-team/monorepo#88</a>: “@PaulicStudios https://github.com/42core-team/mono…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3290476923">42core-team/monorepo#101</a>: “Ok @PaulicStudios I've cleaned up the gitignores a…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3290470506">42core-team/monorepo#101</a>: “did you create file to keep folder in git? that's …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/100#issuecomment-3289962982">42core-team/monorepo#100</a>: “Well we gotta expect the user to execute the comma…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/101">42core-team/monorepo#101</a>: “Missing files in the gitignore – Should these file…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3289949915">42core-team/monorepo#101</a>: “i dont know what the file devpod does but no we wa…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290916792">42core-team/monorepo#102</a>: “I’m worried about that because that would mean if …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290901573">42core-team/monorepo#102</a>: “To put it a little easier to understand: If you ge…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/102">42core-team/monorepo#102</a>: “bomb explosion handling refinement – If you spam 2…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/101">42core-team/monorepo#101</a>: “Missing files in the gitignore – Should these file…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3290510395">42core-team/monorepo#88</a>: “@PaulicStudios https://github.com/42core-team/mono…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3290476923">42core-team/monorepo#101</a>: “Ok @PaulicStudios I've cleaned up the gitignores a…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3290470506">42core-team/monorepo#101</a>: “did you create file to keep folder in git? that's …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/100#issuecomment-3289962982">42core-team/monorepo#100</a>: “Well we gotta expect the user to execute the comma…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/101">42core-team/monorepo#101</a>: “Missing files in the gitignore – Should these file…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3289949915">42core-team/monorepo#101</a>: “i dont know what the file devpod does but no we wa…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
