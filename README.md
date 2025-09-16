@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298598669">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/ac…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298464637">42core-team/monorepo#104</a>: “The main problem with move_and_attack was bots kil…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298440245">42core-team/monorepo#104</a>: “The moveTowards function was a bit of a struggle a…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/103">42core-team/monorepo#103</a>: “Alternative Action Functions – - void core_action_…”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a></li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/104#discussion_r2351588456">42core-team/monorepo#104</a>: “Yes and then it'll be caught by the isPosValid che…”</li>
-<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a>: “[client_lib|my-core-bot|wiki] basic pathfinding fu…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290916792">42core-team/monorepo#102</a>: “I’m worried about that because that would mean if …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290901573">42core-team/monorepo#102</a>: “To put it a little easier to understand: If you ge…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/102">42core-team/monorepo#102</a>: “bomb explosion handling refinement – If you spam 2…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298768031">42core-team/monorepo#88</a>: “I didn't even try it with a release I tried it on …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298598669">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/ac…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298464637">42core-team/monorepo#104</a>: “The main problem with move_and_attack was bots kil…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298440245">42core-team/monorepo#104</a>: “The moveTowards function was a bit of a struggle a…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/103">42core-team/monorepo#103</a>: “Alternative Action Functions – - void core_action_…”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/104#discussion_r2351588456">42core-team/monorepo#104</a>: “Yes and then it'll be caught by the isPosValid che…”</li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a>: “[client_lib|my-core-bot|wiki] basic pathfinding fu…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290916792">42core-team/monorepo#102</a>: “I’m worried about that because that would mean if …”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290901573">42core-team/monorepo#102</a>: “To put it a little easier to understand: If you ge…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
