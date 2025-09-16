@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/103">42core-team/monorepo#103</a>: “Alternative Action Functions – - void core_action_…”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a></li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/104#discussion_r2351588456">42core-team/monorepo#104</a>: “Yes and then it'll be caught by the isPosValid che…”</li>
 <li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a>: “[client_lib|my-core-bot|wiki] basic pathfinding fu…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290916792">42core-team/monorepo#102</a>: “I’m worried about that because that would mean if …”</li>
@@ -46,8 +48,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/101">42core-team/monorepo#101</a>: “Missing files in the gitignore – Should these file…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3290510395">42core-team/monorepo#88</a>: “@PaulicStudios https://github.com/42core-team/mono…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3290476923">42core-team/monorepo#101</a>: “Ok @PaulicStudios I've cleaned up the gitignores a…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/101#issuecomment-3290470506">42core-team/monorepo#101</a>: “did you create file to keep folder in git? that's …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/100#issuecomment-3289962982">42core-team/monorepo#100</a>: “Well we gotta expect the user to execute the comma…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
