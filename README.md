@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298598669">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/ac…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298464637">42core-team/monorepo#104</a>: “The main problem with move_and_attack was bots kil…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298440245">42core-team/monorepo#104</a>: “The moveTowards function was a bit of a struggle a…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/103">42core-team/monorepo#103</a>: “Alternative Action Functions – - void core_action_…”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290916792">42core-team/monorepo#102</a>: “I’m worried about that because that would mean if …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290901573">42core-team/monorepo#102</a>: “To put it a little easier to understand: If you ge…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/102">42core-team/monorepo#102</a>: “bomb explosion handling refinement – If you spam 2…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/101">42core-team/monorepo#101</a>: “Missing files in the gitignore – Should these file…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
