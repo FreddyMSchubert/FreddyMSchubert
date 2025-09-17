@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3299395531">42core-team/monorepo#88</a>: “Ah alright I understand what you meant now thank y…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/268#issuecomment-3299289432">42core-team/website_relaunch#268</a>: “I think it makes sense to have both the actual git…”</li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/website_relaunch/pull/268">42core-team/website_relaunch#268</a>: “Changelog – Added a working changelog tab. GitHub …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3299114179">42core-team/monorepo#88</a>: “If you truly think it does, please deploy the dev …”</li>
@@ -47,7 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298440245">42core-team/monorepo#104</a>: “The moveTowards function was a bit of a struggle a…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/103">42core-team/monorepo#103</a>: “Alternative Action Functions – - void core_action_…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a></li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/104#discussion_r2351588456">42core-team/monorepo#104</a>: “Yes and then it'll be caught by the isPosValid che…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
