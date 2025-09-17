@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/pull/268#issuecomment-3299484627">42core-team/website#268</a>: “Alright I added the metadata as requested, hope th…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/website/pull/268#discussion_r2353019484">42core-team/website#268</a>: “I see what you mean... But I figured since the wik…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3299395531">42core-team/monorepo#88</a>: “Ah alright I understand what you meant now thank y…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/268#issuecomment-3299289432">42core-team/website_relaunch#268</a>: “I think it makes sense to have both the actual git…”</li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/website_relaunch/pull/268">42core-team/website_relaunch#268</a>: “Changelog – Added a working changelog tab. GitHub …”</li>
@@ -46,8 +48,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298598669">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/ac…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298464637">42core-team/monorepo#104</a>: “The main problem with move_and_attack was bots kil…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298440245">42core-team/monorepo#104</a>: “The moveTowards function was a bit of a struggle a…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/103">42core-team/monorepo#103</a>: “Alternative Action Functions – - void core_action_…”</li>
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
