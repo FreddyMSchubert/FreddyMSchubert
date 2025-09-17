@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3299114179">42core-team/monorepo#88</a>: “If you truly think it does, please deploy the dev …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298768031">42core-team/monorepo#88</a>: “I didn't even try it with a release I tried it on …”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298598669">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/ac…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/104#issuecomment-3298464637">42core-team/monorepo#104</a>: “The main problem with move_and_attack was bots kil…”</li>
@@ -47,7 +48,6 @@
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/104#discussion_r2351588456">42core-team/monorepo#104</a>: “Yes and then it'll be caught by the isPosValid che…”</li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/104">42core-team/monorepo#104</a>: “[client_lib|my-core-bot|wiki] basic pathfinding fu…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290916792">42core-team/monorepo#102</a>: “I’m worried about that because that would mean if …”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3290901573">42core-team/monorepo#102</a>: “To put it a little easier to understand: If you ge…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
