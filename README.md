@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/106#issuecomment-3303959891">42core-team/monorepo#106</a>: “```html 	<script> 		(function() { 			var s = docum…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/106#issuecomment-3303181184">42core-team/monorepo#106</a>: “In my understanding it's quite literally as easy a…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website/pull/268#issuecomment-3299484627">42core-team/website#268</a>: “Alright I added the metadata as requested, hope th…”</li>
@@ -47,7 +48,6 @@
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/website_relaunch/pull/268">42core-team/website_relaunch#268</a>: “Changelog – Added a working changelog tab. GitHub …”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3299114179">42core-team/monorepo#88</a>: “If you truly think it does, please deploy the dev …”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298768031">42core-team/monorepo#88</a>: “I didn't even try it with a release I tried it on …”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3298598669">42core-team/monorepo#88</a>: “https://github.com/42core-team/website_relaunch/ac…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
