@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/278#issuecomment-3306798175">42core-team/website#278</a>: “Very easy fix should be in these files https://git…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/106#issuecomment-3303959891">42core-team/monorepo#106</a>: “```html 	<script> 		(function() { 			var s = docum…”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3299395531">42core-team/monorepo#88</a>: “Ah alright I understand what you meant now thank y…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/268#issuecomment-3299289432">42core-team/website_relaunch#268</a>: “I think it makes sense to have both the actual git…”</li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/website_relaunch/pull/268">42core-team/website_relaunch#268</a>: “Changelog – Added a working changelog tab. GitHub …”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3299114179">42core-team/monorepo#88</a>: “If you truly think it does, please deploy the dev …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
