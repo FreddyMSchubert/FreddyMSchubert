@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3308202253">42core-team/monorepo#102</a>: “Ok generally speaking we all agreed that we want m…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/102">42core-team/monorepo#102</a>: “bomb explosion handling refinement – If you spam 2…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/278#issuecomment-3306798175">42core-team/website#278</a>: “Very easy fix should be in these files https://git…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
@@ -46,8 +48,6 @@
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/website/pull/268#issuecomment-3299484627">42core-team/website#268</a>: “Alright I added the metadata as requested, hope th…”</li>
 <li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/website/pull/268#discussion_r2353019484">42core-team/website#268</a>: “I see what you mean... But I figured since the wik…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/88#issuecomment-3299395531">42core-team/monorepo#88</a>: “Ah alright I understand what you meant now thank y…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/website_relaunch/pull/268#issuecomment-3299289432">42core-team/website_relaunch#268</a>: “I think it makes sense to have both the actual git…”</li>
-<li>🚀 3 days ago: Opened PR <a href="https://github.com/42core-team/website_relaunch/pull/268">42core-team/website_relaunch#268</a>: “Changelog – Added a working changelog tab. GitHub …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
