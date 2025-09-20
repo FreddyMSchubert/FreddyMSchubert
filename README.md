@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💥 Today: Closed PR <a href="https://github.com/42core-team/monorepo/pull/111">42core-team/monorepo#111</a> without merge</li>
+<li>👎 Today: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/111">42core-team/monorepo#111</a></li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/277">42core-team/website#277</a>: “add basic markdown rendering to description of eve…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/website/pull/281">42core-team/website#281</a></li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/website/pull/281">42core-team/website#281</a>: “event description markdown support – ”</li>
@@ -46,8 +48,6 @@
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website/issues/278#issuecomment-3306798175">42core-team/website#278</a>: “Very easy fix should be in these files https://git…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/106#issuecomment-3303959891">42core-team/monorepo#106</a>: “```html 	<script> 		(function() { 			var s = docum…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/106#issuecomment-3303181184">42core-team/monorepo#106</a>: “In my understanding it's quite literally as easy a…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
