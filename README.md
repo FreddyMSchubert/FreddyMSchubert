@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/107#issuecomment-3314901464">42core-team/monorepo#107</a>: “Is somebody on this and will use this Copilot code…”</li>
 <li>💥 Today: Closed PR <a href="https://github.com/42core-team/monorepo/pull/111">42core-team/monorepo#111</a> without merge</li>
 <li>👎 Today: Requested changes on PR <a href="https://github.com/42core-team/monorepo/pull/111">42core-team/monorepo#111</a></li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/277">42core-team/website#277</a>: “add basic markdown rendering to description of eve…”</li>
@@ -47,7 +48,6 @@
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/102">42core-team/monorepo#102</a>: “bomb explosion handling refinement – If you spam 2…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website/issues/278#issuecomment-3306798175">42core-team/website#278</a>: “Very easy fix should be in these files https://git…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/278">42core-team/website#278</a>: “changelog link missing from mobile view header & f…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
