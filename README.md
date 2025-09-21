@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💥 Today: Closed PR <a href="https://github.com/42core-team/monorepo/pull/107">42core-team/monorepo#107</a> without merge</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/112#issuecomment-3315003096">42core-team/monorepo#112</a>: “for clarity, gems are the count of money that a un…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/112">42core-team/monorepo#112</a>: “dropping gems onto gem piles – is currently imposs…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/107#issuecomment-3314901464">42core-team/monorepo#107</a>: “Is somebody on this and will use this Copilot code…”</li>
@@ -47,7 +48,6 @@
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/website/pull/281">42core-team/website#281</a></li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/281">42core-team/website#281</a>: “event description markdown support – ”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/102#issuecomment-3308202253">42core-team/monorepo#102</a>: “Ok generally speaking we all agreed that we want m…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/102">42core-team/monorepo#102</a>: “bomb explosion handling refinement – If you spam 2…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
