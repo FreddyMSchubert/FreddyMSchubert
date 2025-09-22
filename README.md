@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/website/issues/191">42core-team/website#191</a>: “fix fireworks visualizer url parameters – the url …”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/191#issuecomment-3317339823">42core-team/website#191</a>: “so this is done right? i think so otherwise please…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/109#issuecomment-3316285878">42core-team/monorepo#109</a>: “Since the event started and we can't change it any…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/113">42core-team/monorepo#113</a>: “add links to the real implementation of client_lib…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3316275677">42core-team/monorepo#115</a>: “So... literally all of them but the devpod file an…”</li>
@@ -46,8 +48,6 @@
 <li>💥 Yesterday: Closed PR <a href="https://github.com/42core-team/monorepo/pull/107">42core-team/monorepo#107</a> without merge</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/112#issuecomment-3315003096">42core-team/monorepo#112</a>: “for clarity, gems are the count of money that a un…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/112">42core-team/monorepo#112</a>: “dropping gems onto gem piles – is currently imposs…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/107#issuecomment-3314901464">42core-team/monorepo#107</a>: “Is somebody on this and will use this Copilot code…”</li>
-<li>💥 2 days ago: Closed PR <a href="https://github.com/42core-team/monorepo/pull/111">42core-team/monorepo#111</a> without merge</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
