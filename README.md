@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319985853">42core-team/monorepo#116</a>: “<img width="505" height="35" alt="Image" src="http…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319745125">42core-team/monorepo#116</a>: “🔥 Thank you for the bug report these are super he…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319740628">42core-team/monorepo#116</a>: “This is sort of a limitation in the architecture. …”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/191">42core-team/website#191</a>: “fix fireworks visualizer url parameters – the url …”</li>
@@ -47,7 +48,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3316275677">42core-team/monorepo#115</a>: “So... literally all of them but the devpod file an…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/114">42core-team/monorepo#114</a>: “fix proper stop in devcontainer makefile in my-cor…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/112">42core-team/monorepo#112</a>: “dropping gems onto gem piles – is currently imposs…”</li>
-<li>💥 2 days ago: Closed PR <a href="https://github.com/42core-team/monorepo/pull/107">42core-team/monorepo#107</a> without merge</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
