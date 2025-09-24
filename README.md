@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3329751986">42core-team/monorepo#117</a>: “What? We display the tick and all the unit ids in …”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319985853">42core-team/monorepo#116</a>: “<img width="505" height="35" alt="Image" src="http…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319745125">42core-team/monorepo#116</a>: “🔥 Thank you for the bug report these are super he…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319740628">42core-team/monorepo#116</a>: “This is sort of a limitation in the architecture. …”</li>
@@ -47,7 +48,6 @@
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/113">42core-team/monorepo#113</a>: “add links to the real implementation of client_lib…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3316275677">42core-team/monorepo#115</a>: “So... literally all of them but the devpod file an…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/114">42core-team/monorepo#114</a>: “fix proper stop in devcontainer makefile in my-cor…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/112">42core-team/monorepo#112</a>: “dropping gems onto gem piles – is currently imposs…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
