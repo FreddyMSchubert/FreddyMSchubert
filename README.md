@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/110#issuecomment-3329985709">42core-team/monorepo#110</a>: “This is funny but not actually possible, closing t…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/110">42core-team/monorepo#110</a>: “anti-nazification – the world generator can in the…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/118#issuecomment-3329984259">42core-team/monorepo#118</a>: “Thank you good catch! It's crazy how many differen…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/118">42core-team/monorepo#118</a>: “Gems outside of the Map – if (unit->pos.x == 19 &&…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3329974358">42core-team/monorepo#117</a>: “@Peu77 We currently don't keep logs forever due to…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3329967942">42core-team/monorepo#117</a>: “Okay so this is not about a tick or unitId or what…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/119#issuecomment-3329965143">42core-team/monorepo#119</a>: “So this is something we want but I agree its wonky…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/119">42core-team/monorepo#119</a>: “Show Hover Info – - Some Times Shows Information a…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/119#issuecomment-3329939040">42core-team/monorepo#119</a>: “This is intentional. When a unit moves to a tile, …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3329751986">42core-team/monorepo#117</a>: “What? We display the tick and all the unit ids in …”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319985853">42core-team/monorepo#116</a>: “<img width="505" height="35" alt="Image" src="http…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319745125">42core-team/monorepo#116</a>: “🔥 Thank you for the bug report these are super he…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/116#issuecomment-3319740628">42core-team/monorepo#116</a>: “This is sort of a limitation in the architecture. …”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/website/issues/191">42core-team/website#191</a>: “fix fireworks visualizer url parameters – the url …”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website/issues/191#issuecomment-3317339823">42core-team/website#191</a>: “so this is done right? i think so otherwise please…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/109#issuecomment-3316285878">42core-team/monorepo#109</a>: “Since the event started and we can't change it any…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/113">42core-team/monorepo#113</a>: “add links to the real implementation of client_lib…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3316275677">42core-team/monorepo#115</a>: “So... literally all of them but the devpod file an…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/114">42core-team/monorepo#114</a>: “fix proper stop in devcontainer makefile in my-cor…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
