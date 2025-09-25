@@ -38,16 +38,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/110#issuecomment-3329985709">42core-team/monorepo#110</a>: “This is funny but not actually possible, closing t…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/121#issuecomment-3335168168">42core-team/monorepo#121</a>: “@Peu77 To do this we need separate starting code f…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/121">42core-team/monorepo#121</a>: “A* Pathfinding for Client Lib – In a player-access…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/110">42core-team/monorepo#110</a>: “anti-nazification – the world generator can in the…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/110#issuecomment-3329985709">42core-team/monorepo#110</a>: “This is funny but not actually possible, closing t…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/118#issuecomment-3329984259">42core-team/monorepo#118</a>: “Thank you good catch! It's crazy how many differen…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/118">42core-team/monorepo#118</a>: “Gems outside of the Map – if (unit->pos.x == 19 &&…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3329974358">42core-team/monorepo#117</a>: “@Peu77 We currently don't keep logs forever due to…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3329967942">42core-team/monorepo#117</a>: “Okay so this is not about a tick or unitId or what…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/119#issuecomment-3329965143">42core-team/monorepo#119</a>: “So this is something we want but I agree its wonky…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/119">42core-team/monorepo#119</a>: “Show Hover Info – - Some Times Shows Information a…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/119#issuecomment-3329939040">42core-team/monorepo#119</a>: “This is intentional. When a unit moves to a tile, …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3329751986">42core-team/monorepo#117</a>: “What? We display the tick and all the unit ids in …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/119#issuecomment-3329965143">42core-team/monorepo#119</a>: “So this is something we want but I agree its wonky…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
