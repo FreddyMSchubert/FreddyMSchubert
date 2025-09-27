@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/130">42core-team/monorepo#130</a>: “Replay Version Warning not being thrown – On the o…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/129#discussion_r2382981444">42core-team/monorepo#129</a>: “Intentional. Players gotta think”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/129#issuecomment-3339688819">42core-team/monorepo#129</a>: “Pipeline fails right now but that's ok we must ful…”</li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/129">42core-team/monorepo#129</a>: “hardcore & softcore template bot splitup – Seperat…”</li>
@@ -47,7 +48,6 @@
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/110">42core-team/monorepo#110</a>: “anti-nazification – the world generator can in the…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/118#issuecomment-3329984259">42core-team/monorepo#118</a>: “Thank you good catch! It's crazy how many differen…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/118">42core-team/monorepo#118</a>: “Gems outside of the Map – if (unit->pos.x == 19 &&…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3329974358">42core-team/monorepo#117</a>: “@Peu77 We currently don't keep logs forever due to…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
