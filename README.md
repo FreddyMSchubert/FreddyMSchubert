@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/website/pull/305">42core-team/website#305</a>: “303 pass team names into server container – peu77 …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/304#issuecomment-3346617784">42core-team/website#304</a>: “I see, so the Rush event isn't public. How do priv…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/website/issues/304">42core-team/website#304</a>: “all events tab doesn't show all events – <img widt…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/303#issuecomment-3346598010">42core-team/website#303</a>: “No because it does things locally, which is how 90…”</li>
@@ -36,7 +37,6 @@
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/129#issuecomment-3339688819">42core-team/monorepo#129</a>: “Pipeline fails right now but that's ok we must ful…”</li>
 <li>🚀 3 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/129">42core-team/monorepo#129</a>: “hardcore & softcore template bot splitup – Seperat…”</li>
 <li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/121#issuecomment-3335168168">42core-team/monorepo#121</a>: “@Peu77 To do this we need separate starting code f…”</li>
-<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/121">42core-team/monorepo#121</a>: “A* Pathfinding for Client Lib – In a player-access…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
