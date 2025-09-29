@@ -27,16 +27,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3347165888">42core-team/monorepo#130</a>: “Usually each replay has a version and the visualiz…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/131">42core-team/monorepo#131</a>: “Website Visualizer Name Setting Override – ``` Mat…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/website/issues/303">42core-team/website#303</a>: “pass team names into server container – as an env …”</li>
-<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/website/pull/305">42core-team/website#305</a></li>
-<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/website/pull/305">42core-team/website#305</a>: “303 pass team names into server container – peu77 …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/304#issuecomment-3346617784">42core-team/website#304</a>: “I see, so the Rush event isn't public. How do priv…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/website/issues/304">42core-team/website#304</a>: “all events tab doesn't show all events – <img widt…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/303#issuecomment-3346598010">42core-team/website#303</a>: “No because it does things locally, which is how 90…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/304">42core-team/website#304</a>: “all events tab doesn't show all events – <img widt…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/130">42core-team/monorepo#130</a>: “Replay Version Warning not being thrown – On the o…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3347165888">42core-team/monorepo#130</a>: “Usually each replay has a version and the visualiz…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/131">42core-team/monorepo#131</a>: “Website Visualizer Name Setting Override – ``` Mat…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/303">42core-team/website#303</a>: “pass team names into server container – as an env …”</li>
+<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/website/pull/305">42core-team/website#305</a></li>
+<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/website/pull/305">42core-team/website#305</a>: “303 pass team names into server container – peu77 …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/304#issuecomment-3346617784">42core-team/website#304</a>: “I see, so the Rush event isn't public. How do priv…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/304">42core-team/website#304</a>: “all events tab doesn't show all events – <img widt…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/303#issuecomment-3346598010">42core-team/website#303</a>: “No because it does things locally, which is how 90…”</li>
+<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/304">42core-team/website#304</a>: “all events tab doesn't show all events – <img widt…”</li>
+<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/130">42core-team/monorepo#130</a>: “Replay Version Warning not being thrown – On the o…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
