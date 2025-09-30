@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/132">42core-team/monorepo#132</a>: “🤗 Enhance wiki with short code examples & general…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3347165888">42core-team/monorepo#130</a>: “Usually each replay has a version and the visualiz…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/131">42core-team/monorepo#131</a>: “Website Visualizer Name Setting Override – ``` Mat…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/303">42core-team/website#303</a>: “pass team names into server container – as an env …”</li>
@@ -36,7 +37,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/304">42core-team/website#304</a>: “all events tab doesn't show all events – <img widt…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/303#issuecomment-3346598010">42core-team/website#303</a>: “No because it does things locally, which is how 90…”</li>
 <li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/304">42core-team/website#304</a>: “all events tab doesn't show all events – <img widt…”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/130">42core-team/monorepo#130</a>: “Replay Version Warning not being thrown – On the o…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
