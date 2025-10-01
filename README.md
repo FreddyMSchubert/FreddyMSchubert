@@ -27,6 +27,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/133">42core-team/monorepo#133</a>: “🤗 Sparse Resource Worldgenerator can generate non…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/131">42core-team/monorepo#131</a>: “🤗 Website Visualizer Name Setting Override – ``` …”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/132">42core-team/monorepo#132</a>: “🤗 Enhance wiki with short code examples & general…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/135">42core-team/monorepo#135</a>: “🤗 Improved attack default action function – It do…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/133#issuecomment-3353247911">42core-team/monorepo#133</a>: “Yeah I think so.”</li>
@@ -35,8 +37,6 @@
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3347165888">42core-team/monorepo#130</a>: “Usually each replay has a version and the visualiz…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/131">42core-team/monorepo#131</a>: “Website Visualizer Name Setting Override – ``` Mat…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/website/issues/303">42core-team/website#303</a>: “pass team names into server container – as an env …”</li>
-<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/website/pull/305">42core-team/website#305</a></li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/305">42core-team/website#305</a>: “303 pass team names into server container – peu77 …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
