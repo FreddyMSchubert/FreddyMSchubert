@@ -27,16 +27,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365209661">42core-team/monorepo#98</a>: “<img width="878" height="873" alt="Image" src="htt…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365195271">42core-team/monorepo#98</a>: “<img width="878" height="871" alt="Image" src="htt…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/136">42core-team/monorepo#136</a>: “SVG System Rework – ”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/130">42core-team/monorepo#130</a>: “🤗 Replay Version Warning not being thrown – On th…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3355993900">42core-team/monorepo#130</a>: “Oh I know why I did something stupid. I saved the …”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/website/pull/329#discussion_r2394296406">42core-team/website#329</a>: “This function doesn't define which items should be…”</li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/329">42core-team/website#329</a>: “default-expand wiki subfolders – heyy so i started…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/133">42core-team/monorepo#133</a>: “🤗 Sparse Resource Worldgenerator can generate non…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/131">42core-team/monorepo#131</a>: “🤗 Website Visualizer Name Setting Override – ``` …”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/132">42core-team/monorepo#132</a>: “🤗 Enhance wiki with short code examples & general…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365209661">42core-team/monorepo#98</a>: “<img width="878" height="873" alt="Image" src="htt…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365195271">42core-team/monorepo#98</a>: “<img width="878" height="871" alt="Image" src="htt…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/136">42core-team/monorepo#136</a>: “SVG System Rework – ”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/130">42core-team/monorepo#130</a>: “🤗 Replay Version Warning not being thrown – On th…”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3355993900">42core-team/monorepo#130</a>: “Oh I know why I did something stupid. I saved the …”</li>
+<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/website/pull/329#discussion_r2394296406">42core-team/website#329</a>: “This function doesn't define which items should be…”</li>
+<li>🚀 3 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/329">42core-team/website#329</a>: “default-expand wiki subfolders – heyy so i started…”</li>
+<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/133">42core-team/monorepo#133</a>: “🤗 Sparse Resource Worldgenerator can generate non…”</li>
+<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/131">42core-team/monorepo#131</a>: “🤗 Website Visualizer Name Setting Override – ``` …”</li>
+<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/132">42core-team/monorepo#132</a>: “🤗 Enhance wiki with short code examples & general…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
