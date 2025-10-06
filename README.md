@@ -27,6 +27,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/331#issuecomment-3370845738">42core-team/website#331</a>: “Done https://github.com/42core-team/monorepo/commi…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/website/issues/331">42core-team/website#331</a>: “Feedback: Page Not Found | CORE Wiki | CORE Game –…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/331#issuecomment-3370720656">42core-team/website#331</a>: “Thank you, good catch! It is supposed to link to h…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a></li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a>: “Merge dev into main – ”</li>
@@ -35,8 +37,6 @@
 <li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/136">42core-team/monorepo#136</a>: “SVG System Rework – ”</li>
 <li>✅ 5 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/130">42core-team/monorepo#130</a>: “🤗 Replay Version Warning not being thrown – On th…”</li>
 <li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3355993900">42core-team/monorepo#130</a>: “Oh I know why I did something stupid. I saved the …”</li>
-<li>✍️ 5 days ago: Commented on PR review <a href="https://github.com/42core-team/website/pull/329#discussion_r2394296406">42core-team/website#329</a>: “This function doesn't define which items should be…”</li>
-<li>🚀 5 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/329">42core-team/website#329</a>: “default-expand wiki subfolders – heyy so i started…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
