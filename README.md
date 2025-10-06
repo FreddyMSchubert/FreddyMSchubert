@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/331#issuecomment-3370720656">42core-team/website#331</a>: “Thank you, good catch! It is supposed to link to h…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a></li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a>: “Merge dev into main – ”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365209661">42core-team/monorepo#98</a>: “<img width="878" height="873" alt="Image" src="htt…”</li>
@@ -36,7 +37,6 @@
 <li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3355993900">42core-team/monorepo#130</a>: “Oh I know why I did something stupid. I saved the …”</li>
 <li>✍️ 5 days ago: Commented on PR review <a href="https://github.com/42core-team/website/pull/329#discussion_r2394296406">42core-team/website#329</a>: “This function doesn't define which items should be…”</li>
 <li>🚀 5 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/329">42core-team/website#329</a>: “default-expand wiki subfolders – heyy so i started…”</li>
-<li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/133">42core-team/monorepo#133</a>: “🤗 Sparse Resource Worldgenerator can generate non…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
