@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/137">42core-team/monorepo#137</a>: “[Bug] just a test this is such a cool feature – ##…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/331#issuecomment-3370845738">42core-team/website#331</a>: “Done https://github.com/42core-team/monorepo/commi…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/website/issues/331">42core-team/website#331</a>: “Feedback: Page Not Found | CORE Wiki | CORE Game –…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/331#issuecomment-3370720656">42core-team/website#331</a>: “Thank you, good catch! It is supposed to link to h…”</li>
@@ -36,7 +37,6 @@
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365195271">42core-team/monorepo#98</a>: “<img width="878" height="871" alt="Image" src="htt…”</li>
 <li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/136">42core-team/monorepo#136</a>: “SVG System Rework – ”</li>
 <li>✅ 5 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/130">42core-team/monorepo#130</a>: “🤗 Replay Version Warning not being thrown – On th…”</li>
-<li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/130#issuecomment-3355993900">42core-team/monorepo#130</a>: “Oh I know why I did something stupid. I saved the …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
