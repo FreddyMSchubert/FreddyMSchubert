@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/140#issuecomment-3371919196">42core-team/monorepo#140</a>: “I pasted that code and it works for me. Can you pl…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/140#issuecomment-3371797463">42core-team/monorepo#140</a>: “Works for me, all the gems get transferred. What h…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/138#issuecomment-3371208733">42core-team/monorepo#138</a>: “Isn't that insanely wonky though? I don't like thi…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/137">42core-team/monorepo#137</a>: “[Bug] just a test this is such a cool feature – ##…”</li>
@@ -36,7 +37,6 @@
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a></li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a>: “Merge dev into main – ”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365209661">42core-team/monorepo#98</a>: “<img width="878" height="873" alt="Image" src="htt…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365195271">42core-team/monorepo#98</a>: “<img width="878" height="871" alt="Image" src="htt…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
