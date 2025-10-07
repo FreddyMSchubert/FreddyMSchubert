@@ -27,6 +27,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/141">42core-team/monorepo#141</a>: “remove e_obj_state altogether – ### Feature Summar…”</li>
+<li>🌕 Today: Merged PR <a href="https://github.com/42core-team/monorepo/pull/142">42core-team/monorepo#142</a></li>
+<li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/142">42core-team/monorepo#142</a>: “remove e_obj_state as a concept altogether + actio…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/141">42core-team/monorepo#141</a>: “remove e_obj_state altogether – ### Feature Summar…”</li>
 <li>👍 Yesterday: Approved PR <a href="https://github.com/42core-team/website/pull/333">42core-team/website#333</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/140#issuecomment-3371919196">42core-team/monorepo#140</a>: “I pasted that code and it works for me. Can you pl…”</li>
@@ -34,9 +37,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/138#issuecomment-3371208733">42core-team/monorepo#138</a>: “Isn't that insanely wonky though? I don't like thi…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/137">42core-team/monorepo#137</a>: “[Bug] just a test this is such a cool feature – ##…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/331#issuecomment-3370845738">42core-team/website#331</a>: “Done https://github.com/42core-team/monorepo/commi…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/website/issues/331">42core-team/website#331</a>: “Feedback: Page Not Found | CORE Wiki | CORE Game –…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/331#issuecomment-3370720656">42core-team/website#331</a>: “Thank you, good catch! It is supposed to link to h…”</li>
-<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
