@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👍 Yesterday: Approved PR <a href="https://github.com/42core-team/website/pull/333">42core-team/website#333</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/140#issuecomment-3371919196">42core-team/monorepo#140</a>: “I pasted that code and it works for me. Can you pl…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/140#issuecomment-3371797463">42core-team/monorepo#140</a>: “Works for me, all the gems get transferred. What h…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/138#issuecomment-3371208733">42core-team/monorepo#138</a>: “Isn't that insanely wonky though? I don't like thi…”</li>
@@ -36,7 +37,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/331#issuecomment-3370720656">42core-team/website#331</a>: “Thank you, good catch! It is supposed to link to h…”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a></li>
 <li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/330">42core-team/website#330</a>: “Merge dev into main – ”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/98#issuecomment-3365209661">42core-team/monorepo#98</a>: “<img width="878" height="873" alt="Image" src="htt…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
