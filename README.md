@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/144#issuecomment-3381649745">42core-team/monorepo#144</a>: “I don't think that's necessary for people to under…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/135#issuecomment-3380225360">42core-team/monorepo#135</a>: “https://github.com/42core-team/monorepo/commit/dca…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/135">42core-team/monorepo#135</a>: “🤗 Improved attack default action function – It do…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/144">42core-team/monorepo#144</a>: “🤗 Enable easier local battling with some Makefile…”</li>
@@ -36,7 +37,6 @@
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/141">42core-team/monorepo#141</a>: “remove e_obj_state altogether – ### Feature Summar…”</li>
 <li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/monorepo/pull/142">42core-team/monorepo#142</a></li>
 <li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/monorepo/pull/142">42core-team/monorepo#142</a>: “remove e_obj_state as a concept altogether + actio…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/141">42core-team/monorepo#141</a>: “remove e_obj_state altogether – ### Feature Summar…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
