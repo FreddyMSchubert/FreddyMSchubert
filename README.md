@@ -27,16 +27,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🌕 Yesterday: Merged PR <a href="https://github.com/42core-team/website/pull/360">42core-team/website#360</a></li>
-<li>🚀 Yesterday: Opened PR <a href="https://github.com/42core-team/website/pull/360">42core-team/website#360</a>: “wiki sidebar formatting tweaks – before:  <img wid…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/144#issuecomment-3381649745">42core-team/monorepo#144</a>: “I don't think that's necessary for people to under…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/135#issuecomment-3380225360">42core-team/monorepo#135</a>: “https://github.com/42core-team/monorepo/commit/dca…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/135">42core-team/monorepo#135</a>: “🤗 Improved attack default action function – It do…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/144">42core-team/monorepo#144</a>: “🤗 Enable easier local battling with some Makefile…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/138">42core-team/monorepo#138</a>: “Wiki Functions overview – ### Add a description  A…”</li>
-<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/143">42core-team/monorepo#143</a></li>
-<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/143">42core-team/monorepo#143</a>: “wiki structural rework – ”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/141">42core-team/monorepo#141</a>: “remove e_obj_state altogether – ### Feature Summar…”</li>
+<li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/website/pull/360">42core-team/website#360</a></li>
+<li>🚀 2 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/360">42core-team/website#360</a>: “wiki sidebar formatting tweaks – before:  <img wid…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/144#issuecomment-3381649745">42core-team/monorepo#144</a>: “I don't think that's necessary for people to under…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/135#issuecomment-3380225360">42core-team/monorepo#135</a>: “https://github.com/42core-team/monorepo/commit/dca…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/135">42core-team/monorepo#135</a>: “🤗 Improved attack default action function – It do…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/144">42core-team/monorepo#144</a>: “🤗 Enable easier local battling with some Makefile…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/138">42core-team/monorepo#138</a>: “Wiki Functions overview – ### Add a description  A…”</li>
+<li>🌕 3 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/143">42core-team/monorepo#143</a></li>
+<li>🚀 3 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/143">42core-team/monorepo#143</a>: “wiki structural rework – ”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/141">42core-team/monorepo#141</a>: “remove e_obj_state altogether – ### Feature Summar…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
