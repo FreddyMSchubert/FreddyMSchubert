@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/129#discussion_r2419143619">42core-team/monorepo#129</a>: “Ah my bad I didn't know it was already replacing i…”</li>
 <li>🚀 Today: Opened PR <a href="https://github.com/42core-team/monorepo/pull/150">42core-team/monorepo#150</a>: “visualizer Svg handling rework & new color scheme …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/361">42core-team/website#361</a>: “syntax highlighting for wiki code blocks – there's…”</li>
 <li>🌕 2 days ago: Merged PR <a href="https://github.com/42core-team/website/pull/360">42core-team/website#360</a></li>
@@ -36,7 +37,6 @@
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/135">42core-team/monorepo#135</a>: “🤗 Improved attack default action function – It do…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/144">42core-team/monorepo#144</a>: “🤗 Enable easier local battling with some Makefile…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/138">42core-team/monorepo#138</a>: “Wiki Functions overview – ### Add a description  A…”</li>
-<li>🌕 3 days ago: Merged PR <a href="https://github.com/42core-team/monorepo/pull/143">42core-team/monorepo#143</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
