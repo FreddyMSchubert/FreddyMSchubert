@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/146">42core-team/monorepo#146</a>: “🤗 Remove core_get_obj_filter_first – ### Add a de…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/129#issuecomment-3389266445">42core-team/monorepo#129</a>: “ok well i cant resolve these conflicts the whole f…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/126">42core-team/monorepo#126</a>: “Make white teams metric bars lighter – To improve …”</li>
@@ -36,7 +37,6 @@
 <li>🚀 3 days ago: Opened PR <a href="https://github.com/42core-team/monorepo/pull/150">42core-team/monorepo#150</a>: “visualizer Svg handling rework & new color scheme …”</li>
 <li>⚠️ 4 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/361">42core-team/website#361</a>: “syntax highlighting for wiki code blocks – there's…”</li>
 <li>🌕 5 days ago: Merged PR <a href="https://github.com/42core-team/website/pull/360">42core-team/website#360</a></li>
-<li>🚀 5 days ago: Opened PR <a href="https://github.com/42core-team/website/pull/360">42core-team/website#360</a>: “wiki sidebar formatting tweaks – before:  <img wid…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
