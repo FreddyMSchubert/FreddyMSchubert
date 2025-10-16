@@ -27,6 +27,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/2">plaguemarine/hello-world#2</a>: “skill – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/1">plaguemarine/hello-world#1</a>: “found a bug – NewFile has a comment bug, it output…”</li>
 <li>🚀 Today: Opened PR <a href="undefined">42core-team/monorepo#153</a>: “undefined – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/98">42core-team/monorepo#98</a>: “Improve visual distinction between player and enem…”</li>
@@ -35,8 +37,6 @@
 <li>⚠️ 5 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
 <li>💬 6 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/129#issuecomment-3389266445">42core-team/monorepo#129</a>: “ok well i cant resolve these conflicts the whole f…”</li>
 <li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/126">42core-team/monorepo#126</a>: “Make white teams metric bars lighter – To improve …”</li>
-<li>💬 6 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/128#issuecomment-3389243926">42core-team/monorepo#128</a>: “Nobody reviewed this for 2 weeks and I literally r…”</li>
-<li>✍️ 6 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/129#discussion_r2419143619">42core-team/monorepo#129</a>: “Ah my bad I didn't know it was already replacing i…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
