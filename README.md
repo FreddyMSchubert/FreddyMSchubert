@@ -27,6 +27,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Today: Opened PR <a href="undefined">42core-team/monorepo#153</a>: “undefined – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/98">42core-team/monorepo#98</a>: “Improve visual distinction between player and enem…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/136">42core-team/monorepo#136</a>: “SVG System Rework – ”</li>
 <li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/146">42core-team/monorepo#146</a>: “🤗 Remove core_get_obj_filter_first – ### Add a de…”</li>
@@ -35,8 +37,6 @@
 <li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/126">42core-team/monorepo#126</a>: “Make white teams metric bars lighter – To improve …”</li>
 <li>💬 6 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/128#issuecomment-3389243926">42core-team/monorepo#128</a>: “Nobody reviewed this for 2 weeks and I literally r…”</li>
 <li>✍️ 6 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/129#discussion_r2419143619">42core-team/monorepo#129</a>: “Ah my bad I didn't know it was already replacing i…”</li>
-<li>🚀 6 days ago: Opened PR <a href="undefined">42core-team/monorepo#150</a>: “undefined – ”</li>
-<li>⚠️ 7 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/361">42core-team/website#361</a>: “syntax highlighting for wiki code blocks – there's…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
