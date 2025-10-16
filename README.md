@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/98">42core-team/monorepo#98</a>: “Improve visual distinction between player and enem…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/136">42core-team/monorepo#136</a>: “SVG System Rework – ”</li>
 <li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/146">42core-team/monorepo#146</a>: “🤗 Remove core_get_obj_filter_first – ### Add a de…”</li>
 <li>⚠️ 5 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
@@ -36,7 +37,6 @@
 <li>✍️ 6 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/129#discussion_r2419143619">42core-team/monorepo#129</a>: “Ah my bad I didn't know it was already replacing i…”</li>
 <li>🚀 6 days ago: Opened PR <a href="undefined">42core-team/monorepo#150</a>: “undefined – ”</li>
 <li>⚠️ 7 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/361">42core-team/website#361</a>: “syntax highlighting for wiki code blocks – there's…”</li>
-<li>⚠️ 7 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/149">42core-team/monorepo#149</a>: “🤗 Formatting in user bots – ### Add a description…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
