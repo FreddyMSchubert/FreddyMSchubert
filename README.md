@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/153#issuecomment-3414159852">42core-team/monorepo#153</a>: “@cuhlig42 You said that you were working on a conf…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3413026228">42core-team/monorepo#115</a>: “We decided in todays meeting that this would be fi…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/115">42core-team/monorepo#115</a>: “do not hide as many files in vscode – I would sugg…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/139">42core-team/monorepo#139</a>: “Website-provided Team Name is not being displayed …”</li>
@@ -36,7 +37,6 @@
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/98">42core-team/monorepo#98</a>: “Improve visual distinction between player and enem…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/136">42core-team/monorepo#136</a>: “SVG System Rework – ”</li>
-<li>✅ 5 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/146">42core-team/monorepo#146</a>: “🤗 Remove core_get_obj_filter_first – ### Add a de…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
