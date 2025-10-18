@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/121">42core-team/monorepo#121</a>: “A* Pathfinding for Client Lib – In a player-access…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/153#issuecomment-3414159852">42core-team/monorepo#153</a>: “@cuhlig42 You said that you were working on a conf…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3413026228">42core-team/monorepo#115</a>: “We decided in todays meeting that this would be fi…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/115">42core-team/monorepo#115</a>: “do not hide as many files in vscode – I would sugg…”</li>
@@ -36,7 +37,6 @@
 <li>🚀 2 days ago: Opened PR <a href="undefined">42core-team/monorepo#153</a>: “undefined – ”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/98">42core-team/monorepo#98</a>: “Improve visual distinction between player and enem…”</li>
-<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/136">42core-team/monorepo#136</a>: “SVG System Rework – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
