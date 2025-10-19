@@ -27,16 +27,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/121">42core-team/monorepo#121</a>: “A* Pathfinding for Client Lib – In a player-access…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/153#issuecomment-3414159852">42core-team/monorepo#153</a>: “@cuhlig42 You said that you were working on a conf…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3413026228">42core-team/monorepo#115</a>: “We decided in todays meeting that this would be fi…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/115">42core-team/monorepo#115</a>: “do not hide as many files in vscode – I would sugg…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/139">42core-team/monorepo#139</a>: “Website-provided Team Name is not being displayed …”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/2">plaguemarine/hello-world#2</a>: “skill – ”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/1">plaguemarine/hello-world#1</a>: “found a bug – NewFile has a comment bug, it output…”</li>
-<li>🚀 3 days ago: Opened PR <a href="undefined">42core-team/monorepo#153</a>: “undefined – ”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/121">42core-team/monorepo#121</a>: “A* Pathfinding for Client Lib – In a player-access…”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/153#issuecomment-3414159852">42core-team/monorepo#153</a>: “@cuhlig42 You said that you were working on a conf…”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3413026228">42core-team/monorepo#115</a>: “We decided in todays meeting that this would be fi…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/115">42core-team/monorepo#115</a>: “do not hide as many files in vscode – I would sugg…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/139">42core-team/monorepo#139</a>: “Website-provided Team Name is not being displayed …”</li>
+<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/2">plaguemarine/hello-world#2</a>: “skill – ”</li>
+<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/1">plaguemarine/hello-world#1</a>: “found a bug – NewFile has a comment bug, it output…”</li>
+<li>🚀 4 days ago: Opened PR <a href="undefined">42core-team/monorepo#153</a>: “undefined – ”</li>
+<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
