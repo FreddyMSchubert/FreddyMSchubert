@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/pull/383#issuecomment-3433815731">42core-team/website#383</a>: “oooh thats very cool i didn't know that was a thin…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/145">42core-team/monorepo#145</a>: “🤗 Make t_obj struct use unit type enum – ### Add …”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/147">42core-team/monorepo#147</a>: “🤗 gemPileIncome & coreSpawnCooldown not printed b…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
@@ -36,7 +37,6 @@
 <li>✅ 5 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/115">42core-team/monorepo#115</a>: “do not hide as many files in vscode – I would sugg…”</li>
 <li>✅ 5 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/139">42core-team/monorepo#139</a>: “Website-provided Team Name is not being displayed …”</li>
 <li>⚠️ 6 days ago: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/2">plaguemarine/hello-world#2</a>: “skill – ”</li>
-<li>⚠️ 6 days ago: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/1">plaguemarine/hello-world#1</a>: “found a bug – NewFile has a comment bug, it output…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
