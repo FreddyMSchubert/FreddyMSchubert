@@ -27,9 +27,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/website/pull/383#issuecomment-3433815731">42core-team/website#383</a>: “oooh thats very cool i didn't know that was a thin…”</li>
-<li>✅ 5 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/145">42core-team/monorepo#145</a>: “🤗 Make t_obj struct use unit type enum – ### Add …”</li>
-<li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/147">42core-team/monorepo#147</a>: “🤗 gemPileIncome & coreSpawnCooldown not printed b…”</li>
+<li>💬 6 days ago: Commented on issue <a href="https://github.com/42core-team/website/pull/383#issuecomment-3433815731">42core-team/website#383</a>: “oooh thats very cool i didn't know that was a thin…”</li>
+<li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/145">42core-team/monorepo#145</a>: “🤗 Make t_obj struct use unit type enum – ### Add …”</li>
+<li>✅ 7 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/147">42core-team/monorepo#147</a>: “🤗 gemPileIncome & coreSpawnCooldown not printed b…”</li>
 <li>✅ 19.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
 <li>✅ 18.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/121">42core-team/monorepo#121</a>: “A* Pathfinding for Client Lib – In a player-access…”</li>
 <li>💬 17.10.2025: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/153#issuecomment-3414159852">42core-team/monorepo#153</a>: “@cuhlig42 You said that you were working on a conf…”</li>
