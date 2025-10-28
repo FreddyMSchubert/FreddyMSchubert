@@ -27,6 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/405">42core-team/website#405</a>: “wiki code block formatting does not seem to consid…”</li>
 <li>💬 6 days ago: Commented on issue <a href="https://github.com/42core-team/website/pull/383#issuecomment-3433815731">42core-team/website#383</a>: “oooh thats very cool i didn't know that was a thin…”</li>
 <li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/145">42core-team/monorepo#145</a>: “🤗 Make t_obj struct use unit type enum – ### Add …”</li>
 <li>✅ 7 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/147">42core-team/monorepo#147</a>: “🤗 gemPileIncome & coreSpawnCooldown not printed b…”</li>
@@ -36,7 +37,6 @@
 <li>💬 17.10.2025: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/115#issuecomment-3413026228">42core-team/monorepo#115</a>: “We decided in todays meeting that this would be fi…”</li>
 <li>✅ 17.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/115">42core-team/monorepo#115</a>: “do not hide as many files in vscode – I would sugg…”</li>
 <li>✅ 17.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/139">42core-team/monorepo#139</a>: “Website-provided Team Name is not being displayed …”</li>
-<li>⚠️ 16.10.2025: Opened issue <a href="https://github.com/plaguemarine/hello-world/issues/2">plaguemarine/hello-world#2</a>: “skill – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
