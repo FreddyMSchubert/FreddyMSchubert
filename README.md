@@ -27,8 +27,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
-<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/405">42core-team/website#405</a>: “wiki code block formatting does not seem to consid…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
+<li>⚠️ 5 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/405">42core-team/website#405</a>: “wiki code block formatting does not seem to consid…”</li>
 <li>💬 22.10.2025: Commented on issue <a href="https://github.com/42core-team/website/pull/383#issuecomment-3433815731">42core-team/website#383</a>: “oooh thats very cool i didn't know that was a thin…”</li>
 <li>✅ 22.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/145">42core-team/monorepo#145</a>: “🤗 Make t_obj struct use unit type enum – ### Add …”</li>
 <li>✅ 21.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/147">42core-team/monorepo#147</a>: “🤗 gemPileIncome & coreSpawnCooldown not printed b…”</li>
