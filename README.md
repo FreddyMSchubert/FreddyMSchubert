@@ -27,7 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/140">42core-team/monorepo#140</a>: “core_action_transferGems_toObj with -1 as amount d…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/140">42core-team/monorepo#140</a>: “core_action_transferGems_toObj with -1 as amount d…”</li>
 <li>✅ 30.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
 <li>⚠️ 28.10.2025: Opened issue <a href="https://github.com/42core-team/website/issues/405">42core-team/website#405</a>: “wiki code block formatting does not seem to consid…”</li>
 <li>💬 22.10.2025: Commented on issue <a href="https://github.com/42core-team/website/pull/383#issuecomment-3433815731">42core-team/website#383</a>: “oooh thats very cool i didn't know that was a thin…”</li>
