@@ -36,7 +36,6 @@
 <li>✅ 22.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/145">42core-team/monorepo#145</a>: “🤗 Make t_obj struct use unit type enum – ### Add …”</li>
 <li>✅ 21.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/147">42core-team/monorepo#147</a>: “🤗 gemPileIncome & coreSpawnCooldown not printed b…”</li>
 <li>✅ 19.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
-<li>✅ 18.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/121">42core-team/monorepo#121</a>: “A* Pathfinding for Client Lib – In a player-access…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
