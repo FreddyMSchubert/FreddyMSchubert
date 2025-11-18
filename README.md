@@ -35,7 +35,6 @@
 <li>💬 22.10.2025: Commented on issue <a href="https://github.com/42core-team/website/pull/383#issuecomment-3433815731">42core-team/website#383</a>: “oooh thats very cool i didn't know that was a thin…”</li>
 <li>✅ 22.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/145">42core-team/monorepo#145</a>: “🤗 Make t_obj struct use unit type enum – ### Add …”</li>
 <li>✅ 21.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/147">42core-team/monorepo#147</a>: “🤗 gemPileIncome & coreSpawnCooldown not printed b…”</li>
-<li>✅ 19.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/151">42core-team/monorepo#151</a>: “🤗 Improve action-order fairness – ### Add a descr…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
