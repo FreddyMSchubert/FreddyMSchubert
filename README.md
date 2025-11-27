@@ -35,7 +35,6 @@
 <li>✅ 14.11.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/117">42core-team/monorepo#117</a>: “Display output logs in visualizer – I would like t…”</li>
 <li>✅ 13.11.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/140">42core-team/monorepo#140</a>: “core_action_transferGems_toObj with -1 as amount d…”</li>
 <li>✅ 30.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
-<li>⚠️ 28.10.2025: Opened issue <a href="https://github.com/42core-team/website/issues/405">42core-team/website#405</a>: “wiki code block formatting does not seem to consid…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
