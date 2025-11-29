@@ -34,7 +34,6 @@
 <li>💬 14.11.2025: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/117#issuecomment-3534322051">42core-team/monorepo#117</a>: “This is not quite what you asked for, but way less…”</li>
 <li>✅ 14.11.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/117">42core-team/monorepo#117</a>: “Display output logs in visualizer – I would like t…”</li>
 <li>✅ 13.11.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/140">42core-team/monorepo#140</a>: “core_action_transferGems_toObj with -1 as amount d…”</li>
-<li>✅ 30.10.2025: Closed issue <a href="https://github.com/42core-team/monorepo/issues/152">42core-team/monorepo#152</a>: “Softcore gem pile balance underflow – ### Bug Desc…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
