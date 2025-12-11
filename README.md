@@ -27,7 +27,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ 7 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
+<li>⚠️ 04.12.2025: Opened issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
 <li>👍 20.11.2025: Approved PR <a href="undefined">42core-team/monorepo#156</a></li>
 <li>💬 18.11.2025: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/155#issuecomment-3549056442">42core-team/monorepo#155</a>: “@flomero Seems reasonable - if you're happy with t…”</li>
 <li>💬 18.11.2025: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/155#issuecomment-3548978353">42core-team/monorepo#155</a>: “Let's see whether coppie can figure it out”</li>
