@@ -28,7 +28,6 @@
 <ol>
 <!-- ACTIVITY:START -->
 <li>⚠️ 04.12.2025: Opened issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
-<li>👍 20.11.2025: Approved PR <a href="undefined">42core-team/monorepo#156</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
