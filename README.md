@@ -27,9 +27,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/157#issuecomment-3725306225">42core-team/monorepo#157</a>: “https://github.com/42core-team/monorepo/commit/7f6…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/157#issuecomment-3725151886">42core-team/monorepo#157</a>: “I'll address this in debug-data branch”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/157#issuecomment-3725306225">42core-team/monorepo#157</a>: “https://github.com/42core-team/monorepo/commit/7f6…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/157#issuecomment-3725151886">42core-team/monorepo#157</a>: “I'll address this in debug-data branch”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
