@@ -27,16 +27,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/3">FreddyMSchubert/github-activity-timeline#3</a>: “Links broken – If the text that is quoted (e.g. th…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738098762">42core-team/monorepo#160</a>: “No”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738096635">42core-team/monorepo#160</a>: “No”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738094415">42core-team/monorepo#160</a>: “Good catch, fixed this in https://github.com/42cor…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738077557">42core-team/monorepo#160</a>: “Fair point, fixed this in https://github.com/42cor…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738060090">42core-team/monorepo#160</a>: “True, but not an issue for now, will eventually be…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738057350">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738056042">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738054563">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738050267">42core-team/monorepo#160</a>: “True that's a mistake, I fixed it in https://githu…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/3">FreddyMSchubert/github-activity-timeline#3</a>: “Links broken – If the text that is quoted (e.g. th…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738098762">42core-team/monorepo#160</a>: “No”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738096635">42core-team/monorepo#160</a>: “No”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738094415">42core-team/monorepo#160</a>: “Good catch, fixed this in https://github.com/42cor…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738077557">42core-team/monorepo#160</a>: “Fair point, fixed this in https://github.com/42cor…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738060090">42core-team/monorepo#160</a>: “True, but not an issue for now, will eventually be…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738057350">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738056042">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738054563">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738050267">42core-team/monorepo#160</a>: “True that's a mistake, I fixed it in https://githu…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
