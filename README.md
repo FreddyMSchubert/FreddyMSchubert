@@ -30,16 +30,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#1</a></li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/405#issuecomment-3816583103">42core-team/website#405</a>: “Yeah rehype is great can you please push that? @fl…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/97">42core-team/monorepo#97</a>: “unit path visualization – I would like to be able …”</li>
-<li>🌕 Today: Merged PR <a href="undefined">42core-team/monorepo#160</a></li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/3">FreddyMSchubert/github-activity-timeline#3</a>: “Links broken – If the text that is quoted (e.g. th…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738098762">42core-team/monorepo#160</a>: “No”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738096635">42core-team/monorepo#160</a>: “No”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738094415">42core-team/monorepo#160</a>: “Good catch, fixed this in https://github.com/42cor…”</li>
+<li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#1</a></li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/405#issuecomment-3816583103">42core-team/website#405</a>: “Yeah rehype is great can you please push that? @fl…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/97">42core-team/monorepo#97</a>: “unit path visualization – I would like to be able …”</li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">42core-team/monorepo#160</a></li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/3">FreddyMSchubert/github-activity-timeline#3</a>: “Links broken – If the text that is quoted (e.g. th…”</li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738098762">42core-team/monorepo#160</a>: “No”</li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738096635">42core-team/monorepo#160</a>: “No”</li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738094415">42core-team/monorepo#160</a>: “Good catch, fixed this in https://github.com/42cor…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
