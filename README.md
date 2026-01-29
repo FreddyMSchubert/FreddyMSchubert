@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#1</a></li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/405#issuecomment-3816583103">42core-team/website#405</a>: “Yeah rehype is great can you please push that? @fl…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
@@ -39,7 +40,6 @@
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738098762">42core-team/monorepo#160</a>: “No”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738096635">42core-team/monorepo#160</a>: “No”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738094415">42core-team/monorepo#160</a>: “Good catch, fixed this in https://github.com/42cor…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738077557">42core-team/monorepo#160</a>: “Fair point, fixed this in https://github.com/42cor…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
