@@ -30,16 +30,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/405#issuecomment-3816583103">42core-team/website#405</a>: “Yeah rehype is great can you please push that? @fl…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/97">42core-team/monorepo#97</a>: “unit path visualization – I would like to be able …”</li>
+<li>🌕 Today: Merged PR <a href="undefined">42core-team/monorepo#160</a></li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/3">FreddyMSchubert/github-activity-timeline#3</a>: “Links broken – If the text that is quoted (e.g. th…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738098762">42core-team/monorepo#160</a>: “No”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738096635">42core-team/monorepo#160</a>: “No”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738094415">42core-team/monorepo#160</a>: “Good catch, fixed this in https://github.com/42cor…”</li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738077557">42core-team/monorepo#160</a>: “Fair point, fixed this in https://github.com/42cor…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738060090">42core-team/monorepo#160</a>: “True, but not an issue for now, will eventually be…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738057350">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738056042">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738054563">42core-team/monorepo#160</a>: “If it was to return NULL the game would have ended…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738050267">42core-team/monorepo#160</a>: “True that's a mistake, I fixed it in https://githu…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
