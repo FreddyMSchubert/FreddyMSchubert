@@ -30,6 +30,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/162">42core-team/monorepo#162</a>: “Alert when opening visualizer in safari that it wi…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/161">42core-team/monorepo#161</a>: “Did not connect to gameserver death reason when pl…”</li>
 <li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#1</a></li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/website/issues/405#issuecomment-3816583103">42core-team/website#405</a>: “Yeah rehype is great can you please push that? @fl…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
@@ -38,8 +40,6 @@
 <li>🌕 2 days ago: Merged PR <a href="undefined">42core-team/monorepo#160</a></li>
 <li>⚠️ 3 days ago: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/3">FreddyMSchubert/github-activity-timeline#3</a>: “Links broken – If the text that is quoted (e.g. th…”</li>
 <li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738098762">42core-team/monorepo#160</a>: “No”</li>
-<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738096635">42core-team/monorepo#160</a>: “No”</li>
-<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738094415">42core-team/monorepo#160</a>: “Good catch, fixed this in https://github.com/42cor…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
