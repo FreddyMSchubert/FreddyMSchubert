@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/163">42core-team/monorepo#163</a>: “fix fireworks at end of tournament matches – ### B…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/162">42core-team/monorepo#162</a>: “Alert when opening visualizer in safari that it wi…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/161">42core-team/monorepo#161</a>: “Did not connect to gameserver death reason when pl…”</li>
 <li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#1</a></li>
@@ -39,7 +40,6 @@
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/97">42core-team/monorepo#97</a>: “unit path visualization – I would like to be able …”</li>
 <li>🌕 2 days ago: Merged PR <a href="undefined">42core-team/monorepo#160</a></li>
 <li>⚠️ 3 days ago: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/3">FreddyMSchubert/github-activity-timeline#3</a>: “Links broken – If the text that is quoted (e.g. th…”</li>
-<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/160#discussion_r2738098762">42core-team/monorepo#160</a>: “No”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
