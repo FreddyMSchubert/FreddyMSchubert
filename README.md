@@ -30,6 +30,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 Today: Merged PR <a href="undefined">42core-team/website#484</a></li>
+<li>🚀 Today: Opened PR <a href="undefined">42core-team/website#484</a>: “undefined – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/163">42core-team/monorepo#163</a>: “fix fireworks at end of tournament matches – ### B…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/162">42core-team/monorepo#162</a>: “Alert when opening visualizer in safari that it wi…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/161">42core-team/monorepo#161</a>: “Did not connect to gameserver death reason when pl…”</li>
@@ -38,8 +40,6 @@
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/97">42core-team/monorepo#97</a>: “unit path visualization – I would like to be able …”</li>
-<li>🌕 3 days ago: Merged PR <a href="undefined">42core-team/monorepo#160</a></li>
-<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/FreddyMSchubert/github-activity-timeline/issues/3">FreddyMSchubert/github-activity-timeline#3</a>: “Links broken – If the text that is quoted (e.g. th…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
