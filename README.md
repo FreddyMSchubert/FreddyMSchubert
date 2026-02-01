@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/164">42core-team/monorepo#164</a>: “Server-config-customizable max message size – ### …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/pull/484#issuecomment-3830936088">42core-team/website#484</a>: “Danke 👍”</li>
 <li>🌕 Today: Merged PR <a href="undefined">42core-team/website#484</a></li>
 <li>🚀 Today: Opened PR <a href="undefined">42core-team/website#484</a>: “undefined – ”</li>
@@ -39,7 +40,6 @@
 <li>👍 3 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#1</a></li>
 <li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/website/issues/405#issuecomment-3816583103">42core-team/website#405</a>: “Yeah rehype is great can you please push that? @fl…”</li>
 <li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/158">42core-team/monorepo#158</a>: “improve tooltip field ordering – ### Add a descrip…”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/157">42core-team/monorepo#157</a>: “Attach unit-specific action errors to unit debug i…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
