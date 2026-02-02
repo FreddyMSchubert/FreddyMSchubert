@@ -30,16 +30,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
-<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a></li>
-<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a></li>
-<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a>: “undefined – ”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/166#issuecomment-3834463241">42core-team/monorepo#166</a>: “> i disagree that this is a website issue, the vis…”</li>
-<li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#166</a></li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/166#issuecomment-3832182774">42core-team/monorepo#166</a>: “But why then you can't see the team names... 🫠  I…”</li>
-<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a>: “undefined – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/486">42core-team/website#486</a>: “Wiki search functionality styling broken in dark m…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/164">42core-team/monorepo#164</a>: “Server-config-customizable max message size – ### …”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/164">42core-team/monorepo#164</a>: “Server-config-customizable max message size – ### …”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a></li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a></li>
+<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a>: “undefined – ”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/166#issuecomment-3834463241">42core-team/monorepo#166</a>: “> i disagree that this is a website issue, the vis…”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">42core-team/monorepo#166</a></li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/166#issuecomment-3832182774">42core-team/monorepo#166</a>: “But why then you can't see the team names... 🫠  I…”</li>
+<li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a>: “undefined – ”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/website/issues/486">42core-team/website#486</a>: “Wiki search functionality styling broken in dark m…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
