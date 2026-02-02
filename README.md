@@ -30,6 +30,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
+<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a></li>
 <li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a></li>
 <li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a>: “undefined – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/166#issuecomment-3834463241">42core-team/monorepo#166</a>: “> i disagree that this is a website issue, the vis…”</li>
@@ -38,8 +40,6 @@
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a>: “undefined – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/486">42core-team/website#486</a>: “Wiki search functionality styling broken in dark m…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/164">42core-team/monorepo#164</a>: “Server-config-customizable max message size – ### …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/pull/484#issuecomment-3830936088">42core-team/website#484</a>: “Danke 👍”</li>
-<li>🌕 Yesterday: Merged PR <a href="undefined">42core-team/website#484</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
