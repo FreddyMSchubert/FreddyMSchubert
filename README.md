@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#166</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/166#issuecomment-3832182774">42core-team/monorepo#166</a>: “But why then you can't see the team names... 🫠  I…”</li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a>: “undefined – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/486">42core-team/website#486</a>: “Wiki search functionality styling broken in dark m…”</li>
@@ -39,7 +40,6 @@
 <li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/website#484</a>: “undefined – ”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/163">42core-team/monorepo#163</a>: “fix fireworks at end of tournament matches – ### B…”</li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/162">42core-team/monorepo#162</a>: “Alert when opening visualizer in safari that it wi…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/161">42core-team/monorepo#161</a>: “Did not connect to gameserver death reason when pl…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
