@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#7</a>: “undefined – ”</li>
 <li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#6</a></li>
 <li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#5</a></li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#5</a>: “undefined – ”</li>
@@ -39,7 +40,6 @@
 <li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a></li>
 <li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a>: “undefined – ”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/166#issuecomment-3834463241">42core-team/monorepo#166</a>: “> i disagree that this is a website issue, the vis…”</li>
-<li>👎 2 days ago: Requested changes on PR <a href="undefined">42core-team/monorepo#166</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
