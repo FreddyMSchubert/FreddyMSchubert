@@ -30,6 +30,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/161">42core-team/monorepo#161</a>: “Did not connect to gameserver death reason when pl…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-3848845049">42core-team/monorepo#163</a>: “@Peu77 the args for 3rd and 1st place the visualiz…”</li>
 <li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#7</a></li>
 <li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#7</a>: “undefined – ”</li>
 <li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#6</a></li>
@@ -38,8 +40,6 @@
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/164">42core-team/monorepo#164</a>: “Server-config-customizable max message size – ### …”</li>
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
 <li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a></li>
-<li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#2</a></li>
-<li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#3</a>: “undefined – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
