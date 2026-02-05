@@ -30,16 +30,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
+<li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/4#discussion_r2770063471">FreddyMSchubert/broke-breaker#4</a>: “No”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/4#discussion_r2770038029">FreddyMSchubert/broke-breaker#4</a>: “What about Saturday and Sunday?”</li>
 <li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#8</a></li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/165#issuecomment-3853148103">42core-team/monorepo#165</a>: “Ok I kind of did this via https://github.com/42cor…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/512#issuecomment-3852997657">42core-team/website#512</a>: “Mobile layout in general needs a doover. What i ca…”</li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#8</a>: “undefined – ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/161">42core-team/monorepo#161</a>: “Did not connect to gameserver death reason when pl…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-3848845049">42core-team/monorepo#163</a>: “@Peu77 the args for 3rd and 1st place the visualiz…”</li>
-<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#7</a></li>
-<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#7</a>: “undefined – ”</li>
-<li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#6</a></li>
-<li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#5</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
