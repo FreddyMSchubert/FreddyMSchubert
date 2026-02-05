@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#8</a></li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/165#issuecomment-3853148103">42core-team/monorepo#165</a>: “Ok I kind of did this via https://github.com/42cor…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/issues/512#issuecomment-3852997657">42core-team/website#512</a>: “Mobile layout in general needs a doover. What i ca…”</li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#8</a>: “undefined – ”</li>
@@ -39,7 +40,6 @@
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#7</a>: “undefined – ”</li>
 <li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#6</a></li>
 <li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#5</a></li>
-<li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#5</a>: “undefined – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
