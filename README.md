@@ -30,6 +30,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/165">42core-team/monorepo#165</a>: “isolate visualizer when screen too thin (mobile) –…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/168">42core-team/monorepo#168</a>: “Usability on mobile – ### Add a description  Curre…”</li>
 <li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
 <li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/4#discussion_r2770063471">FreddyMSchubert/broke-breaker#4</a>: “No”</li>
@@ -38,8 +40,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/165#issuecomment-3853148103">42core-team/monorepo#165</a>: “Ok I kind of did this via https://github.com/42cor…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/issues/512#issuecomment-3852997657">42core-team/website#512</a>: “Mobile layout in general needs a doover. What i ca…”</li>
 <li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#8</a>: “undefined – ”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/161">42core-team/monorepo#161</a>: “Did not connect to gameserver death reason when pl…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-3848845049">42core-team/monorepo#163</a>: “@Peu77 the args for 3rd and 1st place the visualiz…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
