@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/169">42core-team/monorepo#169</a>: “gem pile variance too high on softcore config? – #…”</li>
 <li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#11</a></li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/155">42core-team/monorepo#155</a>: “visualizer make bg-color configurable – ### Add a …”</li>
 <li>🌕 Yesterday: Merged PR <a href="undefined">42core-team/website#518</a></li>
@@ -39,7 +40,6 @@
 <li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
 <li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#4</a></li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/4#discussion_r2770063471">FreddyMSchubert/broke-breaker#4</a>: “No”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/4#discussion_r2770038029">FreddyMSchubert/broke-breaker#4</a>: “What about Saturday and Sunday?”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
