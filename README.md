@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/170">42core-team/monorepo#170</a>: “Make core_debug_addObjectInfo work like printf – #…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#issuecomment-3865734987">FreddyMSchubert/broke-breaker#13</a>: “Can you please detail what you did in this PR in t…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/Serilum/.issue-tracker/issues/3576">Serilum/.issue-tracker#3576</a>: “[Villager Names] Percentage chance for villagers t…”</li>
 <li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#12</a></li>
@@ -39,7 +40,6 @@
 <li>🌕 2 days ago: Merged PR <a href="undefined">42core-team/website#518</a></li>
 <li>🚀 2 days ago: Opened PR <a href="undefined">42core-team/website#518</a>: “undefined – ”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/165">42core-team/monorepo#165</a>: “isolate visualizer when screen too thin (mobile) –…”</li>
-<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/168">42core-team/monorepo#168</a>: “Usability on mobile – ### Add a description  Curre…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
