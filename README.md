@@ -30,16 +30,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/172">42core-team/monorepo#172</a>: “Clarify that you use attack to mine deposits and p…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/171#issuecomment-3868212419">42core-team/monorepo#171</a>: “It's also stupid that the cooldown goes from 12 to…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/171">42core-team/monorepo#171</a>: “Action Cooldowns still kinda dont work – ### Bug D…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/170">42core-team/monorepo#170</a>: “Make core_debug_addObjectInfo work like printf – #…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#issuecomment-3865734987">FreddyMSchubert/broke-breaker#13</a>: “Can you please detail what you did in this PR in t…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/Serilum/.issue-tracker/issues/3576">Serilum/.issue-tracker#3576</a>: “[Villager Names] Percentage chance for villagers t…”</li>
-<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#12</a></li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/169">42core-team/monorepo#169</a>: “gem pile variance too high on softcore config? – #…”</li>
-<li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#11</a></li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/155">42core-team/monorepo#155</a>: “visualizer make bg-color configurable – ### Add a …”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/172">42core-team/monorepo#172</a>: “Clarify that you use attack to mine deposits and p…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/171#issuecomment-3868212419">42core-team/monorepo#171</a>: “It's also stupid that the cooldown goes from 12 to…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/171">42core-team/monorepo#171</a>: “Action Cooldowns still kinda dont work – ### Bug D…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/170">42core-team/monorepo#170</a>: “Make core_debug_addObjectInfo work like printf – #…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#issuecomment-3865734987">FreddyMSchubert/broke-breaker#13</a>: “Can you please detail what you did in this PR in t…”</li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/Serilum/.issue-tracker/issues/3576">Serilum/.issue-tracker#3576</a>: “[Villager Names] Percentage chance for villagers t…”</li>
+<li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#12</a></li>
+<li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/169">42core-team/monorepo#169</a>: “gem pile variance too high on softcore config? – #…”</li>
+<li>👎 3 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#11</a></li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/155">42core-team/monorepo#155</a>: “visualizer make bg-color configurable – ### Add a …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
