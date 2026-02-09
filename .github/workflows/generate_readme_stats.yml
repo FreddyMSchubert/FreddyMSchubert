@@ -83,22 +83,23 @@ jobs:
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
 
-                  git fetch origin +refs/heads/*:refs/remotes/origin/*
+                  git fetch origin "$BRANCH":"refs/remotes/origin/$BRANCH" || true
 
-                  if git show-ref --verify --quiet refs/remotes/origin/$BRANCH; then
-                    git switch -C $BRANCH origin/$BRANCH
+                  if git show-ref --verify --quiet "refs/remotes/origin/$BRANCH"; then
+                    git switch -C "$BRANCH" "origin/$BRANCH"
                   else
-                    git switch --create $BRANCH
+                    git switch --create "$BRANCH"
                   fi
 
                   mkdir -p assets
-                  cp -f generated/*.svg assets/
+                  cp -f generated/streak-stats.svg assets/streak-stats.svg
 
-                  git add assets/*.svg
+                  git add assets/streak-stats.svg
+
                   if git diff --cached --quiet; then
                     echo "No changes."
                     exit 0
                   fi
 
-                  git commit -m "chore: update README stats images"
-                  git push -u origin $BRANCH
+                  git commit -m "chore: update streak stats image"
+                  git push -u origin "$BRANCH"
