@@ -47,11 +47,11 @@ Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/g
 <hr>
 
 <div align="center">
-	<img href="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/bf6a00d65f8c2187a6656ecc4a8685949855e12e/profile/general-stats.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/bf6a00d65f8c2187a6656ecc4a8685949855e12e/profile/general-stats.svg">
 </div>
 
 <div align="center">
-	<img href="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/bf6a00d65f8c2187a6656ecc4a8685949855e12e/profile/lang-stats.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/bf6a00d65f8c2187a6656ecc4a8685949855e12e/profile/lang-stats.svg">
 	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/502332516f168bcbd4764a981b17f2ae0389b8c5/assets/streak-stats.svg">
 </div>
 
