@@ -30,6 +30,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/171#issuecomment-3870270481">42core-team/monorepo#171</a>: “Amazing screenshot its fully unrelated 😅”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/172">42core-team/monorepo#172</a>: “Clarify that you use attack to mine deposits and p…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/171#issuecomment-3868212419">42core-team/monorepo#171</a>: “It's also stupid that the cooldown goes from 12 to…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/171">42core-team/monorepo#171</a>: “Action Cooldowns still kinda dont work – ### Bug D…”</li>
@@ -39,7 +40,6 @@
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#12</a></li>
 <li>⚠️ 2 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/169">42core-team/monorepo#169</a>: “gem pile variance too high on softcore config? – #…”</li>
 <li>👎 3 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#11</a></li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/155">42core-team/monorepo#155</a>: “visualizer make bg-color configurable – ### Add a …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
