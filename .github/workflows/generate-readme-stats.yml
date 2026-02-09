@@ -44,15 +44,9 @@ jobs:
 			- name: Start local server
 				working-directory: /tmp/github-readme-stats
 				env:
-					# IMPORTANT: set these in repo Settings -> Secrets and variables -> Actions
 					GITHUB_TOKEN: ${{ secrets.GHRS_GITHUB_TOKEN }}
-					# Optional but strongly recommended to reduce API weirdness/rate limits
-					# PAT_1: ${{ secrets.GHRS_PAT_1 }}
-					# PAT_2: ${{ secrets.GHRS_PAT_2 }}
 				run: |
-					# Start in background on port 9000
 					PORT=9000 nohup npm start >/tmp/ghrs.log 2>&1 &
-					# Wait for server
 					for i in {1..60}; do
 						curl -fsS http://127.0.0.1:9000/ >/dev/null && break || true
 						sleep 1
@@ -65,15 +59,8 @@ jobs:
 				run: |
 					mkdir -p generated
 
-					# Main stats card (customize params to taste)
 					curl -fsS "http://127.0.0.1:9000/api?username=${USERNAME}&show_icons=true&hide_title=false&include_all_commits=true&count_private=true" \
 						-o generated/github-stats.svg
-
-					# Top languages card (customize params)
-					curl -fsS "http://127.0.0.1:9000/api/top-langs?username=${USERNAME}&layout=compact&langs_count=8" \
-						-o generated/top-langs.svg
-
-					# Optional: streaks are from a DIFFERENT project; skip unless you also self-host that one.
 
 			- name: Commit to stats branch
 				run: |
@@ -82,7 +69,6 @@ jobs:
 					git config user.name "github-actions[bot]"
 					git config user.email "github-actions[bot]@users.noreply.github.com"
 
-					# Create or switch to branch
 					if git show-ref --verify --quiet refs/heads/$BRANCH; then
 						git switch $BRANCH
 					else
@@ -94,7 +80,6 @@ jobs:
 
 					git add assets/*.svg
 
-					# Only commit if changed
 					if git diff --cached --quiet; then
 						echo "No changes."
 						exit 0
