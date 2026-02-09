@@ -1,89 +1,73 @@
-name: Generate README stats images
+name: Generate streak stats image
 
 on:
-	workflow_dispatch:
-	schedule:
-		- cron: "17 3 * * *"  # daily at 03:17 UTC
-	push:
-		branches: [ main ]
-		paths:
-			- ".github/workflows/generate-readme-stats.yml"
+    workflow_dispatch:
+    schedule:
+        - cron: "23 3 * * *" # daily 03:23 UTC
 
 permissions:
-	contents: write
+    contents: write
 
 concurrency:
-	group: readme-stats-images
-	cancel-in-progress: false
+    group: streak-stats-images
+    cancel-in-progress: false
 
 jobs:
-	build:
-		runs-on: ubuntu-latest
-		steps:
-			- name: Checkout hosting repo
-				uses: actions/checkout@v4
-				with:
-					fetch-depth: 0
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout hosting repo
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
 
-			- name: Clone github-readme-stats
-				run: |
-					rm -rf /tmp/github-readme-stats
-					git clone --depth 1 https://github.com/anuraghazra/github-readme-stats /tmp/github-readme-stats
+            - name: Build streak-stats Docker image
+              run: |
+                  rm -rf /tmp/github-readme-streak-stats
+                  git clone --depth 1 https://github.com/DenverCoder1/github-readme-streak-stats /tmp/github-readme-streak-stats
+                  docker build -t streak-stats /tmp/github-readme-streak-stats
 
-			- name: Use Node
-				uses: actions/setup-node@v4
-				with:
-					node-version: "20"
-					cache: "npm"
-					cache-dependency-path: /tmp/github-readme-stats/package-lock.json
+            - name: Run streak-stats locally
+              env:
+                  STREAK_GITHUB_TOKEN: ${{ secrets.STREAK_GITHUB_TOKEN }}
+              run: |
+                  docker run -d --rm -p 8080:80 -e TOKEN="${STREAK_GITHUB_TOKEN}" --name streak-stats streak-stats
 
-			- name: Install deps
-				working-directory: /tmp/github-readme-stats
-				run: npm ci
+                  for i in {1..60}; do
+                    curl -fsS "http://127.0.0.1:8080/" >/dev/null && break || true
+                    sleep 1
+                  done
+                  curl -fsS "http://127.0.0.1:8080/" >/dev/null
 
-			- name: Start local server
-				working-directory: /tmp/github-readme-stats
-				env:
-					GITHUB_TOKEN: ${{ secrets.GHRS_GITHUB_TOKEN }}
-				run: |
-					PORT=9000 nohup npm start >/tmp/ghrs.log 2>&1 &
-					for i in {1..60}; do
-						curl -fsS http://127.0.0.1:9000/ >/dev/null && break || true
-						sleep 1
-					done
-					curl -fsS http://127.0.0.1:9000/ >/dev/null
+            - name: Generate SVG
+              env:
+                  USERNAME: FreddyMSchubert
+              run: |
+                  mkdir -p generated
+                  curl -fsS "http://127.0.0.1:8080/?user=${USERNAME}&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" \
+                    -o generated/streak-stats.svg
 
-			- name: Generate SVGs
-				env:
-					USERNAME: your-github-username
-				run: |
-					mkdir -p generated
+            - name: Commit to stats branch
+              run: |
+                  set -e
+                  BRANCH="stats"
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
 
-					curl -fsS "http://127.0.0.1:9000/api?username=${USERNAME}&show_icons=true&hide_title=false&include_all_commits=true&count_private=true" \
-						-o generated/github-stats.svg
+                  if git show-ref --verify --quiet refs/heads/$BRANCH; then
+                    git switch $BRANCH
+                  else
+                    git switch --create $BRANCH
+                  fi
 
-			- name: Commit to stats branch
-				run: |
-					set -e
-					BRANCH="stats"
-					git config user.name "github-actions[bot]"
-					git config user.email "github-actions[bot]@users.noreply.github.com"
+                  mkdir -p assets
+                  cp -f generated/streak-stats.svg assets/streak-stats.svg
 
-					if git show-ref --verify --quiet refs/heads/$BRANCH; then
-						git switch $BRANCH
-					else
-						git switch --create $BRANCH
-					fi
+                  git add assets/streak-stats.svg
+                  if git diff --cached --quiet; then
+                    echo "No changes."
+                    exit 0
+                  fi
 
-					mkdir -p assets
-					cp -f generated/*.svg assets/
-
-					git add assets/*.svg
-
-					if git diff --cached --quiet; then
-						echo "No changes."
-						exit 0
-					fi
-
-					git commit -m "chore: update README stats images"
-					git push -u origin $BRANCH
+                  git commit -m "chore: update streak stats image"
+                  git push -u origin $BRANCH
