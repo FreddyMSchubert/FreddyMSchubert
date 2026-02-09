@@ -1,4 +1,4 @@
-name: Update README cards
+name: Generate stats images
 
 on:
     schedule:
@@ -16,7 +16,15 @@ jobs:
               with:
                   card: stats
                   options: username=${{ github.repository_owner }}&show_icons=true
-                  path: profile/stats.svg
+                  path: profile/general-stats.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Generate stats card
+              uses: readme-tools/github-readme-stats-action@v1
+              with:
+                  card: top-langs
+                  options: username=${{ github.repository_owner }}&show_icons=true&layout=donut&theme=tokyonight&card_width=320
+                  path: profile/lang-stats.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Commit cards
