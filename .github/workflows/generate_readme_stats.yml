@@ -25,58 +25,68 @@ jobs:
               with:
                   fetch-depth: 0
 
-            - name: Clone github-readme-stats
+            - name: Clone github-readme-stats into workspace
               run: |
-                  rm -rf /tmp/github-readme-stats
-                  git clone --depth 1 https://github.com/anuraghazra/github-readme-stats /tmp/github-readme-stats
+                  rm -rf github-readme-stats
+                  git clone --depth 1 https://github.com/anuraghazra/github-readme-stats github-readme-stats
 
-            - name: Use Node
+            - name: Use Node 22
               uses: actions/setup-node@v4
               with:
-                  node-version: "20"
+                  node-version: "22"
 
             - name: Install deps
-              working-directory: /tmp/github-readme-stats
+              working-directory: github-readme-stats
               run: npm ci
 
             - name: Start local server
-              working-directory: /tmp/github-readme-stats
+              working-directory: github-readme-stats
               env:
                   GITHUB_TOKEN: ${{ secrets.STREAK_GITHUB_TOKEN }}
               run: |
-                  # Start in background on port 9000
-                  PORT=9000 nohup npm start >/tmp/ghrs.log 2>&1 &
-                  # Wait for server
+                  set -euo pipefail
+
+                  PORT=9000 nohup npm start >"$RUNNER_TEMP/ghrs.log" 2>&1 &
+                  echo "Server PID: $!"
+
+                  # Wait up to 60s for the server
                   for i in {1..60}; do
-                    curl -fsS http://127.0.0.1:9000/ >/dev/null && break || true
+                    if curl -fsS "http://127.0.0.1:9000/" >/dev/null; then
+                      echo "Server is up."
+                      exit 0
+                    fi
                     sleep 1
                   done
-                  curl -fsS http://127.0.0.1:9000/ >/dev/null
+
+                  echo "Server failed to start. Log:"
+                  tail -200 "$RUNNER_TEMP/ghrs.log"
+                  exit 1
 
             - name: Generate SVGs
               env:
                   USERNAME: FreddyMSchubert
               run: |
+                  set -euo pipefail
                   mkdir -p generated
 
-                  # Main stats card (customize params to taste)
                   curl -fsS "http://127.0.0.1:9000/api?username=${USERNAME}&show_icons=true&theme=tokyonight&card_width=650" \
                     -o generated/github-stats.svg
 
-                  # Top languages card (customize params)
                   curl -fsS "http://127.0.0.1:9000/api/top-langs?username=${USERNAME}&layout=donut&theme=tokyonight&card_width=320" \
                     -o generated/top-langs.svg
 
             - name: Commit to stats branch
               run: |
-                  set -e
+                  set -euo pipefail
                   BRANCH="stats"
+
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
 
-                  # Create or switch to branch
-                  if git show-ref --verify --quiet refs/heads/$BRANCH; then
-                    git switch $BRANCH
+                  git fetch origin +refs/heads/*:refs/remotes/origin/*
+
+                  if git show-ref --verify --quiet refs/remotes/origin/$BRANCH; then
+                    git switch -C $BRANCH origin/$BRANCH
                   else
                     git switch --create $BRANCH
                   fi
@@ -85,8 +95,6 @@ jobs:
                   cp -f generated/*.svg assets/
 
                   git add assets/*.svg
-
-                  # Only commit if changed
                   if git diff --cached --quiet; then
                     echo "No changes."
                     exit 0
