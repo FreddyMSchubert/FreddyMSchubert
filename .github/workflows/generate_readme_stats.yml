@@ -1,0 +1,98 @@
+name: Generate README stats images
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "17 3 * * *" # daily at 03:17 UTC
+    push:
+        branches: [main]
+        paths:
+            - ".github/workflows/generate-readme-stats.yml"
+
+permissions:
+    contents: write
+
+concurrency:
+    group: readme-stats-images
+    cancel-in-progress: false
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout hosting repo
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            - name: Clone github-readme-stats
+              run: |
+                  rm -rf /tmp/github-readme-stats
+                  git clone --depth 1 https://github.com/anuraghazra/github-readme-stats /tmp/github-readme-stats
+
+            - name: Use Node
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "20"
+                  cache: "npm"
+                  cache-dependency-path: /tmp/github-readme-stats/package-lock.json
+
+            - name: Install deps
+              working-directory: /tmp/github-readme-stats
+              run: npm ci
+
+            - name: Start local server
+              working-directory: /tmp/github-readme-stats
+              env:
+                  GITHUB_TOKEN: ${{ secrets.STREAK_GITHUB_TOKEN }}
+              run: |
+                  # Start in background on port 9000
+                  PORT=9000 nohup npm start >/tmp/ghrs.log 2>&1 &
+                  # Wait for server
+                  for i in {1..60}; do
+                    curl -fsS http://127.0.0.1:9000/ >/dev/null && break || true
+                    sleep 1
+                  done
+                  curl -fsS http://127.0.0.1:9000/ >/dev/null
+
+            - name: Generate SVGs
+              env:
+                  USERNAME: FreddyMSchubert
+              run: |
+                  mkdir -p generated
+
+                  # Main stats card (customize params to taste)
+                  curl -fsS "http://127.0.0.1:9000/api?username=${USERNAME}&show_icons=true&theme=tokyonight&card_width=650" \
+                    -o generated/github-stats.svg
+
+                  # Top languages card (customize params)
+                  curl -fsS "http://127.0.0.1:9000/api/top-langs?username=${USERNAME}&layout=donut&theme=tokyonight&card_width=320" \
+                    -o generated/top-langs.svg
+
+            - name: Commit to stats branch
+              run: |
+                  set -e
+                  BRANCH="stats"
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+
+                  # Create or switch to branch
+                  if git show-ref --verify --quiet refs/heads/$BRANCH; then
+                    git switch $BRANCH
+                  else
+                    git switch --create $BRANCH
+                  fi
+
+                  mkdir -p assets
+                  cp -f generated/*.svg assets/
+
+                  git add assets/*.svg
+
+                  # Only commit if changed
+                  if git diff --cached --quiet; then
+                    echo "No changes."
+                    exit 0
+                  fi
+
+                  git commit -m "chore: update README stats images"
+                  git push -u origin $BRANCH

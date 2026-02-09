@@ -3,9 +3,9 @@
 </div>
 <br>
 <div align="center">
-	<p></p><a href="https://frederickschubert.de">✨ frederickschubert.de ✨</a></p>
-	<p>Right now I am primarily focused on progressing through the <a href="https://github.com/FreddyMSchubert/42_cursus">42 cursus</a>.</p>
-	<p>Have you heard about <a href="https://coregame.de/">CORE GAME</a>?</p>
+	<h3><a href="https://frederickschubert.com" target="_blank">✨ frederickschubert.com ✨</a></h3>
+	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
+	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 </div>
 
 <hr>
@@ -13,8 +13,6 @@
 <div align="center">
 
 ### Currently working on...
-
-<!-- [![current_repo](https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=Crafty_Concoctions&theme=tokyonight)](https://github.com/FreddyMSchubert/Crafty_Concoctions) -->
 
 <div align="center">
 	<a href="https://github.com/42core-team/monorepo" target="_blank">
