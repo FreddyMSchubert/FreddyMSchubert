@@ -1,19 +1,19 @@
 
       <svg
-        width="467"
+        width="650"
         height="195"
-        viewBox="0 0 467 195"
+        viewBox="0 0 650 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Frederick Schubert (Freddy)'s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 135, Total Commits  (last year) : 1725, Total PRs: 149, Total Issues: 294, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 135, Total Commits  (last year) : 1729, Total PRs: 149, Total Issues: 294, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdae;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #4c71f2;
+      fill: #bf91f3;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #2f80ed;
+      stroke: #70a5fd;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #2f80ed;
+      stroke: #70a5fd;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 34.28716677305423;
+        stroke-dashoffset: 34.28329846485174;
       }
     }
   
@@ -110,8 +110,8 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
-          fill="#fffefe"
+          width="649"
+          fill="#1a1b27"
           stroke-opacity="1"
         />
 
@@ -137,7 +137,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 47.5)">
+          transform="translate(573.5, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
