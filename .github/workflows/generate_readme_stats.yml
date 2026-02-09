@@ -15,7 +15,7 @@ jobs:
               uses: readme-tools/github-readme-stats-action@v1
               with:
                   card: stats
-                  options: username=${{ github.repository_owner }}&show_icons=true
+                  options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&card_width=650
                   path: profile/general-stats.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
