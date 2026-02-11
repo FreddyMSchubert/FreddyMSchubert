@@ -28,16 +28,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/173#issuecomment-3885398929">42core-team/monorepo#173</a>: “This is currently supported by the game engine, it…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/176#discussion_r2794084675">42core-team/monorepo#176</a>: “Maybe let people know that if they don't update th…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/176#issuecomment-3885330714">42core-team/monorepo#176</a>: “Haha of course you are right my bad.”</li>
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/18#discussion_r2793920496">FreddyMSchubert/broke-breaker#18</a>: “In my understanding this would reenable landscape …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/177#issuecomment-3885152776">42core-team/monorepo#177</a>: “Lets put client lib into bots/c/client_lib, I thin…”</li>
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/176#issuecomment-3881015657">42core-team/monorepo#176</a>: “Very cool! Can I ask why you didn't include the se…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/171#issuecomment-3870270481">42core-team/monorepo#171</a>: “Amazing screenshot its fully unrelated 😅”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/173#issuecomment-3885398929">42core-team/monorepo#173</a>: “This is currently supported by the game engine, it…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/176#discussion_r2794084675">42core-team/monorepo#176</a>: “Maybe let people know that if they don't update th…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/176#issuecomment-3885330714">42core-team/monorepo#176</a>: “Haha of course you are right my bad.”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/18#discussion_r2793920496">FreddyMSchubert/broke-breaker#18</a>: “In my understanding this would reenable landscape …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/177#issuecomment-3885152776">42core-team/monorepo#177</a>: “Lets put client lib into bots/c/client_lib, I thin…”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/176#issuecomment-3881015657">42core-team/monorepo#176</a>: “Very cool! Can I ask why you didn't include the se…”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/171#issuecomment-3870270481">42core-team/monorepo#171</a>: “Amazing screenshot its fully unrelated 😅”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
