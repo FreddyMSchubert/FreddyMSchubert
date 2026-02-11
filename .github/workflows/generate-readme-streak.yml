@@ -49,15 +49,18 @@ jobs:
 
             - name: Commit to stats branch
               run: |
-                  set -e
+                  set -euo pipefail
                   BRANCH="stats"
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
 
-                  if git show-ref --verify --quiet refs/heads/$BRANCH; then
-                    git switch $BRANCH
+                  git fetch origin "${BRANCH}" || true
+
+                  if git show-ref --verify --quiet "refs/remotes/origin/${BRANCH}"; then
+                    git switch -C "${BRANCH}" --track "origin/${BRANCH}"
+                    git pull --ff-only
                   else
-                    git switch --create $BRANCH
+                    git switch -c "${BRANCH}"
                   fi
 
                   mkdir -p assets
@@ -70,4 +73,4 @@ jobs:
                   fi
 
                   git commit -m "chore: update streak stats image"
-                  git push -u origin $BRANCH
+                  git push origin "${BRANCH}"
