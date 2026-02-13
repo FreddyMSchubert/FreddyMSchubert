@@ -16,10 +16,11 @@ jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-            - name: Checkout hosting repo
+            - name: Checkout main
               uses: actions/checkout@v4
               with:
                   fetch-depth: 0
+                  ref: main
 
             - name: Build streak-stats Docker image
               run: |
@@ -47,30 +48,46 @@ jobs:
                   curl -fsS "http://127.0.0.1:8080/?user=${USERNAME}&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" \
                     -o generated/streak-stats.svg
 
-            - name: Commit to stats branch
+            - name: Commit versioned streak image to stats branch
+              shell: bash
               run: |
                   set -euo pipefail
+
+                  VERSION="${{ github.run_id }}"
                   BRANCH="stats"
+                  FILE="assets/streak-stats-${VERSION}.svg"
+
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
 
                   git fetch origin "${BRANCH}" || true
 
+                  rm -rf /tmp/stats-branch
                   if git show-ref --verify --quiet "refs/remotes/origin/${BRANCH}"; then
-                    git switch -C "${BRANCH}" --track "origin/${BRANCH}"
-                    git pull --ff-only
+                    git worktree add /tmp/stats-branch "origin/${BRANCH}"
                   else
-                    git switch -c "${BRANCH}"
+                    git worktree add /tmp/stats-branch -b "${BRANCH}"
                   fi
 
-                  mkdir -p assets
-                  cp -f generated/streak-stats.svg assets/streak-stats.svg
+                  mkdir -p /tmp/stats-branch/assets
+                  cp -f generated/streak-stats.svg "/tmp/stats-branch/${FILE}"
 
-                  git add assets/streak-stats.svg
-                  if git diff --cached --quiet; then
-                    echo "No changes."
-                    exit 0
-                  fi
+                  ls -1t /tmp/stats-branch/assets/streak-stats-*.svg 2>/dev/null | tail -n +5 | xargs -r rm -f
 
-                  git commit -m "chore: update streak stats image"
+                  cd /tmp/stats-branch
+                  git add assets/streak-stats-*.svg
+                  git diff --cached --quiet || git commit -m "chore: update streak stats image (cache-bust)"
                   git push origin "${BRANCH}"
+
+                  cd "${GITHUB_WORKSPACE}"
+
+                  perl -0777 -i -pe 's#raw\.githubusercontent\.com/FreddyMSchubert/FreddyMSchubert/[^/]+/assets/streak-stats(?:-[0-9]+)?\.svg#raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/stats/'"${FILE}"'#g' README.md
+
+            - name: Commit README update in main
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+
+                  git add README.md
+                  git diff --cached --quiet || git commit -m "chore: update streak image link (cache-bust)"
+                  git push origin main

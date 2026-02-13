@@ -5,13 +5,18 @@ on:
         - cron: "0 3 * * *"
     workflow_dispatch:
 
+permissions:
+    contents: write
+
 jobs:
     build:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
 
-            - name: Generate stats card
+            - name: Generate general stats card
               uses: readme-tools/github-readme-stats-action@v1
               with:
                   card: stats
@@ -19,7 +24,7 @@ jobs:
                   path: profile/general-stats.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
-            - name: Generate stats card
+            - name: Generate lang stats card
               uses: readme-tools/github-readme-stats-action@v1
               with:
                   card: top-langs
@@ -27,10 +32,33 @@ jobs:
                   path: profile/lang-stats.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
-            - name: Commit cards
+            - name: Rename images + update README to newest filenames
+              shell: bash
               run: |
-                  git config user.name "github-actions"
-                  git config user.email "github-actions@users.noreply.github.com"
-                  git add profile/*.svg
-                  git commit -m "Update README cards" || exit 0
+                  set -euo pipefail
+
+                  VERSION="${{ github.run_id }}"
+
+                  NEW_GENERAL="profile/general-stats-${VERSION}.svg"
+                  NEW_LANG="profile/lang-stats-${VERSION}.svg"
+
+                  mv -f profile/general-stats.svg "${NEW_GENERAL}"
+                  mv -f profile/lang-stats.svg "${NEW_LANG}"
+
+                  # Update README links
+                  # general-stats
+                  perl -0777 -i -pe 's#raw\.githubusercontent\.com/FreddyMSchubert/FreddyMSchubert/[^/]+/profile/general-stats(?:-[0-9]+)?\.svg#raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/'"${NEW_GENERAL}"'#g' README.md
+                  # lang-stats
+                  perl -0777 -i -pe 's#raw\.githubusercontent\.com/FreddyMSchubert/FreddyMSchubert/[^/]+/profile/lang-stats(?:-[0-9]+)?\.svg#raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/'"${NEW_LANG}"'#g' README.md
+
+                  ls -1t profile/general-stats-*.svg 2>/dev/null | tail -n +5 | xargs -r rm -f
+                  ls -1t profile/lang-stats-*.svg 2>/dev/null | tail -n +5 | xargs -r rm -f
+
+            - name: Commit and push
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+
+                  git add README.md profile/*.svg
+                  git diff --cached --quiet || git commit -m "chore: update stats images (cache-bust)"
                   git push
