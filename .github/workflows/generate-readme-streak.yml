@@ -48,9 +48,9 @@ jobs:
                   curl -fsS "http://127.0.0.1:8080/?user=${USERNAME}&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" \
                     -o generated/streak-stats.svg
 
-            - name: Commit versioned streak image to stats branch
-              shell: bash
-              run: |
+              - name: Commit versioned streak image to stats branch
+                shell: bash
+                run: |
                   set -euo pipefail
 
                   VERSION="${{ github.run_id }}"
@@ -64,9 +64,12 @@ jobs:
 
                   rm -rf /tmp/stats-branch
                   if git show-ref --verify --quiet "refs/remotes/origin/${BRANCH}"; then
-                    git worktree add /tmp/stats-branch "origin/${BRANCH}"
+                    # Create/update local branch 'stats' to track remote
+                    git branch -f "${BRANCH}" "origin/${BRANCH}"
+                    git worktree add -B "${BRANCH}" /tmp/stats-branch "${BRANCH}"
                   else
-                    git worktree add /tmp/stats-branch -b "${BRANCH}"
+                    # Create new local branch 'stats'
+                    git worktree add -b "${BRANCH}" /tmp/stats-branch
                   fi
 
                   mkdir -p /tmp/stats-branch/assets
@@ -76,8 +79,14 @@ jobs:
 
                   cd /tmp/stats-branch
                   git add assets/streak-stats-*.svg
-                  git diff --cached --quiet || git commit -m "chore: update streak stats image (cache-bust)"
-                  git push origin "${BRANCH}"
+
+                  if git diff --cached --quiet; then
+                    echo "No changes."
+                  else
+                    git commit -m "chore: update streak stats image (cache-bust)"
+                    # Push local branch explicitly to remote branch
+                    git push origin "${BRANCH}:${BRANCH}"
+                  fi
 
                   cd "${GITHUB_WORKSPACE}"
 
