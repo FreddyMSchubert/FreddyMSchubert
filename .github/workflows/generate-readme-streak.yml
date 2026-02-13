@@ -48,9 +48,9 @@ jobs:
                   curl -fsS "http://127.0.0.1:8080/?user=${USERNAME}&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=200&hide_total_contributions=true" \
                     -o generated/streak-stats.svg
 
-              - name: Commit versioned streak image to stats branch
-                shell: bash
-                run: |
+            - name: Commit versioned streak image to stats branch
+              shell: bash
+              run: |
                   set -euo pipefail
 
                   VERSION="${{ github.run_id }}"
