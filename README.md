@@ -28,6 +28,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Today: Opened PR <a href="undefined">42core-team/monorepo#180</a>: “undefined – ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/144">42core-team/monorepo#144</a>: “🤗 Enable easier local battling with some Makefile…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/173">42core-team/monorepo#173</a>: “Idear New game mode with cores not in the corner –…”</li>
 <li>👍 3 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
@@ -37,7 +38,6 @@
 <li>👎 4 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
 <li>👎 4 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
 <li>✍️ 4 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/18#discussion_r2793920496">FreddyMSchubert/broke-breaker#18</a>: “In my understanding this would reenable landscape …”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/177#issuecomment-3885152776">42core-team/monorepo#177</a>: “Lets put client lib into bots/c/client_lib, I thin…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
