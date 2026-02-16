@@ -28,16 +28,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#19</a></li>
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#19</a></li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2812617432">FreddyMSchubert/broke-breaker#19</a>: “You should check based on the total money spendabl…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2812612449">FreddyMSchubert/broke-breaker#19</a>: “We don't currently format as GBP in other parts of…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2812609350">FreddyMSchubert/broke-breaker#19</a>: “Why? Why not alert people if the recurring expense…”</li>
-<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#20</a></li>
-<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#20</a>: “undefined – ”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/180#issuecomment-3907436574">42core-team/monorepo#180</a>: “No I just looked at the title and thought that's w…”</li>
-<li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/monorepo#180</a>: “undefined – ”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/144">42core-team/monorepo#144</a>: “🤗 Enable easier local battling with some Makefile…”</li>
+<li>👍 Today: Approved PR <a href="undefined">42core-team/monorepo#181</a></li>
+<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a></li>
+<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a>: “undefined – ”</li>
+<li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#21</a></li>
+<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
+<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812701521">FreddyMSchubert/broke-breaker#13</a>: “Please remove this its unnecessary”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812698534">FreddyMSchubert/broke-breaker#13</a>: “Why do we need a timer? If not please remove it.”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812694550">FreddyMSchubert/broke-breaker#13</a>: “What is any of this timeline stuff for? Please cle…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812691473">FreddyMSchubert/broke-breaker#13</a>: “Please comment in english”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
