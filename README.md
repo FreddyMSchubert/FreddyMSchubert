@@ -28,6 +28,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#20</a>: “undefined – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/180#issuecomment-3907436574">42core-team/monorepo#180</a>: “No I just looked at the title and thought that's w…”</li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/monorepo#180</a>: “undefined – ”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/144">42core-team/monorepo#144</a>: “🤗 Enable easier local battling with some Makefile…”</li>
@@ -36,7 +37,6 @@
 <li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/173#issuecomment-3885398929">42core-team/monorepo#173</a>: “This is currently supported by the game engine, it…”</li>
 <li>✍️ 5 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/176#discussion_r2794084675">42core-team/monorepo#176</a>: “Maybe let people know that if they don't update th…”</li>
 <li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/176#issuecomment-3885330714">42core-team/monorepo#176</a>: “Haha of course you are right my bad.”</li>
-<li>👎 5 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
 <li>👎 5 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
 <!-- ACTIVITY:END -->
 </ol>
