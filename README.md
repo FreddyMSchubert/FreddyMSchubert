@@ -28,16 +28,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#19</a></li>
+<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#19</a></li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2812617432">FreddyMSchubert/broke-breaker#19</a>: “You should check based on the total money spendabl…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2812612449">FreddyMSchubert/broke-breaker#19</a>: “We don't currently format as GBP in other parts of…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2812609350">FreddyMSchubert/broke-breaker#19</a>: “Why? Why not alert people if the recurring expense…”</li>
+<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#20</a></li>
 <li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#20</a>: “undefined – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/180#issuecomment-3907436574">42core-team/monorepo#180</a>: “No I just looked at the title and thought that's w…”</li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/monorepo#180</a>: “undefined – ”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/144">42core-team/monorepo#144</a>: “🤗 Enable easier local battling with some Makefile…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/173">42core-team/monorepo#173</a>: “Idear New game mode with cores not in the corner –…”</li>
-<li>👍 4 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
-<li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/173#issuecomment-3885398929">42core-team/monorepo#173</a>: “This is currently supported by the game engine, it…”</li>
-<li>✍️ 5 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/176#discussion_r2794084675">42core-team/monorepo#176</a>: “Maybe let people know that if they don't update th…”</li>
-<li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/176#issuecomment-3885330714">42core-team/monorepo#176</a>: “Haha of course you are right my bad.”</li>
-<li>👎 5 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#18</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
