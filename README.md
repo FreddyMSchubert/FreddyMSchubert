@@ -28,16 +28,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>👍 Today: Approved PR <a href="undefined">42core-team/monorepo#181</a></li>
-<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a></li>
-<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a>: “undefined – ”</li>
-<li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#21</a></li>
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812701521">FreddyMSchubert/broke-breaker#13</a>: “Please remove this its unnecessary”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812698534">FreddyMSchubert/broke-breaker#13</a>: “Why do we need a timer? If not please remove it.”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812694550">FreddyMSchubert/broke-breaker#13</a>: “What is any of this timeline stuff for? Please cle…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812691473">FreddyMSchubert/broke-breaker#13</a>: “Please comment in english”</li>
+<li>👍 Yesterday: Approved PR <a href="undefined">42core-team/monorepo#181</a></li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a></li>
+<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a>: “undefined – ”</li>
+<li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#21</a></li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812701521">FreddyMSchubert/broke-breaker#13</a>: “Please remove this its unnecessary”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812698534">FreddyMSchubert/broke-breaker#13</a>: “Why do we need a timer? If not please remove it.”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812694550">FreddyMSchubert/broke-breaker#13</a>: “What is any of this timeline stuff for? Please cle…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812691473">FreddyMSchubert/broke-breaker#13</a>: “Please comment in english”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
