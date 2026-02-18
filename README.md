@@ -28,6 +28,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/183#discussion_r2824406285">42core-team/monorepo#183</a>: “Yeah cause it only needs to work in the devcontain…”</li>
+<li>🚀 Today: Opened PR <a href="undefined">42core-team/monorepo#183</a>: “undefined – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/182">42core-team/monorepo#182</a>: “Dynamic reasonable viewing speed – ### Feature Sum…”</li>
 <li>🌕 Today: Merged PR <a href="undefined">42core-team/monorepo#180</a></li>
 <li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#25</a></li>
@@ -36,8 +38,6 @@
 <li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#21</a></li>
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812701521">FreddyMSchubert/broke-breaker#13</a>: “Please remove this its unnecessary”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812698534">FreddyMSchubert/broke-breaker#13</a>: “Why do we need a timer? If not please remove it.”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
