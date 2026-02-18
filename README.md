@@ -28,6 +28,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 Today: Merged PR <a href="undefined">42core-team/monorepo#180</a></li>
 <li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#25</a></li>
 <li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a></li>
 <li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a>: “undefined – ”</li>
@@ -37,7 +38,6 @@
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812701521">FreddyMSchubert/broke-breaker#13</a>: “Please remove this its unnecessary”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812698534">FreddyMSchubert/broke-breaker#13</a>: “Why do we need a timer? If not please remove it.”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812694550">FreddyMSchubert/broke-breaker#13</a>: “What is any of this timeline stuff for? Please cle…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#discussion_r2812691473">FreddyMSchubert/broke-breaker#13</a>: “Please comment in english”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
