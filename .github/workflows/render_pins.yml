@@ -52,7 +52,7 @@ jobs:
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   PROFILE_REPO: ${{ github.repository }}
-              run: node scripts/update-pins.mjs
+              run: node .github/scripts/update-pins.mjs
 
             - name: Stop server
               if: always()
