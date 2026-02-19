@@ -1,11 +1,13 @@
-name: Render pinned repo widgets
+name: Render repo pin widgets
 
 on:
+    workflow_dispatch:
+    schedule:
+        - cron: "17 */6 * * *" # every 6 hours
     push:
         paths:
             - "README.md"
-            - ".github/scripts/render_pins.js"
-    workflow_dispatch:
+            - ".github/scripts/render_repo_pins.mjs"
 
 permissions:
     contents: write
@@ -20,8 +22,10 @@ jobs:
               with:
                   node-version: 20
 
-            - name: Render pins into README
-              run: node .github/scripts/render_pins.js
+            - name: Render pins
+              env:
+                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: node .github/scripts/render_repo_pins.mjs
 
             - name: Commit changes
               run: |
@@ -31,6 +35,6 @@ jobs:
                   fi
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
-                  git add README.md
-                  git commit -m "chore: render pinned repo widgets"
+                  git add README.md profile/pins .github/pins-state.json
+                  git commit -m "chore: update repo pin widgets"
                   git push
