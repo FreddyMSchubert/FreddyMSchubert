@@ -32,19 +32,24 @@ jobs:
             - name: Start github-readme-stats locally
               working-directory: /tmp/grs
               env:
-                  # Use the workflow token for API calls (fine for public repos).
-                  # If you hit rate limits, create a PAT and store as secret PAT_1,
-                  # then export it here as well.
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   CACHE_SECONDS: "0"
               run: |
-                  node express.js --port 9000 &
+                  node express.js --port 9000 > /tmp/grs.log 2>&1 &
                   echo $! > /tmp/grs.pid
-                  # wait for server
-                  for i in {1..50}; do
-                    curl -fsS "http://127.0.0.1:9000/api?username=octocat" >/dev/null && break
-                    sleep 0.2
+
+                  # wait up to 20s for port to open
+                  for i in {1..200}; do
+                    if curl -fsS "http://127.0.0.1:9000/" >/dev/null 2>&1; then
+                      echo "Server is up."
+                      exit 0
+                    fi
+                    sleep 0.1
                   done
+
+                  echo "Server did not start. Logs:"
+                  cat /tmp/grs.log
+                  exit 1
 
             - name: Render pins + update README
               env:
