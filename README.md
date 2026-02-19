@@ -35,16 +35,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/broke-breaker/issues/14">FreddyMSchubert/broke-breaker#14</a>: “skill – this issue is a skill issue”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#issuecomment-3926663092">FreddyMSchubert/broke-breaker#13</a>: “Nevermind I got bored and did it myself merging th…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#issuecomment-3926601051">FreddyMSchubert/broke-breaker#13</a>: “@karenj8 Before I can merge this please resolve th…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/26#discussion_r2827123252">FreddyMSchubert/broke-breaker#26</a>: “This should be "Broke Breaker" haha :)”</li>
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/182">42core-team/monorepo#182</a>: “Dynamic reasonable viewing speed – ### Feature Sum…”</li>
-<li>🌕 Today: Merged PR <a href="undefined">42core-team/monorepo#183</a></li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/183#discussion_r2824406285">42core-team/monorepo#183</a>: “Yeah cause it only needs to work in the devcontain…”</li>
-<li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/monorepo#183</a>: “undefined – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/182">42core-team/monorepo#182</a>: “Dynamic reasonable viewing speed – ### Feature Sum…”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#discussion_r2830397735">FreddyMSchubert/broke-breaker#24</a>: “This wouldn't compile, amount isn't set in this sc…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#discussion_r2830396393">FreddyMSchubert/broke-breaker#24</a>: “I think the concept of a daily allowance fundament…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#discussion_r2830384522">FreddyMSchubert/broke-breaker#24</a>: “Vapor is a server-side http client. Why would we p…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/broke-breaker/issues/14">FreddyMSchubert/broke-breaker#14</a>: “skill – this issue is a skill issue”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#issuecomment-3926663092">FreddyMSchubert/broke-breaker#13</a>: “Nevermind I got bored and did it myself merging th…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/13#issuecomment-3926601051">FreddyMSchubert/broke-breaker#13</a>: “@karenj8 Before I can merge this please resolve th…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/26#discussion_r2827123252">FreddyMSchubert/broke-breaker#26</a>: “This should be "Broke Breaker" haha :)”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
