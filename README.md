@@ -28,16 +28,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/26#discussion_r2827123252">FreddyMSchubert/broke-breaker#26</a>: “This should be "Broke Breaker" haha :)”</li>
+<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/182">42core-team/monorepo#182</a>: “Dynamic reasonable viewing speed – ### Feature Sum…”</li>
+<li>🌕 Today: Merged PR <a href="undefined">42core-team/monorepo#183</a></li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/183#discussion_r2824406285">42core-team/monorepo#183</a>: “Yeah cause it only needs to work in the devcontain…”</li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/monorepo#183</a>: “undefined – ”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/182">42core-team/monorepo#182</a>: “Dynamic reasonable viewing speed – ### Feature Sum…”</li>
 <li>🌕 Yesterday: Merged PR <a href="undefined">42core-team/monorepo#180</a></li>
 <li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#25</a></li>
 <li>🌕 3 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a></li>
-<li>🚀 3 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#22</a>: “undefined – ”</li>
-<li>👍 3 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#21</a></li>
-<li>👎 3 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
-<li>👎 3 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#13</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
