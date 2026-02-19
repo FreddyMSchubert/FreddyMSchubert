@@ -31,6 +31,7 @@ jobs:
               working-directory: /tmp/grs
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  PAT_1: ${{ secrets.GITHUB_TOKEN }}
                   CACHE_SECONDS: "0"
               run: |
                   node express.js --port 9000 > /tmp/grs.log 2>&1 &
