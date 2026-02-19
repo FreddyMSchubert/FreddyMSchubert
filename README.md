@@ -22,10 +22,10 @@
 <!-- PINS:RENDERED:START -->
 <div align="center">
 	<a href="https://github.com/42core-team/monorepo" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=42core-team&repo=monorepo&theme=tokyonight&show_owner=true" alt="Monorepo (42core-team/monorepo)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=0d0ae7d7485fa99e64008d5ee4b14a2b1fd7c856" alt="Monorepo (42core-team/monorepo)" />
 	</a>
 	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=broke-breaker&theme=tokyonight&show_owner=true" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=4107dd283d9e8cbfb8e4d2ee7690ff85e69787ea" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
 	</a>
 </div>
 <!-- PINS:RENDERED:END -->
