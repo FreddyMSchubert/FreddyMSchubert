@@ -3,7 +3,7 @@ name: Update pinned repo cards
 on:
     workflow_dispatch:
     schedule:
-        - cron: "17 * * * *" # hourly, adjust as you like
+        - cron: "17 * * * *"
 
 permissions:
     contents: write
@@ -12,20 +12,18 @@ jobs:
     pins:
         runs-on: ubuntu-latest
         steps:
-            - name: Checkout profile repo
-              uses: actions/checkout@v4
+            - uses: actions/checkout@v4
 
-            - name: Setup Node
-              uses: actions/setup-node@v4
+            - uses: actions/setup-node@v4
               with:
-                  node-version: "20"
+                  node-version: "22"
 
             - name: Clone github-readme-stats
               run: |
                   rm -rf /tmp/grs
                   git clone --depth 1 https://github.com/anuraghazra/github-readme-stats /tmp/grs
 
-            - name: Install github-readme-stats deps
+            - name: Install deps
               working-directory: /tmp/grs
               run: npm ci
 
@@ -37,24 +35,23 @@ jobs:
               run: |
                   node express.js --port 9000 > /tmp/grs.log 2>&1 &
                   echo $! > /tmp/grs.pid
-
-                  # wait up to 20s for port to open
                   for i in {1..200}; do
-                    if curl -fsS "http://127.0.0.1:9000/" >/dev/null 2>&1; then
+                    if curl -fsS "http://127.0.0.1:9000/api?username=octocat" >/dev/null 2>&1; then
                       echo "Server is up."
-                      exit 0
+                      break
                     fi
                     sleep 0.1
                   done
-
-                  echo "Server did not start. Logs:"
-                  cat /tmp/grs.log
-                  exit 1
+                  if ! curl -fsS "http://127.0.0.1:9000/api?username=octocat" >/dev/null 2>&1; then
+                    echo "Server failed to start. Logs:"
+                    cat /tmp/grs.log
+                    exit 1
+                  fi
 
             - name: Render pins + update README
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  PROFILE_REPO: FreddyMSchubert/FreddyMSchubert
+                  PROFILE_REPO: ${{ github.repository }}
               run: node scripts/update-pins.mjs
 
             - name: Stop server
@@ -62,13 +59,12 @@ jobs:
               run: |
                   if [ -f /tmp/grs.pid ]; then kill "$(cat /tmp/grs.pid)" || true; fi
 
-            - name: Commit changes (if any)
+            - name: Commit + push if changed
               run: |
-                  git status --porcelain
                   if [ -n "$(git status --porcelain)" ]; then
                     git config user.name "github-actions[bot]"
                     git config user.email "github-actions[bot]@users.noreply.github.com"
-                    git add README.md profile/pins/pins-manifest.json profile/pins/*.svg
+                    git add README.md profile/pins
                     git commit -m "chore: update pinned repo cards"
                     git push
                   fi
