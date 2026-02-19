@@ -1,40 +1,69 @@
-name: Render repo pin widgets
+name: Update pinned repo cards
 
 on:
     workflow_dispatch:
     schedule:
-        - cron: "17 */6 * * *" # every 6 hours
-    push:
-        paths:
-            - "README.md"
-            - ".github/scripts/render_repo_pins.mjs"
+        - cron: "17 * * * *" # hourly, adjust as you like
 
 permissions:
     contents: write
 
 jobs:
-    render:
+    pins:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v4
+            - name: Checkout profile repo
+              uses: actions/checkout@v4
 
-            - uses: actions/setup-node@v4
+            - name: Setup Node
+              uses: actions/setup-node@v4
               with:
-                  node-version: 20
+                  node-version: "20"
 
-            - name: Render pins
-              env:
-                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              run: node .github/scripts/render_repo_pins.mjs
-
-            - name: Commit changes
+            - name: Clone github-readme-stats
               run: |
-                  if git diff --quiet; then
-                    echo "No changes."
-                    exit 0
+                  rm -rf /tmp/grs
+                  git clone --depth 1 https://github.com/anuraghazra/github-readme-stats /tmp/grs
+
+            - name: Install github-readme-stats deps
+              working-directory: /tmp/grs
+              run: npm ci
+
+            - name: Start github-readme-stats locally
+              working-directory: /tmp/grs
+              env:
+                  # Use the workflow token for API calls (fine for public repos).
+                  # If you hit rate limits, create a PAT and store as secret PAT_1,
+                  # then export it here as well.
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  CACHE_SECONDS: "0"
+              run: |
+                  node express.js --port 9000 &
+                  echo $! > /tmp/grs.pid
+                  # wait for server
+                  for i in {1..50}; do
+                    curl -fsS "http://127.0.0.1:9000/api?username=octocat" >/dev/null && break
+                    sleep 0.2
+                  done
+
+            - name: Render pins + update README
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  PROFILE_REPO: FreddyMSchubert/FreddyMSchubert
+              run: node scripts/update-pins.mjs
+
+            - name: Stop server
+              if: always()
+              run: |
+                  if [ -f /tmp/grs.pid ]; then kill "$(cat /tmp/grs.pid)" || true; fi
+
+            - name: Commit changes (if any)
+              run: |
+                  git status --porcelain
+                  if [ -n "$(git status --porcelain)" ]; then
+                    git config user.name "github-actions[bot]"
+                    git config user.email "github-actions[bot]@users.noreply.github.com"
+                    git add README.md profile/pins/pins-manifest.json profile/pins/*.svg
+                    git commit -m "chore: update pinned repo cards"
+                    git push
                   fi
-                  git config user.name "github-actions[bot]"
-                  git config user.email "github-actions[bot]@users.noreply.github.com"
-                  git add README.md profile/pins .github/pins-state.json
-                  git commit -m "chore: update repo pin widgets"
-                  git push
