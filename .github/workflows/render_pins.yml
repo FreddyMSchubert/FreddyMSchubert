@@ -30,8 +30,7 @@ jobs:
             - name: Start github-readme-stats locally
               working-directory: /tmp/grs
               env:
-                  GITHUB_TOKEN: ${{ secrets.STREAK_GITHUB_TOKEN }}
-                  PAT_1: ${{ secrets.STREAK_GITHUB_TOKEN }}
+                  PAT_1: ${{ github.token }}
                   CACHE_SECONDS: "0"
               run: |
                   node express.js --port 9000 > /tmp/grs.log 2>&1 &
