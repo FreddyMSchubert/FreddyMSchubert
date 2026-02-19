@@ -14,14 +14,14 @@
 
 ### Currently working on...
 
-<div align="center">
-	<a href="https://github.com/42core-team/monorepo" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=42core-team&repo=monorepo&theme=tokyonight" />
-	</a>
-	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=broke-breaker&theme=tokyonight" />
-	</a>
-</div>
+<!-- PINS:START -->
+<!-- PIN repo="42core-team/monorepo" title="Monorepo" -->
+<!-- PIN repo="FreddyMSchubert/broke-breaker" title="Broke Breaker" -->
+<!-- PINS:END -->
+
+<!-- PINS:RENDERED:START -->
+<!-- (workflow will overwrite this block) -->
+<!-- PINS:RENDERED:END -->
 
 <br>
 
