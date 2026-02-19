@@ -20,7 +20,14 @@
 <!-- PINS:END -->
 
 <!-- PINS:RENDERED:START -->
-<!-- (workflow will overwrite this block) -->
+<div align="center">
+	<a href="https://github.com/42core-team/monorepo" target="_blank">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=42core-team&repo=monorepo&theme=tokyonight&show_owner=true" alt="Monorepo (42core-team/monorepo)" />
+	</a>
+	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyMSchubert&repo=broke-breaker&theme=tokyonight&show_owner=true" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
+	</a>
+</div>
 <!-- PINS:RENDERED:END -->
 
 <br>
