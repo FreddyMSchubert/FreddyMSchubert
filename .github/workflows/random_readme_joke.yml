@@ -1,0 +1,35 @@
+name: Update random readme joke
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "23 3 * * *" # daily 03:23 UTC
+
+permissions:
+    contents: write
+
+jobs:
+    pins:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: "22"
+
+            - name: Pick random joke + update README
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  PROFILE_REPO: ${{ github.repository }}
+              run: node .github/scripts/update-joke.mjs
+
+            - name: Commit + push if changed
+              run: |
+                  if [ -n "$(git status --porcelain)" ]; then
+                    git config user.name "github-actions[bot]"
+                    git config user.email "github-actions[bot]@users.noreply.github.com"
+                    git add README.md profile/pins
+                    git commit -m "chore: update joke"
+                    git push
+                  fi

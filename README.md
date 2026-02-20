@@ -6,6 +6,9 @@
 	<h3><a href="https://frederickschubert.com" target="_blank">✨ frederickschubert.com ✨</a></h3>
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
+	<!-- JOKE:START -->
+	<p>Jokes here</p>
+	<!-- JOKE:END -->
 </div>
 
 <hr>

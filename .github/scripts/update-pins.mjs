@@ -1,4 +1,3 @@
-// scripts/update-pins.mjs
 import fs from "node:fs";
 import path from "node:path";
 
