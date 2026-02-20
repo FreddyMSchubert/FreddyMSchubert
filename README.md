@@ -8,6 +8,12 @@
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 </div>
 
+<br>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=plaguemarine&show_icons=true&theme=transparent&title_color=36BCF7&text_color=ffffff&hide_border=true">
+</div>
+
 <hr>
 
 <div align="center">
