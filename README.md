@@ -8,15 +8,6 @@
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 </div>
 
-<br>
-
-<div align="center">
-  <img
-    src="https://readme-jokes.vercel.app/api?theme=gotham&qColor=%2336BCF7FF&aColor=%23ffffff&textColor=%2336BCF7FF"
-    alt="Jokes Card"
-  />
-</div>
-
 <hr>
 
 <div align="center">
@@ -80,3 +71,10 @@ Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/g
 <hr>
 
 Note: I've edited some of the contribution data of my profile before December 2022 using my self-made [Contribution Pixel Painter 🎨🖌️🖼️](https://github.com/FreddyMSchubert/contribution-pixel-painter) repository.
+
+<div align="center">
+  <img
+    src="https://readme-jokes.vercel.app/api?theme=gotham&qColor=%2336BCF7FF&aColor=%23ffffff&textColor=%2336BCF7FF"
+    alt="Jokes Card"
+  />
+</div>
