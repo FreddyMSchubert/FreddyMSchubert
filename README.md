@@ -13,7 +13,6 @@
 <div align="center">
   <img
     src="https://readme-jokes.vercel.app/api?theme=gotham&qColor=%2336BCF7FF&aColor=%23ffffff&textColor=%2336BCF7FF"
-    width="600"
     alt="Jokes Card"
   />
 </div>
