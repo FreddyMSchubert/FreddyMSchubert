@@ -28,7 +28,7 @@
 		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=0d0ae7d7485fa99e64008d5ee4b14a2b1fd7c856" alt="Monorepo (42core-team/monorepo)" />
 	</a>
 	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=1f2627a79180dd4495c136371e01a57db2a162a6" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=6d7109c81def52f884605934951b4d41974a4d82" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
 	</a>
 </div>
 <!-- PINS:RENDERED:END -->
