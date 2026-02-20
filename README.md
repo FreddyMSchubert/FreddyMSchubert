@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=FreddyMSchubert&show_icons=true&theme=transparent&title_color=36BCF7&text_color=ffffff&hide_border=true">
+	<img src="https://readme-jokes.vercel.app/api?theme=gotham&qColor=%2336BCF7FF&aColor=%23ffffff&textColor=%2336BCF7FF">
 </div>
 
 <hr>
