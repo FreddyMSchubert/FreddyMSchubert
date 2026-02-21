@@ -40,6 +40,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/558">42core-team/website#558</a>: “Rework queue & direct matches – 1. Introduce direc…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/557">42core-team/website#557</a>: “Expanded Team customization – The social dynamic o…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/556">42core-team/website#556</a>: “Matches: Show team names in website non in-embed –…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/177">42core-team/monorepo#177</a>: “refactor repo structure for multi language bot sup…”</li>
 <li>👍 Today: Approved PR <a href="undefined">42core-team/monorepo#181</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#issuecomment-3935480721">FreddyMSchubert/broke-breaker#24</a>: “This PR went in the wrong direction, it will be re…”</li>
@@ -47,9 +50,6 @@
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#27</a>: “undefined – ”</li>
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
-<li>💥 2 days ago: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a> without merge</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#discussion_r2830397735">FreddyMSchubert/broke-breaker#24</a>: “This wouldn't compile, amount isn't set in this sc…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#discussion_r2830396393">FreddyMSchubert/broke-breaker#24</a>: “I think the concept of a daily allowance fundament…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
