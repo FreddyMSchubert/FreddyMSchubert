@@ -7,8 +7,10 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-	<p>Jokes here</p>
-	<!-- JOKE:END -->
+<em>Daily random joke: </em><strong>Q:</strong> What accommodations did the JavaScript developer request at the hotel?
+
+<strong>A:</strong> A room with a Vue.
+<!-- JOKE:END -->
 </div>
 
 <hr>
@@ -57,12 +59,12 @@ Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/g
 <hr>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/general-stats-22210429444.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/general-stats-22249668663.svg">
 </div>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/lang-stats-22210429444.svg">
-	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/stats/assets/streak-stats-22210888490.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/lang-stats-22249668663.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/stats/assets/streak-stats-22250018661.svg">
 </div>
 
 <hr>
@@ -74,10 +76,3 @@ Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/g
 <hr>
 
 Note: I've edited some of the contribution data of my profile before December 2022 using my self-made [Contribution Pixel Painter 🎨🖌️🖼️](https://github.com/FreddyMSchubert/contribution-pixel-painter) repository.
-
-<div align="center">
-  <img
-    src="https://readme-jokes.vercel.app/api?theme=gotham&qColor=%2336BCF7FF&aColor=%23ffffff&textColor=%2336BCF7FF"
-    alt="Jokes Card"
-  />
-</div>
