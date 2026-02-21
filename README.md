@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/177">42core-team/monorepo#177</a>: “refactor repo structure for multi language bot sup…”</li>
+<li>👍 Today: Approved PR <a href="undefined">42core-team/monorepo#181</a></li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#issuecomment-3935480721">FreddyMSchubert/broke-breaker#24</a>: “This PR went in the wrong direction, it will be re…”</li>
 <li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#27</a></li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#27</a>: “undefined – ”</li>
@@ -48,8 +50,6 @@
 <li>💥 2 days ago: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a> without merge</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#discussion_r2830397735">FreddyMSchubert/broke-breaker#24</a>: “This wouldn't compile, amount isn't set in this sc…”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#discussion_r2830396393">FreddyMSchubert/broke-breaker#24</a>: “I think the concept of a daily allowance fundament…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#discussion_r2830384522">FreddyMSchubert/broke-breaker#24</a>: “Vapor is a server-side http client. Why would we p…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/broke-breaker/issues/14">FreddyMSchubert/broke-breaker#14</a>: “skill – this issue is a skill issue”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
