@@ -3,7 +3,7 @@ name: Update pinned repo cards
 on:
     workflow_dispatch:
     schedule:
-        - cron: "17 * * * *"
+        - cron: "30 4 * * *"
 
 permissions:
     contents: write
