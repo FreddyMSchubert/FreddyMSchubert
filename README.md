@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👍 Today: Approved PR <a href="undefined">42core-team/monorepo#185</a></li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/558">42core-team/website#558</a>: “Rework queue & direct matches – 1. Introduce direc…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/557">42core-team/website#557</a>: “Expanded Team customization – The social dynamic o…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/556">42core-team/website#556</a>: “Matches: Show team names in website non in-embed –…”</li>
@@ -48,7 +49,6 @@
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/24#issuecomment-3935480721">FreddyMSchubert/broke-breaker#24</a>: “This PR went in the wrong direction, it will be re…”</li>
 <li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#27</a></li>
 <li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#27</a>: “undefined – ”</li>
-<li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#24</a></li>
 <!-- ACTIVITY:END -->
 </ol>
