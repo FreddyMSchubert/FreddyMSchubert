@@ -40,16 +40,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#31</a></li>
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#31</a></li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/31#discussion_r2836665891">FreddyMSchubert/broke-breaker#31</a>: “Can you please either disable the medium and large…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/31#discussion_r2836659300">FreddyMSchubert/broke-breaker#31</a>: “Please don't hardcode GBP we don't do it anywhere …”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/31#discussion_r2836654660">FreddyMSchubert/broke-breaker#31</a>: “The problem with this approach is that the shared …”</li>
-<li>👍 Today: Approved PR <a href="undefined">42core-team/monorepo#185</a></li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/558">42core-team/website#558</a>: “Rework queue & direct matches – 1. Introduce direc…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/557">42core-team/website#557</a>: “Expanded Team customization – The social dynamic o…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/website/issues/556">42core-team/website#556</a>: “Matches: Show team names in website non in-embed –…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/177">42core-team/monorepo#177</a>: “refactor repo structure for multi language bot sup…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/172">42core-team/monorepo#172</a>: “Clarify that you use attack to mine deposits and p…”</li>
+<li>💥 Yesterday: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#30</a> without merge</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#31</a></li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#31</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/31#discussion_r2836665891">FreddyMSchubert/broke-breaker#31</a>: “Can you please either disable the medium and large…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/31#discussion_r2836659300">FreddyMSchubert/broke-breaker#31</a>: “Please don't hardcode GBP we don't do it anywhere …”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/31#discussion_r2836654660">FreddyMSchubert/broke-breaker#31</a>: “The problem with this approach is that the shared …”</li>
+<li>👍 Yesterday: Approved PR <a href="undefined">42core-team/monorepo#185</a></li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/558">42core-team/website#558</a>: “Rework queue & direct matches – 1. Introduce direc…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/557">42core-team/website#557</a>: “Expanded Team customization – The social dynamic o…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
