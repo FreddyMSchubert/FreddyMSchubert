@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">&#9889;️🎸🔥🚀💥 Core Game's Game server, client library,</tspan><tspan dy="1.2em" x="25">visualizer, user bot environment, and wiki are developed</tspan><tspan dy="1.2em" x="25">here.</tspan>
+      <tspan dy="1.2em" x="25">&#9889;️🎸🔥🚀💥 Core Game's Game server, client library,</tspan><tspan dy="1.2em" x="25">visualizer, user bot environment (C + Go), and wiki.</tspan><tspan dy="1.2em" x="25">&#10024;</tspan>
     </text>
 
     <g transform="translate(30, 75)">
