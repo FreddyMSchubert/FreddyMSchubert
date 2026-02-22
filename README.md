@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why do assembly programmers need to know how to swim?
+<em>Daily random joke: </em><strong>Q:</strong> Why couldn’t the user update a file on a shared server?
 
-<strong>A:</strong> Because they work below C level.
+<strong>A:</strong> They didn’t have the write permissions
 <!-- JOKE:END -->
 </div>
 
