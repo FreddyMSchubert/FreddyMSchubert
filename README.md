@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/broke-breaker/issues/29">FreddyMSchubert/broke-breaker#29</a>: “Backend API get route failed for all days after cu…”</li>
+<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#33</a></li>
 <li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#33</a>: “undefined – ”</li>
 <li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#188</a></li>
 <li>💥 Today: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#32</a> without merge</li>
@@ -48,8 +50,6 @@
 <li>🚀 Today: Opened PR <a href="undefined">42core-team/monorepo#186</a>: “undefined – ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/172">42core-team/monorepo#172</a>: “Clarify that you use attack to mine deposits and p…”</li>
 <li>💥 Yesterday: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#30</a> without merge</li>
-<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#31</a></li>
-<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#31</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
