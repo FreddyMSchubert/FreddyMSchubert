@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#188</a></li>
 <li>💥 Today: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#32</a> without merge</li>
 <li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#32</a>: “undefined – ”</li>
 <li>💥 Today: Closed PR <a href="undefined">42core-team/monorepo#187</a> without merge</li>
@@ -49,7 +50,6 @@
 <li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#31</a></li>
 <li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#31</a></li>
 <li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/31#discussion_r2836665891">FreddyMSchubert/broke-breaker#31</a>: “Can you please either disable the medium and large…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/31#discussion_r2836659300">FreddyMSchubert/broke-breaker#31</a>: “Please don't hardcode GBP we don't do it anywhere …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
