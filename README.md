@@ -40,16 +40,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/170">42core-team/monorepo#170</a>: “Make core_debug_addObjectInfo work like printf – #…”</li>
-<li>🌕 Today: Merged PR <a href="undefined">42core-team/monorepo#186</a></li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/broke-breaker/issues/29">FreddyMSchubert/broke-breaker#29</a>: “Backend API get route failed for all days after cu…”</li>
-<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#33</a></li>
-<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#33</a>: “undefined – ”</li>
-<li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#188</a></li>
-<li>💥 Today: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#32</a> without merge</li>
-<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#32</a>: “undefined – ”</li>
-<li>💥 Today: Closed PR <a href="undefined">42core-team/monorepo#187</a> without merge</li>
-<li>🚀 Today: Opened PR <a href="undefined">42core-team/monorepo#186</a>: “undefined – ”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/170">42core-team/monorepo#170</a>: “Make core_debug_addObjectInfo work like printf – #…”</li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">42core-team/monorepo#186</a></li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/broke-breaker/issues/29">FreddyMSchubert/broke-breaker#29</a>: “Backend API get route failed for all days after cu…”</li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#33</a></li>
+<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#33</a>: “undefined – ”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">42core-team/monorepo#188</a></li>
+<li>💥 Yesterday: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#32</a> without merge</li>
+<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#32</a>: “undefined – ”</li>
+<li>💥 Yesterday: Closed PR <a href="undefined">42core-team/monorepo#187</a> without merge</li>
+<li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/monorepo#186</a>: “undefined – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
