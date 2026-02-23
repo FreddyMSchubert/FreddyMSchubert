@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#34</a></li>
+<li>💥 Today: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#35</a> without merge</li>
 <li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#34</a>: “undefined – ”</li>
 <li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#19</a></li>
 <li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#19</a></li>
@@ -48,8 +50,6 @@
 <li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839549788">FreddyMSchubert/broke-breaker#19</a>: “mr rabbit over here is right, please fix this.”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839536117">FreddyMSchubert/broke-breaker#19</a>: “As far as I can see this function is fully unneces…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839534363">FreddyMSchubert/broke-breaker#19</a>: “This is also true and was broken during the emerge…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839526658">FreddyMSchubert/broke-breaker#19</a>: “This is true. bypassBusgetWarningOnce can be remov…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/170">42core-team/monorepo#170</a>: “Make core_debug_addObjectInfo work like printf – #…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
