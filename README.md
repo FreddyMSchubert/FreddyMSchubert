@@ -27,10 +27,10 @@
 <!-- PINS:RENDERED:START -->
 <div align="center">
 	<a href="https://github.com/42core-team/monorepo" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=d603579748b6034413ac06257d8913f81e07f6eb" alt="Monorepo (42core-team/monorepo)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=dd16588ff50b9cdb755875944a539e8ee7f736e7" alt="Monorepo (42core-team/monorepo)" />
 	</a>
 	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=6d7109c81def52f884605934951b4d41974a4d82" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=eeb0250a10109db6ce52b334cb71a1d4fdf3dbaf" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
 	</a>
 </div>
 <!-- PINS:RENDERED:END -->
