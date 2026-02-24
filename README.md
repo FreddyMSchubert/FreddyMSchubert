@@ -69,10 +69,4 @@ Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/g
 
 <hr>
 
-#### Testing section, please move along
-
-![GitHub Defenders SVG](https://github.com/FreddyMSchubert/FreddyMSchubert/blob/github_defenders_output/output.svg)
-
-<hr>
-
 Note: I've edited some of the contribution data of my profile before December 2022 using my self-made [Contribution Pixel Painter 🎨🖌️🖼️](https://github.com/FreddyMSchubert/contribution-pixel-painter) repository.
