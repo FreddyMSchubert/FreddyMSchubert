@@ -40,16 +40,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#34</a></li>
-<li>💥 2 days ago: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#35</a> without merge</li>
-<li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#34</a>: “undefined – ”</li>
-<li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#19</a></li>
-<li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#19</a></li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839565844">FreddyMSchubert/broke-breaker#19</a>: “This code is unreachable, it won't ever run becaus…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839552679">FreddyMSchubert/broke-breaker#19</a>: “Yeah it does run but please do it properly anyways…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839549788">FreddyMSchubert/broke-breaker#19</a>: “mr rabbit over here is right, please fix this.”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839536117">FreddyMSchubert/broke-breaker#19</a>: “As far as I can see this function is fully unneces…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/19#discussion_r2839534363">FreddyMSchubert/broke-breaker#19</a>: “This is also true and was broken during the emerge…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850144581">FreddyMSchubert/broke-breaker#36</a>: “I think right now the contrast for the number on t…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850138575">FreddyMSchubert/broke-breaker#36</a>: “Please make these Mon, Tue, Wed, ...”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850137191">FreddyMSchubert/broke-breaker#36</a>: “Please make it so the one-time transaction box has…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850132923">FreddyMSchubert/broke-breaker#36</a>: “This TransactionSectionView thing is great thanks …”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850131204">FreddyMSchubert/broke-breaker#36</a>: “I think these shouldn't be duplicated next to ever…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850118684">FreddyMSchubert/broke-breaker#36</a>: “I think the expense should always have a - in fron…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850117411">FreddyMSchubert/broke-breaker#36</a>: “I think the rollover should only has an explicit s…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850106280">FreddyMSchubert/broke-breaker#36</a>: “I think the distance between the transactions head…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850102789">FreddyMSchubert/broke-breaker#36</a>: “This = should be centered I think it looks weird i…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850101363">FreddyMSchubert/broke-breaker#36</a>: “This box at the bottom is great but I dislike the …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
