@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/37#discussion_r2854459434">FreddyMSchubert/broke-breaker#37</a>: “Intentional for now, no savigns backend yet, this …”</li>
+<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a>: “undefined – ”</li>
 <li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
 <li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850152032">FreddyMSchubert/broke-breaker#36</a>: “I think this number needs a subtitle so everyone k…”</li>
@@ -48,8 +50,6 @@
 <li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850137191">FreddyMSchubert/broke-breaker#36</a>: “Please make it so the one-time transaction box has…”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850132923">FreddyMSchubert/broke-breaker#36</a>: “This TransactionSectionView thing is great thanks …”</li>
 <li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850131204">FreddyMSchubert/broke-breaker#36</a>: “I think these shouldn't be duplicated next to ever…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850118684">FreddyMSchubert/broke-breaker#36</a>: “I think the expense should always have a - in fron…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850117411">FreddyMSchubert/broke-breaker#36</a>: “I think the rollover should only has an explicit s…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
