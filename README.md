@@ -40,16 +40,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a></li>
-<li>💥 Today: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a> without merge</li>
-<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a></li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/37#discussion_r2854459434">FreddyMSchubert/broke-breaker#37</a>: “Intentional for now, no savigns backend yet, this …”</li>
-<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a>: “undefined – ”</li>
-<li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
-<li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850152032">FreddyMSchubert/broke-breaker#36</a>: “I think this number needs a subtitle so everyone k…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850144581">FreddyMSchubert/broke-breaker#36</a>: “I think right now the contrast for the number on t…”</li>
-<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850138575">FreddyMSchubert/broke-breaker#36</a>: “Please make these Mon, Tue, Wed, ...”</li>
+<li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#40</a></li>
+<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#41</a>: “undefined – ”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a></li>
+<li>💥 Yesterday: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a> without merge</li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a></li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/37#discussion_r2854459434">FreddyMSchubert/broke-breaker#37</a>: “Intentional for now, no savigns backend yet, this …”</li>
+<li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a>: “undefined – ”</li>
+<li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
+<li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
+<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/36#discussion_r2850152032">FreddyMSchubert/broke-breaker#36</a>: “I think this number needs a subtitle so everyone k…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
