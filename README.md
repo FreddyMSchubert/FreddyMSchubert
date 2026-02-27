@@ -40,16 +40,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#40</a></li>
-<li>🌕 Today: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#41</a></li>
-<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#41</a>: “undefined – ”</li>
-<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a></li>
-<li>💥 Yesterday: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a> without merge</li>
-<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a></li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/37#discussion_r2854459434">FreddyMSchubert/broke-breaker#37</a>: “Intentional for now, no savigns backend yet, this …”</li>
-<li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a>: “undefined – ”</li>
-<li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
-<li>👍 2 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#40</a></li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#41</a></li>
+<li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#41</a>: “undefined – ”</li>
+<li>👎 2 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a></li>
+<li>💥 2 days ago: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a> without merge</li>
+<li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a></li>
+<li>✍️ 3 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/37#discussion_r2854459434">FreddyMSchubert/broke-breaker#37</a>: “Intentional for now, no savigns backend yet, this …”</li>
+<li>🚀 3 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a>: “undefined – ”</li>
+<li>👍 3 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
+<li>👍 3 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#36</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
