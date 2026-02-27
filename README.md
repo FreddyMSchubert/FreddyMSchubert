@@ -30,7 +30,7 @@
 		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=dd16588ff50b9cdb755875944a539e8ee7f736e7" alt="Monorepo (42core-team/monorepo)" />
 	</a>
 	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=6e44c26f37690d5cdd916165d7e99a335d01b0d5" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=6561591c7393f11df5a95eb5fab71e1af421e345" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
 	</a>
 </div>
 <!-- PINS:RENDERED:END -->
