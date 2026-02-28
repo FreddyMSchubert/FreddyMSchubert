@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why do programmers always mix up Halloween and Christmas?
+<em>Daily random joke: </em><strong>Q:</strong> Why did the document store go out of business?
 
-<strong>A:</strong> Because 31 OCT == 25 DEC
+<strong>A:</strong> It had NoSQL.
 <!-- JOKE:END -->
 </div>
 
