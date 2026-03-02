@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why does the Docker container fail?
-
-<strong>A:</strong> So that, Kubernetes can start it again
+<em>Daily random joke: </em>UNIX is very user friendly... It's just very particular about who its friends are.
 <!-- JOKE:END -->
 </div>
 
