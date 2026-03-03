@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/43#issuecomment-3987624048">FreddyMSchubert/broke-breaker#43</a>: “Okay I think this needs conceptual reworking. @Sen…”</li>
 <li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#40</a></li>
 <li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#40</a></li>
 <li>👎 4 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#40</a></li>
@@ -47,7 +48,6 @@
 <li>💥 5 days ago: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a> without merge</li>
 <li>🌕 5 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a></li>
 <li>✍️ 6 days ago: Commented on PR review <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/37#discussion_r2854459434">FreddyMSchubert/broke-breaker#37</a>: “Intentional for now, no savigns backend yet, this …”</li>
-<li>🚀 6 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#37</a>: “undefined – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
