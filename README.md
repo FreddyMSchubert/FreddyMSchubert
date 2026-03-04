@@ -22,6 +22,7 @@
 <!-- PINS:START -->
 <!-- PIN repo="42core-team/monorepo" title="Monorepo" -->
 <!-- PIN repo="FreddyMSchubert/broke-breaker" title="Broke Breaker" -->
+<!-- PIN repo="FreddyMSchubert/MMU_MCSoc_kubecraft" title="MMU MCSoc KubeCraft" -->
 <!-- PINS:END -->
 
 <!-- PINS:RENDERED:START -->
