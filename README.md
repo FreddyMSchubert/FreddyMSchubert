@@ -41,6 +41,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Today: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#47</a>: “undefined – ”</li>
 <li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#46</a></li>
 <li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#44</a></li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/FreddyMSchubert/broke-breaker/pull/43#issuecomment-3987624048">FreddyMSchubert/broke-breaker#43</a>: “Okay I think this needs conceptual reworking. @Sen…”</li>
@@ -50,7 +51,6 @@
 <li>🌕 6 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#41</a></li>
 <li>🚀 7 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#41</a>: “undefined – ”</li>
 <li>👎 7 days ago: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a></li>
-<li>💥 7 days ago: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#39</a> without merge</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
