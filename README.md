@@ -7,7 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+<em>Daily random joke: </em>An optimist says: “the glass is half full.”<br/>A pessimist says: “the glass is half empty.”<br/>A programmer says: “the glass is twice as large as necessary.
 <!-- JOKE:END -->
 </div>
 
