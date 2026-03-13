@@ -39,16 +39,16 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>👎 Today: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#53</a></li>
-<li>👍 Today: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#54</a></li>
-<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#49</a></li>
-<li>🌕 Yesterday: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#52</a></li>
-<li>🚀 Yesterday: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#52</a>: “undefined – ”</li>
-<li>👍 4 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#51</a></li>
-<li>💥 4 days ago: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#48</a> without merge</li>
-<li>🚀 4 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#49</a>: “undefined – ”</li>
-<li>⚠️ 5 days ago: Opened issue <a href="https://github.com/JSJBDEV/GiveMeHats/issues/35">JSJBDEV/GiveMeHats#35</a>: “crash on 1.21.5 – `[23:03:08] [main/ERROR]: Mixin …”</li>
-<li>🌕 7 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#47</a></li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#53</a></li>
+<li>👍 Yesterday: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#54</a></li>
+<li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#49</a></li>
+<li>🌕 2 days ago: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#52</a></li>
+<li>🚀 2 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#52</a>: “undefined – ”</li>
+<li>👍 5 days ago: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#51</a></li>
+<li>💥 5 days ago: Closed PR <a href="undefined">FreddyMSchubert/broke-breaker#48</a> without merge</li>
+<li>🚀 5 days ago: Opened PR <a href="undefined">FreddyMSchubert/broke-breaker#49</a>: “undefined – ”</li>
+<li>⚠️ 6 days ago: Opened issue <a href="https://github.com/JSJBDEV/GiveMeHats/issues/35">JSJBDEV/GiveMeHats#35</a>: “crash on 1.21.5 – `[23:03:08] [main/ERROR]: Mixin …”</li>
+<li>🌕 06.03.2026: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#47</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
