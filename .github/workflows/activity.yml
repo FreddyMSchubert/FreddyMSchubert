@@ -15,7 +15,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: "FreddyMSchubert"
-          max_items: "10"
+          max_items: "7"
           time_zone: "Europe/Berlin"
           date_format: "DD.MM.YYYY"
           event_templates: >
