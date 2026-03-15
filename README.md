@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>CSS developers have the biggest ego, they think they're so !important
+<em>Daily random joke: </em><strong>Q:</strong> What PostgreSQL library should Python developers use for adult-oriented code?
+
+<strong>A:</strong> psycoPG13
 <!-- JOKE:END -->
 </div>
 
