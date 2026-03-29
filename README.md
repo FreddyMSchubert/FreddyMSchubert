@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>When I wrote this code, only God and I understood what I was doing. Now, only God knows.
+<em>Daily random joke: </em><strong>Q:</strong> What is the biggest lie you have heard from a programmer?
+
+<strong>A:</strong> It should work now.
 <!-- JOKE:END -->
 </div>
 
