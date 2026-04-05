@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>**!false**It's funny 'cause it's true.
+<em>Daily random joke: </em><strong>Q:</strong> Why did 10 get paid less than "10"?
+
+<strong>A:</strong> There was workplace inequality.
 <!-- JOKE:END -->
 </div>
 
