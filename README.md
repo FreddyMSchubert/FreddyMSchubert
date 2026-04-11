@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What did the server say to his client who was having a bad day?
+<em>Daily random joke: </em><strong>Q:</strong> Why doesn't Hollywood make more Big Data movies?
 
-<strong>A:</strong> Everything's going to be 200
+<strong>A:</strong> NoSQL.
 <!-- JOKE:END -->
 </div>
 
