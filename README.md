@@ -46,8 +46,6 @@
 <li>👍 14.03.2026: Approved PR <a href="undefined">42core-team/monorepo#191</a></li>
 <li>👎 13.03.2026: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#53</a></li>
 <li>👍 13.03.2026: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#54</a></li>
-<li>🌕 12.03.2026: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#49</a></li>
-<li>🌕 12.03.2026: Merged PR <a href="undefined">FreddyMSchubert/broke-breaker#52</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
