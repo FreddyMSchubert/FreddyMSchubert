@@ -44,8 +44,6 @@
 <li>👍 17.03.2026: Approved PR <a href="undefined">42core-team/monorepo#195</a></li>
 <li>💬 17.03.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/192#issuecomment-4073944609">42core-team/monorepo#192</a>: “@Reptudn ”</li>
 <li>👍 14.03.2026: Approved PR <a href="undefined">42core-team/monorepo#191</a></li>
-<li>👎 13.03.2026: Requested changes on PR <a href="undefined">FreddyMSchubert/broke-breaker#53</a></li>
-<li>👍 13.03.2026: Approved PR <a href="undefined">FreddyMSchubert/broke-breaker#54</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
