@@ -1,12 +1,17 @@
 {
   "42core-team/monorepo": {
-    "sha": "1059b1c55af9069d5ece0157107997d8a484b99a",
-    "title": "Monorepo",
+    "sha": "edd5b9b564d20248c32bd19be99c88824a1436ef",
+    "title": "Core Game (Monorepo)",
     "file": "profile/pins/42core-team__monorepo.svg"
   },
   "FreddyMSchubert/broke-breaker": {
-    "sha": "caaef44016cee9de4f993b67cb4324f4e7bf8b2f",
+    "sha": "9e35c04af6446cfeaa680a97356e20c2f41e80d9",
     "title": "Broke Breaker",
     "file": "profile/pins/FreddyMSchubert__broke-breaker.svg"
+  },
+  "FreddyMSchubert/42_cursus": {
+    "sha": "db31421a9d36e3dc4e05d5b9bae00efdc2d7e844",
+    "title": "42 Cursus",
+    "file": "profile/pins/FreddyMSchubert__42_cursus.svg"
   }
 }

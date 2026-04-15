@@ -26,13 +26,13 @@
 <!-- PINS:RENDERED:START -->
 <div align="center">
 	<a href="https://github.com/42core-team/monorepo" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=1059b1c55af9069d5ece0157107997d8a484b99a" alt="Monorepo (42core-team/monorepo)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=edd5b9b564d20248c32bd19be99c88824a1436ef" alt="Core Game (Monorepo) (42core-team/monorepo)" />
 	</a>
 	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=caaef44016cee9de4f993b67cb4324f4e7bf8b2f" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=9e35c04af6446cfeaa680a97356e20c2f41e80d9" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
 	</a>
 	<a href="https://github.com/FreddyMSchubert/42_cursus" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/42_cursus/main/profile/pins/FreddyMSchubert__42_cursus.svg" alt="42 Cursus (FreddyMSchubert/42_cursus)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__42_cursus.svg?v=db31421a9d36e3dc4e05d5b9bae00efdc2d7e844" alt="42 Cursus (FreddyMSchubert/42_cursus)" />
 	</a>
 </div>
 <!-- PINS:RENDERED:END -->
