@@ -31,6 +31,9 @@
 	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=caaef44016cee9de4f993b67cb4324f4e7bf8b2f" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
 	</a>
+	<a href="https://github.com/FreddyMSchubert/42_cursus" target="_blank">
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/42_cursus/main/profile/pins/FreddyMSchubert__42_cursus.svg" alt="42 Cursus (FreddyMSchubert/42_cursus)" />
+	</a>
 </div>
 <!-- PINS:RENDERED:END -->
 
