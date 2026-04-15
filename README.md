@@ -18,9 +18,9 @@
 ### Currently working on...
 
 <!-- PINS:START -->
-<!-- PIN repo="42core-team/monorepo" title="Monorepo" -->
+<!-- PIN repo="42core-team/monorepo" title="Core Game (Monorepo)" -->
 <!-- PIN repo="FreddyMSchubert/broke-breaker" title="Broke Breaker" -->
-<!-- PIN repo="FreddyMSchubert/MMU_MCSoc_kubecraft" title="MMU MCSoc KubeCraft" -->
+<!-- PIN repo="FreddyMSchubert/42_cursus" title="42 Cursus" -->
 <!-- PINS:END -->
 
 <!-- PINS:RENDERED:START -->
