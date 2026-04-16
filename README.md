@@ -42,9 +42,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/188#issuecomment-4253722056">42core-team/monorepo#188</a>: “Unlikely to ever be merged, let's just keep the br…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/203">42core-team/monorepo#203</a>: “make stop in the devcontainer throws an error – ##…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/203#issuecomment-4250886940">42core-team/monorepo#203</a>: “I mean when there's nothing to stop it can't stop …”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/188#issuecomment-4253722056">42core-team/monorepo#188</a>: “Unlikely to ever be merged, let's just keep the br…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/203">42core-team/monorepo#203</a>: “make stop in the devcontainer throws an error – ##…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/203#issuecomment-4250886940">42core-team/monorepo#203</a>: “I mean when there's nothing to stop it can't stop …”</li>
 <li>👍 17.03.2026: Approved PR <a href="undefined">42core-team/monorepo#195</a></li>
 <li>💥 22.02.2026: Closed PR <a href="undefined">42core-team/monorepo#188</a> without merge</li>
 <!-- ACTIVITY:END -->
