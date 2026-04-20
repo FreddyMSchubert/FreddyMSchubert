@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What sits on a pirate's shoulder and calls, "Pieces of seven, Pieces of seven"?
-
-<strong>A:</strong> Parroty error.
+<em>Daily random joke: </em>If it weren't for C, we'd all be programming in BASI and OBOL
 <!-- JOKE:END -->
 </div>
 
