@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>Dev 1 -  We have a problem. Dev 2 -  Let’s use RegEx! Dev 1 -  Now we have two problems
+<em>Daily random joke: </em><strong>Q:</strong> How did the developer announce their engagement?
+
+<strong>A:</strong> They <code>return</code>ed <code>true</code>!
 <!-- JOKE:END -->
 </div>
 
