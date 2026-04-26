@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> How did the developer announce their engagement?
+<em>Daily random joke: </em><strong>Q:</strong> Why did the developer quit his job?
 
-<strong>A:</strong> They <code>return</code>ed <code>true</code>!
+<strong>A:</strong> He did not get arrays.
 <!-- JOKE:END -->
 </div>
 
