@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What do you get when you cross a computer with an elephant?
-
-<strong>A:</strong> Lots of memory!
+<em>Daily random joke: </em>I put so much more effort into naming my first Wi-Fi than my first child.
 <!-- JOKE:END -->
 </div>
 
