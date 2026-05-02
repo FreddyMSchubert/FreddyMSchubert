@@ -44,11 +44,11 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/208">42core-team/monorepo#208</a>: “dynamic balanced config pulling – as to not give a…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/148">42core-team/monorepo#148</a>: “🤗 Add links to wiki pages when an action fails – …”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/149">42core-team/monorepo#149</a>: “🤗 Formatting in user bots – ### Add a description…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/207">42core-team/monorepo#207</a>: “Debuff Tank-like builds – To avoid tank like build…”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/206#issuecomment-4350439109">42core-team/monorepo#206</a>: “He means no walls bordering the edge of the game g…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/208">42core-team/monorepo#208</a>: “dynamic balanced config pulling – as to not give a…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/148">42core-team/monorepo#148</a>: “🤗 Add links to wiki pages when an action fails – …”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/149">42core-team/monorepo#149</a>: “🤗 Formatting in user bots – ### Add a description…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/207">42core-team/monorepo#207</a>: “Debuff Tank-like builds – To avoid tank like build…”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/206#issuecomment-4350439109">42core-team/monorepo#206</a>: “He means no walls bordering the edge of the game g…”</li>
 <li>👍 17.04.2026: Approved PR <a href="undefined">42core-team/monorepo#204</a></li>
 <li>💬 15.04.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/188#issuecomment-4253722056">42core-team/monorepo#188</a>: “Unlikely to ever be merged, let's just keep the br…”</li>
 <!-- ACTIVITY:END -->
