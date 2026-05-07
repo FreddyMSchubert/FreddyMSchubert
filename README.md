@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> You know what the best thing about booleans is?
+<em>Daily random joke: </em><strong>Q:</strong> Why do all HTML emails get blocked?
 
-<strong>A:</strong> Even if you are wrong, you are only off by a bit.
+<strong>A:</strong> Because they are all <code>span</code>
 <!-- JOKE:END -->
 </div>
 
