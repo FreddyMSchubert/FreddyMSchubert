@@ -44,11 +44,11 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/206#issuecomment-4367289191">42core-team/monorepo#206</a>: “is done will be closed once components branch is m…”</li>
-<li>⚠️ 6 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/208">42core-team/monorepo#208</a>: “dynamic balanced config pulling – as to not give a…”</li>
-<li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/148">42core-team/monorepo#148</a>: “🤗 Add links to wiki pages when an action fails – …”</li>
-<li>✅ 6 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/149">42core-team/monorepo#149</a>: “🤗 Formatting in user bots – ### Add a description…”</li>
-<li>⚠️ 6 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/207">42core-team/monorepo#207</a>: “Debuff Tank-like builds – To avoid tank like build…”</li>
+<li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/206#issuecomment-4367289191">42core-team/monorepo#206</a>: “is done will be closed once components branch is m…”</li>
+<li>⚠️ 7 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/208">42core-team/monorepo#208</a>: “dynamic balanced config pulling – as to not give a…”</li>
+<li>✅ 7 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/148">42core-team/monorepo#148</a>: “🤗 Add links to wiki pages when an action fails – …”</li>
+<li>✅ 7 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/149">42core-team/monorepo#149</a>: “🤗 Formatting in user bots – ### Add a description…”</li>
+<li>⚠️ 7 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/207">42core-team/monorepo#207</a>: “Debuff Tank-like builds – To avoid tank like build…”</li>
 <li>💬 30.04.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/206#issuecomment-4350439109">42core-team/monorepo#206</a>: “He means no walls bordering the edge of the game g…”</li>
 <li>👍 17.04.2026: Approved PR <a href="undefined">42core-team/monorepo#204</a></li>
 <!-- ACTIVITY:END -->
