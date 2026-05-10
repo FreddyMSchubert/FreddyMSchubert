@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> How do you comfort a JS bug?
+<em>Daily random joke: </em><strong>Q:</strong> You know what the best thing about booleans is?
 
-<strong>A:</strong> You console it
+<strong>A:</strong> Even if you are wrong, you are only off by a bit.
 <!-- JOKE:END -->
 </div>
 
