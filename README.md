@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>What's the best tool for automatically ignoring long email threads about tech buzzwords?""Block-chain"
+<em>Daily random joke: </em><strong>Q:</strong> Why can't you use 'Soup' as your password?
+
+<strong>A:</strong> Because it isn't <code>stroganoff</code>
 <!-- JOKE:END -->
 </div>
 
