@@ -62,7 +62,7 @@ Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/g
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/lang-stats-26205422749.svg">
-	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/stats/assets/streak-stats-26142194220.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/stats/assets/streak-stats-26206386037.svg">
 </div>
 
 <hr>
