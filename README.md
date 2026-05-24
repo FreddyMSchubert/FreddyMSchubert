@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What advice do you give to a JS developer who has never played baseball?
+<em>Daily random joke: </em><strong>Q:</strong> Why did the developer cancel their dinner plans?
 
-<strong>A:</strong> Try catch.
+<strong>A:</strong> They were unable to fulfil peer dependencies
 <!-- JOKE:END -->
 </div>
 
