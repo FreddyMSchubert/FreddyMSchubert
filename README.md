@@ -59,11 +59,11 @@ Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/g
 <hr>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/general-stats-26351823720.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/general-stats-26383208194.svg">
 </div>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/lang-stats-26351823720.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/lang-stats-26383208194.svg">
 	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/stats/assets/streak-stats-26352338108.svg">
 </div>
 
