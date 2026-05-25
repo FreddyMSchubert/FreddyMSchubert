@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why did the developer cancel their dinner plans?
+<em>Daily random joke: </em><strong>Q:</strong> How do programming shepherds count their flock?
 
-<strong>A:</strong> They were unable to fulfil peer dependencies
+<strong>A:</strong> With lambda functions
 <!-- JOKE:END -->
 </div>
 
