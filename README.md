@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What is the biggest lie you have heard from a programmer?
+<em>Daily random joke: </em><strong>Q:</strong> A SQL developer walked into a NoSQL bar.
 
-<strong>A:</strong> It should work now.
+<strong>A:</strong> They left because they couldn't find a table.
 <!-- JOKE:END -->
 </div>
 
