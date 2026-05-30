@@ -49,7 +49,6 @@
 <li>✅ 02.05.2026: Closed issue <a href="https://github.com/42core-team/monorepo/issues/148">42core-team/monorepo#148</a>: “🤗 Add links to wiki pages when an action fails – …”</li>
 <li>✅ 02.05.2026: Closed issue <a href="https://github.com/42core-team/monorepo/issues/149">42core-team/monorepo#149</a>: “🤗 Formatting in user bots – ### Add a description…”</li>
 <li>⚠️ 02.05.2026: Opened issue <a href="https://github.com/42core-team/monorepo/issues/207">42core-team/monorepo#207</a>: “Debuff Tank-like builds – To avoid tank like build…”</li>
-<li>💬 30.04.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/206#issuecomment-4350439109">42core-team/monorepo#206</a>: “He means no walls bordering the edge of the game g…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
