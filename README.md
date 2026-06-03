@@ -44,7 +44,6 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 04.05.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/206#issuecomment-4367289191">42core-team/monorepo#206</a>: “is done will be closed once components branch is m…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
