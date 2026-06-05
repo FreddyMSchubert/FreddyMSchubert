@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><code>[Please Enter New Password]</code><p>fortnight</p><code>[Error: Password is Two Week]</code>
+<em>Daily random joke: </em><strong>Q:</strong> What do you call a computer that sings?
+
+<strong>A:</strong> A-dell.
 <!-- JOKE:END -->
 </div>
 
