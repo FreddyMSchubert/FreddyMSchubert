@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why do developers mixup Terminals and Polygraphs?
+<em>Daily random joke: </em><strong>Q:</strong> Where do all the cool mice live?
 
-<strong>A:</strong> Because they both can see a lie (CLI)
+<strong>A:</strong> In their mousepads!
 <!-- JOKE:END -->
 </div>
 
