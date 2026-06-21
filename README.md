@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> How did the mafioso kill the Node server?
+<em>Daily random joke: </em><strong>Q:</strong> Why shouldn't you trust Matlab developers?
 
-<strong>A:</strong> Tie await to it and let it async.
+<strong>A:</strong> Because they're always plotting something.
 <!-- JOKE:END -->
 </div>
 
