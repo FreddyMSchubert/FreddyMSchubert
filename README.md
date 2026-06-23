@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> How does a developer make a cheer?
-
-<strong>A:</strong> ["hip","hip"] // (hip hip array!)
+<em>Daily random joke: </em>When an Apple employees dies, does their life HTML5 in front of their eyes?
 <!-- JOKE:END -->
 </div>
 
