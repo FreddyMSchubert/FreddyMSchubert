@@ -44,7 +44,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🚀 2 days ago: Opened PR <a href="undefined">42core-team/monorepo#210</a>: “undefined – ”</li>
+<li>🚀 3 days ago: Opened PR <a href="undefined">42core-team/monorepo#210</a>: “undefined – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
