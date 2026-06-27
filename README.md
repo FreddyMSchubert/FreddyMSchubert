@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why are the arrays that Chuck Norris declare, of infinite size.
-
-<strong>A:</strong> Because Chuck Norris knows no bounds.
+<em>Daily random joke: </em>An SEO couple had twins. For the first time, they were happy with duplicate content.
 <!-- JOKE:END -->
 </div>
 
