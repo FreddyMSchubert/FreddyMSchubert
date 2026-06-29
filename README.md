@@ -28,7 +28,7 @@
 <!-- PINS:RENDERED:START -->
 <div align="center">
 	<a href="https://github.com/42core-team/monorepo" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=b718d905d3c4f426af345b11d634eb2492c61edd" alt="Core Game (Monorepo) (42core-team/monorepo)" />
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=e0cb08d6a3889e9ff0ef512b0cdb2fe1dcba5c98" alt="Core Game (Monorepo) (42core-team/monorepo)" />
 	</a>
 	<a href="https://github.com/FreddyMSchubert/broke-breaker" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__broke-breaker.svg?v=9e35c04af6446cfeaa680a97356e20c2f41e80d9" alt="Broke Breaker (FreddyMSchubert/broke-breaker)" />
