@@ -44,10 +44,12 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🌕 3 days ago: Merged PR <a href="undefined">42core-team/monorepo#211</a></li>
-<li>🚀 3 days ago: Opened PR <a href="undefined">42core-team/monorepo#211</a>: “undefined – ”</li>
-<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/206">42core-team/monorepo#206</a>: “Softcore: no walls on the outside so units do not …”</li>
-<li>🌕 3 days ago: Merged PR <a href="undefined">42core-team/monorepo#210</a></li>
+<li>🌕 Yesterday: Merged PR <a href="undefined">42core-team/website#702</a></li>
+<li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/website#702</a>: “undefined – ”</li>
+<li>🌕 4 days ago: Merged PR <a href="undefined">42core-team/monorepo#211</a></li>
+<li>🚀 4 days ago: Opened PR <a href="undefined">42core-team/monorepo#211</a>: “undefined – ”</li>
+<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/206">42core-team/monorepo#206</a>: “Softcore: no walls on the outside so units do not …”</li>
+<li>🌕 4 days ago: Merged PR <a href="undefined">42core-team/monorepo#210</a></li>
 <li>🚀 22.06.2026: Opened PR <a href="undefined">42core-team/monorepo#210</a>: “undefined – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
