@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-4862646128">42core-team/monorepo#163</a>: “@Peu77 please this has been open for 7 months”</li>
-<li>🌕 Yesterday: Merged PR <a href="undefined">42core-team/website#702</a></li>
-<li>🚀 Yesterday: Opened PR <a href="undefined">42core-team/website#702</a>: “undefined – ”</li>
-<li>🌕 4 days ago: Merged PR <a href="undefined">42core-team/monorepo#211</a></li>
-<li>🚀 4 days ago: Opened PR <a href="undefined">42core-team/monorepo#211</a>: “undefined – ”</li>
-<li>✅ 4 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/206">42core-team/monorepo#206</a>: “Softcore: no walls on the outside so units do not …”</li>
-<li>🌕 4 days ago: Merged PR <a href="undefined">42core-team/monorepo#210</a></li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4868833493">42core-team/monorepo#216</a>: “Furthermore, make it so when removing a component …”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/216">42core-team/monorepo#216</a>: “On website, add details to the alerts – to say som…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/215">42core-team/monorepo#215</a>: “Add a totalDamage manual var to the config conditi…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/215">42core-team/monorepo#215</a>: “Add a totalDamage manual var to the config conditi…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/213#issuecomment-4868203072">42core-team/monorepo#213</a>: “It is hereby defined to be 20 so we can keep balan…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/214">42core-team/monorepo#214</a>: “Every hit does at least 1 damage – no matter the a…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/213">42core-team/monorepo#213</a>: “Base Unit Cost – Yeah spawning 0 cost units is pro…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
