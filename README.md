@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What did JavaScript call his son?
+<em>Daily random joke: </em><strong>Q:</strong> Why did the constant break up with the variable?
 
-<strong>A:</strong> JSON!
+<strong>A:</strong> Because they changed.
 <!-- JOKE:END -->
 </div>
 
