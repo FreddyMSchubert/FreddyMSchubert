@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/214#issuecomment-4869361376">42core-team/monorepo#214</a>: “and the armor calculation always rounds up”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4868833493">42core-team/monorepo#216</a>: “Furthermore, make it so when removing a component …”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/216">42core-team/monorepo#216</a>: “On website, add details to the alerts – to say som…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/215">42core-team/monorepo#215</a>: “Add a totalDamage manual var to the config conditi…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/215">42core-team/monorepo#215</a>: “Add a totalDamage manual var to the config conditi…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/213#issuecomment-4868203072">42core-team/monorepo#213</a>: “It is hereby defined to be 20 so we can keep balan…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/214">42core-team/monorepo#214</a>: “Every hit does at least 1 damage – no matter the a…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/214#issuecomment-4869361376">42core-team/monorepo#214</a>: “and the armor calculation always rounds up”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4868833493">42core-team/monorepo#216</a>: “Furthermore, make it so when removing a component …”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/216">42core-team/monorepo#216</a>: “On website, add details to the alerts – to say som…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/215">42core-team/monorepo#215</a>: “Add a totalDamage manual var to the config conditi…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/215">42core-team/monorepo#215</a>: “Add a totalDamage manual var to the config conditi…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/213#issuecomment-4868203072">42core-team/monorepo#213</a>: “It is hereby defined to be 20 so we can keep balan…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/214">42core-team/monorepo#214</a>: “Every hit does at least 1 damage – no matter the a…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
