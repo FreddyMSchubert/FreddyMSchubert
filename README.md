@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/214#issuecomment-4874645915">42core-team/monorepo#214</a>: “Ensure armor percentage above 100% is handled grac…”</li>
-<li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#217</a></li>
-<li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#217</a></li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518091267">42core-team/monorepo#217</a>: “This should be a minimum of 1 instead”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518089269">42core-team/monorepo#217</a>: “Not what I meant when I asked you to please make t…”</li>
-<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518083241">42core-team/monorepo#217</a>: “Let's keep the naming in line with the preexisting…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/214#issuecomment-4869361376">42core-team/monorepo#214</a>: “and the armor calculation always rounds up”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/214#issuecomment-4874645915">42core-team/monorepo#214</a>: “Ensure armor percentage above 100% is handled grac…”</li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">42core-team/monorepo#217</a></li>
+<li>👎 Yesterday: Requested changes on PR <a href="undefined">42core-team/monorepo#217</a></li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518091267">42core-team/monorepo#217</a>: “This should be a minimum of 1 instead”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518089269">42core-team/monorepo#217</a>: “Not what I meant when I asked you to please make t…”</li>
+<li>✍️ Yesterday: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518083241">42core-team/monorepo#217</a>: “Let's keep the naming in line with the preexisting…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/214#issuecomment-4869361376">42core-team/monorepo#214</a>: “and the armor calculation always rounds up”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
