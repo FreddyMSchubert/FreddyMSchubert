@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why did the constant break up with the variable?
+<em>Daily random joke: </em><strong>Q:</strong> Did you hear about the programmer that was scared of IDEs?
 
-<strong>A:</strong> Because they changed.
+<strong>A:</strong> They retreated back into their shell
 <!-- JOKE:END -->
 </div>
 
