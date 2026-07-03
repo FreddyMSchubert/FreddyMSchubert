@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#217</a></li>
+<li>👎 Today: Requested changes on PR <a href="undefined">42core-team/monorepo#217</a></li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518091267">42core-team/monorepo#217</a>: “This should be a minimum of 1 instead”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518089269">42core-team/monorepo#217</a>: “Not what I meant when I asked you to please make t…”</li>
+<li>✍️ Today: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518083241">42core-team/monorepo#217</a>: “Let's keep the naming in line with the preexisting…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/214#issuecomment-4869361376">42core-team/monorepo#214</a>: “and the armor calculation always rounds up”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4868833493">42core-team/monorepo#216</a>: “Furthermore, make it so when removing a component …”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/216">42core-team/monorepo#216</a>: “On website, add details to the alerts – to say som…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/215">42core-team/monorepo#215</a>: “Add a totalDamage manual var to the config conditi…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/215">42core-team/monorepo#215</a>: “Add a totalDamage manual var to the config conditi…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/213#issuecomment-4868203072">42core-team/monorepo#213</a>: “It is hereby defined to be 20 so we can keep balan…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/214">42core-team/monorepo#214</a>: “Every hit does at least 1 damage – no matter the a…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
