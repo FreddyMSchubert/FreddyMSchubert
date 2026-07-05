@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/214">42core-team/monorepo#214</a>: “Every hit does at least 1 damage – no matter the a…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/213">42core-team/monorepo#213</a>: “Base Unit Cost – Yeah spawning 0 cost units is pro…”</li>
 <li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/214#issuecomment-4874645915">42core-team/monorepo#214</a>: “Ensure armor percentage above 100% is handled grac…”</li>
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">42core-team/monorepo#217</a></li>
 <li>👎 2 days ago: Requested changes on PR <a href="undefined">42core-team/monorepo#217</a></li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518091267">42core-team/monorepo#217</a>: “This should be a minimum of 1 instead”</li>
 <li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518089269">42core-team/monorepo#217</a>: “Not what I meant when I asked you to please make t…”</li>
-<li>✍️ 2 days ago: Commented on PR review <a href="https://github.com/42core-team/monorepo/pull/217#discussion_r3518083241">42core-team/monorepo#217</a>: “Let's keep the naming in line with the preexisting…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
