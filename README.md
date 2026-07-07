@@ -42,13 +42,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895550599">42core-team/monorepo#216</a>: “And hide properties not modified by any of the com…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895545384">42core-team/monorepo#216</a>: “And implement baseUnitCost”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/207#issuecomment-4889492047">42core-team/monorepo#207</a>: “Added in https://github.com/42core-team/monorepo/c…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/207">42core-team/monorepo#207</a>: “Debuff Tank-like builds – To avoid tank like build…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/169#issuecomment-4889282100">42core-team/monorepo#169</a>: “Variance was just removed at some point hahaha idk”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/169">42core-team/monorepo#169</a>: “gem pile variance too high on softcore config? – #…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/214">42core-team/monorepo#214</a>: “Every hit does at least 1 damage – no matter the a…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895550599">42core-team/monorepo#216</a>: “And hide properties not modified by any of the com…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895545384">42core-team/monorepo#216</a>: “And implement baseUnitCost”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/207#issuecomment-4889492047">42core-team/monorepo#207</a>: “Added in https://github.com/42core-team/monorepo/c…”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/207">42core-team/monorepo#207</a>: “Debuff Tank-like builds – To avoid tank like build…”</li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/169#issuecomment-4889282100">42core-team/monorepo#169</a>: “Variance was just removed at some point hahaha idk”</li>
+<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/169">42core-team/monorepo#169</a>: “gem pile variance too high on softcore config? – #…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/214">42core-team/monorepo#214</a>: “Every hit does at least 1 damage – no matter the a…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
