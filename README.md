@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>Debugging: Removing the needles from the haystack.
+<em>Daily random joke: </em><strong>Q:</strong> What is a computer virus?
+
+<strong>A:</strong> A terminal illness!
 <!-- JOKE:END -->
 </div>
 
