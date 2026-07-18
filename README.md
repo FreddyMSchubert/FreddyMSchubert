@@ -44,9 +44,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/219">42core-team/monorepo#219</a>: “gridmaster errors printing in terminal in my core …”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/219">42core-team/monorepo#219</a>: “gridmaster errors printing in terminal in my core …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5011007417">42core-team/monorepo#163</a>: “@Peu77 ”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/219">42core-team/monorepo#219</a>: “gridmaster errors printing in terminal in my core …”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/219">42core-team/monorepo#219</a>: “gridmaster errors printing in terminal in my core …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5011007417">42core-team/monorepo#163</a>: “@Peu77 ”</li>
 <li>💬 06.07.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895550599">42core-team/monorepo#216</a>: “And hide properties not modified by any of the com…”</li>
 <li>💬 06.07.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895545384">42core-team/monorepo#216</a>: “And implement baseUnitCost”</li>
 <li>💬 06.07.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/207#issuecomment-4889492047">42core-team/monorepo#207</a>: “Added in https://github.com/42core-team/monorepo/c…”</li>
