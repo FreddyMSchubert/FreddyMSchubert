@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/219">42core-team/monorepo#219</a>: “gridmaster errors printing in terminal in my core …”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5011007417">42core-team/monorepo#163</a>: “@Peu77 ”</li>
 <li>💬 06.07.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895550599">42core-team/monorepo#216</a>: “And hide properties not modified by any of the com…”</li>
 <li>💬 06.07.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895545384">42core-team/monorepo#216</a>: “And implement baseUnitCost”</li>
 <li>💬 06.07.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/207#issuecomment-4889492047">42core-team/monorepo#207</a>: “Added in https://github.com/42core-team/monorepo/c…”</li>
 <li>✅ 06.07.2026: Closed issue <a href="https://github.com/42core-team/monorepo/issues/207">42core-team/monorepo#207</a>: “Debuff Tank-like builds – To avoid tank like build…”</li>
 <li>💬 06.07.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/169#issuecomment-4889282100">42core-team/monorepo#169</a>: “Variance was just removed at some point hahaha idk”</li>
-<li>✅ 06.07.2026: Closed issue <a href="https://github.com/42core-team/monorepo/issues/169">42core-team/monorepo#169</a>: “gem pile variance too high on softcore config? – #…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
