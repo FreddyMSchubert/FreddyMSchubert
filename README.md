@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/226">42core-team/monorepo#226</a>: “rename max balance property to max gems – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/225">42core-team/monorepo#225</a>: “ensure -1 for transfer gems works – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/224">42core-team/monorepo#224</a>: “core_get_units_by_name should be specific to your …”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/223">42core-team/monorepo#223</a>: “auto save & correct plugins for c autocompelte in …”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/222">42core-team/monorepo#222</a>: “c lib make max balance and gems same int type, stu…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/221">42core-team/monorepo#221</a>: “core_get_units_by_name_count – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/220">42core-team/monorepo#220</a>: “Gems collectable by walking over them – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/171">42core-team/monorepo#171</a>: “Action Cooldowns still kinda dont work – ### Bug D…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5015634615">42core-team/monorepo#163</a>: “@Peu77 Deleting accurate information for propagand…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/220#issuecomment-5015610712">42core-team/monorepo#220</a>: “no”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/220">42core-team/monorepo#220</a>: “Gems collectable by walking over them – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/220">42core-team/monorepo#220</a>: “Gems collectable by walking over them – ”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-5015432939">42core-team/monorepo#216</a>: “https://github.com/42core-team/website/commit/938a…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
