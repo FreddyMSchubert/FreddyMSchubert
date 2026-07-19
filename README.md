@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/227">42core-team/monorepo#227</a>: “path debug support for dijkstra – ”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/225#issuecomment-5016541913">42core-team/monorepo#225</a>: “it does 👍”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/225">42core-team/monorepo#225</a>: “ensure -1 for transfer gems works – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/226">42core-team/monorepo#226</a>: “rename max balance property to max gems – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/225">42core-team/monorepo#225</a>: “ensure -1 for transfer gems works – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/224">42core-team/monorepo#224</a>: “core_get_units_by_name should be specific to your …”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/223">42core-team/monorepo#223</a>: “auto save & correct plugins for c autocompelte in …”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/222">42core-team/monorepo#222</a>: “c lib make max balance and gems same int type, stu…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/42core-team/monorepo/issues/221">42core-team/monorepo#221</a>: “core_get_units_by_name_count – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/220">42core-team/monorepo#220</a>: “Gems collectable by walking over them – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
