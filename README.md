@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-5015432939">42core-team/monorepo#216</a>: “https://github.com/42core-team/website/commit/938a…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/216">42core-team/monorepo#216</a>: “On website, add details to the alerts – to say som…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/208#issuecomment-5015241349">42core-team/monorepo#208</a>: “https://github.com/42core-team/monorepo/commit/e82…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/208">42core-team/monorepo#208</a>: “dynamic balanced config pulling – as to not give a…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5015234872">42core-team/monorepo#163</a>: “@Peu77 ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/219">42core-team/monorepo#219</a>: “gridmaster errors printing in terminal in my core …”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/monorepo/issues/219">42core-team/monorepo#219</a>: “gridmaster errors printing in terminal in my core …”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5011007417">42core-team/monorepo#163</a>: “@Peu77 ”</li>
-<li>💬 06.07.2026: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/216#issuecomment-4895550599">42core-team/monorepo#216</a>: “And hide properties not modified by any of the com…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
