@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> I'm starting a band called HTML Encoder
+<em>Daily random joke: </em><strong>Q:</strong> Why did the developer have to quit smoking?
 
-<strong>A:</strong> Looking to buy a guitar \&
+<strong>A:</strong> Because they couldn't afford to pay the new syntax.
 <!-- JOKE:END -->
 </div>
 
