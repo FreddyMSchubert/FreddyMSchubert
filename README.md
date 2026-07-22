@@ -42,13 +42,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5050270321">42core-team/monorepo#163</a>: “@Peu77 Wait i still gotta implement the visualizer…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5043600082">42core-team/monorepo#163</a>: “@Peu77 ”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/227">42core-team/monorepo#227</a>: “path debug support for dijkstra – ”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/226">42core-team/monorepo#226</a>: “rename max balance property to max gems – ”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/222">42core-team/monorepo#222</a>: “c lib make max balance and gems same int type, stu…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/221">42core-team/monorepo#221</a>: “core_get_units_by_name_count – ”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/224">42core-team/monorepo#224</a>: “core_get_units_by_name should be specific to your …”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5050270321">42core-team/monorepo#163</a>: “@Peu77 Wait i still gotta implement the visualizer…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5043600082">42core-team/monorepo#163</a>: “@Peu77 ”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/227">42core-team/monorepo#227</a>: “path debug support for dijkstra – ”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/226">42core-team/monorepo#226</a>: “rename max balance property to max gems – ”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/222">42core-team/monorepo#222</a>: “c lib make max balance and gems same int type, stu…”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/221">42core-team/monorepo#221</a>: “core_get_units_by_name_count – ”</li>
+<li>✅ 3 days ago: Closed issue <a href="https://github.com/42core-team/monorepo/issues/224">42core-team/monorepo#224</a>: “core_get_units_by_name should be specific to your …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
