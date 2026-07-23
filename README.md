@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>Lisp programmers don't make prank calls. They make <code>FUNCALL</code>s
+<em>Daily random joke: </em><strong>Q:</strong> Why was the computer freezing?
+
+<strong>A:</strong> It left its Windows open!
 <!-- JOKE:END -->
 </div>
 
