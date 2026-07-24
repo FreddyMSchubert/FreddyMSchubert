@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why was the computer freezing?
-
-<strong>A:</strong> It left its Windows open!
+<em>Daily random joke: </em>Chuck Norris can take a screenshot of his blue screen.
 <!-- JOKE:END -->
 </div>
 
