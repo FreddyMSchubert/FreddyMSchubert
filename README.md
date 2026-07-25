@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/228">42core-team/monorepo#228</a>: “Force disconnect the opponent – ### Bug Descriptio…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/223#issuecomment-5079028615">42core-team/monorepo#223</a>: “done. just forgot to close”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/42core-team/monorepo/issues/223">42core-team/monorepo#223</a>: “auto save & correct plugins for c autocompelte in …”</li>
-<li>👍 Today: Approved PR <a href="undefined">42core-team/website#717</a></li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5055872059">42core-team/monorepo#163</a>: “@Peu77 ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5055870825">42core-team/monorepo#163</a>: “can you please just give every match a way of diff…”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5050270321">42core-team/monorepo#163</a>: “@Peu77 Wait i still gotta implement the visualizer…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/website/pull/719#issuecomment-5080696379">42core-team/website#719</a>: “@coderabbitai review”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/228">42core-team/monorepo#228</a>: “Force disconnect the opponent – ### Bug Descriptio…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/223#issuecomment-5079028615">42core-team/monorepo#223</a>: “done. just forgot to close”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/42core-team/monorepo/issues/223">42core-team/monorepo#223</a>: “auto save & correct plugins for c autocompelte in …”</li>
+<li>👍 Yesterday: Approved PR <a href="undefined">42core-team/website#717</a></li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5055872059">42core-team/monorepo#163</a>: “@Peu77 ”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5055870825">42core-team/monorepo#163</a>: “can you please just give every match a way of diff…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
