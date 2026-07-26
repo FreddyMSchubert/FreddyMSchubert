@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why was the developer unable to find his room?
+<em>Daily random joke: </em><strong>Q:</strong> How do you tell HTML from HTML5?
 
-<strong>A:</strong> His room card said 404
+<strong>A:</strong> Try it out in Internet Explorer, if it does not work then it's HTML5.
 <!-- JOKE:END -->
 </div>
 
