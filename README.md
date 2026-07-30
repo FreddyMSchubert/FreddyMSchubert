@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5120753325">42core-team/monorepo#163</a>: “@Peu77 ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5100529748">42core-team/monorepo#163</a>: “@Peu77 ”</li>
-<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/230">42core-team/monorepo#230</a>: “reworked visualizer visuals – ### Feature Summary …”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/162#issuecomment-5082804045">42core-team/monorepo#162</a>: “Or just make it better in safari 🥲 idk maybe doin…”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/168#issuecomment-5082797525">42core-team/monorepo#168</a>: “Might be possible - grid needs to be the max size …”</li>
-<li>⚠️ 4 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/229">42core-team/monorepo#229</a>: “live visualizer streaming – ### Feature Summary  W…”</li>
-<li>👍 4 days ago: Approved PR <a href="undefined">42core-team/website#721</a></li>
+<li>💬 2 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5120753325">42core-team/monorepo#163</a>: “@Peu77 ”</li>
+<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5100529748">42core-team/monorepo#163</a>: “@Peu77 ”</li>
+<li>⚠️ 5 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/230">42core-team/monorepo#230</a>: “reworked visualizer visuals – ### Feature Summary …”</li>
+<li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/162#issuecomment-5082804045">42core-team/monorepo#162</a>: “Or just make it better in safari 🥲 idk maybe doin…”</li>
+<li>💬 5 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/168#issuecomment-5082797525">42core-team/monorepo#168</a>: “Might be possible - grid needs to be the max size …”</li>
+<li>⚠️ 5 days ago: Opened issue <a href="https://github.com/42core-team/monorepo/issues/229">42core-team/monorepo#229</a>: “live visualizer streaming – ### Feature Summary  W…”</li>
+<li>👍 5 days ago: Approved PR <a href="undefined">42core-team/website#721</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
