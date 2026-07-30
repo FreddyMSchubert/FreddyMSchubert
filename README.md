@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What do you get when you cross a computer and a life guard?
+<em>Daily random joke: </em><strong>Q:</strong> Did you hear about the witch who was off by two when casting a hex?
 
-<strong>A:</strong> A screensaver!
+<strong>A:</strong> They failed to make the target DEAD and made them DEAF instead!
 <!-- JOKE:END -->
 </div>
 
