@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/13#issuecomment-5150737351">FreddyMSchubert/MMU_MCSoc_kubecraft#13</a>: “and display deaths + totem pops count that could b…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/1#issuecomment-5150735404">FreddyMSchubert/MMU_MCSoc_kubecraft#1</a>: “dont foresee this happening lol”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/1">FreddyMSchubert/MMU_MCSoc_kubecraft#1</a>: “Create paper plugin that handles duels – Lobby whe…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/11#issuecomment-5150732889">FreddyMSchubert/MMU_MCSoc_kubecraft#11</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_kubec…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/11">FreddyMSchubert/MMU_MCSoc_kubecraft#11</a>: “Admin & member checkboxes on profile pages, admins…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/14">FreddyMSchubert/MMU_MCSoc_kubecraft#14</a>: “discount refinements – remove -1 dabloon discounts…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/13">FreddyMSchubert/MMU_MCSoc_kubecraft#13</a>: “membership / committee status display in-game some…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/13#issuecomment-5150737351">FreddyMSchubert/MMU_MCSoc_kubecraft#13</a>: “and display deaths + totem pops count that could b…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/1#issuecomment-5150735404">FreddyMSchubert/MMU_MCSoc_kubecraft#1</a>: “dont foresee this happening lol”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/1">FreddyMSchubert/MMU_MCSoc_kubecraft#1</a>: “Create paper plugin that handles duels – Lobby whe…”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/11#issuecomment-5150732889">FreddyMSchubert/MMU_MCSoc_kubecraft#11</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_kubec…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/11">FreddyMSchubert/MMU_MCSoc_kubecraft#11</a>: “Admin & member checkboxes on profile pages, admins…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/14">FreddyMSchubert/MMU_MCSoc_kubecraft#14</a>: “discount refinements – remove -1 dabloon discounts…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/13">FreddyMSchubert/MMU_MCSoc_kubecraft#13</a>: “membership / committee status display in-game some…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
