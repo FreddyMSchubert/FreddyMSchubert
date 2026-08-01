@@ -44,13 +44,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/12#issuecomment-5150493599">FreddyMSchubert/MMU_MCSoc_kubecraft#12</a>: “buying could be done either via compressed ore blo…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/12#issuecomment-5150486765">FreddyMSchubert/MMU_MCSoc_kubecraft#12</a>: “Either by reimplementing chunk claims somehow or b…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/12">FreddyMSchubert/MMU_MCSoc_kubecraft#12</a>: “claims, somehow – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/11">FreddyMSchubert/MMU_MCSoc_kubecraft#11</a>: “Admin & member checkboxes on profile pages, admins…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/10">FreddyMSchubert/MMU_MCSoc_kubecraft#10</a>: “dont default-enable arachnophobia mode – ”</li>
-<li>💬 3 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5120753325">42core-team/monorepo#163</a>: “@Peu77 ”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/163#issuecomment-5100529748">42core-team/monorepo#163</a>: “@Peu77 ”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/13#issuecomment-5150737351">FreddyMSchubert/MMU_MCSoc_kubecraft#13</a>: “and display deaths + totem pops count that could b…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/1#issuecomment-5150735404">FreddyMSchubert/MMU_MCSoc_kubecraft#1</a>: “dont foresee this happening lol”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/1">FreddyMSchubert/MMU_MCSoc_kubecraft#1</a>: “Create paper plugin that handles duels – Lobby whe…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/11#issuecomment-5150732889">FreddyMSchubert/MMU_MCSoc_kubecraft#11</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_kubec…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/11">FreddyMSchubert/MMU_MCSoc_kubecraft#11</a>: “Admin & member checkboxes on profile pages, admins…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/14">FreddyMSchubert/MMU_MCSoc_kubecraft#14</a>: “discount refinements – remove -1 dabloon discounts…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_kubecraft/issues/13">FreddyMSchubert/MMU_MCSoc_kubecraft#13</a>: “membership / committee status display in-game some…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
