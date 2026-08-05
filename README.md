@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/28">FreddyMSchubert/MMU_MCSoc_MMUCraft#28</a>: “make sign in as merlinspace link to profile – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/29">FreddyMSchubert/MMU_MCSoc_MMUCraft#29</a>: “ability to click on podium member faces – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/30">FreddyMSchubert/MMU_MCSoc_MMUCraft#30</a>: “claims admin menu tab so they can be deleted if ne…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/29">FreddyMSchubert/MMU_MCSoc_MMUCraft#29</a>: “ability to click on podium member faces – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/28">FreddyMSchubert/MMU_MCSoc_MMUCraft#28</a>: “make sign in as merlinspace link to profile – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “discord integration – we want live message streami…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “player-instanced loottables – ”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/28">FreddyMSchubert/MMU_MCSoc_MMUCraft#28</a>: “make sign in as merlinspace link to profile – ”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/29">FreddyMSchubert/MMU_MCSoc_MMUCraft#29</a>: “ability to click on podium member faces – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/30">FreddyMSchubert/MMU_MCSoc_MMUCraft#30</a>: “claims admin menu tab so they can be deleted if ne…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/29">FreddyMSchubert/MMU_MCSoc_MMUCraft#29</a>: “ability to click on podium member faces – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/28">FreddyMSchubert/MMU_MCSoc_MMUCraft#28</a>: “make sign in as merlinspace link to profile – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “discord integration – we want live message streami…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “player-instanced loottables – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
