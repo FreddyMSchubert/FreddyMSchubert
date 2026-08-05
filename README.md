@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/21#issuecomment-5190370692">FreddyMSchubert/MMU_MCSoc_MMUCraft#21</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/21">FreddyMSchubert/MMU_MCSoc_MMUCraft#21</a>: “direct view / edit profile button on top of player…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/19">FreddyMSchubert/MMU_MCSoc_MMUCraft#19</a>: “claim naming - & coloring??? – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/21">FreddyMSchubert/MMU_MCSoc_MMUCraft#21</a>: “direct view / edit profile button on top of player…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/20">FreddyMSchubert/MMU_MCSoc_MMUCraft#20</a>: “player coloring as per the locator bar dot – every…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/18">FreddyMSchubert/MMU_MCSoc_MMUCraft#18</a>: “claim cost increase & different for members – less…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/19">FreddyMSchubert/MMU_MCSoc_MMUCraft#19</a>: “claim naming - & coloring??? – ”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/16#issuecomment-5191743887">FreddyMSchubert/MMU_MCSoc_MMUCraft#16</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/16">FreddyMSchubert/MMU_MCSoc_MMUCraft#16</a>: “server icon – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/12">FreddyMSchubert/MMU_MCSoc_MMUCraft#12</a>: “claims, somehow – ”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/12#issuecomment-5191680384">FreddyMSchubert/MMU_MCSoc_MMUCraft#12</a>: “basics work. further testing will show bugs im sur…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/22">FreddyMSchubert/MMU_MCSoc_MMUCraft#22</a>: “hide claim boss bars? – ive seen resource pack mak…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/17#issuecomment-5191620234">FreddyMSchubert/MMU_MCSoc_MMUCraft#17</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/17">FreddyMSchubert/MMU_MCSoc_MMUCraft#17</a>: “add ip so you know how to join the server – right …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
