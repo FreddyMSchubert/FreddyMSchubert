@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/16">FreddyMSchubert/MMU_MCSoc_MMUCraft#16</a>: “server icon – ”</li>
-<li>⚠️ 3 days ago: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/15">FreddyMSchubert/MMU_MCSoc_MMUCraft#15</a>: “external player refinements – for external players…”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/13#issuecomment-5150737351">FreddyMSchubert/MMU_MCSoc_MMUCraft#13</a>: “and display deaths + totem pops count that could b…”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/1#issuecomment-5150735404">FreddyMSchubert/MMU_MCSoc_MMUCraft#1</a>: “dont foresee this happening lol”</li>
-<li>✅ 4 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/1">FreddyMSchubert/MMU_MCSoc_MMUCraft#1</a>: “Create paper plugin that handles duels – Lobby whe…”</li>
-<li>💬 4 days ago: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/11#issuecomment-5150732889">FreddyMSchubert/MMU_MCSoc_MMUCraft#11</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_kubec…”</li>
-<li>✅ 4 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/11">FreddyMSchubert/MMU_MCSoc_MMUCraft#11</a>: “Admin & member checkboxes on profile pages, admins…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/21#issuecomment-5190370692">FreddyMSchubert/MMU_MCSoc_MMUCraft#21</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/21">FreddyMSchubert/MMU_MCSoc_MMUCraft#21</a>: “direct view / edit profile button on top of player…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/19">FreddyMSchubert/MMU_MCSoc_MMUCraft#19</a>: “claim naming - & coloring??? – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/21">FreddyMSchubert/MMU_MCSoc_MMUCraft#21</a>: “direct view / edit profile button on top of player…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/20">FreddyMSchubert/MMU_MCSoc_MMUCraft#20</a>: “player coloring as per the locator bar dot – every…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/18">FreddyMSchubert/MMU_MCSoc_MMUCraft#18</a>: “claim cost increase & different for members – less…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/19">FreddyMSchubert/MMU_MCSoc_MMUCraft#19</a>: “claim naming - & coloring??? – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
