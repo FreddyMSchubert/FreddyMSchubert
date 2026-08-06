@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/31">FreddyMSchubert/MMU_MCSoc_MMUCraft#31</a>: “members-only gift codes – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/24">FreddyMSchubert/MMU_MCSoc_MMUCraft#24</a>: “can pull stuff out of claims with sticky piston – ”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/24#issuecomment-5202061387">FreddyMSchubert/MMU_MCSoc_MMUCraft#24</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/25">FreddyMSchubert/MMU_MCSoc_MMUCraft#25</a>: “able to shoot inside of claims bug: arrows and tnt…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/25#issuecomment-5202060917">FreddyMSchubert/MMU_MCSoc_MMUCraft#25</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/30">FreddyMSchubert/MMU_MCSoc_MMUCraft#30</a>: “claims admin menu tab so they can be deleted if ne…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/30#issuecomment-5202060254">FreddyMSchubert/MMU_MCSoc_MMUCraft#30</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/42">FreddyMSchubert/MMU_MCSoc_MMUCraft#42</a>: “fix union site link – ”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/38#issuecomment-5209467118">FreddyMSchubert/MMU_MCSoc_MMUCraft#38</a>: “in general, i think many charms need a rebalancing…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/31">FreddyMSchubert/MMU_MCSoc_MMUCraft#31</a>: “members-only gift codes – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/36">FreddyMSchubert/MMU_MCSoc_MMUCraft#36</a>: “no dabloon charm requirement tooltips sort of badl…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/34">FreddyMSchubert/MMU_MCSoc_MMUCraft#34</a>: “better chat message after book unlocks – colors to…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/41">FreddyMSchubert/MMU_MCSoc_MMUCraft#41</a>: “advancements info page – somewhere to put the exce…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/37">FreddyMSchubert/MMU_MCSoc_MMUCraft#37</a>: “consolidate dabloons reward message and advancemen…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
