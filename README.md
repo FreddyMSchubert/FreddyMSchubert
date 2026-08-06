@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/28">FreddyMSchubert/MMU_MCSoc_MMUCraft#28</a>: “make sign in as merlinspace link to profile – ”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/29">FreddyMSchubert/MMU_MCSoc_MMUCraft#29</a>: “ability to click on podium member faces – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/30">FreddyMSchubert/MMU_MCSoc_MMUCraft#30</a>: “claims admin menu tab so they can be deleted if ne…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/29">FreddyMSchubert/MMU_MCSoc_MMUCraft#29</a>: “ability to click on podium member faces – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/28">FreddyMSchubert/MMU_MCSoc_MMUCraft#28</a>: “make sign in as merlinspace link to profile – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “discord integration – we want live message streami…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “player-instanced loottables – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/31">FreddyMSchubert/MMU_MCSoc_MMUCraft#31</a>: “members-only gift codes – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/24">FreddyMSchubert/MMU_MCSoc_MMUCraft#24</a>: “can pull stuff out of claims with sticky piston – ”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/24#issuecomment-5202061387">FreddyMSchubert/MMU_MCSoc_MMUCraft#24</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/25">FreddyMSchubert/MMU_MCSoc_MMUCraft#25</a>: “able to shoot inside of claims bug: arrows and tnt…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/25#issuecomment-5202060917">FreddyMSchubert/MMU_MCSoc_MMUCraft#25</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/30">FreddyMSchubert/MMU_MCSoc_MMUCraft#30</a>: “claims admin menu tab so they can be deleted if ne…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/30#issuecomment-5202060254">FreddyMSchubert/MMU_MCSoc_MMUCraft#30</a>: “https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCr…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
