@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/49">FreddyMSchubert/MMU_MCSoc_MMUCraft#49</a>: “disallow making externals members – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/48">FreddyMSchubert/MMU_MCSoc_MMUCraft#48</a>: “dailies better done / todo display – maybe a green…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/47">FreddyMSchubert/MMU_MCSoc_MMUCraft#47</a>: “just revert the advancement message changes its ho…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/46">FreddyMSchubert/MMU_MCSoc_MMUCraft#46</a>: “leaderboard player names arent colored – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/48">FreddyMSchubert/MMU_MCSoc_MMUCraft#48</a>: “dailies better done / todo display – maybe a green…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/47">FreddyMSchubert/MMU_MCSoc_MMUCraft#47</a>: “just revert the advancement message changes its ho…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/45">FreddyMSchubert/MMU_MCSoc_MMUCraft#45</a>: “dailies system – where theres 500 different tasks.”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/pull/734#issuecomment-5213820275">42core-team/website#734</a>: “youre the goat that has been so annoying”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
