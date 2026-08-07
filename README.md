@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/45">FreddyMSchubert/MMU_MCSoc_MMUCraft#45</a>: “dailies system – where theres 500 different tasks.”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/website/pull/734#issuecomment-5213820275">42core-team/website#734</a>: “youre the goat that has been so annoying”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/232#issuecomment-5213809345">42core-team/monorepo#232</a>: “nope this needs deeper structural rethinking, star…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/43#issuecomment-5213774745">FreddyMSchubert/MMU_MCSoc_MMUCraft#43</a>: “actually no the book looks cooler”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/43">FreddyMSchubert/MMU_MCSoc_MMUCraft#43</a>: “use charm 2d texture for charm unlock totem animat…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/42">FreddyMSchubert/MMU_MCSoc_MMUCraft#42</a>: “fix union site link – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/44#issuecomment-5213771614">FreddyMSchubert/MMU_MCSoc_MMUCraft#44</a>: “no more buying fashion books either, and knowledge…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/44">FreddyMSchubert/MMU_MCSoc_MMUCraft#44</a>: “now more buying magic books – too op”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
