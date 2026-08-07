@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/45">FreddyMSchubert/MMU_MCSoc_MMUCraft#45</a>: “dailies system – where theres 500 different tasks.”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/44">FreddyMSchubert/MMU_MCSoc_MMUCraft#44</a>: “now more buying magic books – too op”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/43">FreddyMSchubert/MMU_MCSoc_MMUCraft#43</a>: “use charm 2d texture for charm unlock totem animat…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/42">FreddyMSchubert/MMU_MCSoc_MMUCraft#42</a>: “fix union site link – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/38#issuecomment-5209467118">FreddyMSchubert/MMU_MCSoc_MMUCraft#38</a>: “in general, i think many charms need a rebalancing…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/31">FreddyMSchubert/MMU_MCSoc_MMUCraft#31</a>: “members-only gift codes – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/36">FreddyMSchubert/MMU_MCSoc_MMUCraft#36</a>: “no dabloon charm requirement tooltips sort of badl…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/34">FreddyMSchubert/MMU_MCSoc_MMUCraft#34</a>: “better chat message after book unlocks – colors to…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/41">FreddyMSchubert/MMU_MCSoc_MMUCraft#41</a>: “advancements info page – somewhere to put the exce…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/37">FreddyMSchubert/MMU_MCSoc_MMUCraft#37</a>: “consolidate dabloons reward message and advancemen…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
