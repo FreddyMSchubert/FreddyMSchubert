@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>The next time you're using Safari or Firefox and it's running slowly, you can say to yourself,<br/> "I could've had a V8 (a browser 'engine')".
+<em>Daily random joke: </em><strong>Q:</strong> Why did the computer squeak?
+
+<strong>A:</strong> Because someone stepped on its mouse!
 <!-- JOKE:END -->
 </div>
 
