@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🚀 Today: Opened PR <a href="undefined">exu6jh/AdeleBlock#1</a>: “undefined – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/51">FreddyMSchubert/MMU_MCSoc_MMUCraft#51</a>: “admins need to be able to edit other peoples profi…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/50">FreddyMSchubert/MMU_MCSoc_MMUCraft#50</a>: “blocking people / timing people out – - invalidate…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/49">FreddyMSchubert/MMU_MCSoc_MMUCraft#49</a>: “disallow making externals members – ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/48">FreddyMSchubert/MMU_MCSoc_MMUCraft#48</a>: “dailies better done / todo display – maybe a green…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/47">FreddyMSchubert/MMU_MCSoc_MMUCraft#47</a>: “just revert the advancement message changes its ho…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/46">FreddyMSchubert/MMU_MCSoc_MMUCraft#46</a>: “leaderboard player names arent colored – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/48">FreddyMSchubert/MMU_MCSoc_MMUCraft#48</a>: “dailies better done / todo display – maybe a green…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
