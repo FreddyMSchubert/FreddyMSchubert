@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/57">FreddyMSchubert/MMU_MCSoc_MMUCraft#57</a>: “stop offer switching if mouse on top shop box – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/56">FreddyMSchubert/MMU_MCSoc_MMUCraft#56</a>: “why so many fashion books – it should be max 1 per…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/55">FreddyMSchubert/MMU_MCSoc_MMUCraft#55</a>: “sculk phial experience bottles dont store all xp –…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/51">FreddyMSchubert/MMU_MCSoc_MMUCraft#51</a>: “admins need to be able to edit other peoples profi…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/49">FreddyMSchubert/MMU_MCSoc_MMUCraft#49</a>: “disallow making externals members – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/52">FreddyMSchubert/MMU_MCSoc_MMUCraft#52</a>: “default dabloons reward should be 0 – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/53">FreddyMSchubert/MMU_MCSoc_MMUCraft#53</a>: “broken soul tooltips – <img width="835" height="27…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/54">FreddyMSchubert/MMU_MCSoc_MMUCraft#54</a>: “charm upgrading annoyance – before it gives you th…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/50">FreddyMSchubert/MMU_MCSoc_MMUCraft#50</a>: “blocking people / timing people out – - invalidate…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
