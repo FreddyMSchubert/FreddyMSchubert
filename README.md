@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/66">FreddyMSchubert/MMU_MCSoc_MMUCraft#66</a>: “enderite / cosmetic helmet combination is broken –…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/65">FreddyMSchubert/MMU_MCSoc_MMUCraft#65</a>: “shop rarity should consider discounted price not n…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “player-instanced loottables – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26#issuecomment-5232250628">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “seems functional”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/63#issuecomment-5232029424">FreddyMSchubert/MMU_MCSoc_MMUCraft#63</a>: “either a custom thing or grafana. with grafana one…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/63">FreddyMSchubert/MMU_MCSoc_MMUCraft#63</a>: “stats & dashboard – graphs - total hours played ac…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/62">FreddyMSchubert/MMU_MCSoc_MMUCraft#62</a>: “server chats announcing epic fish catches – pretty…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
