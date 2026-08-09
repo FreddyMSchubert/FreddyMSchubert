@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/62#issuecomment-5233093152">FreddyMSchubert/MMU_MCSoc_MMUCraft#62</a>: “discord chat announcements as well”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “discord integration – we want live message streami…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/66">FreddyMSchubert/MMU_MCSoc_MMUCraft#66</a>: “enderite / cosmetic helmet combination is broken –…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/65">FreddyMSchubert/MMU_MCSoc_MMUCraft#65</a>: “shop rarity should consider discounted price not n…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “player-instanced loottables – ”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/62#issuecomment-5233093152">FreddyMSchubert/MMU_MCSoc_MMUCraft#62</a>: “discord chat announcements as well”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “discord integration – we want live message streami…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/66">FreddyMSchubert/MMU_MCSoc_MMUCraft#66</a>: “enderite / cosmetic helmet combination is broken –…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/65">FreddyMSchubert/MMU_MCSoc_MMUCraft#65</a>: “shop rarity should consider discounted price not n…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “player-instanced loottables – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
