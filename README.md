@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “player-instanced loottables – ”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26#issuecomment-5232250628">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “seems functional”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/63#issuecomment-5232029424">FreddyMSchubert/MMU_MCSoc_MMUCraft#63</a>: “either a custom thing or grafana. with grafana one…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/63">FreddyMSchubert/MMU_MCSoc_MMUCraft#63</a>: “stats & dashboard – graphs - total hours played ac…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/62">FreddyMSchubert/MMU_MCSoc_MMUCraft#62</a>: “server chats announcing epic fish catches – pretty…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27#issuecomment-5231795365">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “https://modrinth.com/mod/discord-mc-chat also the …”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27#issuecomment-5231660004">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “Plus the previous setup had the problem of grouped…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27#issuecomment-5231646306">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “if we do this custom we can style the player names…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/55">FreddyMSchubert/MMU_MCSoc_MMUCraft#55</a>: “sculk phial experience bottles dont store all xp –…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
