@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/59">FreddyMSchubert/MMU_MCSoc_MMUCraft#59</a>: “minimum discount price of 10% – maximum of 35% usu…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/58">FreddyMSchubert/MMU_MCSoc_MMUCraft#58</a>: “additional daily reward calculation does not apply…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/57">FreddyMSchubert/MMU_MCSoc_MMUCraft#57</a>: “stop offer switching if mouse on top shop box – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/61">FreddyMSchubert/MMU_MCSoc_MMUCraft#61</a>: “pickaxe heater charm isnt animating – in the shop.…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/60">FreddyMSchubert/MMU_MCSoc_MMUCraft#60</a>: “fakeitem refreshing – when people log in, we shoul…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/59">FreddyMSchubert/MMU_MCSoc_MMUCraft#59</a>: “minimum discount price of 10% – maximum of 35% usu…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/56">FreddyMSchubert/MMU_MCSoc_MMUCraft#56</a>: “why so many fashion books – it should be max 1 per…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/58">FreddyMSchubert/MMU_MCSoc_MMUCraft#58</a>: “additional daily reward calculation does not apply…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/57">FreddyMSchubert/MMU_MCSoc_MMUCraft#57</a>: “stop offer switching if mouse on top shop box – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/56">FreddyMSchubert/MMU_MCSoc_MMUCraft#56</a>: “why so many fashion books – it should be max 1 per…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/55">FreddyMSchubert/MMU_MCSoc_MMUCraft#55</a>: “sculk phial experience bottles dont store all xp –…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
