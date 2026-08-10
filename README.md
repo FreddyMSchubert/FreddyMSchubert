@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/62#issuecomment-5233093152">FreddyMSchubert/MMU_MCSoc_MMUCraft#62</a>: “discord chat announcements as well”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/27">FreddyMSchubert/MMU_MCSoc_MMUCraft#27</a>: “discord integration – we want live message streami…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/66">FreddyMSchubert/MMU_MCSoc_MMUCraft#66</a>: “enderite / cosmetic helmet combination is broken –…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/65">FreddyMSchubert/MMU_MCSoc_MMUCraft#65</a>: “shop rarity should consider discounted price not n…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/64">FreddyMSchubert/MMU_MCSoc_MMUCraft#64</a>: “animal feeding task dysfunctional. – idk why its w…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/26">FreddyMSchubert/MMU_MCSoc_MMUCraft#26</a>: “player-instanced loottables – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/60">FreddyMSchubert/MMU_MCSoc_MMUCraft#60</a>: “fakeitem refreshing – when people log in, we shoul…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/61">FreddyMSchubert/MMU_MCSoc_MMUCraft#61</a>: “pickaxe heater charm isnt animating – in the shop.…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/65">FreddyMSchubert/MMU_MCSoc_MMUCraft#65</a>: “shop rarity should consider discounted price not n…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/68">FreddyMSchubert/MMU_MCSoc_MMUCraft#68</a>: “minecraft nametag name display should also have a …”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/67">FreddyMSchubert/MMU_MCSoc_MMUCraft#67</a>: “podium is kinda stupid, if no one has made any pro…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/62">FreddyMSchubert/MMU_MCSoc_MMUCraft#62</a>: “server chats announcing epic fish catches – pretty…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/68">FreddyMSchubert/MMU_MCSoc_MMUCraft#68</a>: “minecraft nametag name display should also have a …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
