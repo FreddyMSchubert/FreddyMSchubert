@@ -7,7 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>A programmer's significant other tells them, "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen."The programmer comes home with 12 loaves of bread.
+<em>Daily random joke: </em>**-** Knock Knock!**-** An async function**-** Who's there?
 <!-- JOKE:END -->
 </div>
 
