@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/69">FreddyMSchubert/MMU_MCSoc_MMUCraft#69</a>: “make right clicking to use a wallet throw out 1 da…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/35">FreddyMSchubert/MMU_MCSoc_MMUCraft#35</a>: “backpacks dont open when looking at block – maybe …”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/69">FreddyMSchubert/MMU_MCSoc_MMUCraft#69</a>: “make right clicking to use a wallet throw out 1 da…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/60">FreddyMSchubert/MMU_MCSoc_MMUCraft#60</a>: “fakeitem refreshing – when people log in, we shoul…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/61">FreddyMSchubert/MMU_MCSoc_MMUCraft#61</a>: “pickaxe heater charm isnt animating – in the shop.…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/65">FreddyMSchubert/MMU_MCSoc_MMUCraft#65</a>: “shop rarity should consider discounted price not n…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/68">FreddyMSchubert/MMU_MCSoc_MMUCraft#68</a>: “minecraft nametag name display should also have a …”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/67">FreddyMSchubert/MMU_MCSoc_MMUCraft#67</a>: “podium is kinda stupid, if no one has made any pro…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/62">FreddyMSchubert/MMU_MCSoc_MMUCraft#62</a>: “server chats announcing epic fish catches – pretty…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/68">FreddyMSchubert/MMU_MCSoc_MMUCraft#68</a>: “minecraft nametag name display should also have a …”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
