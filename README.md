@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/74">FreddyMSchubert/MMU_MCSoc_MMUCraft#74</a>: “dailies button texts are unaligned – when advancem…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/73">FreddyMSchubert/MMU_MCSoc_MMUCraft#73</a>: “launch handling – countdown should go donw, firewo…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “note on sign-in page about what its for. – ”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75#issuecomment-5251957086">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “i dont even know what that means anymore”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “note on sign-in page about what its for. – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/74">FreddyMSchubert/MMU_MCSoc_MMUCraft#74</a>: “dailies button texts are unaligned – when advancem…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/73">FreddyMSchubert/MMU_MCSoc_MMUCraft#73</a>: “launch handling – countdown should go donw, firewo…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/74">FreddyMSchubert/MMU_MCSoc_MMUCraft#74</a>: “dailies button texts are unaligned – when advancem…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/73">FreddyMSchubert/MMU_MCSoc_MMUCraft#73</a>: “launch handling – countdown should go donw, firewo…”</li>
+<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “note on sign-in page about what its for. – ”</li>
+<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75#issuecomment-5251957086">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “i dont even know what that means anymore”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “note on sign-in page about what its for. – ”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/74">FreddyMSchubert/MMU_MCSoc_MMUCraft#74</a>: “dailies button texts are unaligned – when advancem…”</li>
+<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/73">FreddyMSchubert/MMU_MCSoc_MMUCraft#73</a>: “launch handling – countdown should go donw, firewo…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
