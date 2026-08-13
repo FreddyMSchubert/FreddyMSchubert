@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/82">FreddyMSchubert/MMU_MCSoc_MMUCraft#82</a>: “respawning in corners of view distance – right now…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/81">FreddyMSchubert/MMU_MCSoc_MMUCraft#81</a>: “cosmetics uncombinable with helmets – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/80">FreddyMSchubert/MMU_MCSoc_MMUCraft#80</a>: “wolfs tamed by committee members become part of th…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/79">FreddyMSchubert/MMU_MCSoc_MMUCraft#79</a>: “some trade items are crazy – what do you mean i ha…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/78">FreddyMSchubert/MMU_MCSoc_MMUCraft#78</a>: “some advancement goals are way too hard – maybe ex…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/77">FreddyMSchubert/MMU_MCSoc_MMUCraft#77</a>: “enchanted book with no enchantment can spawn – in …”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/76">FreddyMSchubert/MMU_MCSoc_MMUCraft#76</a>: “right clicking crafting table with a backpack open…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/89">FreddyMSchubert/MMU_MCSoc_MMUCraft#89</a>: “jockey charm – tooltip: DONT SAY IT  speed upgrade…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/88#issuecomment-5285909135">FreddyMSchubert/MMU_MCSoc_MMUCraft#88</a>: “speed is applied wayy to long these effects should…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/85#issuecomment-5285887773">FreddyMSchubert/MMU_MCSoc_MMUCraft#85</a>: “make tp potions stackable for like 16 and have one…”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/85#issuecomment-5285875068">FreddyMSchubert/MMU_MCSoc_MMUCraft#85</a>: “also less light level restrictions”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/88">FreddyMSchubert/MMU_MCSoc_MMUCraft#88</a>: “potion of resonance tweaks – based on item or fake…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/87">FreddyMSchubert/MMU_MCSoc_MMUCraft#87</a>: “potion of resonance texture – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/86">FreddyMSchubert/MMU_MCSoc_MMUCraft#86</a>: “decrease dabloons for getting away from spawn caus…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
