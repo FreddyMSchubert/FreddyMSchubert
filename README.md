@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/77">FreddyMSchubert/MMU_MCSoc_MMUCraft#77</a>: “enchanted book with no enchantment can spawn – in …”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/76">FreddyMSchubert/MMU_MCSoc_MMUCraft#76</a>: “right clicking crafting table with a backpack open…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/738">42core-team/website#738</a>: “scrollable visualizer – visualizer very annoying o…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “note on sign-in page about what its for. – ”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75#issuecomment-5265243886">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “oh i remembered”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/74">FreddyMSchubert/MMU_MCSoc_MMUCraft#74</a>: “dailies button texts are unaligned – when advancem…”</li>
 <li>✅ 2 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/73">FreddyMSchubert/MMU_MCSoc_MMUCraft#73</a>: “launch handling – countdown should go donw, firewo…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “note on sign-in page about what its for. – ”</li>
-<li>💬 2 days ago: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75#issuecomment-5251957086">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “i dont even know what that means anymore”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
