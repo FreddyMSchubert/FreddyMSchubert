@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/82">FreddyMSchubert/MMU_MCSoc_MMUCraft#82</a>: “respawning in corners of view distance – right now…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/81">FreddyMSchubert/MMU_MCSoc_MMUCraft#81</a>: “cosmetics uncombinable with helmets – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/80">FreddyMSchubert/MMU_MCSoc_MMUCraft#80</a>: “wolfs tamed by committee members become part of th…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/79">FreddyMSchubert/MMU_MCSoc_MMUCraft#79</a>: “some trade items are crazy – what do you mean i ha…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/78">FreddyMSchubert/MMU_MCSoc_MMUCraft#78</a>: “some advancement goals are way too hard – maybe ex…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/77">FreddyMSchubert/MMU_MCSoc_MMUCraft#77</a>: “enchanted book with no enchantment can spawn – in …”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/76">FreddyMSchubert/MMU_MCSoc_MMUCraft#76</a>: “right clicking crafting table with a backpack open…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/42core-team/website/issues/738">42core-team/website#738</a>: “scrollable visualizer – visualizer very annoying o…”</li>
-<li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “note on sign-in page about what its for. – ”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/75#issuecomment-5265243886">FreddyMSchubert/MMU_MCSoc_MMUCraft#75</a>: “oh i remembered”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/74">FreddyMSchubert/MMU_MCSoc_MMUCraft#74</a>: “dailies button texts are unaligned – when advancem…”</li>
-<li>✅ 2 days ago: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/73">FreddyMSchubert/MMU_MCSoc_MMUCraft#73</a>: “launch handling – countdown should go donw, firewo…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
