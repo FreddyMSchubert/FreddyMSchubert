@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/93#issuecomment-5286623164">FreddyMSchubert/MMU_MCSoc_MMUCraft#93</a>: “actually an hour maybe”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/93">FreddyMSchubert/MMU_MCSoc_MMUCraft#93</a>: “delay between charm drops – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/92">FreddyMSchubert/MMU_MCSoc_MMUCraft#92</a>: “Add current dabloons count to advancement messages…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/91">FreddyMSchubert/MMU_MCSoc_MMUCraft#91</a>: “less weight on lucky charm – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/90">FreddyMSchubert/MMU_MCSoc_MMUCraft#90</a>: “jump versatility charm – makes horses jump farther…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/89">FreddyMSchubert/MMU_MCSoc_MMUCraft#89</a>: “jockey charm – tooltip: DONT SAY IT  speed upgrade…”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/88#issuecomment-5285909135">FreddyMSchubert/MMU_MCSoc_MMUCraft#88</a>: “speed is applied wayy to long these effects should…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/85#issuecomment-5285887773">FreddyMSchubert/MMU_MCSoc_MMUCraft#85</a>: “make tp potions stackable for like 16 and have one…”</li>
-<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/85#issuecomment-5285875068">FreddyMSchubert/MMU_MCSoc_MMUCraft#85</a>: “also less light level restrictions”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/88">FreddyMSchubert/MMU_MCSoc_MMUCraft#88</a>: “potion of resonance tweaks – based on item or fake…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/87">FreddyMSchubert/MMU_MCSoc_MMUCraft#87</a>: “potion of resonance texture – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/86">FreddyMSchubert/MMU_MCSoc_MMUCraft#86</a>: “decrease dabloons for getting away from spawn caus…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
