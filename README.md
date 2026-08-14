@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/95">FreddyMSchubert/MMU_MCSoc_MMUCraft#95</a>: “enchantment books badly applicable – im able toa d…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/94">FreddyMSchubert/MMU_MCSoc_MMUCraft#94</a>: “overpriced anvil xp – stay closer to original logi…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/85">FreddyMSchubert/MMU_MCSoc_MMUCraft#85</a>: “rtp potion 3 minutes -> 1 minute – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/88">FreddyMSchubert/MMU_MCSoc_MMUCraft#88</a>: “potion of resonance tweaks – based on item or fake…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/96">FreddyMSchubert/MMU_MCSoc_MMUCraft#96</a>: “charm visuals desync – soemtimes youre wearing the…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/95">FreddyMSchubert/MMU_MCSoc_MMUCraft#95</a>: “enchantment books badly applicable – im able toa d…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/94">FreddyMSchubert/MMU_MCSoc_MMUCraft#94</a>: “overpriced anvil xp – stay closer to original logi…”</li>
-<li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/93#issuecomment-5286623164">FreddyMSchubert/MMU_MCSoc_MMUCraft#93</a>: “actually an hour maybe”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/93">FreddyMSchubert/MMU_MCSoc_MMUCraft#93</a>: “delay between charm drops – ”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/92">FreddyMSchubert/MMU_MCSoc_MMUCraft#92</a>: “Add current dabloons count to advancement messages…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/91">FreddyMSchubert/MMU_MCSoc_MMUCraft#91</a>: “less weight on lucky charm – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
