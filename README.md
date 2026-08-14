@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/103">FreddyMSchubert/MMU_MCSoc_MMUCraft#103</a>: “favicon – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/77">FreddyMSchubert/MMU_MCSoc_MMUCraft#77</a>: “enchanted book with no enchantment can spawn – in …”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/84">FreddyMSchubert/MMU_MCSoc_MMUCraft#84</a>: “wallet cnat have soulbound applied – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/99">FreddyMSchubert/MMU_MCSoc_MMUCraft#99</a>: “some money for reading knowledge books – so people…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/102">FreddyMSchubert/MMU_MCSoc_MMUCraft#102</a>: “straight up money found in chests – very rarely”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/93">FreddyMSchubert/MMU_MCSoc_MMUCraft#93</a>: “delay between charm drops – ”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/102">FreddyMSchubert/MMU_MCSoc_MMUCraft#102</a>: “straight up money found in chests – very rarely”</li>
+<li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/83#issuecomment-5292756077">FreddyMSchubert/MMU_MCSoc_MMUCraft#83</a>: “too much work too little reward”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/83">FreddyMSchubert/MMU_MCSoc_MMUCraft#83</a>: “crafting recipe support for knowledge pages – and …”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/38">FreddyMSchubert/MMU_MCSoc_MMUCraft#38</a>: “bunny charm height is just barely not 2 blocks whi…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/76">FreddyMSchubert/MMU_MCSoc_MMUCraft#76</a>: “right clicking crafting table with a backpack open…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/72">FreddyMSchubert/MMU_MCSoc_MMUCraft#72</a>: “5 minute shutdown warning – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/79">FreddyMSchubert/MMU_MCSoc_MMUCraft#79</a>: “some trade items are crazy – what do you mean i ha…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/86">FreddyMSchubert/MMU_MCSoc_MMUCraft#86</a>: “decrease dabloons for getting away from spawn caus…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
