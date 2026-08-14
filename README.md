@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 Today: Merged PR <a href="undefined">exu6jh/AdeleBlock#1</a></li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/107">FreddyMSchubert/MMU_MCSoc_MMUCraft#107</a>: “more countdown limits, to stop people from spammin…”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/106">FreddyMSchubert/MMU_MCSoc_MMUCraft#106</a>: “drop cosmetic when combined helmet breaks – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/105">FreddyMSchubert/MMU_MCSoc_MMUCraft#105</a>: “higher min reward for completed advancement daily …”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/104">FreddyMSchubert/MMU_MCSoc_MMUCraft#104</a>: “knowledge pages dont replace whole page with error…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/100">FreddyMSchubert/MMU_MCSoc_MMUCraft#100</a>: “wayy to many public advancement messages, holy – ”</li>
 <li>💬 Today: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/83#issuecomment-5292756077">FreddyMSchubert/MMU_MCSoc_MMUCraft#83</a>: “too much work too little reward”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/83">FreddyMSchubert/MMU_MCSoc_MMUCraft#83</a>: “crafting recipe support for knowledge pages – and …”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/38">FreddyMSchubert/MMU_MCSoc_MMUCraft#38</a>: “bunny charm height is just barely not 2 blocks whi…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/76">FreddyMSchubert/MMU_MCSoc_MMUCraft#76</a>: “right clicking crafting table with a backpack open…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
