@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/103">FreddyMSchubert/MMU_MCSoc_MMUCraft#103</a>: “favicon – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/77">FreddyMSchubert/MMU_MCSoc_MMUCraft#77</a>: “enchanted book with no enchantment can spawn – in …”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/84">FreddyMSchubert/MMU_MCSoc_MMUCraft#84</a>: “wallet cnat have soulbound applied – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/99">FreddyMSchubert/MMU_MCSoc_MMUCraft#99</a>: “some money for reading knowledge books – so people…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/102">FreddyMSchubert/MMU_MCSoc_MMUCraft#102</a>: “straight up money found in chests – very rarely”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/93">FreddyMSchubert/MMU_MCSoc_MMUCraft#93</a>: “delay between charm drops – ”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/102">FreddyMSchubert/MMU_MCSoc_MMUCraft#102</a>: “straight up money found in chests – very rarely”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/92">FreddyMSchubert/MMU_MCSoc_MMUCraft#92</a>: “Add current dabloons count to advancement messages…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/101">FreddyMSchubert/MMU_MCSoc_MMUCraft#101</a>: “some way in the admin panel to refresh a persons d…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/101">FreddyMSchubert/MMU_MCSoc_MMUCraft#101</a>: “some way in the admin panel to refresh a persons d…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/100">FreddyMSchubert/MMU_MCSoc_MMUCraft#100</a>: “wayy to many public advancement messages, holy – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/80">FreddyMSchubert/MMU_MCSoc_MMUCraft#80</a>: “wolfs tamed by committee members become part of th…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/81">FreddyMSchubert/MMU_MCSoc_MMUCraft#81</a>: “cosmetics uncombinable with helmets – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
