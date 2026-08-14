@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/102">FreddyMSchubert/MMU_MCSoc_MMUCraft#102</a>: “straight up money found in chests – very rarely”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/92">FreddyMSchubert/MMU_MCSoc_MMUCraft#92</a>: “Add current dabloons count to advancement messages…”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/101">FreddyMSchubert/MMU_MCSoc_MMUCraft#101</a>: “some way in the admin panel to refresh a persons d…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/101">FreddyMSchubert/MMU_MCSoc_MMUCraft#101</a>: “some way in the admin panel to refresh a persons d…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/100">FreddyMSchubert/MMU_MCSoc_MMUCraft#100</a>: “wayy to many public advancement messages, holy – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/80">FreddyMSchubert/MMU_MCSoc_MMUCraft#80</a>: “wolfs tamed by committee members become part of th…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/81">FreddyMSchubert/MMU_MCSoc_MMUCraft#81</a>: “cosmetics uncombinable with helmets – ”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/82">FreddyMSchubert/MMU_MCSoc_MMUCraft#82</a>: “respawning in corners of view distance – right now…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/99">FreddyMSchubert/MMU_MCSoc_MMUCraft#99</a>: “some money for reading knowledge books – so people…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/97">FreddyMSchubert/MMU_MCSoc_MMUCraft#97</a>: “hiding charms with glass – craft charmor with glas…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
