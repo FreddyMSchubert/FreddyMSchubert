@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/115">FreddyMSchubert/MMU_MCSoc_MMUCraft#115</a>: “knowledge book crafting recipe explanations – ”</li>
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/113">FreddyMSchubert/MMU_MCSoc_MMUCraft#113</a>: “update external inviting cost – 250 for non-member…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/114">FreddyMSchubert/MMU_MCSoc_MMUCraft#114</a>: “show death counter nametag toggle for player optio…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/113">FreddyMSchubert/MMU_MCSoc_MMUCraft#113</a>: “update external inviting cost – 250 for non-member…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/112">FreddyMSchubert/MMU_MCSoc_MMUCraft#112</a>: “netherite cosmetic merging is still broken – - too…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/112">FreddyMSchubert/MMU_MCSoc_MMUCraft#112</a>: “netherite cosmetic merging is still broken – - too…”</li>
 <li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/111">FreddyMSchubert/MMU_MCSoc_MMUCraft#111</a>: “villager trade bug – shift clicking doesnt work an…”</li>
-<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/110">FreddyMSchubert/MMU_MCSoc_MMUCraft#110</a>: “player advancements that dont pass filter also are…”</li>
-<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/108">FreddyMSchubert/MMU_MCSoc_MMUCraft#108</a>: “increased item despawn timer – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
