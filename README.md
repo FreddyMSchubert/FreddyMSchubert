@@ -40,13 +40,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/109">FreddyMSchubert/MMU_MCSoc_MMUCraft#109</a>: “money reward messages are fully golden – ”</li>
+<li>⚠️ Today: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/108">FreddyMSchubert/MMU_MCSoc_MMUCraft#108</a>: “increased item despawn timer – ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/105">FreddyMSchubert/MMU_MCSoc_MMUCraft#105</a>: “higher min reward for completed advancement daily …”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/107">FreddyMSchubert/MMU_MCSoc_MMUCraft#107</a>: “more countdown limits, to stop people from spammin…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/104">FreddyMSchubert/MMU_MCSoc_MMUCraft#104</a>: “knowledge pages dont replace whole page with error…”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/106">FreddyMSchubert/MMU_MCSoc_MMUCraft#106</a>: “drop cosmetic when combined helmet breaks – ”</li>
 <li>🌕 Yesterday: Merged PR <a href="undefined">exu6jh/AdeleBlock#1</a></li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/107">FreddyMSchubert/MMU_MCSoc_MMUCraft#107</a>: “more countdown limits, to stop people from spammin…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/106">FreddyMSchubert/MMU_MCSoc_MMUCraft#106</a>: “drop cosmetic when combined helmet breaks – ”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
