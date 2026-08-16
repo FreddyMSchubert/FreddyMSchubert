@@ -38,13 +38,13 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/115">FreddyMSchubert/MMU_MCSoc_MMUCraft#115</a>: “knowledge book crafting recipe explanations – ”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/114">FreddyMSchubert/MMU_MCSoc_MMUCraft#114</a>: “show death counter nametag toggle for player optio…”</li>
 <li>✅ Today: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/116">FreddyMSchubert/MMU_MCSoc_MMUCraft#116</a>: “fix potion of insomnia crafting recipe knowledge b…”</li>
 <li>💬 Yesterday: Commented on issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/116#issuecomment-5304297797">FreddyMSchubert/MMU_MCSoc_MMUCraft#116</a>: “oh and note that soulbound is incompatible with me…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/116">FreddyMSchubert/MMU_MCSoc_MMUCraft#116</a>: “fix potion of insomnia crafting recipe knowledge b…”</li>
 <li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/115">FreddyMSchubert/MMU_MCSoc_MMUCraft#115</a>: “knowledge book crafting recipe explanations – ”</li>
 <li>✅ Yesterday: Closed issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/113">FreddyMSchubert/MMU_MCSoc_MMUCraft#113</a>: “update external inviting cost – 250 for non-member…”</li>
-<li>⚠️ Yesterday: Opened issue <a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft/issues/114">FreddyMSchubert/MMU_MCSoc_MMUCraft#114</a>: “show death counter nametag toggle for player optio…”</li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
