@@ -18,8 +18,8 @@
 ### Currently working on...
 
 <!-- PINS:START -->
+<!-- PIN repo="FreddyMSchubert/MMU_MCSoc_MMUCraft" title="MMUCraft" -->
 <!-- PIN repo="42core-team/monorepo" title="Core Game (Monorepo)" -->
-<!-- PIN repo="FreddyMSchubert/broke-MMU_MCSoc_MMUCraft" title="MMUCraft" -->
 <!-- PINS:END -->
 
 <!-- PINS:RENDERED:START -->
