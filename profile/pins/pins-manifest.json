@@ -1,6 +1,6 @@
 {
   "42core-team/monorepo": {
-    "sha": "4b9b9418ee81636e68cf1c640da02a78d0500eb9",
+    "sha": "15af23a5f27691ba89c533982f6d1b5612ebcb01",
     "title": "Core Game (Monorepo)",
     "file": "profile/pins/42core-team__monorepo.svg"
   },
@@ -13,5 +13,10 @@
     "sha": "db31421a9d36e3dc4e05d5b9bae00efdc2d7e844",
     "title": "42 Cursus",
     "file": "profile/pins/FreddyMSchubert__42_cursus.svg"
+  },
+  "FreddyMSchubert/MMU_MCSoc_MMUCraft": {
+    "sha": "56a8a21812af90ce15556cc2923d42ee0d47df6c",
+    "title": "MMUCraft",
+    "file": "profile/pins/FreddyMSchubert__MMU_MCSoc_MMUCraft.svg"
   }
 }
