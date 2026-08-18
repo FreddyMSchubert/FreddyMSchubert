@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/117">MMUCraft#117</a>: <i>“fix wordle character button contrast”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/117">MMUCraft#117</a>: <i>“fix wordle character button contrast”</i></li>
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/115">MMUCraft#115</a>: <i>“knowledge book crafting recipe explanations”</i></li>
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/114">MMUCraft#114</a>: <i>“show death counter nametag toggle for player optio…”</i></li>
@@ -49,7 +50,6 @@
 <li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/114">MMUCraft#114</a>: <i>“show death counter nametag toggle for player optio…”</i></li>
 <li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/113">MMUCraft#113</a>: <i>“update external inviting cost – 250 for non-member…”</i></li>
 <li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/112">MMUCraft#112</a>: <i>“netherite cosmetic merging is still broken – - too…”</i></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/112">MMUCraft#112</a>: <i>“netherite cosmetic merging is still broken – - too…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
