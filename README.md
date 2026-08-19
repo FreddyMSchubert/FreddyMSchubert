@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/124">MMUCraft#124</a>: <i>“player profile show death toggle”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/123">MMUCraft#123</a>: <i>“website online player indicator – at the top. remo…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/122">MMUCraft#122</a>: <i>“some discord commands are missing coloration – <im…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/121">MMUCraft#121</a>: <i>“list online players command discord – /mc list wor…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/120">MMUCraft#120</a>: <i>“light-up decoblocks – - glow item frame toggle - a…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/119">MMUCraft#119</a>: <i>“save before stopping server”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/110">MMUCraft#110</a>: <i>“player advancements that dont pass filter also are…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/118">MMUCraft#118</a>: <i>“knowledge book tables visually bugged”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/117">MMUCraft#117</a>: <i>“fix wordle character button contrast”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/117">MMUCraft#117</a>: <i>“fix wordle character button contrast”</i></li>
 <li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/115">MMUCraft#115</a>: <i>“knowledge book crafting recipe explanations”</i></li>
 <li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/114">MMUCraft#114</a>: <i>“show death counter nametag toggle for player optio…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/116">MMUCraft#116</a>: <i>“fix potion of insomnia crafting recipe knowledge b…”</i></li>
-<li>💬 <b>4 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/116#issuecomment-5304297797">MMUCraft#116</a>: <i>“oh and note that soulbound is incompatible with me…”</i></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/116">MMUCraft#116</a>: <i>“fix potion of insomnia crafting recipe knowledge b…”</i></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/115">MMUCraft#115</a>: <i>“knowledge book crafting recipe explanations”</i></li>
-<li>✅ <b>4 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/113">MMUCraft#113</a>: <i>“update external inviting cost – 250 for non-member…”</i></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/114">MMUCraft#114</a>: <i>“show death counter nametag toggle for player optio…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
