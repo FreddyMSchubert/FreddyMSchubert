@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/89">MMUCraft#89</a>: <i>“jockey charm – tooltip: DONT SAY IT  speed upgrade…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/126">MMUCraft#126</a>: <i>“enderite block misnaming – enderite block is calle…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/90">MMUCraft#90</a>: <i>“jump versatility charm – makes horses jump farther…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/126">MMUCraft#126</a>: <i>“enderite block misnaming – enderite block is calle…”</i></li>
@@ -51,7 +52,6 @@
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/120">MMUCraft#120</a>: <i>“light-up decoblocks – - glow item frame toggle - a…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/119">MMUCraft#119</a>: <i>“save before stopping server”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/110">MMUCraft#110</a>: <i>“player advancements that dont pass filter also are…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/118">MMUCraft#118</a>: <i>“knowledge book tables visually bugged”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
