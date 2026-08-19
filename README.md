@@ -40,6 +40,10 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/126">MMUCraft#126</a>: <i>“enderite block misnaming – enderite block is calle…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/90">MMUCraft#90</a>: <i>“jump versatility charm – makes horses jump farther…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/126">MMUCraft#126</a>: <i>“enderite block misnaming – enderite block is calle…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/125">MMUCraft#125</a>: <i>“credit fish texture authors”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/124">MMUCraft#124</a>: <i>“player profile show death toggle”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/123">MMUCraft#123</a>: <i>“website online player indicator – at the top. remo…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/122">MMUCraft#122</a>: <i>“some discord commands are missing coloration – <im…”</i></li>
@@ -48,10 +52,6 @@
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/119">MMUCraft#119</a>: <i>“save before stopping server”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/110">MMUCraft#110</a>: <i>“player advancements that dont pass filter also are…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/118">MMUCraft#118</a>: <i>“knowledge book tables visually bugged”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/117">MMUCraft#117</a>: <i>“fix wordle character button contrast”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/117">MMUCraft#117</a>: <i>“fix wordle character button contrast”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/115">MMUCraft#115</a>: <i>“knowledge book crafting recipe explanations”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/114">MMUCraft#114</a>: <i>“show death counter nametag toggle for player optio…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
