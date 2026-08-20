@@ -38,18 +38,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/131">MMUCraft#131</a>: <i>“secret saturdays & velocity – velocity with a cust…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/130">MMUCraft#130</a>: <i>“note on what user information is shared with other…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/129">MMUCraft#129</a>: <i>“grpc time limit – right now grpc calls have a max …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/128">MMUCraft#128</a>: <i>“committee can impersonate any user – since committ…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/127">MMUCraft#127</a>: <i>“make knowledge book committee overview link to pla…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/125">MMUCraft#125</a>: <i>“credit fish texture authors”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/122">MMUCraft#122</a>: <i>“some discord commands are missing coloration – <im…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/118">MMUCraft#118</a>: <i>“knowledge book tables visually bugged”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/121">MMUCraft#121</a>: <i>“list online players command discord – /mc list wor…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/123">MMUCraft#123</a>: <i>“website online player indicator – at the top. remo…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/127">MMUCraft#127</a>: <i>“make knowledge book committee overview link to pla…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/124">MMUCraft#124</a>: <i>“player profile show death toggle”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/124#issuecomment-5352796879">MMUCraft#124</a>: <i>“i thought this had been removed in that complex gi…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/122#issuecomment-5352764304">MMUCraft#122</a>: <i>“and why are there brackets around the advancement …”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/120#issuecomment-5352741290">MMUCraft#120</a>: <i>“done -> *”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/120">MMUCraft#120</a>: <i>“light-up decoblocks – - glow item frame toggle - a…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/89">MMUCraft#89</a>: <i>“jockey charm – tooltip: DONT SAY IT  speed upgrade…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/126">MMUCraft#126</a>: <i>“enderite block misnaming – enderite block is calle…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
