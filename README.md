@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/128#issuecomment-5355841695">MMUCraft#128</a>: <i>“* this will be perfect”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/131">MMUCraft#131</a>: <i>“secret saturdays & velocity – velocity with a cust…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/130">MMUCraft#130</a>: <i>“note on what user information is shared with other…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/129">MMUCraft#129</a>: <i>“grpc time limit – right now grpc calls have a max …”</i></li>
@@ -49,7 +50,6 @@
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/121">MMUCraft#121</a>: <i>“list online players command discord – /mc list wor…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/123">MMUCraft#123</a>: <i>“website online player indicator – at the top. remo…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/127">MMUCraft#127</a>: <i>“make knowledge book committee overview link to pla…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/124">MMUCraft#124</a>: <i>“player profile show death toggle”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
