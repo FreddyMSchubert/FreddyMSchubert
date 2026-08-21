@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/132">MMUCraft#132</a>: <i>“countdown refinements – countdowns are great but p…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/132">MMUCraft#132</a>: <i>“countdown refinements – countdowns are great but p…”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/128#issuecomment-5355841695">MMUCraft#128</a>: <i>“* this will be perfect”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/131">MMUCraft#131</a>: <i>“secret saturdays & velocity – velocity with a cust…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/130">MMUCraft#130</a>: <i>“note on what user information is shared with other…”</i></li>
@@ -50,8 +52,6 @@
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/122">MMUCraft#122</a>: <i>“some discord commands are missing coloration – <im…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/118">MMUCraft#118</a>: <i>“knowledge book tables visually bugged”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/121">MMUCraft#121</a>: <i>“list online players command discord – /mc list wor…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/123">MMUCraft#123</a>: <i>“website online player indicator – at the top. remo…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/127">MMUCraft#127</a>: <i>“make knowledge book committee overview link to pla…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
