@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/135">MMUCraft#135</a>: <i>“file size insanity reduction – admin-tab.tsx is 1,…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/134">MMUCraft#134</a>: <i>“testing – playwright my beloved”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/134#issuecomment-5381664524">MMUCraft#134</a>: <i>“Resolved by 7ef67a4: replaced the ad-hoc testing s…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/135">MMUCraft#135</a>: <i>“file size insanity reduction – admin-tab.tsx is 1,…”</i></li>
@@ -51,7 +52,6 @@
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/130">MMUCraft#130</a>: <i>“note on what user information is shared with other…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/128">MMUCraft#128</a>: <i>“committee can impersonate any user – since committ…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/132">MMUCraft#132</a>: <i>“countdown refinements – countdowns are great but p…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/132">MMUCraft#132</a>: <i>“countdown refinements – countdowns are great but p…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
