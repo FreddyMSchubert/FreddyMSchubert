@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/119">MMUCraft#119</a>: <i>“save before stopping server”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/129">MMUCraft#129</a>: <i>“grpc time limit – right now grpc calls have a max …”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/130">MMUCraft#130</a>: <i>“note on what user information is shared with other…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/128">MMUCraft#128</a>: <i>“committee can impersonate any user – since committ…”</i></li>
@@ -51,7 +52,6 @@
 <li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/129">MMUCraft#129</a>: <i>“grpc time limit – right now grpc calls have a max …”</i></li>
 <li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/128">MMUCraft#128</a>: <i>“committee can impersonate any user – since committ…”</i></li>
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/127">MMUCraft#127</a>: <i>“make knowledge book committee overview link to pla…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/125">MMUCraft#125</a>: <i>“credit fish texture authors”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
