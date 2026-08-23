@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/137">MMUCraft#137</a>: <i>“crisp union site block rendering – and if possible…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/136">MMUCraft#136</a>: <i>“knowledge improved mobile ui”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/135">MMUCraft#135</a>: <i>“file size insanity reduction – admin-tab.tsx is 1,…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/134">MMUCraft#134</a>: <i>“testing – playwright my beloved”</i></li>
@@ -51,7 +52,6 @@
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/119">MMUCraft#119</a>: <i>“save before stopping server”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/129">MMUCraft#129</a>: <i>“grpc time limit – right now grpc calls have a max …”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/130">MMUCraft#130</a>: <i>“note on what user information is shared with other…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/128">MMUCraft#128</a>: <i>“committee can impersonate any user – since committ…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
