@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/138#issuecomment-5385956732">MMUCraft#138</a>: <i>“also switch around the emojis used when exporting …”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/138">MMUCraft#138</a>: <i>“wordle improvements – shared streak & user compari…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/137">MMUCraft#137</a>: <i>“crisp union site block rendering – and if possible…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/136">MMUCraft#136</a>: <i>“knowledge improved mobile ui”</i></li>
@@ -51,7 +52,6 @@
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/134">MMUCraft#134</a>: <i>“testing – playwright my beloved”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/133">MMUCraft#133</a>: <i>“backups – for db & mc world  seperate mc plugin pr…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/119">MMUCraft#119</a>: <i>“save before stopping server”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/129">MMUCraft#129</a>: <i>“grpc time limit – right now grpc calls have a max …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
