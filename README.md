@@ -26,8 +26,8 @@
 
 <!-- PINS:RENDERED:START -->
 <div align="center">
-	<a href="https://github.com/FreddyMSchubert/MMU_MCSoc_MMUCraft" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__MMU_MCSoc_MMUCraft.svg?v=618ae1f5644feab556d28219738f4513656d5466" alt="MMUCraft (FreddyMSchubert/MMU_MCSoc_MMUCraft)" />
+	<a href="https://github.com/FreddyMSchubert/MMUCraft" target="_blank">
+		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/FreddyMSchubert__MMUCraft.svg?v=fb0014775aed67ccfcbd28bd1d9c43cf5e3805b2" alt="MMUCraft (FreddyMSchubert/MMUCraft)" />
 	</a>
 	<a href="https://github.com/42core-team/monorepo" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/pins/42core-team__monorepo.svg?v=15af23a5f27691ba89c533982f6d1b5612ebcb01" alt="Core Game (Monorepo) (42core-team/monorepo)" />
