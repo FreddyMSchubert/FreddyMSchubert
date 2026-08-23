@@ -9,7 +9,7 @@ permissions:
     contents: write
 
 concurrency:
-    group: streak-stats-images
+    group: readme-main-writers
     cancel-in-progress: false
 
 jobs:

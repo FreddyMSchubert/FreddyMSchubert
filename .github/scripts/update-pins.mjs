@@ -90,7 +90,9 @@ async function renderPinSvg({ repo, title }, sha) {
 for (const pin of pins) {
   const sha = await getRepoHeadSha(pin.repo);
   const prev = manifest[pin.repo]?.sha;
-  if (prev === sha) {
+  const file = manifest[pin.repo]?.file;
+  const cached = file && fs.existsSync(file) ? fs.readFileSync(file, "utf8") : "";
+  if (prev === sha && cached && !cached.includes("Something went wrong!")) {
     console.log(`UNCHANGED ${pin.repo} (${sha.slice(0, 7)})`);
     continue;
   }

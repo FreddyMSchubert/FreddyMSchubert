@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 * * * *"
 
+concurrency:
+  group: readme-main-writers
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
