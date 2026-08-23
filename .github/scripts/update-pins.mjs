@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { createHash } from "node:crypto";
 
 const README = "README.md";
 const OUT_DIR = "profile/pins";
@@ -106,7 +107,8 @@ fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + "\n", "utf8"
 const cards = pins
   .map((p) => {
     const info = manifest[p.repo];
-    const raw = `https://raw.githubusercontent.com/${process.env.PROFILE_REPO}/main/${info.file}?v=${info.sha}`;
+    const version = createHash("sha256").update(fs.readFileSync(info.file)).digest("hex").slice(0, 12);
+    const raw = `https://raw.githubusercontent.com/${process.env.PROFILE_REPO}/main/${info.file}?v=${version}`;
     const href = `https://github.com/${p.repo}`;
     const alt = `${p.title} (${p.repo})`;
     return `\t<a href="${href}" target="_blank">\n\t\t<img align="center" src="${raw}" alt="${alt}" />\n\t</a>`;
