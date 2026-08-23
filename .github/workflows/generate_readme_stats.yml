@@ -1,6 +1,10 @@
 name: Generate stats images
 
 on:
+    push:
+        branches: [main]
+        paths:
+            - ".github/workflows/generate_readme_stats.yml"
     schedule:
         - cron: "0 3 * * *"
     workflow_dispatch:
@@ -17,42 +21,32 @@ jobs:
                   fetch-depth: 0
 
             - name: Generate general stats card
-              uses: readme-tools/github-readme-stats-action@v1
+              uses: stats-organization/github-readme-stats-action@v2
               with:
                   card: stats
                   options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&card_width=650
                   path: profile/general-stats.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  fail_on_error: true
 
             - name: Generate lang stats card
-              uses: readme-tools/github-readme-stats-action@v1
+              uses: stats-organization/github-readme-stats-action@v2
               with:
                   card: top-langs
                   options: username=${{ github.repository_owner }}&show_icons=true&layout=donut&theme=tokyonight&card_width=320
                   path: profile/lang-stats.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  fail_on_error: true
 
-            - name: Rename images + update README to newest filenames
+            - name: Update README cache key
               shell: bash
               run: |
                   set -euo pipefail
 
                   VERSION="${{ github.run_id }}"
 
-                  NEW_GENERAL="profile/general-stats-${VERSION}.svg"
-                  NEW_LANG="profile/lang-stats-${VERSION}.svg"
-
-                  mv -f profile/general-stats.svg "${NEW_GENERAL}"
-                  mv -f profile/lang-stats.svg "${NEW_LANG}"
-
-                  # Update README links
-                  # general-stats
-                  perl -0777 -i -pe 's#raw\.githubusercontent\.com/FreddyMSchubert/FreddyMSchubert/[^/]+/profile/general-stats(?:-[0-9]+)?\.svg#raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/'"${NEW_GENERAL}"'#g' README.md
-                  # lang-stats
-                  perl -0777 -i -pe 's#raw\.githubusercontent\.com/FreddyMSchubert/FreddyMSchubert/[^/]+/profile/lang-stats(?:-[0-9]+)?\.svg#raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/'"${NEW_LANG}"'#g' README.md
-
-                  ls -1t profile/general-stats-*.svg 2>/dev/null | tail -n +5 | xargs -r rm -f
-                  ls -1t profile/lang-stats-*.svg 2>/dev/null | tail -n +5 | xargs -r rm -f
+                  perl -0777 -i -pe 's#raw\.githubusercontent\.com/FreddyMSchubert/FreddyMSchubert/[^/]+/profile/general-stats(?:-[0-9]+)?\.svg(?:\?v=[0-9]+)?#raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/general-stats.svg?v='"${VERSION}"'#g' README.md
+                  perl -0777 -i -pe 's#raw\.githubusercontent\.com/FreddyMSchubert/FreddyMSchubert/[^/]+/profile/lang-stats(?:-[0-9]+)?\.svg(?:\?v=[0-9]+)?#raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/lang-stats.svg?v='"${VERSION}"'#g' README.md
 
             - name: Commit and push
               run: |

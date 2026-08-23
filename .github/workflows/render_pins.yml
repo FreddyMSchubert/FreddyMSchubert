@@ -1,6 +1,11 @@
 name: Update pinned repo cards
 
 on:
+    push:
+        branches: [main]
+        paths:
+            - ".github/workflows/render_pins.yml"
+            - ".github/scripts/update-pins.mjs"
     workflow_dispatch:
     schedule:
         - cron: "30 4 * * *"
@@ -30,7 +35,7 @@ jobs:
             - name: Start github-readme-stats locally
               working-directory: /tmp/grs
               env:
-                  PAT_1: ${{ github.token }}
+                  PAT_1: ${{ secrets.STREAK_GITHUB_TOKEN }}
                   CACHE_SECONDS: "0"
               run: |
                   node express.js --port 9000 > /tmp/grs.log 2>&1 &
@@ -50,7 +55,7 @@ jobs:
 
             - name: Render pins + update README
               env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.STREAK_GITHUB_TOKEN }}
                   PROFILE_REPO: ${{ github.repository }}
               run: node .github/scripts/update-pins.mjs
 

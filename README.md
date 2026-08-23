@@ -20,7 +20,7 @@
 ### Currently working on...
 
 <!-- PINS:START -->
-<!-- PIN repo="FreddyMSchubert/MMU_MCSoc_MMUCraft" title="MMUCraft" -->
+<!-- PIN repo="FreddyMSchubert/MMUCraft" title="MMUCraft" -->
 <!-- PIN repo="42core-team/monorepo" title="Core Game (Monorepo)" -->
 <!-- PINS:END -->
 
@@ -61,11 +61,11 @@ Like this [GitHub Activity Timeline Widget](https://github.com/FreddyMSchubert/g
 <hr>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/general-stats-32615910478.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/general-stats.svg?v=32615910478">
 </div>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/lang-stats-32615910478.svg">
+	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/main/profile/lang-stats.svg?v=32615910478">
 	<img src="https://raw.githubusercontent.com/FreddyMSchubert/FreddyMSchubert/stats/assets/streak-stats-32617186344.svg">
 </div>
 
