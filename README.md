@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/137#issuecomment-5391538235">MMUCraft#137</a>: <i>“*  also i did not fix the diamond block overlappin…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/137">MMUCraft#137</a>: <i>“crisp union site block rendering – and if possible…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/111">MMUCraft#111</a>: <i>“villager trade bug – shift clicking doesnt work an…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/139">MMUCraft#139</a>: <i>“replace vanillatweaks – as much as possible. all t…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/63">MMUCraft#63</a>: <i>“stats & dashboard – graphs - total hours played ac…”</i></li>
@@ -50,8 +52,6 @@
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/135">MMUCraft#135</a>: <i>“file size insanity reduction – admin-tab.tsx is 1,…”</i></li>
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/134">MMUCraft#134</a>: <i>“testing – playwright my beloved”</i></li>
 <li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/134#issuecomment-5381664524">MMUCraft#134</a>: <i>“Resolved by 7ef67a4: replaced the ad-hoc testing s…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/135">MMUCraft#135</a>: <i>“file size insanity reduction – admin-tab.tsx is 1,…”</i></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/134#issuecomment-5381152579">MMUCraft#134</a>: <i>“move existing loose testing scripts into a proper …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
