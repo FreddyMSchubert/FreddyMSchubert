@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141#issuecomment-5413129969">MMUCraft#141</a>: <i>“*”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141">MMUCraft#141</a>: <i>“wrench item – basically, op-stuff-removed debug st…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/144">MMUCraft#144</a>: <i>“later-unlockable stuff – schedule unlocks. per wee…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/143">MMUCraft#143</a>: <i>“server claims – claims that belong to the server n…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
@@ -50,8 +52,6 @@
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/136#issuecomment-5399446821">MMUCraft#136</a>: <i>“* these are some significant mobile improvements a…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/140">MMUCraft#140</a>: <i>“players drop player head on death”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/136#issuecomment-5391785095">MMUCraft#136</a>: <i>“in fact mobile ui needs upgrades in general. too m…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/137#issuecomment-5391538235">MMUCraft#137</a>: <i>“*  also i did not fix the diamond block overlappin…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/137">MMUCraft#137</a>: <i>“crisp union site block rendering – and if possible…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
