@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/145">MMUCraft#145</a>: <i>“log streaming – to grafana”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142#issuecomment-5413436149">MMUCraft#142</a>: <i>“i dont think its happening :/”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141#issuecomment-5413129969">MMUCraft#141</a>: <i>“*”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141">MMUCraft#141</a>: <i>“wrench item – basically, op-stuff-removed debug st…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/144">MMUCraft#144</a>: <i>“later-unlockable stuff – schedule unlocks. per wee…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/143">MMUCraft#143</a>: <i>“server claims – claims that belong to the server n…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141">MMUCraft#141</a>: <i>“wrench item – basically, op-stuff-removed debug st…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/136">MMUCraft#136</a>: <i>“knowledge improved mobile ui”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/111#issuecomment-5399965988">MMUCraft#111</a>: <i>“im just gonna add a bunch of logging and see wheth…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/145">MMUCraft#145</a>: <i>“log streaming – to grafana”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142#issuecomment-5413436149">MMUCraft#142</a>: <i>“i dont think its happening :/”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141#issuecomment-5413129969">MMUCraft#141</a>: <i>“*”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141">MMUCraft#141</a>: <i>“wrench item – basically, op-stuff-removed debug st…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/144">MMUCraft#144</a>: <i>“later-unlockable stuff – schedule unlocks. per wee…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/143">MMUCraft#143</a>: <i>“server claims – claims that belong to the server n…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141">MMUCraft#141</a>: <i>“wrench item – basically, op-stuff-removed debug st…”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/136">MMUCraft#136</a>: <i>“knowledge improved mobile ui”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/111#issuecomment-5399965988">MMUCraft#111</a>: <i>“im just gonna add a bunch of logging and see wheth…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
