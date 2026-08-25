@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/143">MMUCraft#143</a>: <i>“server claims – claims that belong to the server n…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141">MMUCraft#141</a>: <i>“wrench item – basically, op-stuff-removed debug st…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/136">MMUCraft#136</a>: <i>“knowledge improved mobile ui”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/111#issuecomment-5399965988">MMUCraft#111</a>: <i>“im just gonna add a bunch of logging and see wheth…”</i></li>
@@ -50,8 +52,6 @@
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/137#issuecomment-5391538235">MMUCraft#137</a>: <i>“*  also i did not fix the diamond block overlappin…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/137">MMUCraft#137</a>: <i>“crisp union site block rendering – and if possible…”</i></li>
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/111">MMUCraft#111</a>: <i>“villager trade bug – shift clicking doesnt work an…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/139">MMUCraft#139</a>: <i>“replace vanillatweaks – as much as possible. all t…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/63">MMUCraft#63</a>: <i>“stats & dashboard – graphs - total hours played ac…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
