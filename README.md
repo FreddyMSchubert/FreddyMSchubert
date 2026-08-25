@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What do cats and programmers have in common?
+<em>Daily random joke: </em><strong>Q:</strong> Why did the security conscious engineer refuse to pay their dinner bill?
 
-<strong>A:</strong> When either one is unusually happy and excited, an appropriate question would be, "did you find a bug".
+<strong>A:</strong> Because they could not verify the checksum.
 <!-- JOKE:END -->
 </div>
 
