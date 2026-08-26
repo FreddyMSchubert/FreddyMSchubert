@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why did the security conscious engineer refuse to pay their dinner bill?
+<em>Daily random joke: </em><strong>Q:</strong> What do you do when you can't understand your husband's behavior?
 
-<strong>A:</strong> Because they could not verify the checksum.
+<strong>A:</strong> man man
 <!-- JOKE:END -->
 </div>
 
