@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What do you do when you can't understand your husband's behavior?
-
-<strong>A:</strong> man man
+<em>Daily random joke: </em>Programming is like sex: One mistake and you have to support it for the rest of your life.
 <!-- JOKE:END -->
 </div>
 
