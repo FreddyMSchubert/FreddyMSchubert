@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/138#issuecomment-5421200887">MMUCraft#138</a>: <i>“4 word puzzles are a tad tricky, id give another g…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/145">MMUCraft#145</a>: <i>“log streaming – to grafana”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142#issuecomment-5413436149">MMUCraft#142</a>: <i>“i dont think its happening :/”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141#issuecomment-5413129969">MMUCraft#141</a>: <i>“*”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141">MMUCraft#141</a>: <i>“wrench item – basically, op-stuff-removed debug st…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/144">MMUCraft#144</a>: <i>“later-unlockable stuff – schedule unlocks. per wee…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/143">MMUCraft#143</a>: <i>“server claims – claims that belong to the server n…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/142">MMUCraft#142</a>: <i>“reinvestigate cosmetic color cycling – it used to …”</i></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/141">MMUCraft#141</a>: <i>“wrench item – basically, op-stuff-removed debug st…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/136">MMUCraft#136</a>: <i>“knowledge improved mobile ui”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/147">MMUCraft#147</a>: <i>“proper website alerts – right now text is just kin…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/147#issuecomment-5438829549">MMUCraft#147</a>: <i>“done *”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/147">MMUCraft#147</a>: <i>“proper website alerts – right now text is just kin…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146#issuecomment-5437530672">MMUCraft#146</a>: <i>“maybe without a check, but doing it with a command…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146">MMUCraft#146</a>: <i>“nether & end blocking”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/139">MMUCraft#139</a>: <i>“replace vanillatweaks – as much as possible. all t…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/139#issuecomment-5437278492">MMUCraft#139</a>: <i>“too much work, not worth replacing.  i will remove…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/140">MMUCraft#140</a>: <i>“players drop player head on death”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/138">MMUCraft#138</a>: <i>“wordle improvements – shared streak & user compari…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/138#issuecomment-5436900850">MMUCraft#138</a>: <i>“shared streak and user comparisons are too much wo…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/111">MMUCraft#111</a>: <i>“villager trade bug – shift clicking doesnt work an…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/145">MMUCraft#145</a>: <i>“log streaming – to grafana”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
