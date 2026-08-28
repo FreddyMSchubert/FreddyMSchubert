@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146#issuecomment-5449961079">MMUCraft#146</a>: <i>“done *”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146">MMUCraft#146</a>: <i>“nether & end blocking”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/149">MMUCraft#149</a>: <i>“claims page refienements – right now it seems fine…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/150">MMUCraft#150</a>: <i>“fix wordle – only minecraft words work rn the rest…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/150">MMUCraft#150</a>: <i>“fix wordle – only minecraft words work rn the rest…”</i></li>
@@ -50,8 +52,6 @@
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/147#issuecomment-5438829549">MMUCraft#147</a>: <i>“done *”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/147">MMUCraft#147</a>: <i>“proper website alerts – right now text is just kin…”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146#issuecomment-5437530672">MMUCraft#146</a>: <i>“maybe without a check, but doing it with a command…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146">MMUCraft#146</a>: <i>“nether & end blocking”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/139">MMUCraft#139</a>: <i>“replace vanillatweaks – as much as possible. all t…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
