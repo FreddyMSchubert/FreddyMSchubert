@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/154#issuecomment-5462964476">MMUCraft#154</a>: <i>“the other stats appear up to date and correct”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/154">MMUCraft#154</a>: <i>“broken advancements count sourcing – oderzo defini…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/153">MMUCraft#153</a>: <i>“smoother deploy – add a "server back up", "server …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/153">MMUCraft#153</a>: <i>“smoother deploy – add a "server back up", "server …”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/152">MMUCraft#152</a>: <i>“grafana improvements – move grafana from /grafana/…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/152">MMUCraft#152</a>: <i>“grafana improvements – move grafana from /grafana/…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/151">MMUCraft#151</a>: <i>“shop cosmetics scenes – right now all you can see …”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/151#issuecomment-5460877717">MMUCraft#151</a>: <i>“done! *”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/151">MMUCraft#151</a>: <i>“shop cosmetics scenes – right now all you can see …”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146#issuecomment-5449961079">MMUCraft#146</a>: <i>“done *”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146">MMUCraft#146</a>: <i>“nether & end blocking”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/149">MMUCraft#149</a>: <i>“claims page refienements – right now it seems fine…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/150">MMUCraft#150</a>: <i>“fix wordle – only minecraft words work rn the rest…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/150">MMUCraft#150</a>: <i>“fix wordle – only minecraft words work rn the rest…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/149">MMUCraft#149</a>: <i>“claims page refienements – right now it seems fine…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/143">MMUCraft#143</a>: <i>“server claims – claims that belong to the server n…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/148">MMUCraft#148</a>: <i>“write out crafting tweaks knowledge page – im gonn…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/147">MMUCraft#147</a>: <i>“proper website alerts – right now text is just kin…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
