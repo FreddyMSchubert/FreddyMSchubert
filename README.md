@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/155">MMUCraft#155</a>: <i>“stats display what place youre in on server – 1st/…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/154#issuecomment-5462964476">MMUCraft#154</a>: <i>“the other stats appear up to date and correct”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/154">MMUCraft#154</a>: <i>“broken advancements count sourcing – oderzo defini…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/153">MMUCraft#153</a>: <i>“smoother deploy – add a "server back up", "server …”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/153">MMUCraft#153</a>: <i>“smoother deploy – add a "server back up", "server …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/152">MMUCraft#152</a>: <i>“grafana improvements – move grafana from /grafana/…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/152">MMUCraft#152</a>: <i>“grafana improvements – move grafana from /grafana/…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/151">MMUCraft#151</a>: <i>“shop cosmetics scenes – right now all you can see …”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/151#issuecomment-5460877717">MMUCraft#151</a>: <i>“done! *”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/151">MMUCraft#151</a>: <i>“shop cosmetics scenes – right now all you can see …”</i></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146#issuecomment-5449961079">MMUCraft#146</a>: <i>“done *”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/146">MMUCraft#146</a>: <i>“nether & end blocking”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/172">MMUCraft#172</a>: <i>“limit commands non-admin players can execute – rig…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/171">MMUCraft#171</a>: <i>“random tips when joining – if people dont read the…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/170">MMUCraft#170</a>: <i>“minecraft menu tweaks – try to remove "failed to c…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/169">MMUCraft#169</a>: <i>“fireproof wallets”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/168">MMUCraft#168</a>: <i>“singin attempt log – as well as logging attempts a…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/167">MMUCraft#167</a>: <i>“searchification! – shop search bar  search box tha…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/166">MMUCraft#166</a>: <i>“fishing rods cant be thrown for some reason”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/165">MMUCraft#165</a>: <i>“wandering trader offers nothing but mini blocks – …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/164">MMUCraft#164</a>: <i>“enchanted book copying refinements – make book dup…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/163">MMUCraft#163</a>: <i>“content overview in knowledge sidebar – some of th…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/162">MMUCraft#162</a>: <i>“dabloons visual refinements – turn dabloons stuff …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/161">MMUCraft#161</a>: <i>“wrench knowledge page – need that going”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
