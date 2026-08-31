@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/181">MMUCraft#181</a>: <i>“rate limiting is somewhat broken – rate limiting d…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/164">MMUCraft#164</a>: <i>“enchanted book copying refinements – make book dup…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/185">MMUCraft#185</a>: <i>“/fakeitems refinements – name it /givefake. make i…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/158">MMUCraft#158</a>: <i>“player colors are broken when first joining – iman…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/185">MMUCraft#185</a>: <i>“/fakeitems refinements – name it /givefake. make i…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/184">MMUCraft#184</a>: <i>“wandering trader trades gone – the mini blocks dat…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/183">MMUCraft#183</a>: <i>“advancements broken – advancement messages are kin…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/182">MMUCraft#182</a>: <i>“improved membership reasons – lets add a new membe…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/181">MMUCraft#181</a>: <i>“rate limiting is somewhat broken – rate limiting d…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/173#issuecomment-5471278979">MMUCraft#173</a>: <i>“make broken bold text in charm names if thing sare…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/173#issuecomment-5471276682">MMUCraft#173</a>: <i>“do a refresh of inventory if people refocus on the…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/180">MMUCraft#180</a>: <i>“profile page & editing improvements – set base loc…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/188">MMUCraft#188</a>: <i>“shop searchability – annoying to find specific stu…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/187">MMUCraft#187</a>: <i>“knowledge searchability – search box that searches…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/186">MMUCraft#186</a>: <i>“player searchability – Wherever there is a player …”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/163">MMUCraft#163</a>: <i>“content overview in knowledge sidebar – some of th…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/174">MMUCraft#174</a>: <i>“claims delete items – items get deleted when you t…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/170">MMUCraft#170</a>: <i>“minecraft menu tweaks – try to remove "failed to c…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/172">MMUCraft#172</a>: <i>“limit commands non-admin players can execute – rig…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/169">MMUCraft#169</a>: <i>“fireproof wallets”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/169#issuecomment-5474306844">MMUCraft#169</a>: <i>“oh and probably the enderite stuff should be firep…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/175">MMUCraft#175</a>: <i>“can only add members to claims, should be able to …”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/157">MMUCraft#157</a>: <i>“alert boxes shouldnt scroll horizontally – right n…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/165">MMUCraft#165</a>: <i>“wandering trader offers nothing but mini blocks – …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
