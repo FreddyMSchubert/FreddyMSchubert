@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why did Gargamel shut down the internet?
-
-<strong>A:</strong> Because he didn't want people **SMURFING** the web!
+<em>Daily random joke: </em>A programmer was arrested for writing unreadable code. They refused to comment.
 <!-- JOKE:END -->
 </div>
 
