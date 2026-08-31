@@ -38,18 +38,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/159">MMUCraft#159</a>: <i>“more detailed command logs – extend discord comman…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/189">MMUCraft#189</a>: <i>“Unread knowledge books warning when you join”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/189#issuecomment-5478708406">MMUCraft#189</a>: <i>“done in that commit”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/180">MMUCraft#180</a>: <i>“profile page & editing improvements – set base loc…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/171">MMUCraft#171</a>: <i>“random tips when joining – if people dont read the…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/190">MMUCraft#190</a>: <i>“dailies add advancements description – rn you gott…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/189">MMUCraft#189</a>: <i>“Unread knowledge books warning when you join”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/188">MMUCraft#188</a>: <i>“shop searchability – annoying to find specific stu…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/187">MMUCraft#187</a>: <i>“knowledge searchability – search box that searches…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/186">MMUCraft#186</a>: <i>“player searchability – Wherever there is a player …”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/163">MMUCraft#163</a>: <i>“content overview in knowledge sidebar – some of th…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/174">MMUCraft#174</a>: <i>“claims delete items – items get deleted when you t…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/170">MMUCraft#170</a>: <i>“minecraft menu tweaks – try to remove "failed to c…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/172">MMUCraft#172</a>: <i>“limit commands non-admin players can execute – rig…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/169">MMUCraft#169</a>: <i>“fireproof wallets”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/169#issuecomment-5474306844">MMUCraft#169</a>: <i>“oh and probably the enderite stuff should be firep…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/175">MMUCraft#175</a>: <i>“can only add members to claims, should be able to …”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/157">MMUCraft#157</a>: <i>“alert boxes shouldnt scroll horizontally – right n…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/165">MMUCraft#165</a>: <i>“wandering trader offers nothing but mini blocks – …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
