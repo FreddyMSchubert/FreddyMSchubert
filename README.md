@@ -7,7 +7,8 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>A programmer was arrested for writing unreadable code. They refused to comment.
+<em>Daily random joke: </em>Java truly is an OOP language...
+As in: OOPs I used Java!
 <!-- JOKE:END -->
 </div>
 
