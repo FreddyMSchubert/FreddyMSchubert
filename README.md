@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/194">MMUCraft#194</a>: <i>“knowledge, charms, cosmetics unlocked stat”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/179">MMUCraft#179</a>: <i>“message & chat improvements – color the name of th…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191">MMUCraft#191</a>: <i>“spammy first-join messages – <img width="1379" hei…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193">MMUCraft#193</a>: <i>“discord death messages broken – these should conta…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/190">MMUCraft#190</a>: <i>“dailies add advancements description – rn you gott…”</i></li>
@@ -50,8 +52,6 @@
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191">MMUCraft#191</a>: <i>“spammy first-join messages – <img width="1379" hei…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/184">MMUCraft#184</a>: <i>“wandering trader trades gone – the mini blocks dat…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/178">MMUCraft#178</a>: <i>“some knowledge refinements – too wordy welcome pag…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/167">MMUCraft#167</a>: <i>“searchification! – shop search bar  search box tha…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/186">MMUCraft#186</a>: <i>“player searchability – Wherever there is a player …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
