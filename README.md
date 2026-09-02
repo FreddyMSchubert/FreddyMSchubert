@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/187">MMUCraft#187</a>: <i>“knowledge searchability – search box that searches…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/166">MMUCraft#166</a>: <i>“fishing rods cant be thrown for some reason”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/183">MMUCraft#183</a>: <i>“advancements broken – advancement messages are kin…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/162">MMUCraft#162</a>: <i>“dabloons visual refinements – turn dabloons stuff …”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/159">MMUCraft#159</a>: <i>“more detailed command logs – extend discord comman…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/189">MMUCraft#189</a>: <i>“Unread knowledge books warning when you join”</i></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/189#issuecomment-5478708406">MMUCraft#189</a>: <i>“done in that commit”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/180">MMUCraft#180</a>: <i>“profile page & editing improvements – set base loc…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/171">MMUCraft#171</a>: <i>“random tips when joining – if people dont read the…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/190">MMUCraft#190</a>: <i>“dailies add advancements description – rn you gott…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/189">MMUCraft#189</a>: <i>“Unread knowledge books warning when you join”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/188">MMUCraft#188</a>: <i>“shop searchability – annoying to find specific stu…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191">MMUCraft#191</a>: <i>“spammy first-join messages – <img width="1379" hei…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193">MMUCraft#193</a>: <i>“discord death messages broken – these should conta…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/190">MMUCraft#190</a>: <i>“dailies add advancements description – rn you gott…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/192">MMUCraft#192</a>: <i>“weird air crafting bug – <img width="1468" height=…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191#issuecomment-5508267934">MMUCraft#191</a>: <i>“<img width="818" height="180" alt="Image" src="* /…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/192">MMUCraft#192</a>: <i>“weird air crafting bug – <img width="1468" height=…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191#issuecomment-5507920044">MMUCraft#191</a>: <i>“<img width="714" height="380" alt="Image" src="* /…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191">MMUCraft#191</a>: <i>“spammy first-join messages – <img width="1379" hei…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/184">MMUCraft#184</a>: <i>“wandering trader trades gone – the mini blocks dat…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/178">MMUCraft#178</a>: <i>“some knowledge refinements – too wordy welcome pag…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/167">MMUCraft#167</a>: <i>“searchification! – shop search bar  search box tha…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/186">MMUCraft#186</a>: <i>“player searchability – Wherever there is a player …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
