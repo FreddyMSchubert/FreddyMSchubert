@@ -40,6 +40,10 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/160#issuecomment-5514430210">MMUCraft#160</a>: <i>“<img width="938" height="187" alt="Image" src="* /…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/148">MMUCraft#148</a>: <i>“write out crafting tweaks knowledge page – im gonn…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/154">MMUCraft#154</a>: <i>“broken advancements count sourcing – oderzo defini…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/160">MMUCraft#160</a>: <i>“colored text? – colored texts with $ paragraph sym…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/194">MMUCraft#194</a>: <i>“knowledge, charms, cosmetics unlocked stat”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/179">MMUCraft#179</a>: <i>“message & chat improvements – color the name of th…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191">MMUCraft#191</a>: <i>“spammy first-join messages – <img width="1379" hei…”</i></li>
@@ -48,10 +52,6 @@
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/192">MMUCraft#192</a>: <i>“weird air crafting bug – <img width="1468" height=…”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191#issuecomment-5508267934">MMUCraft#191</a>: <i>“<img width="818" height="180" alt="Image" src="* /…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/192">MMUCraft#192</a>: <i>“weird air crafting bug – <img width="1468" height=…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191#issuecomment-5507920044">MMUCraft#191</a>: <i>“<img width="714" height="380" alt="Image" src="* /…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/191">MMUCraft#191</a>: <i>“spammy first-join messages – <img width="1379" hei…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/184">MMUCraft#184</a>: <i>“wandering trader trades gone – the mini blocks dat…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/178">MMUCraft#178</a>: <i>“some knowledge refinements – too wordy welcome pag…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
