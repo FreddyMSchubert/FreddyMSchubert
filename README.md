@@ -40,6 +40,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/182">MMUCraft#182</a>: <i>“improved membership reasons – lets add a new membe…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196#issuecomment-5531506148">MMUCraft#196</a>: <i>“woww the wardens sonic boom is a particle effect t…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196">MMUCraft#196</a>: <i>“elytra particles – make a shared bow particle & el…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/173">MMUCraft#173</a>: <i>“charm forge refinements – 3d animation background …”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/168">MMUCraft#168</a>: <i>“singin attempt log – as well as logging attempts a…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/195">MMUCraft#195</a>: <i>“discord profile picture circle outline gone”</i></li>
@@ -49,9 +52,6 @@
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/177">MMUCraft#177</a>: <i>“craftable glowstone – glowstone craftable from glo…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/177">MMUCraft#177</a>: <i>“craftable glowstone – glowstone craftable from glo…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/155">MMUCraft#155</a>: <i>“stats display what place youre in on server – 1st/…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/176">MMUCraft#176</a>: <i>“make lucky charm fish-based – i mean its meant for…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/160#issuecomment-5514430210">MMUCraft#160</a>: <i>“<img width="938" height="187" alt="Image" src="* /…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/148">MMUCraft#148</a>: <i>“write out crafting tweaks knowledge page – im gonn…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
