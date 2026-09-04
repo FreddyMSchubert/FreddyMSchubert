@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/199">MMUCraft#199</a>: <i>“membership live sync – when membership is enabled …”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/203">MMUCraft#203</a>: <i>“player heads tooltip doesnt stay – it used to tho,…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196">MMUCraft#196</a>: <i>“elytra particles – make a shared bow particle & el…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/199">MMUCraft#199</a>: <i>“membership live sync – when membership is enabled …”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196#issuecomment-5540698317">MMUCraft#196</a>: <i>“i cant see my own trail when flying with elytra. d…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/198">MMUCraft#198</a>: <i>“hide more advancements from chat – blazeandcave ad…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193#issuecomment-5540378263">MMUCraft#193</a>: <i>“<img width="798" height="154" alt="Image" src="* /…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/203">MMUCraft#203</a>: <i>“player heads tooltip doesnt stay – it used to tho,…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/199">MMUCraft#199</a>: <i>“membership live sync – when membership is enabled …”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/203">MMUCraft#203</a>: <i>“player heads tooltip doesnt stay – it used to tho,…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196">MMUCraft#196</a>: <i>“elytra particles – make a shared bow particle & el…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/199">MMUCraft#199</a>: <i>“membership live sync – when membership is enabled …”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196#issuecomment-5540698317">MMUCraft#196</a>: <i>“i cant see my own trail when flying with elytra. d…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/198">MMUCraft#198</a>: <i>“hide more advancements from chat – blazeandcave ad…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
