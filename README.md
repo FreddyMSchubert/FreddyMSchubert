@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196">MMUCraft#196</a>: <i>“elytra particles – make a shared bow particle & el…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/199">MMUCraft#199</a>: <i>“membership live sync – when membership is enabled …”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196#issuecomment-5540698317">MMUCraft#196</a>: <i>“i cant see my own trail when flying with elytra. d…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/198">MMUCraft#198</a>: <i>“hide more advancements from chat – blazeandcave ad…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193#issuecomment-5540378263">MMUCraft#193</a>: <i>“<img width="798" height="154" alt="Image" src="* /…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/197">MMUCraft#197</a>: <i>“improved update flow – sometimes players get remov…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/197">MMUCraft#197</a>: <i>“improved update flow – sometimes players get remov…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/182">MMUCraft#182</a>: <i>“improved membership reasons – lets add a new membe…”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196#issuecomment-5531506148">MMUCraft#196</a>: <i>“woww the wardens sonic boom is a particle effect t…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/196">MMUCraft#196</a>: <i>“elytra particles – make a shared bow particle & el…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/173">MMUCraft#173</a>: <i>“charm forge refinements – 3d animation background …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/168">MMUCraft#168</a>: <i>“singin attempt log – as well as logging attempts a…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/195">MMUCraft#195</a>: <i>“discord profile picture circle outline gone”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/195">MMUCraft#195</a>: <i>“discord profile picture circle outline gone”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193">MMUCraft#193</a>: <i>“discord death messages broken – these should conta…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/161">MMUCraft#161</a>: <i>“wrench knowledge page – need that going”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/177">MMUCraft#177</a>: <i>“craftable glowstone – glowstone craftable from glo…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
