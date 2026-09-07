@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/144">MMUCraft#144</a>: <i>“later-unlockable stuff – schedule unlocks. per wee…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/198">MMUCraft#198</a>: <i>“hide more advancements from chat – blazeandcave ad…”</i></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193#issuecomment-5550956295">MMUCraft#193</a>: <i>“nvm just needed a deploy, works now”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193">MMUCraft#193</a>: <i>“discord death messages broken – these should conta…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/203">MMUCraft#203</a>: <i>“player heads tooltip doesnt stay – it used to tho,…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/199">MMUCraft#199</a>: <i>“membership live sync – when membership is enabled …”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/203">MMUCraft#203</a>: <i>“player heads tooltip doesnt stay – it used to tho,…”</i></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/144">MMUCraft#144</a>: <i>“later-unlockable stuff – schedule unlocks. per wee…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/198">MMUCraft#198</a>: <i>“hide more advancements from chat – blazeandcave ad…”</i></li>
+<li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193#issuecomment-5550956295">MMUCraft#193</a>: <i>“nvm just needed a deploy, works now”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193">MMUCraft#193</a>: <i>“discord death messages broken – these should conta…”</i></li>
+<li>✅ <b>4 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/203">MMUCraft#203</a>: <i>“player heads tooltip doesnt stay – it used to tho,…”</i></li>
+<li>✅ <b>4 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/199">MMUCraft#199</a>: <i>“membership live sync – when membership is enabled …”</i></li>
+<li>✅ <b>4 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
+<li>✅ <b>4 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
+<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/203">MMUCraft#203</a>: <i>“player heads tooltip doesnt stay – it used to tho,…”</i></li>
+<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
+<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
