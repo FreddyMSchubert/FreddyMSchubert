@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What airline do developers prefer when they're in a rush?
+<em>Daily random joke: </em><strong>Q:</strong> How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?
 
-<strong>A:</strong> Delta.
+<strong>A:</strong> git stache pop
 <!-- JOKE:END -->
 </div>
 
