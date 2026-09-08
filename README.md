@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/206">MMUCraft#206</a>: <i>“get ping numbers in player overview working”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/144">MMUCraft#144</a>: <i>“later-unlockable stuff – schedule unlocks. per wee…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/198">MMUCraft#198</a>: <i>“hide more advancements from chat – blazeandcave ad…”</i></li>
@@ -51,7 +52,6 @@
 <li>✅ <b>4 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
 <li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/203">MMUCraft#203</a>: <i>“player heads tooltip doesnt stay – it used to tho,…”</i></li>
 <li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/202">MMUCraft#202</a>: <i>“dyed & animated shop items members-only – we need …”</i></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/201">MMUCraft#201</a>: <i>“simple voice over mod – we need that”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
