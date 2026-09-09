@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What kind of computer can hold a musical note?
+<em>Daily random joke: </em><strong>Q:</strong> What's the second movie about a database engineer called?
 
-<strong>A:</strong> A Dell.
+<strong>A:</strong> The SQL.
 <!-- JOKE:END -->
 </div>
 
