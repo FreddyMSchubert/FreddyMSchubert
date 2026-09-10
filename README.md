@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221#issuecomment-5621156373">MMUCraft#221</a>: <i>“done *”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221">MMUCraft#221</a>: <i>“cosmetic books buyable with limit of 1 a day”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221">MMUCraft#221</a>: <i>“cosmetic books buyable with limit of 1 a day”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/217">MMUCraft#217</a>: <i>“shop buying final confirmation is badly visible – …”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/216">MMUCraft#216</a>: <i>“players page badly cut off – <img width="1216" hei…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/213#issuecomment-5620121915">MMUCraft#213</a>: <i>“* done”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/213">MMUCraft#213</a>: <i>“make people show up on locator bar even if they ha…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/211">MMUCraft#211</a>: <i>“Slime Chunk Detector – Little device with 5 mobile…”</i></li>
-<li>🌕 <b>Today</b>: Merged PR <a href="undefined">MMUCraft#212</a></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/pull/212#issuecomment-5620101652">MMUCraft#212</a>: <i>“i mean conceptually but right now ill merge cause …”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/220">MMUCraft#220</a>: <i>“stop it with [member] and [committee] everywhere, …”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/219">MMUCraft#219</a>: <i>“names still not updating – the player nametag can …”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221#issuecomment-5621156373">MMUCraft#221</a>: <i>“done *”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221">MMUCraft#221</a>: <i>“cosmetic books buyable with limit of 1 a day”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221">MMUCraft#221</a>: <i>“cosmetic books buyable with limit of 1 a day”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/217">MMUCraft#217</a>: <i>“shop buying final confirmation is badly visible – …”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/216">MMUCraft#216</a>: <i>“players page badly cut off – <img width="1216" hei…”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/213#issuecomment-5620121915">MMUCraft#213</a>: <i>“* done”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/213">MMUCraft#213</a>: <i>“make people show up on locator bar even if they ha…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/211">MMUCraft#211</a>: <i>“Slime Chunk Detector – Little device with 5 mobile…”</i></li>
+<li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#212</a></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/pull/212#issuecomment-5620101652">MMUCraft#212</a>: <i>“i mean conceptually but right now ill merge cause …”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/220">MMUCraft#220</a>: <i>“stop it with [member] and [committee] everywhere, …”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/219">MMUCraft#219</a>: <i>“names still not updating – the player nametag can …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
