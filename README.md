@@ -40,6 +40,10 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/213">MMUCraft#213</a>: <i>“make people show up on locator bar even if they ha…”</i></li>
+<li>🚀 <b>Today</b>: Opened PR <a href="undefined">MMUCraft#212</a></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/211">MMUCraft#211</a>: <i>“Slime Chunk Detector – Little device with 5 mobile…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/210">MMUCraft#210</a>: <i>“balance structure mods – too many rn. need a limit…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/209">MMUCraft#209</a>: <i>“sign-in should prioritize student id as well – Rig…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/209">MMUCraft#209</a>: <i>“sign-in should prioritize student id as well – Rig…”</i></li>
 <li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/207#issuecomment-5588349092">MMUCraft#207</a>: <i>“problem solved, removed the fletching table task.”</i></li>
@@ -48,10 +52,6 @@
 <li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/206#issuecomment-5586254639">MMUCraft#206</a>: <i>“done in *”</i></li>
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/206">MMUCraft#206</a>: <i>“get ping numbers in player overview working”</i></li>
 <li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/206">MMUCraft#206</a>: <i>“get ping numbers in player overview working”</i></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/144">MMUCraft#144</a>: <i>“later-unlockable stuff – schedule unlocks. per wee…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/198">MMUCraft#198</a>: <i>“hide more advancements from chat – blazeandcave ad…”</i></li>
-<li>💬 <b>5 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/193#issuecomment-5550956295">MMUCraft#193</a>: <i>“nvm just needed a deploy, works now”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
