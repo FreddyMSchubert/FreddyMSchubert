@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225">MMUCraft#225</a>: <i>“Some way to view players inventories & ender chest…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224#issuecomment-5639736942">MMUCraft#224</a>: <i>“nope not doing that too much work little payoff”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225#issuecomment-5637738572">MMUCraft#225</a>: <i>“# this is probably easiest and also updates quickl…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224#issuecomment-5637711852">MMUCraft#224</a>: <i>“If somehow possible, could be cool to surface all …”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225">MMUCraft#225</a>: <i>“Some way to view players inventories & ender chest…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222#issuecomment-5637609128">MMUCraft#222</a>: <i>“tested & works now”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222">MMUCraft#222</a>: <i>“prod discord integration is one-way – messages wri…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/220">MMUCraft#220</a>: <i>“stop it with [member] and [committee] everywhere, …”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225">MMUCraft#225</a>: <i>“Some way to view players inventories & ender chest…”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224#issuecomment-5639736942">MMUCraft#224</a>: <i>“nope not doing that too much work little payoff”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225#issuecomment-5637738572">MMUCraft#225</a>: <i>“# this is probably easiest and also updates quickl…”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224#issuecomment-5637711852">MMUCraft#224</a>: <i>“If somehow possible, could be cool to surface all …”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225">MMUCraft#225</a>: <i>“Some way to view players inventories & ender chest…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222#issuecomment-5637609128">MMUCraft#222</a>: <i>“tested & works now”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222">MMUCraft#222</a>: <i>“prod discord integration is one-way – messages wri…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/220">MMUCraft#220</a>: <i>“stop it with [member] and [committee] everywhere, …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
