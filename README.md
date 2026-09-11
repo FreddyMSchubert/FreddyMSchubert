@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225#issuecomment-5637738572">MMUCraft#225</a>: <i>“* this is probably easiest and also updates quickl…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224#issuecomment-5637711852">MMUCraft#224</a>: <i>“If somehow possible, could be cool to surface all …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225">MMUCraft#225</a>: <i>“Some way to view players inventories & ender chest…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222#issuecomment-5637609128">MMUCraft#222</a>: <i>“tested & works now”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222">MMUCraft#222</a>: <i>“prod discord integration is one-way – messages wri…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/220">MMUCraft#220</a>: <i>“stop it with [member] and [committee] everywhere, …”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/214">MMUCraft#214</a>: <i>“stop switching between auth signup steps from caus…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/210">MMUCraft#210</a>: <i>“balance structure mods – too many rn. need a limit…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/223">MMUCraft#223</a>: <i>“discord colors weird – <img width="745" height="97…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/223">MMUCraft#223</a>: <i>“discord colors weird – <img width="745" height="97…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222">MMUCraft#222</a>: <i>“prod discord integration is one-way – messages wri…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/218">MMUCraft#218</a>: <i>“fishing refinements – - [ ] make the fish not pull…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/219">MMUCraft#219</a>: <i>“names still not updating – the player nametag can …”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/219#issuecomment-5630544962">MMUCraft#219</a>: <i>“this was not the issue, the names were updating fi…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/215">MMUCraft#215</a>: <i>“add rules to knowledge pages – right now theyre on…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221#issuecomment-5621156373">MMUCraft#221</a>: <i>“done *”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221">MMUCraft#221</a>: <i>“cosmetic books buyable with limit of 1 a day”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/221">MMUCraft#221</a>: <i>“cosmetic books buyable with limit of 1 a day”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/217">MMUCraft#217</a>: <i>“shop buying final confirmation is badly visible – …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/216">MMUCraft#216</a>: <i>“players page badly cut off – <img width="1216" hei…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
