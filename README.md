@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/133">MMUCraft#133</a>: <i>“backups – for db & mc world  seperate mc plugin pr…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
@@ -51,7 +52,6 @@
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222#issuecomment-5637609128">MMUCraft#222</a>: <i>“tested & works now”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/222">MMUCraft#222</a>: <i>“prod discord integration is one-way – messages wri…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/220">MMUCraft#220</a>: <i>“stop it with [member] and [committee] everywhere, …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
