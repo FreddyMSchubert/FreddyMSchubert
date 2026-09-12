@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230">MMUCraft#230</a>: <i>“happy ghast speedup charm – for the soaring drop”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/229">MMUCraft#229</a>: <i>“accurate shield banner pixels – just get that vani…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/228">MMUCraft#228</a>: <i>“website stats show total charms, not total accessi…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/228">MMUCraft#228</a>: <i>“website stats show total charms, not total accessi…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/133">MMUCraft#133</a>: <i>“backups – for db & mc world  seperate mc plugin pr…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225">MMUCraft#225</a>: <i>“Some way to view players inventories & ender chest…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224#issuecomment-5639736942">MMUCraft#224</a>: <i>“nope not doing that too much work little payoff”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230">MMUCraft#230</a>: <i>“happy ghast speedup charm – for the soaring drop”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/229">MMUCraft#229</a>: <i>“accurate shield banner pixels – just get that vani…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/228">MMUCraft#228</a>: <i>“website stats show total charms, not total accessi…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/228">MMUCraft#228</a>: <i>“website stats show total charms, not total accessi…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/133">MMUCraft#133</a>: <i>“backups – for db & mc world  seperate mc plugin pr…”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224">MMUCraft#224</a>: <i>“set up world event logging & resetting using ledge…”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/225">MMUCraft#225</a>: <i>“Some way to view players inventories & ender chest…”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/224#issuecomment-5639736942">MMUCraft#224</a>: <i>“nope not doing that too much work little payoff”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
