@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/232">MMUCraft#232</a>: <i>“velocity links dont work – they dont link ot disco…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/232">MMUCraft#232</a>: <i>“velocity links dont work – they dont link ot disco…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/231">MMUCraft#231</a>: <i>“helmets breaking doesnt drop the cosmetic combined…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230">MMUCraft#230</a>: <i>“happy ghast speedup charm – for the soaring drop”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/229">MMUCraft#229</a>: <i>“accurate shield banner pixels – just get that vani…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/228">MMUCraft#228</a>: <i>“website stats show total charms, not total accessi…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/228">MMUCraft#228</a>: <i>“website stats show total charms, not total accessi…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/133">MMUCraft#133</a>: <i>“backups – for db & mc world  seperate mc plugin pr…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/232">MMUCraft#232</a>: <i>“velocity links dont work – they dont link ot disco…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/232">MMUCraft#232</a>: <i>“velocity links dont work – they dont link ot disco…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/231">MMUCraft#231</a>: <i>“helmets breaking doesnt drop the cosmetic combined…”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230">MMUCraft#230</a>: <i>“happy ghast speedup charm – for the soaring drop”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/229">MMUCraft#229</a>: <i>“accurate shield banner pixels – just get that vani…”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/228">MMUCraft#228</a>: <i>“website stats show total charms, not total accessi…”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/228">MMUCraft#228</a>: <i>“website stats show total charms, not total accessi…”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/133">MMUCraft#133</a>: <i>“backups – for db & mc world  seperate mc plugin pr…”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/205">MMUCraft#205</a>: <i>“glider knowledge page – kinda empty rn”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/200">MMUCraft#200</a>: <i>“glider – worse elytra”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
