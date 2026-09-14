@@ -38,18 +38,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/239#issuecomment-5668720209">MMUCraft#239</a>: <i>“youd have to craft together the map with a glass p…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/239">MMUCraft#239</a>: <i>“16x16 maps – no longer is 128 the smallest size, n…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/238">MMUCraft#238</a>: <i>“add advancements – we need an mmu advancements tab…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/237">MMUCraft#237</a>: <i>“fix weird time zones in some messages, convert it …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/236">MMUCraft#236</a>: <i>“glider repairing is weird – it will take multiple …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/235">MMUCraft#235</a>: <i>“shop purchase announcement cutoff – only announce …”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/131#issuecomment-5662687757">MMUCraft#131</a>: <i>“at this point the basic velocity setup works, whit…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/229">MMUCraft#229</a>: <i>“accurate shield banner pixels – just get that vani…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/231">MMUCraft#231</a>: <i>“helmets breaking doesnt drop the cosmetic combined…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230">MMUCraft#230</a>: <i>“happy ghast speedup charm – for the soaring drop”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230#issuecomment-5660663353">MMUCraft#230</a>: <i>“done -> #”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/234">MMUCraft#234</a>: <i>“worms rarity tweaks – when fishing a worm or magne…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/234">MMUCraft#234</a>: <i>“worms rarity tweaks – when fishing a worm or magne…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/232">MMUCraft#232</a>: <i>“velocity links dont work – they dont link ot disco…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/232">MMUCraft#232</a>: <i>“velocity links dont work – they dont link ot disco…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/231">MMUCraft#231</a>: <i>“helmets breaking doesnt drop the cosmetic combined…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230">MMUCraft#230</a>: <i>“happy ghast speedup charm – for the soaring drop”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/229">MMUCraft#229</a>: <i>“accurate shield banner pixels – just get that vani…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
