@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/131#issuecomment-5662687757">MMUCraft#131</a>: <i>“at this point the basic velocity setup works, whit…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/229">MMUCraft#229</a>: <i>“accurate shield banner pixels – just get that vani…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/231">MMUCraft#231</a>: <i>“helmets breaking doesnt drop the cosmetic combined…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230">MMUCraft#230</a>: <i>“happy ghast speedup charm – for the soaring drop”</i></li>
@@ -49,7 +50,6 @@
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/231">MMUCraft#231</a>: <i>“helmets breaking doesnt drop the cosmetic combined…”</i></li>
 <li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/230">MMUCraft#230</a>: <i>“happy ghast speedup charm – for the soaring drop”</i></li>
 <li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/229">MMUCraft#229</a>: <i>“accurate shield banner pixels – just get that vani…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/227">MMUCraft#227</a>: <i>“cant swap chestplate & elytra by right-clicking – …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
