@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/244">MMUCraft#244</a>: <i>“hoppers craftable with copper”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/243">MMUCraft#243</a>: <i>“Gifting service – Which we can reuse for christmas…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242">MMUCraft#242</a>: <i>“presents – to wrap any items.”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/238#issuecomment-5671831942">MMUCraft#238</a>: <i>“- [ ] advancement for doing wordles - worlde in x …”</i></li>
@@ -51,7 +52,6 @@
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/238">MMUCraft#238</a>: <i>“add advancements – we need an mmu advancements tab…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/237">MMUCraft#237</a>: <i>“fix weird time zones in some messages, convert it …”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/236">MMUCraft#236</a>: <i>“glider repairing is weird – it will take multiple …”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/235">MMUCraft#235</a>: <i>“shop purchase announcement cutoff – only announce …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
