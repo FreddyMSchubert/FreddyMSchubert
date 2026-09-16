@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>🌕 <b>Today</b>: Merged PR <a href="undefined">MMUCraft#248</a></li>
+<li>🚀 <b>Today</b>: Opened PR <a href="undefined">MMUCraft#248</a></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/240">MMUCraft#240</a>: <i>“hopper item filter charm – white white and blackli…”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/246#issuecomment-5694800818">MMUCraft#246</a>: <i>“fixed in #”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/246">MMUCraft#246</a>: <i>“rtp potion keeps spawning me in oceans – lets give…”</i></li>
@@ -50,8 +52,6 @@
 <li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#245</a></li>
 <li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#245</a></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/237">MMUCraft#237</a>: <i>“fix weird time zones in some messages, convert it …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/236">MMUCraft#236</a>: <i>“glider repairing is weird – it will take multiple …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/235">MMUCraft#235</a>: <i>“shop purchase announcement cutoff – only announce …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
