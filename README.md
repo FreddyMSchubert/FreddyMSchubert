@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/250">MMUCraft#250</a>: <i>“invisible item frame example iamge – for invisicar…”</i></li>
 <li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#248</a></li>
 <li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#248</a></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/240">MMUCraft#240</a>: <i>“hopper item filter charm – white white and blackli…”</i></li>
@@ -51,7 +52,6 @@
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/241">MMUCraft#241</a>: <i>“tweak glider recipe – breeze rods instead of stick…”</i></li>
 <li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#245</a></li>
 <li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#245</a></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/237">MMUCraft#237</a>: <i>“fix weird time zones in some messages, convert it …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
