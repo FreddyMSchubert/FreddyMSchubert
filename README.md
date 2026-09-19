@@ -40,6 +40,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/257">MMUCraft#257</a>: <i>“reduce shader bugginess”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/257#issuecomment-5744865524">MMUCraft#257</a>: <i>“yeah that worked seems good”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/263">MMUCraft#263</a>: <i>“crows decoblock glitchy – crow deco blocks still g…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/256">MMUCraft#256</a>: <i>“divide cosmetics into drops”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/262">MMUCraft#262</a>: <i>“redo cookie jar – using the minecraft cookie item …”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/261#issuecomment-5743563760">MMUCraft#261</a>: <i>“add copper chest”</i></li>
@@ -49,9 +52,6 @@
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253">MMUCraft#253</a>: <i>“wandering traders trade unlock books – randomly ei…”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253#issuecomment-5740271679">MMUCraft#253</a>: <i>“no actually not a good move because that would mak…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253">MMUCraft#253</a>: <i>“wandering traders trade unlock books – randomly ei…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/250#issuecomment-5728551487">MMUCraft#250</a>: <i>“done in #”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/250">MMUCraft#250</a>: <i>“invisible item frame example iamge – for invisicar…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/238#issuecomment-5728522679">MMUCraft#238</a>: <i>“a lot of this already works after commit v4, but t…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
