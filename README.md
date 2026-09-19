@@ -40,6 +40,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/261#issuecomment-5743563760">MMUCraft#261</a>: <i>“add copper chest”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/261#issuecomment-5743551439">MMUCraft#261</a>: <i>“\minecraft\main\mod\src\main\resources\data\mainmo…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/257">MMUCraft#257</a>: <i>“reduce shader bugginess”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/252">MMUCraft#252</a>: <i>“mini blocks locked behind drop – lets make mini bl…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253">MMUCraft#253</a>: <i>“wandering traders trade unlock books – randomly ei…”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253#issuecomment-5740271679">MMUCraft#253</a>: <i>“no actually not a good move because that would mak…”</i></li>
@@ -49,9 +52,6 @@
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/238#issuecomment-5728522679">MMUCraft#238</a>: <i>“a lot of this already works after commit v4, but t…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/252">MMUCraft#252</a>: <i>“mini blocks locked behind drop – lets make mini bl…”</i></li>
 <li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/250">MMUCraft#250</a>: <i>“invisible item frame example iamge – for invisicar…”</i></li>
-<li>🌕 <b>3 days ago</b>: Merged PR <a href="undefined">MMUCraft#248</a></li>
-<li>🚀 <b>3 days ago</b>: Opened PR <a href="undefined">MMUCraft#248</a></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/240">MMUCraft#240</a>: <i>“hopper item filter charm – white white and blackli…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
