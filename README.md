@@ -40,6 +40,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/252">MMUCraft#252</a>: <i>“mini blocks locked behind drop – lets make mini bl…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253">MMUCraft#253</a>: <i>“wandering traders trade unlock books – randomly ei…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253#issuecomment-5740271679">MMUCraft#253</a>: <i>“no actually not a good move because that would mak…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253">MMUCraft#253</a>: <i>“wandering traders trade unlock books – randomly ei…”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/250#issuecomment-5728551487">MMUCraft#250</a>: <i>“done in #”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/250">MMUCraft#250</a>: <i>“invisible item frame example iamge – for invisicar…”</i></li>
@@ -49,9 +52,6 @@
 <li>🌕 <b>3 days ago</b>: Merged PR <a href="undefined">MMUCraft#248</a></li>
 <li>🚀 <b>3 days ago</b>: Opened PR <a href="undefined">MMUCraft#248</a></li>
 <li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/240">MMUCraft#240</a>: <i>“hopper item filter charm – white white and blackli…”</i></li>
-<li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/246#issuecomment-5694800818">MMUCraft#246</a>: <i>“fixed in #”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/246">MMUCraft#246</a>: <i>“rtp potion keeps spawning me in oceans – lets give…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/247">MMUCraft#247</a>: <i>“limit joke books to once a day”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
