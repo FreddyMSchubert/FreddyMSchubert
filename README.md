@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/255">MMUCraft#255</a>: <i>“Create happy ghast speed charm textures”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/267">MMUCraft#267</a>: <i>“redstone remote – has 16 different settings - the …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/266">MMUCraft#266</a>: <i>“mask cosmetics refinements – first of all the nose…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/264">MMUCraft#264</a>: <i>“port chest mod to 26.3 – maybe even integrate with…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/265">MMUCraft#265</a>: <i>“port to 26.3”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/238#issuecomment-5748913768">MMUCraft#238</a>: <i>“i think im happy with this now. closing until more…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/238">MMUCraft#238</a>: <i>“add advancements – we need an mmu advancements tab…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/264">MMUCraft#264</a>: <i>“port chest mod to 26.3 – maybe even integrate with…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/257">MMUCraft#257</a>: <i>“reduce shader bugginess”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/257#issuecomment-5744865524">MMUCraft#257</a>: <i>“yeah that worked seems good”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/263">MMUCraft#263</a>: <i>“crows decoblock glitchy – crow deco blocks still g…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/256">MMUCraft#256</a>: <i>“divide cosmetics into drops”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/262">MMUCraft#262</a>: <i>“redo cookie jar – using the minecraft cookie item …”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/261#issuecomment-5743563760">MMUCraft#261</a>: <i>“add copper chest”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/261#issuecomment-5743551439">MMUCraft#261</a>: <i>“\minecraft\main\mod\src\main\resources\data\mainmo…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/257">MMUCraft#257</a>: <i>“reduce shader bugginess”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/252">MMUCraft#252</a>: <i>“mini blocks locked behind drop – lets make mini bl…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253">MMUCraft#253</a>: <i>“wandering traders trade unlock books – randomly ei…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253#issuecomment-5740271679">MMUCraft#253</a>: <i>“no actually not a good move because that would mak…”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/253">MMUCraft#253</a>: <i>“wandering traders trade unlock books – randomly ei…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
