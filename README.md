@@ -38,6 +38,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/273">MMUCraft#273</a>: <i>“some decoblocks broken – frog unplaceable, mmu dir…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272">MMUCraft#272</a>: <i>“tiara cosmetic”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/271">MMUCraft#271</a>: <i>“balance structures”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/268#issuecomment-5758551934">MMUCraft#268</a>: <i>“maybe it would be cool to add quartz in there, its…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/270">MMUCraft#270</a>: <i>“candle smoke is solid black – for some unclear rea…”</i></li>
@@ -48,8 +50,6 @@
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/267#issuecomment-5751234743">MMUCraft#267</a>: <i>“pretty decent. todo:  - [ ] fix shift + left click…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/255">MMUCraft#255</a>: <i>“Create happy ghast speed charm textures”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/267">MMUCraft#267</a>: <i>“redstone remote – has 16 different settings - the …”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/266">MMUCraft#266</a>: <i>“mask cosmetics refinements – first of all the nose…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/264">MMUCraft#264</a>: <i>“port chest mod to 26.3 – maybe even integrate with…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
