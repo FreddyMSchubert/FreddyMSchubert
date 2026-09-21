@@ -38,18 +38,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/273">MMUCraft#273</a>: <i>“some decoblocks broken – frog unplaceable, mmu dir…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272">MMUCraft#272</a>: <i>“tiara cosmetic”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/271">MMUCraft#271</a>: <i>“balance structures”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/268#issuecomment-5758551934">MMUCraft#268</a>: <i>“maybe it would be cool to add quartz in there, its…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/270">MMUCraft#270</a>: <i>“candle smoke is solid black – for some unclear rea…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/269">MMUCraft#269</a>: <i>“make cosmetics that should be glowing glow properl…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/266#issuecomment-5752075319">MMUCraft#266</a>: <i>“finally the nose isnt showing, and herobrine eyes …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/266">MMUCraft#266</a>: <i>“mask cosmetics refinements – first of all the nose…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/268">MMUCraft#268</a>: <i>“reworked coins – and therefore also wallet  - wood…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/267#issuecomment-5751234743">MMUCraft#267</a>: <i>“pretty decent. todo:  - [ ] fix shift + left click…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/255">MMUCraft#255</a>: <i>“Create happy ghast speed charm textures”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/267">MMUCraft#267</a>: <i>“redstone remote – has 16 different settings - the …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/281">MMUCraft#281</a>: <i>“tv 3am alien sequence – make the tv / computer pla…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/258">MMUCraft#258</a>: <i>“Balance dailies – - [x] Block - [x] Deco - [x] Mob…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/280">MMUCraft#280</a>: <i>“enchanting & anvils explainer video”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/279">MMUCraft#279</a>: <i>“redstone remote explainer video”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278">MMUCraft#278</a>: <i>“cosmetics explainer video”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/277">MMUCraft#277</a>: <i>“charms explainer video”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/276">MMUCraft#276</a>: <i>“smaller maps explainer video”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/239">MMUCraft#239</a>: <i>“16x16 maps – no longer is 128 the smallest size, n…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/273">MMUCraft#273</a>: <i>“some decoblocks broken – frog unplaceable, mmu dir…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/273#issuecomment-5767034854">MMUCraft#273</a>: <i>“nevermind, the frog is just a cosmetic only right …”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/273">MMUCraft#273</a>: <i>“some decoblocks broken – frog unplaceable, mmu dir…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/267">MMUCraft#267</a>: <i>“redstone remote – has 16 different settings - the …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
