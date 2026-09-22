@@ -40,6 +40,11 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774820640">MMUCraft#272</a>: <i>“another one, the microwave”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774805936">MMUCraft#272</a>: <i>“fishbowl as well would be more intuitive if it was…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774793187">MMUCraft#272</a>: <i>“also lets make the ice cream hat a decoblock pleas…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774786636">MMUCraft#272</a>: <i>“same with plunger actually. these should be decobl…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774744683">MMUCraft#272</a>: <i>“also, please make the small frog a decoblock rathe…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/270">MMUCraft#270</a>: <i>“candle smoke is solid black – for some unclear rea…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/281">MMUCraft#281</a>: <i>“tv 3am alien sequence – make the tv / computer pla…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/258">MMUCraft#258</a>: <i>“Balance dailies – - [x] Block - [x] Deco - [x] Mob…”</i></li>
@@ -47,11 +52,6 @@
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/279">MMUCraft#279</a>: <i>“redstone remote explainer video”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278">MMUCraft#278</a>: <i>“cosmetics explainer video”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/277">MMUCraft#277</a>: <i>“charms explainer video”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/276">MMUCraft#276</a>: <i>“smaller maps explainer video”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/239">MMUCraft#239</a>: <i>“16x16 maps – no longer is 128 the smallest size, n…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/273">MMUCraft#273</a>: <i>“some decoblocks broken – frog unplaceable, mmu dir…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/273#issuecomment-5767034854">MMUCraft#273</a>: <i>“nevermind, the frog is just a cosmetic only right …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/273">MMUCraft#273</a>: <i>“some decoblocks broken – frog unplaceable, mmu dir…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
