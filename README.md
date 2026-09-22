@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/285">MMUCraft#285</a>: <i>“update coins overview image on money knowledge pag…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/284#issuecomment-5777272500">MMUCraft#284</a>: <i>“# fixed”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/284">MMUCraft#284</a>: <i>“charm forge renders test instance block – instead …”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/284#issuecomment-5776214668">MMUCraft#284</a>: <i>“in fact thats an issue with all the enderite stuff”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/285">MMUCraft#285</a>: <i>“update coins overview image on money knowledge pag…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/284">MMUCraft#284</a>: <i>“charm forge renders test instance block – instead …”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774820640">MMUCraft#272</a>: <i>“another one, the microwave”</i></li>
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774805936">MMUCraft#272</a>: <i>“fishbowl as well would be more intuitive if it was…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774793187">MMUCraft#272</a>: <i>“also lets make the ice cream hat a decoblock pleas…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774786636">MMUCraft#272</a>: <i>“same with plunger actually. these should be decobl…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774744683">MMUCraft#272</a>: <i>“also, please make the small frog a decoblock rathe…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/270">MMUCraft#270</a>: <i>“candle smoke is solid black – for some unclear rea…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/281">MMUCraft#281</a>: <i>“tv 3am alien sequence – make the tv / computer pla…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/258">MMUCraft#258</a>: <i>“Balance dailies – - [x] Block - [x] Deco - [x] Mob…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/280">MMUCraft#280</a>: <i>“enchanting & anvils explainer video”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/279">MMUCraft#279</a>: <i>“redstone remote explainer video”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278">MMUCraft#278</a>: <i>“cosmetics explainer video”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/277">MMUCraft#277</a>: <i>“charms explainer video”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
