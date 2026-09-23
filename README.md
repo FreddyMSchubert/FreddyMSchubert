@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/277">MMUCraft#277</a>: <i>“charms explainer video”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289#issuecomment-5791051453">MMUCraft#289</a>: <i>“that did it”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289">MMUCraft#289</a>: <i>“alien debris texture missing – shows pink+black sq…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289#issuecomment-5786663051">MMUCraft#289</a>: <i>“that did not fix anything”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289">MMUCraft#289</a>: <i>“alien debris texture missing – shows pink+black sq…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/271">MMUCraft#271</a>: <i>“balance structures”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/265#issuecomment-5785392055">MMUCraft#265</a>: <i>“done, seems to work”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/265">MMUCraft#265</a>: <i>“port to 26.3”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/277">MMUCraft#277</a>: <i>“charms explainer video”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289#issuecomment-5791051453">MMUCraft#289</a>: <i>“that did it”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289">MMUCraft#289</a>: <i>“alien debris texture missing – shows pink+black sq…”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289#issuecomment-5786663051">MMUCraft#289</a>: <i>“that did not fix anything”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289">MMUCraft#289</a>: <i>“alien debris texture missing – shows pink+black sq…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/271">MMUCraft#271</a>: <i>“balance structures”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/265#issuecomment-5785392055">MMUCraft#265</a>: <i>“done, seems to work”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/265">MMUCraft#265</a>: <i>“port to 26.3”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
