@@ -40,6 +40,11 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289#issuecomment-5786663051">MMUCraft#289</a>: <i>“that did not fix anything”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289">MMUCraft#289</a>: <i>“alien debris texture missing – shows pink+black sq…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/271">MMUCraft#271</a>: <i>“balance structures”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/265#issuecomment-5785392055">MMUCraft#265</a>: <i>“done, seems to work”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/265">MMUCraft#265</a>: <i>“port to 26.3”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
@@ -47,11 +52,6 @@
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/285">MMUCraft#285</a>: <i>“update coins overview image on money knowledge pag…”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/284#issuecomment-5777272500">MMUCraft#284</a>: <i>“# fixed”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/284">MMUCraft#284</a>: <i>“charm forge renders test instance block – instead …”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/284#issuecomment-5776214668">MMUCraft#284</a>: <i>“in fact thats an issue with all the enderite stuff”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/285">MMUCraft#285</a>: <i>“update coins overview image on money knowledge pag…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/284">MMUCraft#284</a>: <i>“charm forge renders test instance block – instead …”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774820640">MMUCraft#272</a>: <i>“another one, the microwave”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/272#issuecomment-5774805936">MMUCraft#272</a>: <i>“fishbowl as well would be more intuitive if it was…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
