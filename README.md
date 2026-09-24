@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/290">MMUCraft#290</a>: <i>“start up surpsat events before the time – so the f…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/277">MMUCraft#277</a>: <i>“charms explainer video”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289#issuecomment-5791051453">MMUCraft#289</a>: <i>“that did it”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/289">MMUCraft#289</a>: <i>“alien debris texture missing – shows pink+black sq…”</i></li>
@@ -49,7 +50,6 @@
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
 <li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/287">MMUCraft#287</a>: <i>“charm boost doesnt drop from archaeology”</i></li>
 <li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/286">MMUCraft#286</a>: <i>“white discord chat colors”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
