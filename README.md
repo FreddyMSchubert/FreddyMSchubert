@@ -38,18 +38,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/303#issuecomment-5822974049">MMUCraft#303</a>: <i>“only when raining or thundering”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/303">MMUCraft#303</a>: <i>“make creepers 20% of the time charged – and less t…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/302#issuecomment-5822930214">MMUCraft#302</a>: <i>“maybe support mob heads as well to turn into creep…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/302#issuecomment-5822857103">MMUCraft#302</a>: <i>“manually show old nametag for invisible players wh…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/302#issuecomment-5822842491">MMUCraft#302</a>: <i>“if possible get an average of the players skin (or…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/302">MMUCraft#302</a>: <i>“potion of oderzo – or other player, made by using …”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/301">MMUCraft#301</a>: <i>“have the old animal you were shifted into stay if …”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/300">MMUCraft#300</a>: <i>“shift command – to shfit into any mob, for admins.…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/299">MMUCraft#299</a>: <i>“"Event score unavailable" – Event Score not proper…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/298">MMUCraft#298</a>: <i>“if you leave the event server you should rejoin on…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/297">MMUCraft#297</a>: <i>“respawn close to your location”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/131#issuecomment-5822148514">MMUCraft#131</a>: <i>“This is done! It works! I'm refining the killshift…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/298">MMUCraft#298</a>: <i>“if you leave the event server you should rejoin on…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/298#issuecomment-5828980438">MMUCraft#298</a>: <i>“yeah done”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/299">MMUCraft#299</a>: <i>“"Event score unavailable" – Event Score not proper…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/304">MMUCraft#304</a>: <i>“no-ai mob bug – idk how but sometimes mobs get lef…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/306">MMUCraft#306</a>: <i>“sneak to make the mob sound – fun to spam probably”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/300">MMUCraft#300</a>: <i>“shift command – to shfit into any mob, for admins.…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/297">MMUCraft#297</a>: <i>“respawn close to your location”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/296">MMUCraft#296</a>: <i>“killshift note when you try to eat something that …”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/296#issuecomment-5828248135">MMUCraft#296</a>: <i>“Let's make beetroot stew the universal food everyt…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/295">MMUCraft#295</a>: <i>“killshift limit sprinting – villagers sprint mega …”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/295#issuecomment-5828229235">MMUCraft#295</a>: <i>“done in #”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/301#issuecomment-5828224569">MMUCraft#301</a>: <i>“forgot to add the closed keyword, but yeah this is…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
