@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/308">MMUCraft#308</a>: <i>“old server oderzo winter build rotating screenshot…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/307">MMUCraft#307</a>: <i>“soul shards – texture & recipes. ill change it so …”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/303">MMUCraft#303</a>: <i>“make creepers 20% of the time charged – and less t…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/298">MMUCraft#298</a>: <i>“if you leave the event server you should rejoin on…”</i></li>
@@ -49,7 +50,6 @@
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/297">MMUCraft#297</a>: <i>“respawn close to your location”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/296">MMUCraft#296</a>: <i>“killshift note when you try to eat something that …”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/296#issuecomment-5828248135">MMUCraft#296</a>: <i>“Let's make beetroot stew the universal food everyt…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/295">MMUCraft#295</a>: <i>“killshift limit sprinting – villagers sprint mega …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
