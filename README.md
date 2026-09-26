@@ -40,6 +40,11 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/313">MMUCraft#313</a>: <i>“SurpSat Killshift Crown”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/302">MMUCraft#302</a>: <i>“potion of oderzo – or other player, made by using …”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/312">MMUCraft#312</a>: <i>“drowning as a zombie should turn you into a drowne…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/310">MMUCraft#310</a>: <i>“killshift refinements – - ender dragon (and probab…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/310">MMUCraft#310</a>: <i>“killshift refinements – - ender dragon (and probab…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/308">MMUCraft#308</a>: <i>“old server oderzo winter build rotating screenshot…”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/307">MMUCraft#307</a>: <i>“soul shards – texture & recipes. ill change it so …”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/303">MMUCraft#303</a>: <i>“make creepers 20% of the time charged – and less t…”</i></li>
@@ -47,11 +52,6 @@
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/298#issuecomment-5828980438">MMUCraft#298</a>: <i>“yeah done”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/299">MMUCraft#299</a>: <i>“"Event score unavailable" – Event Score not proper…”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/304">MMUCraft#304</a>: <i>“no-ai mob bug – idk how but sometimes mobs get lef…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/306">MMUCraft#306</a>: <i>“sneak to make the mob sound – fun to spam probably”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/300">MMUCraft#300</a>: <i>“shift command – to shfit into any mob, for admins.…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/297">MMUCraft#297</a>: <i>“respawn close to your location”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/296">MMUCraft#296</a>: <i>“killshift note when you try to eat something that …”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/296#issuecomment-5828248135">MMUCraft#296</a>: <i>“Let's make beetroot stew the universal food everyt…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
