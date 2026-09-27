@@ -40,6 +40,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/316">MMUCraft#316</a>: <i>“Dungeons and Taverns Maps don't work – Because the…”</i></li>
 <li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/261">MMUCraft#261</a>: <i>“Add a variety of custom heads to act as mini-block…”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278#issuecomment-5849944035">MMUCraft#278</a>: <i>“Decided not to do this unless someone asks for it …”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278">MMUCraft#278</a>: <i>“cosmetics explainer video”</i></li>
@@ -51,7 +52,6 @@
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/314">MMUCraft#314</a>: <i>“move woodcutter functionality into project”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/307">MMUCraft#307</a>: <i>“soul shards – texture & recipes. ill change it so …”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/313">MMUCraft#313</a>: <i>“SurpSat Killshift Crown”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/302">MMUCraft#302</a>: <i>“potion of oderzo – or other player, made by using …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
