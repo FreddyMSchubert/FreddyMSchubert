@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278#issuecomment-5849944035">MMUCraft#278</a>: <i>“Decided not to do this unless someone asks for it …”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278">MMUCraft#278</a>: <i>“cosmetics explainer video”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/314#issuecomment-5849940577">MMUCraft#314</a>: <i>“While doing this we decided not to make this a thi…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/314">MMUCraft#314</a>: <i>“move woodcutter functionality into project”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/280">MMUCraft#280</a>: <i>“enchanting & anvils explainer video”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/308">MMUCraft#308</a>: <i>“old server oderzo winter build rotating screenshot…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/315">MMUCraft#315</a>: <i>“advent calendar”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/314">MMUCraft#314</a>: <i>“move woodcutter functionality into project”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/307">MMUCraft#307</a>: <i>“soul shards – texture & recipes. ill change it so …”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/313">MMUCraft#313</a>: <i>“SurpSat Killshift Crown”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/302">MMUCraft#302</a>: <i>“potion of oderzo – or other player, made by using …”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/312">MMUCraft#312</a>: <i>“drowning as a zombie should turn you into a drowne…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/261">MMUCraft#261</a>: <i>“Add a variety of custom heads to act as mini-block…”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278#issuecomment-5849944035">MMUCraft#278</a>: <i>“Decided not to do this unless someone asks for it …”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/278">MMUCraft#278</a>: <i>“cosmetics explainer video”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/314#issuecomment-5849940577">MMUCraft#314</a>: <i>“While doing this we decided not to make this a thi…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/314">MMUCraft#314</a>: <i>“move woodcutter functionality into project”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/280">MMUCraft#280</a>: <i>“enchanting & anvils explainer video”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/308">MMUCraft#308</a>: <i>“old server oderzo winter build rotating screenshot…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/315">MMUCraft#315</a>: <i>“advent calendar”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/314">MMUCraft#314</a>: <i>“move woodcutter functionality into project”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/307">MMUCraft#307</a>: <i>“soul shards – texture & recipes. ill change it so …”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/313">MMUCraft#313</a>: <i>“SurpSat Killshift Crown”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/302">MMUCraft#302</a>: <i>“potion of oderzo – or other player, made by using …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
