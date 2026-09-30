@@ -40,6 +40,8 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/324">MMUCraft#324</a>: <i>“players tab needs a loading thing – rn it just loa…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/323">MMUCraft#323</a>: <i>“fish glow weirdly – when in the water or smth. do …”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/322">MMUCraft#322</a>: <i>“chests drop loot from the person who broke it”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/321">MMUCraft#321</a>: <i>“fix allay spawn eggs – they spawned on the server …”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/320">MMUCraft#320</a>: <i>“some weird discord formatting thing – #  this mess…”</i></li>
@@ -50,8 +52,6 @@
 <li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/312#issuecomment-5856584641">MMUCraft#312</a>: <i>“i did that btw”</i></li>
 <li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/312">MMUCraft#312</a>: <i>“drowning as a zombie should turn you into a drowne…”</i></li>
 <li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/317">MMUCraft#317</a>: <i>“MMU_Admin skin – big red veiny eyeball head, fancy…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/316">MMUCraft#316</a>: <i>“Dungeons and Taverns Maps don't work – Because the…”</i></li>
-<li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/316#issuecomment-5855992021">MMUCraft#316</a>: <i>“yupp that worked very nice”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
