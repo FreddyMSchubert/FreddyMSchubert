@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What is a pirate's favorite programming language?
+<em>Daily random joke: </em><strong>Q:</strong> How many Prolog programmers does it take to change a lightbulb?
 
-<strong>A:</strong> You'd think it was R, but a pirate's first love is Objectively C.
+<strong>A:</strong> Yes.
 <!-- JOKE:END -->
 </div>
 
