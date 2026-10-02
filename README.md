@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/335">MMUCraft#335</a>: <i>“minecarts are fucky wucky”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336">MMUCraft#336</a>: <i>“always spawn at one position in waiting room – 8 -…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336#issuecomment-5955361905">MMUCraft#336</a>: <i>“done!”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/337">MMUCraft#337</a>: <i>“heads lose data”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/337">MMUCraft#337</a>: <i>“heads lose data”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336">MMUCraft#336</a>: <i>“always spawn at one position in waiting room – 8 -…”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/335">MMUCraft#335</a>: <i>“minecarts are fucky wucky”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/329">MMUCraft#329</a>: <i>“link to paris in haze insta in 9am tooltip”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/333">MMUCraft#333</a>: <i>“combining armour deletes charm – When two armour p…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/322">MMUCraft#322</a>: <i>“chests drop loot from the person who broke it”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/332">MMUCraft#332</a>: <i>“soulbound + mending compatibility”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/331">MMUCraft#331</a>: <i>“move font color logic to welcome drop”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/335">MMUCraft#335</a>: <i>“minecarts are fucky wucky”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336">MMUCraft#336</a>: <i>“always spawn at one position in waiting room – 8 -…”</i></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336#issuecomment-5955361905">MMUCraft#336</a>: <i>“done!”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/337">MMUCraft#337</a>: <i>“heads lose data”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/337">MMUCraft#337</a>: <i>“heads lose data”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336">MMUCraft#336</a>: <i>“always spawn at one position in waiting room – 8 -…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/335">MMUCraft#335</a>: <i>“minecarts are fucky wucky”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/329">MMUCraft#329</a>: <i>“link to paris in haze insta in 9am tooltip”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/333">MMUCraft#333</a>: <i>“combining armour deletes charm – When two armour p…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/322">MMUCraft#322</a>: <i>“chests drop loot from the person who broke it”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/332">MMUCraft#332</a>: <i>“soulbound + mending compatibility”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/331">MMUCraft#331</a>: <i>“move font color logic to welcome drop”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
