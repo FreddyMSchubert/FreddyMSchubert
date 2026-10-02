@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/326">MMUCraft#326</a>: <i>“randomly 1-3 soul shard drops fro player deaths”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/327">MMUCraft#327</a>: <i>“advancements just dont announce anymore anywhere”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/326">MMUCraft#326</a>: <i>“randomly 1-3 soul shard drops fro player deaths”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/325">MMUCraft#325</a>: <i>“make it clearer that the chunk you stand in is the…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/324">MMUCraft#324</a>: <i>“players tab needs a loading thing – rn it just loa…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/323">MMUCraft#323</a>: <i>“fish glow weirdly – when in the water or smth. do …”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/322">MMUCraft#322</a>: <i>“chests drop loot from the person who broke it”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/321">MMUCraft#321</a>: <i>“fix allay spawn eggs – they spawned on the server …”</i></li>
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/320">MMUCraft#320</a>: <i>“some weird discord formatting thing – #  this mess…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/317">MMUCraft#317</a>: <i>“MMU_Admin skin – big red veiny eyeball head, fancy…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/318">MMUCraft#318</a>: <i>“hint button extra confirmation – cause people keep…”</i></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/319">MMUCraft#319</a>: <i>“quartz block reversible to nether quartz”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/332">MMUCraft#332</a>: <i>“soulbound + mending compatibility”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/331">MMUCraft#331</a>: <i>“move font color logic to welcome drop”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/330">MMUCraft#330</a>: <i>“number on the left in big player list of what plac…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/329">MMUCraft#329</a>: <i>“link to paris in haze insta in 9am tooltip”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/328">MMUCraft#328</a>: <i>“beds occupied – beds become occupied after sleepin…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/326">MMUCraft#326</a>: <i>“randomly 1-3 soul shard drops fro player deaths”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/327">MMUCraft#327</a>: <i>“advancements just dont announce anymore anywhere”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/326">MMUCraft#326</a>: <i>“randomly 1-3 soul shard drops fro player deaths”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/325">MMUCraft#325</a>: <i>“make it clearer that the chunk you stand in is the…”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/324">MMUCraft#324</a>: <i>“players tab needs a loading thing – rn it just loa…”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/323">MMUCraft#323</a>: <i>“fish glow weirdly – when in the water or smth. do …”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/322">MMUCraft#322</a>: <i>“chests drop loot from the person who broke it”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
