@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why don't parents teach their kids about regular expressions?
-
-<strong>A:</strong> Because they don't want them playing with matches
+<em>Daily random joke: </em>8 bytes walk into a bar, the bartenders asks "What will it be?" <br/>One of them says, "Make us a double."
 <!-- JOKE:END -->
 </div>
 
