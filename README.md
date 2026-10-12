@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why do kayakers make bad programmers?
-
-<strong>A:</strong> Because they're afraid of waterfall.
+<em>Daily random joke: </em>There are 10 types of people in this world, those who understand binary and those who don't.
 <!-- JOKE:END -->
 </div>
 
