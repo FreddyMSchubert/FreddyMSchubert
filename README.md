@@ -7,7 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>There are two ways to write error-free programs; only the third one works.
+<em>Daily random joke: </em>99 little bugs in the code, 99 bugs in the code, 1 bug fixed...compile again, 100 little bugs in the code.
 <!-- JOKE:END -->
 </div>
 
