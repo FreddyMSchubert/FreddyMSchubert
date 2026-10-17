@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Frederick Schubert (Freddy)&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 136, Total Commits  (last year) : 319, Total PRs: 172, Total Issues: 318, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 136, Total Commits  (last year) : 319, Total PRs: 172, Total Issues: 318, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >8</text>
+      >7</text>
     </g>
   </g>
     </svg>
