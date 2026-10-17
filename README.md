@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why did the computer squeak?
+<em>Daily random joke: </em><strong>Q:</strong> Why doesn't Chuck Norris need garbage collection.
 
-<strong>A:</strong> Because someone stepped on its mouse!
+<strong>A:</strong> Because he doesn’t call <code>.Dispose()</code>, he calls <code>.DropKick()</code>.
 <!-- JOKE:END -->
 </div>
 
