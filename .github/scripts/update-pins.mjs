@@ -79,7 +79,14 @@ async function renderPinSvg({ repo, title }, sha) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`Failed to render ${repo}: ${res.status} ${res.statusText}`);
   const svg = await res.text();
-  if (svg.includes("Something went wrong!")) throw new Error(`Failed to render ${repo}: API error card`);
+  if (svg.includes("Something went wrong!")) {
+    const message = svg
+      .replace(/<style\b[\s\S]*?<\/style>/g, "")
+      .replace(/<[^>]*>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+    throw new Error(`Failed to render ${repo}: ${message}`);
+  }
 
   const outFile = path.join(OUT_DIR, `${slug(repo)}.svg`);
   fs.writeFileSync(outFile, svg, "utf8");
