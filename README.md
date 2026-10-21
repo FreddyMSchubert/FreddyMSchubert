@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/42core-team/website/issues/793">42core-team/website#793</a>: <i>“strip markdown chars from desriptions preview – #”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
