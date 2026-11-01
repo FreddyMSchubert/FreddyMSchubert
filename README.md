@@ -46,10 +46,6 @@
 <li>💬 <b>03.10.2026</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/325#issuecomment-5965919297">MMUCraft#325</a>: <i>“Nvm it already says it the people that struggled w…”</i></li>
 <li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/325">MMUCraft#325</a>: <i>“make it clearer that the chunk you stand in is the…”</i></li>
 <li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/338">MMUCraft#338</a>: <i>“Breeding sniffers crashes server – Tested on dev s…”</i></li>
-<li>✅ <b>02.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/335">MMUCraft#335</a>: <i>“minecarts are fucky wucky”</i></li>
-<li>✅ <b>02.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336">MMUCraft#336</a>: <i>“always spawn at one position in waiting room – 8 -…”</i></li>
-<li>💬 <b>02.10.2026</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336#issuecomment-5955361905">MMUCraft#336</a>: <i>“done!”</i></li>
-<li>✅ <b>02.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/337">MMUCraft#337</a>: <i>“heads lose data”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
