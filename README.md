@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why are machine learning models so fit?
-
-<strong>A:</strong> Because they do weight training.
+<em>Daily random joke: </em>There are two ways to write error-free programs; only the third one works.
 <!-- JOKE:END -->
 </div>
 
