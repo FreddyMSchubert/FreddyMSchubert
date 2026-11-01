@@ -39,6 +39,17 @@
 <ol>
 <!-- ACTIVITY:START -->
 <li>⚠️ <b>21.10.2026</b>: Opened issue <a href="https://github.com/42core-team/website/issues/793">42core-team/website#793</a>: <i>“strip markdown chars from desriptions preview – #”</i></li>
+<li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/330">MMUCraft#330</a>: <i>“number on the left in big player list of what plac…”</i></li>
+<li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/327">MMUCraft#327</a>: <i>“advancements just dont announce anymore anywhere”</i></li>
+<li>💬 <b>03.10.2026</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/323#issuecomment-5966013247">MMUCraft#323</a>: <i>“idk. shader bug”</i></li>
+<li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/323">MMUCraft#323</a>: <i>“fish glow weirdly – when in the water or smth. do …”</i></li>
+<li>💬 <b>03.10.2026</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/325#issuecomment-5965919297">MMUCraft#325</a>: <i>“Nvm it already says it the people that struggled w…”</i></li>
+<li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/325">MMUCraft#325</a>: <i>“make it clearer that the chunk you stand in is the…”</i></li>
+<li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/338">MMUCraft#338</a>: <i>“Breeding sniffers crashes server – Tested on dev s…”</i></li>
+<li>✅ <b>02.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/335">MMUCraft#335</a>: <i>“minecarts are fucky wucky”</i></li>
+<li>✅ <b>02.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336">MMUCraft#336</a>: <i>“always spawn at one position in waiting room – 8 -…”</i></li>
+<li>💬 <b>02.10.2026</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/336#issuecomment-5955361905">MMUCraft#336</a>: <i>“done!”</i></li>
+<li>✅ <b>02.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/337">MMUCraft#337</a>: <i>“heads lose data”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
