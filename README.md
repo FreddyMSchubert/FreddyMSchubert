@@ -7,7 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>There are two ways to write error-free programs; only the third one works.
+<em>Daily random joke: </em>The next time you're using Safari or Firefox and it's running slowly, you can say to yourself,<br/> "I could've had a V8 (a browser 'engine')".
 <!-- JOKE:END -->
 </div>
 
