@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/403">MMUCraft#403</a>: <i>“night vision daily gives excessive money”</i></li>
 <li>⚠️ <b>21.10.2026</b>: Opened issue <a href="https://github.com/42core-team/website/issues/793">42core-team/website#793</a>: <i>“strip markdown chars from desriptions preview – #”</i></li>
 <li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/330">MMUCraft#330</a>: <i>“number on the left in big player list of what plac…”</i></li>
 <li>✅ <b>03.10.2026</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/327">MMUCraft#327</a>: <i>“advancements just dont announce anymore anywhere”</i></li>
