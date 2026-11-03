@@ -7,7 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em>The next time you're using Safari or Firefox and it's running slowly, you can say to yourself,<br/> "I could've had a V8 (a browser 'engine')".
+<em>Daily random joke: </em><strong>Q:</strong> How do you tell an introverted computer scientist from an extroverted scientist?
+
+<strong>A:</strong> An extroverted computer scientist looks at your shoes when he talks to you.
 <!-- JOKE:END -->
 </div>
 
