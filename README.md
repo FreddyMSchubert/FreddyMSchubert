@@ -40,9 +40,9 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
-<li>💬 <b>5 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/315#issuecomment-6602201033">MMUCraft#315</a>: <i>“# Ideas for drops from the advent calendar  - Play…”</i></li>
-<li>✅ <b>6 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/403">MMUCraft#403</a>: <i>“night vision daily gives excessive money”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
+<li>💬 <b>6 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/315#issuecomment-6602201033">MMUCraft#315</a>: <i>“# Ideas for drops from the advent calendar  - Play…”</i></li>
+<li>✅ <b>7 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/403">MMUCraft#403</a>: <i>“night vision daily gives excessive money”</i></li>
 <li>⚠️ <b>21.10.2026</b>: Opened issue <a href="https://github.com/42core-team/website/issues/793">42core-team/website#793</a>: <i>“strip markdown chars from desriptions preview – #”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
