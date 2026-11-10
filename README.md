@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> How do programming pirates pass method parameters?
+<em>Daily random joke: </em><strong>Q:</strong> What do you call optimistic front-end developers?
 
-<strong>A:</strong> Varrrrarrrgs.
+<strong>A:</strong> Stack half-full developers.
 <!-- JOKE:END -->
 </div>
 
