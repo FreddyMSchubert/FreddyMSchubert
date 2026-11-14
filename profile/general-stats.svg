@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Frederick Schubert (Freddy)&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 137, Total Commits  (last year) : 2335, Total PRs: 185, Total Issues: 689, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 137, Total Commits  (last year) : 2336, Total PRs: 185, Total Issues: 689, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 30.208162714380666;
+        stroke-dashoffset: 30.20798375602476;
       }
     }
   
