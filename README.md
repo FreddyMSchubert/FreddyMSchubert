@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/252">42core-team/monorepo#252</a>: <i>“Java client lib – It's time.  Potentially with Kot…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/251">42core-team/monorepo#251</a>: <i>“Wiki Rework – Right now its just two huge folders …”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/250">42core-team/monorepo#250</a>: <i>“Go-Lib cleanup – Improve it so its up to snuff and…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/162#issuecomment-6820212404">42core-team/monorepo#162</a>: <i>“Recent improvements made this a lot better, so I t…”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/42core-team/monorepo/issues/162">42core-team/monorepo#162</a>: <i>“Alert when opening visualizer in safari that it wi…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/230#issuecomment-6820071091">42core-team/monorepo#230</a>: <i>“Hypothetical approach is here: # although I think …”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/241#issuecomment-6819927040">42core-team/monorepo#241</a>: <i>“This is not really an issue because the server wou…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/234#issuecomment-6819817258">42core-team/monorepo#234</a>: <i>“What is this for?”</i></li>
-<li>👍 <b>Yesterday</b>: Approved PR <a href="undefined">42core-team/monorepo#247</a></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/407">MMUCraft#407</a>: <i>“crafting tweaks page improvements – - copper bucke…”</i></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/406">MMUCraft#406</a>: <i>“armor hiding knowledge page”</i></li>
-<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/252">42core-team/monorepo#252</a>: <i>“Java client lib – It's time.  Potentially with Kot…”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/251">42core-team/monorepo#251</a>: <i>“Wiki Rework – Right now its just two huge folders …”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/250">42core-team/monorepo#250</a>: <i>“Go-Lib cleanup – Improve it so its up to snuff and…”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/162#issuecomment-6820212404">42core-team/monorepo#162</a>: <i>“Recent improvements made this a lot better, so I t…”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/42core-team/monorepo/issues/162">42core-team/monorepo#162</a>: <i>“Alert when opening visualizer in safari that it wi…”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/230#issuecomment-6820071091">42core-team/monorepo#230</a>: <i>“Hypothetical approach is here: # although I think …”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/42core-team/monorepo/issues/241#issuecomment-6819927040">42core-team/monorepo#241</a>: <i>“This is not really an issue because the server wou…”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/42core-team/monorepo/pull/234#issuecomment-6819817258">42core-team/monorepo#234</a>: <i>“What is this for?”</i></li>
+<li>👍 <b>2 days ago</b>: Approved PR <a href="undefined">42core-team/monorepo#247</a></li>
+<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/407">MMUCraft#407</a>: <i>“crafting tweaks page improvements – - copper bucke…”</i></li>
+<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/406">MMUCraft#406</a>: <i>“armor hiding knowledge page”</i></li>
+<li>⚠️ <b>6 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
