@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> What did XHR say to AJAX when it thought it was being a Mean Girl?
+<em>Daily random joke: </em><strong>Q:</strong> Why can't SQL and NoSQL Developers date one other?
 
-<strong>A:</strong> Stop trying to make fetch happen!
+<strong>A:</strong> Because they don't agree on relationships.
 <!-- JOKE:END -->
 </div>
 
