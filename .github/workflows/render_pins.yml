@@ -36,37 +36,11 @@ jobs:
               working-directory: /tmp/grs
               run: npm ci
 
-            - name: Start github-readme-stats locally
-              working-directory: /tmp/grs
-              env:
-                  PAT_1: ${{ github.token }}
-                  CACHE_SECONDS: "0"
-              run: |
-                  node express.js --port 9000 > /tmp/grs.log 2>&1 &
-                  echo $! > /tmp/grs.pid
-                  for i in {1..200}; do
-                    if curl -fsS "http://127.0.0.1:9000/api?username=octocat" >/dev/null 2>&1; then
-                      echo "Server is up."
-                      break
-                    fi
-                    sleep 0.1
-                  done
-                  if ! curl -fsS "http://127.0.0.1:9000/api?username=octocat" >/dev/null 2>&1; then
-                    echo "Server failed to start. Logs:"
-                    cat /tmp/grs.log
-                    exit 1
-                  fi
-
             - name: Render pins + update README
               env:
                   GITHUB_TOKEN: ${{ github.token }}
                   PROFILE_REPO: ${{ github.repository }}
               run: node .github/scripts/update-pins.mjs
-
-            - name: Stop server
-              if: always()
-              run: |
-                  if [ -f /tmp/grs.pid ]; then kill "$(cat /tmp/grs.pid)" || true; fi
 
             - name: Commit + push if changed
               run: |

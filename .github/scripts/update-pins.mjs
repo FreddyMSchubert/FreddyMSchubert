@@ -52,11 +52,11 @@ async function gh(url) {
   return res.json();
 }
 
-async function getRepoHeadSha(full) {
+async function getRepoData(full) {
   const repo = await gh(`https://api.github.com/repos/${full}`);
   const branch = repo.default_branch;
   const ref = await gh(`https://api.github.com/repos/${full}/commits/${encodeURIComponent(branch)}`);
-  return ref.sha;
+  return { sha: ref.sha, details: repo };
 }
 
 function slug(full) {
@@ -65,28 +65,19 @@ function slug(full) {
 
 let changedAny = false;
 
-// Render pins by calling the locally-running github-readme-stats server
-// (Started by the workflow at http://127.0.0.1:9000)
-async function renderPinSvg({ repo, title }, sha) {
-  const [owner, name] = repo.split("/");
-  const url =
-    `http://127.0.0.1:9000/api/pin/` +
-    `?username=${encodeURIComponent(owner)}` +
-    `&repo=${encodeURIComponent(name)}` +
-    `&show_owner=true` +
-    `&theme=tokyonight`;
-
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`Failed to render ${repo}: ${res.status} ${res.statusText}`);
-  const svg = await res.text();
-  if (svg.includes("Something went wrong!")) {
-    const message = svg
-      .replace(/<style\b[\s\S]*?<\/style>/g, "")
-      .replace(/<[^>]*>/g, " ")
-      .replace(/\s+/g, " ")
-      .trim();
-    throw new Error(`Failed to render ${repo}: ${message}`);
-  }
+// Render from the repository data already fetched with GITHUB_TOKEN.
+async function renderPinSvg({ repo, title }, sha, details) {
+  const { renderRepoCard } = await import("file:///tmp/grs/src/cards/repo.js");
+  const svg = renderRepoCard({
+    name: details.name,
+    nameWithOwner: details.full_name,
+    description: details.description,
+    primaryLanguage: details.language ? { name: details.language, color: "#7aa2f7" } : null,
+    isArchived: details.archived,
+    isTemplate: details.is_template,
+    starCount: details.stargazers_count,
+    forkCount: details.forks_count,
+  }, { show_owner: true, theme: "tokyonight" });
 
   const outFile = path.join(OUT_DIR, `${slug(repo)}.svg`);
   fs.writeFileSync(outFile, svg, "utf8");
@@ -96,7 +87,7 @@ async function renderPinSvg({ repo, title }, sha) {
 }
 
 for (const pin of pins) {
-  const sha = await getRepoHeadSha(pin.repo);
+  const { sha, details } = await getRepoData(pin.repo);
   const prev = manifest[pin.repo]?.sha;
   const file = manifest[pin.repo]?.file;
   const cached = file && fs.existsSync(file) ? fs.readFileSync(file, "utf8") : "";
@@ -105,7 +96,7 @@ for (const pin of pins) {
     continue;
   }
   console.log(`CHANGED   ${pin.repo} ${prev ? prev.slice(0, 7) : "—"} -> ${sha.slice(0, 7)}`);
-  await renderPinSvg(pin, sha);
+  await renderPinSvg(pin, sha, details);
 }
 
 fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + "\n", "utf8");

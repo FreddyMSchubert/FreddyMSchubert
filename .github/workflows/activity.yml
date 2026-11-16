@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 * * * *"
 
+permissions:
+  contents: write
+
 concurrency:
   group: readme-main-writers
   cancel-in-progress: false
@@ -36,16 +39,12 @@ jobs:
               "pr_review_comment": "<li>✍️ <b>{{human_date}}</b>: Commented on PR review <a href=\\\"{{payload.comment.html_url}}\\\">{{repo.startsWith('FreddyMSchubert/') ? repo.slice('FreddyMSchubert/'.length) : repo}}#{{payload.pull_request.number}}</a>{{(() => { const clean = s => (s || '').replace(/<img\\b[^>]*>/gi, '#').replace(/!\\[[^\\]]*\\]\\([^)]*\\)/g, '#').replace(/https?:\\/\\/[^\\s]+/gi, '#').replace(/(\\r\\n|\\n|\\r)/gm, ' ').trim(); const snippet = clean(payload.comment.body); return snippet ? ': <i>“' + (snippet.length > 50 ? snippet.slice(0,50) + '…' : snippet) + '”</i>' : ''; })()}}</li>"
             }
 
-      - name: Commit updated README 📖
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # only commit if there are changes
-          git diff --cached --quiet || git commit -m "chore: update activity widget"
-
-      - name: Push changes 🔼
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update activity widget"
+            git push
+          fi
