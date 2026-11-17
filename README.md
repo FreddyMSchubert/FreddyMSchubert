@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#414</a></li>
-<li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#414</a></li>
-<li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#412</a></li>
-<li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#412</a></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/408">MMUCraft#408</a>: <i>“Add marshmallow roasting functionality – Right cli…”</i></li>
-<li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#411</a></li>
-<li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#411</a></li>
-<li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#410</a></li>
-<li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#410</a></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/252">42core-team/monorepo#252</a>: <i>“Java client lib – It's time.  Potentially with Kot…”</i></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/251">42core-team/monorepo#251</a>: <i>“Wiki Rework – Right now its just two huge folders …”</i></li>
-<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/250">42core-team/monorepo#250</a>: <i>“Go-Lib cleanup – Improve it so its up to snuff and…”</i></li>
+<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#414</a></li>
+<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#414</a></li>
+<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#412</a></li>
+<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#412</a></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/408">MMUCraft#408</a>: <i>“Add marshmallow roasting functionality – Right cli…”</i></li>
+<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#411</a></li>
+<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#411</a></li>
+<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#410</a></li>
+<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#410</a></li>
+<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/252">42core-team/monorepo#252</a>: <i>“Java client lib – It's time.  Potentially with Kot…”</i></li>
+<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/251">42core-team/monorepo#251</a>: <i>“Wiki Rework – Right now its just two huge folders …”</i></li>
+<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/250">42core-team/monorepo#250</a>: <i>“Go-Lib cleanup – Improve it so its up to snuff and…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
