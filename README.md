@@ -38,18 +38,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#414</a></li>
-<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#414</a></li>
-<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#412</a></li>
-<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#412</a></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/408">MMUCraft#408</a>: <i>“Add marshmallow roasting functionality – Right cli…”</i></li>
-<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#411</a></li>
-<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#411</a></li>
-<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#410</a></li>
-<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#410</a></li>
-<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/252">42core-team/monorepo#252</a>: <i>“Java client lib – It's time.  Potentially with Kot…”</i></li>
-<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/251">42core-team/monorepo#251</a>: <i>“Wiki Rework – Right now its just two huge folders …”</i></li>
-<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/42core-team/monorepo/issues/250">42core-team/monorepo#250</a>: <i>“Go-Lib cleanup – Improve it so its up to snuff and…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426">MMUCraft#426</a>: <i>“the big boss – 👀👀👀”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
+<li>🌕 <b>Today</b>: Merged PR <a href="undefined">MMUCraft#425</a></li>
+<li>🚀 <b>Today</b>: Opened PR <a href="undefined">MMUCraft#425</a></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/372#issuecomment-6947484018">MMUCraft#372</a>: <i>“Idea: Fish only catchable during an end flash. cou…”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/419">MMUCraft#419</a>: <i>“new cool advancements – #”</i></li>
+<li>🌕 <b>Today</b>: Merged PR <a href="undefined">MMUCraft#424</a></li>
+<li>🚀 <b>Today</b>: Opened PR <a href="undefined">MMUCraft#424</a></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/417#issuecomment-6945630362">MMUCraft#417</a>: <i>“oh also @oderzo1 heres a difficult restriction but…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/419#issuecomment-6945511277">MMUCraft#419</a>: <i>“About that beer I owed ya - Give another player a …”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/416">MMUCraft#416</a>: <i>“woodcutter charm also mass-strips logs”</i></li>
+<li>🌕 <b>Today</b>: Merged PR <a href="undefined">MMUCraft#423</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
