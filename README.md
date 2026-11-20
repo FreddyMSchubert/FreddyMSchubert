@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426">MMUCraft#426</a>: <i>“the big boss – 👀👀👀”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
-<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#425</a></li>
-<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#425</a></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/372#issuecomment-6947484018">MMUCraft#372</a>: <i>“Idea: Fish only catchable during an end flash. cou…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/419">MMUCraft#419</a>: <i>“new cool advancements – #”</i></li>
-<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#424</a></li>
-<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#424</a></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/417#issuecomment-6945630362">MMUCraft#417</a>: <i>“oh also @oderzo1 heres a difficult restriction but…”</i></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/419#issuecomment-6945511277">MMUCraft#419</a>: <i>“About that beer I owed ya - Give another player a …”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/416">MMUCraft#416</a>: <i>“woodcutter charm also mass-strips logs”</i></li>
-<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#423</a></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/427">MMUCraft#427</a>: <i>“camel resonance tp bug report – this was reported:…”</i></li>
+<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426">MMUCraft#426</a>: <i>“the big boss – 👀👀👀”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
+<li>🌕 <b>3 days ago</b>: Merged PR <a href="undefined">MMUCraft#425</a></li>
+<li>🚀 <b>3 days ago</b>: Opened PR <a href="undefined">MMUCraft#425</a></li>
+<li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/372#issuecomment-6947484018">MMUCraft#372</a>: <i>“Idea: Fish only catchable during an end flash. cou…”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/419">MMUCraft#419</a>: <i>“new cool advancements – #”</i></li>
+<li>🌕 <b>3 days ago</b>: Merged PR <a href="undefined">MMUCraft#424</a></li>
+<li>🚀 <b>3 days ago</b>: Opened PR <a href="undefined">MMUCraft#424</a></li>
+<li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/417#issuecomment-6945630362">MMUCraft#417</a>: <i>“oh also @oderzo1 heres a difficult restriction but…”</i></li>
+<li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/419#issuecomment-6945511277">MMUCraft#419</a>: <i>“About that beer I owed ya - Give another player a …”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/416">MMUCraft#416</a>: <i>“woodcutter charm also mass-strips logs”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
