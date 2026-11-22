@@ -7,9 +7,9 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why did the geek add <code>body { padding-top: 1000px; }</code> to his Facebook profile?
+<em>Daily random joke: </em><strong>Q:</strong> What is the most used language in programming?
 
-<strong>A:</strong> He wanted to keep a low profile.
+<strong>A:</strong> Profanity.
 <!-- JOKE:END -->
 </div>
 
