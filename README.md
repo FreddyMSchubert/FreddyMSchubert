@@ -40,18 +40,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/429">MMUCraft#429</a>: <i>“fix snow effect looking bad on mobile”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/429">MMUCraft#429</a>: <i>“fix snow effect looking bad on mobile”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/417">MMUCraft#417</a>: <i>“auto-eating charm – i think stuff like the magic f…”</i></li>
-<li>🌕 <b>Today</b>: Merged PR <a href="undefined">MMUCraft#428</a></li>
-<li>🚀 <b>Today</b>: Opened PR <a href="undefined">MMUCraft#428</a></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/427">MMUCraft#427</a>: <i>“camel resonance tp bug report – this was reported:…”</i></li>
-<li>⚠️ <b>5 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426">MMUCraft#426</a>: <i>“the big boss – 👀👀👀”</i></li>
-<li>✅ <b>5 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
-<li>🌕 <b>5 days ago</b>: Merged PR <a href="undefined">MMUCraft#425</a></li>
-<li>🚀 <b>5 days ago</b>: Opened PR <a href="undefined">MMUCraft#425</a></li>
-<li>💬 <b>5 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/372#issuecomment-6947484018">MMUCraft#372</a>: <i>“Idea: Fish only catchable during an end flash. cou…”</i></li>
-<li>✅ <b>5 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/419">MMUCraft#419</a>: <i>“new cool advancements – #”</i></li>
+<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/427">MMUCraft#427</a>: <i>“camel resonance tp bug report – this was reported:…”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/429">MMUCraft#429</a>: <i>“fix snow effect looking bad on mobile”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/429">MMUCraft#429</a>: <i>“fix snow effect looking bad on mobile”</i></li>
+<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/417">MMUCraft#417</a>: <i>“auto-eating charm – i think stuff like the magic f…”</i></li>
+<li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#428</a></li>
+<li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#428</a></li>
+<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/427">MMUCraft#427</a>: <i>“camel resonance tp bug report – this was reported:…”</i></li>
+<li>⚠️ <b>6 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426">MMUCraft#426</a>: <i>“the big boss – 👀👀👀”</i></li>
+<li>✅ <b>6 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/405">MMUCraft#405</a>: <i>“fishing shadow stay behind bug – raz on discord: "…”</i></li>
+<li>🌕 <b>6 days ago</b>: Merged PR <a href="undefined">MMUCraft#425</a></li>
+<li>🚀 <b>6 days ago</b>: Opened PR <a href="undefined">MMUCraft#425</a></li>
+<li>💬 <b>6 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/372#issuecomment-6947484018">MMUCraft#372</a>: <i>“Idea: Fish only catchable during an end flash. cou…”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
