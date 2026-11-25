@@ -7,9 +7,7 @@
 	<h4>Right now I am primarily focused on getting my CompSci bachelor at MMU Manchester. 🚀</h4>
 	<em><p>Have you heard about <a href="https://coregame.sh/" target="_blank">CORE GAME</a>?</p></em>
 	<!-- JOKE:START -->
-<em>Daily random joke: </em><strong>Q:</strong> Why shouldn't you trust Matlab developers?
-
-<strong>A:</strong> Because they're always plotting something.
+<em>Daily random joke: </em>A data Scientist goes to a bar and sees two tables. Then he says: Hey bro... Can I join you?
 <!-- JOKE:END -->
 </div>
 
