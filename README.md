@@ -38,18 +38,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426#issuecomment-7101129642">MMUCraft#426</a>: <i>“I think this is done now, working well.”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426">MMUCraft#426</a>: <i>“the big boss – 👀👀👀”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/341">MMUCraft#341</a>: <i>“Fishing Plaques”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/372">MMUCraft#372</a>: <i>“end fishing & new fish”</i></li>
-<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/315#issuecomment-7100212693">MMUCraft#315</a>: <i>“Alright I believe the advent calendar website and …”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/407">MMUCraft#407</a>: <i>“crafting tweaks page improvements – - copper bucke…”</i></li>
-<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/427">MMUCraft#427</a>: <i>“camel resonance tp bug report – this was reported:…”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/429">MMUCraft#429</a>: <i>“fix snow effect looking bad on mobile”</i></li>
-<li>⚠️ <b>3 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/429">MMUCraft#429</a>: <i>“fix snow effect looking bad on mobile”</i></li>
-<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/417">MMUCraft#417</a>: <i>“auto-eating charm – i think stuff like the magic f…”</i></li>
-<li>🌕 <b>3 days ago</b>: Merged PR <a href="undefined">MMUCraft#428</a></li>
-<li>🚀 <b>3 days ago</b>: Opened PR <a href="undefined">MMUCraft#428</a></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/431#issuecomment-7171653111">MMUCraft#431</a>: <i>“Functionality done and working as charm id 63, nee…”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/431">MMUCraft#431</a>: <i>“advent banhammer”</i></li>
+<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/430">MMUCraft#430</a>: <i>“double jump charm / elytra interaction check”</i></li>
+<li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426#issuecomment-7101129642">MMUCraft#426</a>: <i>“I think this is done now, working well.”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/426">MMUCraft#426</a>: <i>“the big boss – 👀👀👀”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/341">MMUCraft#341</a>: <i>“Fishing Plaques”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/372">MMUCraft#372</a>: <i>“end fishing & new fish”</i></li>
+<li>💬 <b>3 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/315#issuecomment-7100212693">MMUCraft#315</a>: <i>“Alright I believe the advent calendar website and …”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/407">MMUCraft#407</a>: <i>“crafting tweaks page improvements – - copper bucke…”</i></li>
+<li>✅ <b>3 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/427">MMUCraft#427</a>: <i>“camel resonance tp bug report – this was reported:…”</i></li>
+<li>✅ <b>4 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/429">MMUCraft#429</a>: <i>“fix snow effect looking bad on mobile”</i></li>
+<li>⚠️ <b>4 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/429">MMUCraft#429</a>: <i>“fix snow effect looking bad on mobile”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
