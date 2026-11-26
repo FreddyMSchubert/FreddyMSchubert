@@ -38,6 +38,11 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/438">MMUCraft#438</a>: <i>“Magic Book of Wisdom – every time you open it you …”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/437#issuecomment-7193201373">MMUCraft#437</a>: <i>“actually no lets make 1 and update the candles eac…”</i></li>
+<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/437">MMUCraft#437</a>: <i>“christmas wreath – with increasing amounts of cand…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/432#issuecomment-7189917989">MMUCraft#432</a>: <i>“Alright it places, doesnt look like a boat, but br…”</i></li>
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242#issuecomment-7187544990">MMUCraft#242</a>: <i>“This still needs the 16 wrapping papers”</i></li>
 <li>🌕 <b>Today</b>: Merged PR <a href="undefined">MMUCraft#436</a></li>
 <li>🚀 <b>Today</b>: Opened PR <a href="undefined">MMUCraft#436</a></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/435">MMUCraft#435</a>: <i>“new foods – @oderzo1 textures for:   - mince pies …”</i></li>
@@ -45,11 +50,6 @@
 <li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/243#issuecomment-7178577882">MMUCraft#243</a>: <i>“pretty good now, still needs refinements to the le…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/434">MMUCraft#434</a>: <i>“snowball machine gun – freddy, make it actually wo…”</i></li>
 <li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/433">MMUCraft#433</a>: <i>“christmas cosmetics – santa hat, reindeer mask, wh…”</i></li>
-<li>✅ <b>Today</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/430">MMUCraft#430</a>: <i>“double jump charm / elytra interaction check”</i></li>
-<li>⚠️ <b>Today</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/432">MMUCraft#432</a>: <i>“Sleigh – Retextured boat with speed boost on snow,…”</i></li>
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242#issuecomment-7178412186">MMUCraft#242</a>: <i>“oderzo is about to push the opening animation, whi…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/431#issuecomment-7171653111">MMUCraft#431</a>: <i>“Functionality done and working as charm id 63, nee…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/431">MMUCraft#431</a>: <i>“advent banhammer”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
