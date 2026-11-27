@@ -38,6 +38,7 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
+<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242#issuecomment-7218025055">MMUCraft#242</a>: <i>“Oh and this should probably have a knowledge book …”</i></li>
 <li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/243">MMUCraft#243</a>: <i>“Gifting service – Which we can reuse for christmas…”</i></li>
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/243#issuecomment-7204398176">MMUCraft#243</a>: <i>“i think its finally done, really neat”</i></li>
 <li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/439">MMUCraft#439</a>: <i>“Pym Discs – 2 items you either throw or right clic…”</i></li>
@@ -49,7 +50,6 @@
 <li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242#issuecomment-7187544990">MMUCraft#242</a>: <i>“This still needs the 16 wrapping papers”</i></li>
 <li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#436</a></li>
 <li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#436</a></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/435">MMUCraft#435</a>: <i>“new foods – @oderzo1 textures for:   - mince pies …”</i></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
