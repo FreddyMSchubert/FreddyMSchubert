@@ -38,18 +38,18 @@
 <div align="left">
 <ol>
 <!-- ACTIVITY:START -->
-<li>💬 <b>Today</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242#issuecomment-7218025055">MMUCraft#242</a>: <i>“Oh and this should probably have a knowledge book …”</i></li>
-<li>✅ <b>Yesterday</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/243">MMUCraft#243</a>: <i>“Gifting service – Which we can reuse for christmas…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/243#issuecomment-7204398176">MMUCraft#243</a>: <i>“i think its finally done, really neat”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/439">MMUCraft#439</a>: <i>“Pym Discs – 2 items you either throw or right clic…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/433#issuecomment-7203955517">MMUCraft#433</a>: <i>“Mistletoe decoblock!”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/438">MMUCraft#438</a>: <i>“Magic Book of Wisdom – every time you open it you …”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/437#issuecomment-7193201373">MMUCraft#437</a>: <i>“actually no lets make 1 and update the candles eac…”</i></li>
-<li>⚠️ <b>Yesterday</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/437">MMUCraft#437</a>: <i>“christmas wreath – with increasing amounts of cand…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/432#issuecomment-7189917989">MMUCraft#432</a>: <i>“Alright it places, doesnt look like a boat, but br…”</i></li>
-<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242#issuecomment-7187544990">MMUCraft#242</a>: <i>“This still needs the 16 wrapping papers”</i></li>
-<li>🌕 <b>Yesterday</b>: Merged PR <a href="undefined">MMUCraft#436</a></li>
-<li>🚀 <b>Yesterday</b>: Opened PR <a href="undefined">MMUCraft#436</a></li>
+<li>💬 <b>Yesterday</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242#issuecomment-7218025055">MMUCraft#242</a>: <i>“Oh and this should probably have a knowledge book …”</i></li>
+<li>✅ <b>2 days ago</b>: Closed issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/243">MMUCraft#243</a>: <i>“Gifting service – Which we can reuse for christmas…”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/243#issuecomment-7204398176">MMUCraft#243</a>: <i>“i think its finally done, really neat”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/439">MMUCraft#439</a>: <i>“Pym Discs – 2 items you either throw or right clic…”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/433#issuecomment-7203955517">MMUCraft#433</a>: <i>“Mistletoe decoblock!”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/438">MMUCraft#438</a>: <i>“Magic Book of Wisdom – every time you open it you …”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/437#issuecomment-7193201373">MMUCraft#437</a>: <i>“actually no lets make 1 and update the candles eac…”</i></li>
+<li>⚠️ <b>2 days ago</b>: Opened issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/437">MMUCraft#437</a>: <i>“christmas wreath – with increasing amounts of cand…”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/432#issuecomment-7189917989">MMUCraft#432</a>: <i>“Alright it places, doesnt look like a boat, but br…”</i></li>
+<li>💬 <b>2 days ago</b>: Commented on issue <a href="https://github.com/FreddyMSchubert/MMUCraft/issues/242#issuecomment-7187544990">MMUCraft#242</a>: <i>“This still needs the 16 wrapping papers”</i></li>
+<li>🌕 <b>2 days ago</b>: Merged PR <a href="undefined">MMUCraft#436</a></li>
+<li>🚀 <b>2 days ago</b>: Opened PR <a href="undefined">MMUCraft#436</a></li>
 <!-- ACTIVITY:END -->
 </ol>
 </div>
